@@ -1,65 +1,75 @@
-# CoM-PL — Polish localization / Polskie tłumaczenie
+# CoM-PL
+
+Polish translation of Chronicles of Mankind 1.3.3 for Civilization IV: Beyond the Sword 3.19.
+
+Polskie tłumaczenie Chronicles of Mankind 1.3.3 do Civilization IV: Beyond the Sword 3.19.
 
 [English](#english) | [Polski](#polski)
 
-Unofficial Polish localization for **Chronicles of Mankind 1.3.3**, for Civilization IV: Beyond the Sword 3.19.
-
-Nieoficjalne polskie tłumaczenie **Chronicles of Mankind 1.3.3** do Civilization IV: Beyond the Sword 3.19.
-
 ## English
 
-### Installation (Windows 10/11)
+### Install
 
-1. Install Beyond the Sword 3.19 and **Chronicles of Mankind 1.3.3**.
-2. Download [the Polish XML](Assets/XML/Text/ZZZ_GreywolfForge_Polish.xml) using GitHub's **Download raw file** option.
-3. Copy this file to the mod's text directory:
+1. You need Beyond the Sword 3.19 and Chronicles of Mankind 1.3.3.
+2. Download [`ZZZ_GreywolfForge_Polish.xml`](Assets/XML/Text/ZZZ_GreywolfForge_Polish.xml) (open it and use "Download raw file").
+3. Put it in:
 
-   Beyond the Sword/Mods/Chronicles of Mankind/Assets/XML/Text/ZZZ_GreywolfForge_Polish.xml
+   ```
+   Beyond the Sword/Mods/Chronicles of Mankind/Assets/XML/Text/
+   ```
 
-4. Select **Polish / Polski** in the game's language settings. Keep the original **Sylfaen** font configuration.
+4. In the game options set the language to Polish. Leave the font settings as they are (Sylfaen).
 
-To uninstall, remove only ZZZ_GreywolfForge_Polish.xml. No original mod files are replaced; no installer, DLL, executable or font is needed.
+To uninstall, delete that one file. Nothing else in the mod is changed.
 
 ### For mod authors
 
-This file contains **17,832 Polish entries**, identified by Tag, including the required grammatical fields. It contains no English or other language entries and changes no gameplay rules. You may include it as a separate mod text XML or merge the Polish fields by Tag; check key collisions and version compatibility first.
+The file has 17 832 entries with Tag and Polish only, including the grammar fields Civ4 needs. No English, no other languages, no gameplay data. You can ship it as a separate XML or merge the Polish fields by Tag. If your mod version differs, check for key collisions first.
 
-[manifest.json](manifest.json) records the source version, entry count, SHA-256 checksum and documented conflicts.
+[`manifest.json`](manifest.json) lists the source mod version, entry count, SHA-256 and resolved conflicts.
 
-### Testing and credits
+### License
 
-Static XML checks and Wine/Xvfb tests with Polish locale settings have been performed. **Native Windows 10/11 testing is still pending.** Report missing strings and incorrectly rendered Polish characters (especially ę and ń) via [Issues](../../issues). Other mod versions are not guaranteed to work.
+Greywolf Forge translations and fixes are MIT licensed, see [LICENSE](LICENSE). Use them in your mod and change them as you like, no need to ask. Some texts come from earlier translators of the mod. They are not covered by this license and their rights stay with them.
 
-Some texts originate from earlier translators of the original mod; others were added or corrected by **Greywolf Forge**. Earlier contributors retain their rights. Greywolf Forge allows reuse of its own improvements in RoM/CoM with attribution, without granting rights over third-party work.
+### Testing
+
+Checked statically and in Wine/Xvfb with a Polish locale. Not tested on native Windows 10/11 yet. If you see missing text or broken Polish characters (ę, ń), [open an issue](https://github.com/Greywolf-Forge/CoM-PL/issues/new/choose).
+
+Only 1.3.3 is supported. Other versions may not match.
 
 Unofficial fan translation. Original mod: https://forums.civfanatics.com/forums/civ4-chronicles-of-mankind.628/
 
----
-
 ## Polski
 
-### Instalacja (Windows 10/11)
+### Instalacja
 
-1. Zainstaluj Beyond the Sword 3.19 oraz **Chronicles of Mankind 1.3.3**.
-2. Pobierz [polski XML](Assets/XML/Text/ZZZ_GreywolfForge_Polish.xml) przez **Download raw file** na GitHubie.
-3. Skopiuj ten plik do katalogu tekstów moda:
+1. Potrzebujesz Beyond the Sword 3.19 i Chronicles of Mankind 1.3.3.
+2. Pobierz plik [`ZZZ_GreywolfForge_Polish.xml`](Assets/XML/Text/ZZZ_GreywolfForge_Polish.xml) (otwórz go i kliknij „Download raw file”).
+3. Skopiuj go do:
 
-   Beyond the Sword/Mods/Chronicles of Mankind/Assets/XML/Text/ZZZ_GreywolfForge_Polish.xml
+   ```
+   Beyond the Sword/Mods/Chronicles of Mankind/Assets/XML/Text/
+   ```
 
-4. Wybierz w grze język **Polski**. Pozostaw oryginalną konfigurację czcionki **Sylfaen**.
+4. W opcjach gry ustaw język Polski. Czcionki zostaw bez zmian (Sylfaen).
 
-Aby usunąć tłumaczenie, skasuj tylko ZZZ_GreywolfForge_Polish.xml. Oryginalne pliki moda pozostają bez zmian. Nie potrzeba instalatora, DLL, programu ani dodatkowej czcionki.
+Żeby odinstalować, usuń ten jeden plik. Nic innego w modzie się nie zmienia.
 
 ### Dla autorów modów
 
-Plik zawiera **17,832 polskich wpisów** identyfikowanych przez Tag, z wymaganymi polami gramatycznymi. Nie zawiera wpisów English ani innych języków i nie zmienia mechaniki gry. Można dołączyć XML do moda albo scalić pola Polish według Tag, po sprawdzeniu kolizji kluczy i zgodności wersji.
+Plik ma 17 832 wpisy, tylko Tag i Polish, razem z polami gramatycznymi, których wymaga Civ4. Bez angielskiego, bez innych języków i bez danych mechaniki. Możesz dołączyć go jako osobny XML albo scalić polskie pola po Tag. Jeśli masz inną wersję moda, najpierw sprawdź kolizje kluczy.
 
-[manifest.json](manifest.json) zawiera wersję źródłową, liczbę wpisów, SHA-256 oraz udokumentowane konflikty.
+W [`manifest.json`](manifest.json) jest wersja moda, liczba wpisów, SHA-256 i rozstrzygnięte konflikty.
 
-### Testy i autorzy
+### Licencja
 
-Wykonano statyczne testy XML oraz testy pod Wine/Xvfb z polskimi ustawieniami regionalnymi. **Test na natywnym Windows 10/11 jest jeszcze do wykonania.** Brakujące teksty i błędy polskich znaków (szczególnie ę i ń) zgłaszaj przez [Issues](../../issues). Inne wersje moda mogą być niezgodne.
+Tłumaczenia i poprawki Greywolf Forge są na licencji MIT, patrz [LICENSE](LICENSE). Możesz ich używać w swoim modzie i zmieniać je bez pytania o zgodę. Część tekstów pochodzi od wcześniejszych tłumaczy moda. Ta licencja ich nie obejmuje, prawa zostają przy autorach.
 
-Część tekstów pochodzi od wcześniejszych tłumaczy moda, część uzupełnił lub poprawił **Greywolf Forge**. Prawa wcześniejszych autorów pozostają ich własnością. Greywolf Forge pozwala wykorzystywać własne poprawki w RoM/CoM z podaniem źródła, bez udzielania praw do prac osób trzecich.
+### Testy
+
+Sprawdzone statycznie i pod Wine/Xvfb z polskimi ustawieniami regionalnymi. Na prawdziwym Windows 10/11 jeszcze nie testowane. Jeśli widzisz brakujący tekst albo zepsute polskie znaki (ę, ń), [zgłoś to](https://github.com/Greywolf-Forge/CoM-PL/issues/new/choose).
+
+Obsługiwana jest tylko wersja 1.3.3. Inne wersje mogą się nie zgadzać.
 
 Nieoficjalne tłumaczenie fanowskie. Oryginalny mod: https://forums.civfanatics.com/forums/civ4-chronicles-of-mankind.628/

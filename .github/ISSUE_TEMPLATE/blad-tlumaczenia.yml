@@ -1,0 +1,32 @@
+name: Błąd w tłumaczeniu / Translation error
+description: Literówka, zły sens, brak tekstu albo ucięty tekst w grze.
+body:
+  - type: input
+    id: tag
+    attributes:
+      label: TXT_KEY
+      description: Jeśli go znasz. Jeśli nie, wystarczy opis miejsca w grze.
+      placeholder: TXT_KEY_UNIT_WARRIOR_PEDIA
+  - type: input
+    id: where
+    attributes:
+      label: Gdzie w grze
+      placeholder: Civilopedia, jednostka Wojownik
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Jest
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Powinno być
+  - type: input
+    id: version
+    attributes:
+      label: Wersja tłumaczenia
+      description: Pole release z manifest.json.
+      placeholder: "com-pl-r1-20261104-native-plPL"
