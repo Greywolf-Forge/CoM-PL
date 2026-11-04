@@ -1,0 +1,16 @@
+{
+  "mod": "Chronicles of Mankind 1.3.3",
+  "release": "com-pl-r1-20261104-native-plPL",
+  "polish_tags": 17832,
+  "duplicated_source_tags": 160,
+  "conflicts_resolved": {
+    "TXT_KEY_BUILDING_FIGHTING_PIT_PEDIA": "Chronicles_Buildings.xml",
+    "TXT_KEY_BUILDING_FIGHTING_PIT_STRATEGY": "BUILDINGS_STRATEGY.xml",
+    "TXT_KEY_BUILDING_MERCENARY_CAMP_STRATEGY": "BUILDINGS_STRATEGY.xml",
+    "TXT_KEY_CITY_NAME_ZAPOTEC": "Chronicles_CITIES.xml",
+    "TXT_KEY_CIVIC_TRIBALISM_PEDIA": "Chronicles_Civics.xml",
+    "TXT_KEY_CITY_NAME_PAIUTE": "Chronicles_CITIES.xml"
+  },
+  "sha256": "05081c714b8e6b034bd454794a4a194149c6bd9dd2242472adf7594592fe96ff",
+  "windows_native_qa": "not yet tested"
+}
