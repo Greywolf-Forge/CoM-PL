@@ -19777,177 +19777,177 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
 </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIBE_DIVIDES_WORLD</Tag><Polish>Wielkie plemię dzieli się na wyspecjalizowane grupy, z których każda domaga się należnego miejsca w społeczeństwie.</Polish>
 </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ACADEMIC_FUNDING</Tag><Polish>Zamożni biznesmeni utworzyli koalicje na finansowanie projektów badawczych w miejscowej akademii, dzięki dużej ilości pieniędzy możemy prowadzić projekty badawcze.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ACADEMIC_FUNDING</Tag><Polish>Zamożni przedsiębiorcy połączyli siły, aby finansować projekty miejscowej akademii. Przeznaczyli znaczne kwoty na badania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_AIRLINER_CRASH_1</Tag><Polish>Samolot pasażerski przewożący %s1_civ_adjective rozbił się na naszym terytorium nieopodal miasta %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_AIRLINER_CRASH_1</Tag><Polish>Samolot pasażerski państwa %s1_civ_adjective rozbił się na naszym terytorium w pobliżu miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ALTERNATIVE_ENERGY</Tag><Polish>Ludzie narzekają na czarny dym wydobywający się z naszych elektrowni spalających paliwa kopalne.  Niektórzy inżynierowie i naukowcy sądzą, że budowa zdecentralizowanego łańcucha  [COLOR_BUILDING_TEXT]Elektrowni Wodnych[COLOR_REVERT] i [COLOR_BUILDING_TEXT]Elektrowni Nuklearnych[COLOR_REVERT] ograniczy zarówno emisję zanieczyszczeń, jak również zwiększy naszą niezależność energetyczną.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ALTERNATIVE_ENERGY</Tag><Polish>Ludzie narzekają na brzydki czarny dym z naszych elektrowni spalających paliwa kopalne. Część naukowców i inżynierów przekonuje, że rozproszona sieć [COLOR_BUILDING_TEXT]elektrowni wodnych[COLOR_REVERT], [COLOR_BUILDING_TEXT]jądrowych[COLOR_REVERT] i [COLOR_BUILDING_TEXT]słonecznych[COLOR_REVERT] ograniczyłaby zanieczyszczenie powietrza oraz zależność od paliw kopalnych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ALTERNATIVE_ENERGY_DONE</Tag><Polish>Gratulacje! Zbudowałeś wystarczająco dużo [COLOR_BUILDING_TEXT]Elektrowni Wodnych[COLOR_REVERT] oraz [COLOR_BUILDING_TEXT]Nuklearnych[COLOR_REVERT], aby ukończyć zadanie "Alternatywne Źródła Energii".  Wybierz swoją nagrodę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ALTERNATIVE_ENERGY_DONE</Tag><Polish>Gratulacje! Zbudowałeś wystarczającą liczbę [COLOR_BUILDING_TEXT]elektrowni[COLOR_REVERT], aby wykonać zadanie „Alternatywne Źródła Energii”. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANCIENTOLYMPICS_1</Tag><Polish>W ofierze bogom miasto %s2_city zorganizowało serię rozgrywek sportowych. Atleci z całego kraju śpieszą by wziąć udział w konkurencjach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANCIENTOLYMPICS_1</Tag><Polish>Na cześć naszych bogów miasto %s2_city zorganizowało wielkie igrzyska. Sportowcy z całego kraju przybywają tam, aby rywalizować.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANCIENT_TEXTS_1</Tag><Polish>Archeologowie wykopali zbiór zwojów i kamiennych tabliczek zasypanych piaskiem pustyni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANGEL_OF_MERCY_1</Tag><Polish>Pogłoski jakoby Anioł Miłosierdzia sprawował pieczę nad chorymi w szpitalu w %s2_city przyciągają wielu wierzących w możliwość uzdrowienia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANGEL_OF_MERCY_1</Tag><Polish>Pogłoski, że anioł miłosierdzia czuwa nad pacjentami szpitala w mieście %s2_city, skłaniają wielu pobożnych ludzi do szukania tam leczenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANTELOPE_1</Tag><Polish>Dzięki usunięciu przez człowieka naturalnych drapieżników, populacja antylop urosła do takich rozmiarów, że służą one za nowe źródło żywności.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ANTELOPE_1</Tag><Polish>Po wyeliminowaniu przez ludzi naturalnych drapieżników antylopy stały się na tyle liczne, że mogą zapewniać stałe źródło żywności.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_APPLESEED_1</Tag><Polish>Pewien młody człowiek podjął się zadania aby zasadzić tak dużo jabłoni jak tylko potrafi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_APPLESEED_1</Tag><Polish>Pełen zapału młodzieniec obrał sobie za cel posadzenie jak największej liczby nowych jabłoni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ARCHERY_FOUNDED_1</Tag><Polish>Myśliwi w mieście %s2_city zostali zaopatrzeni w nowe łuki i strzały - miasto otrzymuje jednego darmowego łucznika.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ARCHERY_FOUNDED_1</Tag><Polish>Myśliwi w mieście %s2_city wyposażyli się w łuki i strzały. Miasto otrzymuje 1 darmową jednostkę łuczników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ARTIFICIAL_ELEMENT_1</Tag><Polish>Naukowcy w mieście %s2_city odkryli pierwszy sztuczny pierwiastek w ich akceleratorze! Więcej pierwiastków może być odkrytych w niedalekiej przyszłości, gdyż znają już metody ich tworzenia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ARTIFICIAL_ELEMENT_1</Tag><Polish>Naukowcy z miasta %s2_city odkryli pierwszy sztuczny pierwiastek dzięki akceleratorowi! Teraz, gdy metoda jego tworzenia została potwierdzona, wkrótce mogą odkryć kolejne.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_AT_THE_SWORD_1</Tag><Polish>%s3_unit z naszych zwycięskich oddziałów podążała za naszymi walecznymi bohaterami! Wzrosła siła, biegłość i oddanie w walce!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_AT_THE_SWORD_1</Tag><Polish>Żołnierze naszej zwycięskiej jednostki (%s3_unit) zjednoczyli się wokół swoich bohaterów walki! Wzrosły ich siła, determinacja i sprawność bojowa!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_AXE_HAFT_1</Tag><Polish>Nasi rzemieślnicy opracowali technikę poprawiającą wyważenie produkowanych siekier i toporów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BABY_BOOM_1</Tag><Polish>Nasi żołnierze powrócili z wojny i oddali się powiększaniu rodzin. Nasza cywilizacja przeżywa teraz "Boom Demograficzny"!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BABY_BOOM_1</Tag><Polish>Nasi żołnierze powrócili z wojny, oddając się pokojowemu życiu i wychowywaniu dzieci. Nasza cywilizacja przeżywa wyż demograficzny!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BANANA_SPLIT_1</Tag><Polish>Jeden z naszych producentów opracował i opatentował rewolucyjny ponoć produkt - lody "Ambrozja".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BANANA_SPLIT_1</Tag><Polish>Jedna z naszych lodziarni wymyśliła deser lodowy z bananem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BARDS_TALE_1</Tag><Polish>Artysta z miasta %s2_city skomponował rozdzierającą serce balladę, która zyskuje coraz większą popularność wśród ludzi tam mieszkających.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BATTLE_LASERS_1</Tag><Polish>Nasi inżynierowie wynaleźli sposób montowania bojowych laserów na śmigłowcach.  Lasery zredukują ich szybkość reagowania, lecz dadzą dużą przewagę na polu bitwy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BATTLE_LASERS_1</Tag><Polish>Nasi inżynierowie uzbrojenia opracowali sposób montowania pokładowych laserów bojowych na śmigłowcach szturmowych. Lasery skrócą czas reakcji pilotów, dając nam przewagę technologiczną w walce.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BERMUDA_TRIANGLE_1</Tag><Polish>W piękny słoneczny dzień jeden z naszych statków zniknął na morzu bez śladu. Nie tylko przyczyna jest nieznana, ale nie ma też żadnych śladów załogi ani ładunku. Region ten zostaje nazwany Trójkątem Bermudzkim, od nazwy wyspy znajdującej się w pobliżu tajemniczego zdarzenia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BERMUDA_TRIANGLE_1</Tag><Polish>W słoneczny dzień, gdy nic nie zapowiadało burzy, jeden z naszych statków zaginął na morzu. Nie znamy przyczyny ani nie znaleźliśmy śladu statku, załogi czy ładunku. W tym samym regionie bez śladu zniknęły również mniejsze jednostki i kilka samolotów. Wokół tej zagadki krąży mnóstwo pogłosek. Prasa nazwała ten obszar Trójkątem Bermudzkim, od pobliskiej małej wyspy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BEST_DEFENSE</Tag><Polish>Nasi generałowie żądają od rządu pomocy w rozszerzaniu naszych fortyfikacji.[PARAGRAPH:1]Musimy wybudować wystarczającą ilość [COLOR_BUILDING_TEXT]zamków[COLOR_REVERT] by zaspokoić ich plany reform w systemie obrony naszego Imperium.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BEST_DEFENSE</Tag><Polish>Nasi generałowie proszą rząd o pomoc w rozbudowie fortyfikacji.[PARAGRAPH:1]Musimy zbudować odpowiednią liczbę [COLOR_BUILDING_TEXT]zamków[COLOR_REVERT], aby spełnić ich wymagania dotyczące skutecznej obrony państwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BEST_DEFENSE_DONE_1</Tag><Polish>Gratulacje! Wypełniłeś warunki postawione przez nasze siły zbrojne i wybudowałeś wystarczającą ilość [COLOR_BUILDING_TEXT]Zamków[COLOR_REVERT] służących jako fortece zabezpieczające miasta przed najazdami. Teraz wybierz nagrodę spomiędzy ofert jakimi dysponuje nasza armia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BEST_DEFENSE_DONE_1</Tag><Polish>Gratulacje! Spełniłeś wymagania dowódców i zbudowałeś wystarczającą liczbę [COLOR_BUILDING_TEXT]zamków[COLOR_REVERT], które ochronią nas przed najeźdźcami. Wybierz jedną z nagród wynikających z rozbudowy obrony.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BILLIONS_AND_BILLIONS</Tag><Polish>Naukowiec w mieście %s2_city nakręcił naukowy serial telewizyjny o astronomii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BILLIONS_AND_BILLIONS</Tag><Polish>Naukowiec z miasta %s2_city stworzył popularny cykl programów telewizyjnych o astronomii.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLACK_DEATH_1</Tag><Polish>Plaga czarnej śmierci zaatakowała miasto %s2_city. Plaga ta przyczyniła się do dużej ilości zgonów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLACK_DEATH_1</Tag><Polish>Epidemia czarnej śmierci ciężko dotknęła mieszkańców miasta %s2_city. Większość zachorowała, a wielu umiera.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLACK_PEARLS_1</Tag><Polish>Miejscowi odkryli sposób na uzyskiwanie większej produkcji czarnych pereł. Z rozwagą strzegą swojego sekretu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLACK_PEARLS_1</Tag><Polish>Mieszkańcy odkryli sposób zwiększenia pozyskiwania czarnych pereł. Pilnie strzegą swojej tajemnicy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_1</Tag><Polish>Nasi duchowi przywódcy nalegają, żeby szukać błogosławieństwa morza![PARAGRAPH:1]Mądrzy mistrzowie przepowiedzieli nasze więzi z morzem. Nakłaniają nas aby opanować morza i oceany i dzięki temu rozszerzyć nasze wpływy i rozprzestrzenić tradycje do nowych krain.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_1</Tag><Polish>Nasi przywódcy duchowi wzywają nas, abyśmy szukali błogosławieństw morza![PARAGRAPH:1]Mądrzy mistrzowie odczytali znaki wskazujące nasz związek z morzem. Zachęcają, byśmy zwrócili się ku wodom, rozszerzyli na nie swoje wpływy i zanieśli nasze tradycje na nowe lądy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_DONE_1</Tag><Polish>Gratulacje! wypełniłeś wszystkie warunki zadania postawione przez religijnych przywódców i rozprzestrzeniłeś naszą cywilizacje poprzez morza i oceany.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_DONE_1</Tag><Polish>Gratulacje! Spełniłeś wymagania przywódców religijnych i rozprzestrzeniłeś swoją cywilizację na ziemie za morzami. Zadanie „Błogosławieństwo Mórz” zostało ukończone.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLIZZARD_1</Tag><Polish>Zamieć śnieżna spowodowała wzrost pokrywy śnieżnej do kilku metrów nieopodal miasta %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLIZZARD_1</Tag><Polish>Zamieć zasypała region w pobliżu miasta %s2_city kilkumetrową warstwą śniegu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BLIZZARD_2</Tag><Polish>Obfite opady śniegu zasypały fragment terytorium nieopodal miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BOILERS_1</Tag><Polish>Nowy wzorzec urządzeń grzewczych ma ogromny popyt, ponieważ pozwala na zwiększenie produktywności i wydajności fabryk.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BOILERS_1</Tag><Polish>Nowa konstrukcja stalowego kotła cieszy się popytem, ponieważ może zwiększyć wydajność produkcji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BOWYER_1</Tag><Polish>Nasze zakłady produkcji łuków poprawiły technikę wytwarzania tych broni.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BOWYER_1</Tag><Polish>Mistrz wytwarzania łuków opracował konstrukcję szczególnie dobrze wykorzystującą nasze rodzime drewno.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BREAKTHROUGH_1</Tag><Polish>Nasi uczeni dokonali przełomu technologicznego.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BREAKTHROUGH_1</Tag><Polish>Nasi badacze dokonali przełomu technologicznego, który gwałtownie przyspieszył ich prace.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BROTHERS_IN_NEED_1</Tag><Polish>Nasi bracia z cywilizacji %s1_civ_adjective, wyznawcy tej samej wiary, są w stanie wojny. Brakuje im podstawowych surowców strategicznych, których my mamy w nadmiarze. To może być szansa aby im pomóc!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_BROTHERS_IN_NEED_1</Tag><Polish>Nasi bracia wyznający prawdziwy nurt %s4_religion_adjective, mieszkający w państwie %s1_civ_adjective, toczą wojnę. Brakuje im kluczowych surowców strategicznych, których my mamy pod dostatkiem. To nasza szansa, aby przyjść im z pomocą!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_1</Tag><Polish>Nieuważny czeladnik zaprószył ogień w Kuźni w mieście %s2_city. Cały budynek uległ zniszczeniu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_1</Tag><Polish>Nieostrożny uczeń zaprószył ogień w kuźni miasta %s2_city. Budynek uległ zniszczeniu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_2</Tag><Polish>W pobliżu miasta %s2_city strzelające iskry rozprzestrzeniły ogień do dzielnicy handlowej. Kuźnia uległa spaleniu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_2</Tag><Polish>Pożary zarośli wywołane suszą w okolicach miasta %s2_city dotarły do dzielnicy handlowej. Kuźnia spłonęła.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_3</Tag><Polish>Nieznany podpalacz podłożył ogień w Kuźni w mieście %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_3</Tag><Polish>Nieznani podpalacze spalili kuźnię w mieście %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_JOURNEYMAN_1</Tag><Polish>Nieuważny pracownik spowodował pożar Odlewni w mieście %s2_city, podczas którego pracownia spłonęła.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_JOURNEYMAN_1</Tag><Polish>Nieostrożny uczeń zaprószył ogień w odlewni miasta %s2_city. Budynek uległ zniszczeniu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_JOURNEYMAN_2</Tag><Polish>W pobliżu miasta %s2_city strzelające iskry rozprzestrzeniły ogień do dzielnicy handlowej. Kuźnia uległa spaleniu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_JOURNEYMAN_2</Tag><Polish>Pożary zarośli wywołane suszą w okolicach miasta %s2_city dotarły do dzielnicy handlowej. Odlewnia spłonęła.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_JOURNEYMAN_3</Tag><Polish>Nieznani podpalacze podpalili odlewnię w %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARNATION_REVOLUTION</Tag><Polish>Wysocy oficerowie jednego z naszych elitarnych oddziałów żądają zawarcia pokoju z cywilizacją %s1_civ_adjective oraz wprowadzenia socjalizmu w naszym kraju!  Frakcja ta zyskuje coraz większe poparcie, jeżeli nie podejmiemy żadnych działań wkrótce może być za późno przed powstrzymaniem ich od przejęcia władzy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CARNATION_REVOLUTION</Tag><Polish>Doświadczeni oficerowie jednej z naszych elitarnych jednostek opowiadają się za pokojem z państwem %s1_civ_adjective i socjalizmem w kraju. Frakcja ta zyskuje poparcie. Jeśli szybko nie zareagujemy, powstrzymanie jej przed przejęciem władzy może stać się niemożliwe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHAIN_SHOT_1</Tag><Polish>Kowal stworzył nowy rodzaj amunicji okrętowej, uformowany z dwóch połączonych łańcuchem kul co pozwoli nam na łatwiejsze niszczenie masztów wrogim statkom.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHAIN_SHOT_1</Tag><Polish>Mistrz kowalski stworzył nowy rodzaj amunicji okrętowej: dwie kule połączone łańcuchem, którymi można niszczyć reje i maszty innych statków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHAMPION_1</Tag><Polish>W czasie organizowanych przez naszych dowódców gier wojennych jedna z naszych jednostek okazała się być niezwykle potężną.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHAMPION_1</Tag><Polish>Dowódcy zorganizowali manewry, aby poprawić wyszkolenie i hart ducha naszych żołnierzy. Jedna jednostka okazała się najlepsza.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHARIOTRY_FOUNDED_1</Tag><Polish>Miejscowy gubernator w mieście %s2_city opracował plan wzmocnienia naszych sił zbrojnych. Jeżeli wspomożemy go drobną sumą, będzie mógł przyspieszyć tworzenie jednostek rydwanów lub budowę stajni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHARISMATIC_1</Tag><Polish>Silniejszy, bardziej charyzmatyczny dyktator przejął kontrolę nad swoją partią i Rządem!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHARISMATIC_1</Tag><Polish>Silniejszy i bardziej charyzmatyczny dyktator przejął kontrolę nad partią i państwem!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHILLY_FLIGHT_1</Tag><Polish>Pilot z miasta %s2_city jako pierwszy dokonał przelotu nad biegunem północnym i powrócił szczęśliwie do bazy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CHILLY_FLIGHT_1</Tag><Polish>Pilot z miasta %s2_city jako pierwszy samotnie przeleciał nad biegunem północnym i bezpiecznie powrócił.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_1</Tag><Polish>Nieuważny palacz wzniecił ogień w teatrze w %s2_city, w wyniku czego teatr uległ kompletnemu zniszczeniu, a wielu widzów zginęło w płomieniach. Podpalacza spalono żywcem na miejscu przestępstwa. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_1</Tag><Polish>Nieostrożny palacz zaprószył ogień w teatrze miasta %s2_city. Budynek został zniszczony, a wielu widzów zginęło.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_2</Tag><Polish>Wypadek na scenie teatru w mieście %s2_city wywołał pożar, który kompletnie zniszczył budynek. Większość widzów udało się bezpiecznie ewakuować, bogom niech będą dzięki! </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CIGARETTE_SMOKER_2</Tag><Polish>Wypadek na scenie teatru w mieście %s2_city wywołał pożar, który strawił budynek. Na szczęście większość widzów uszła z życiem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1</Tag><Polish>Zwiadowcy przeszukujący ruiny nieopodal miasta %s2_city, znaleźli skarbnicę wiedzy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1</Tag><Polish>Zwiadowcy badający ruiny w pobliżu miasta %s2_city odkryli skarbnicę wiedzy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1</Tag><Polish>Wyprawa archeologiczna wysłana do ruin nieopodal miasta %s2_city odkryła zaginiony skarb, cenne zwoje i przedmioty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_TREASURE_ANCIENT_1</Tag><Polish>Odkrywcy przeszukali ruiny niedaleko miasta %s2_city i odnaleźli ukryte skarby.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_TREASURE_ANCIENT_1</Tag><Polish>Zwiadowcy badający ruiny w pobliżu miasta %s2_city odkryli ukryty skarb.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_TREASURE_INDUSTRIAL_1</Tag><Polish>Ekspedycja archeologiczna przeszukała ruiny niedaleko miasta %s2_city i odnalazła zaginione skarby, teksty i artefakty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CIV_GAME</Tag><Polish>Nasi Programiści właśnie stworzyli nową wciągającą grę: "Cywilizacja". Jak mamy postępować?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CIV_GAME</Tag><Polish>Nasi projektanci gier stworzyli nową wciągającą grę Civilization. Co powinniśmy zrobić?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CLASSIC_LITERATURE</Tag><Polish>Nasi najbardziej oświeceni badacze i naukowcy podjęli zbiorowy wysiłek zebrania, uporządkowania i zachowania naszej pisanej i ustnej tradycji dla przyszłych pokoleń.[PARAGRAPH:1]Domagają się pomieszczeń na przechowywanie i ekspozycje naczyń glinianych, tabliczek kamiennych i innych zabytków kultury w naszych miastach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CLASSIC_LITERATURE</Tag><Polish>Nasi najstarsi uczeni połączyli siły, aby zebrać, spisać i zachować wszystkie ustne tradycje oraz niespisane opowieści.[PARAGRAPH:1]Potrzebują miejsca na naczynia, kamienne tablice i inne zabytki, a także specjalnych zbiornic w naszych miastach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CLASSIC_LITERATURE_DONE_1</Tag><Polish>Gratulacje! Spełniłeś zadania, o które zabiegali nasi naukowcy i badacze - wybudowałeś wystarczającą ilość  [COLOR_BUILDING_TEXT]bibliotek[COLOR_REVERT] aby pomieścić wszystkie ich prace. Możesz teraz wybrać nagrodę spośród ofert twoich wdzięcznych poddanych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CLASSIC_LITERATURE_DONE_1</Tag><Polish>Gratulacje! Spełniłeś wymagania uczonych i zbudowałeś wystarczającą liczbę [COLOR_BUILDING_TEXT]bibliotek[COLOR_REVERT], aby pomieścić ich świeżo spisane dzieła. Wybierz nagrodę spośród korzyści, jakie przynosi ten nowy skarbiec literatury.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CLUNKER_COAL_1</Tag><Polish>Większość naszego węgla wydobywanego z jednych z naszych źródeł jest wymieszana z łupkami i innymi zanieczyszczeniami. Jesteśmy skazani na źródło węgla kiepskiej jakości.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CLUNKER_COAL_1</Tag><Polish>Węgiel wydobywany w jednej z naszych kopalń zawiera mnóstwo skał, łupków i innych zanieczyszczeń. Trafiło nam się złoże węgla kiepskiej jakości!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COASTAL_REEF_1</Tag><Polish>Jeden z naszych okrętów zatonął po wpłynięciu na przybrzeżną rafę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COASTAL_REEF_STUCK_1</Tag><Polish>Jeden z naszych statków utknął na rafie po tym jak zaczął manewrować po płytkim wodach wybrzeża. Marynarze chcą ocalić go od utonięcia, ale zajmie to trochę czasu zanim uwolnią statek z rafy i naprawią kadłub.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COASTAL_REEF_STUCK_1</Tag><Polish>Jeden z naszych statków osiadł na rafie podczas próby przepłynięcia przez zdradliwe wody przybrzeżne. Marynarzom udało się ocalić go przed zatonięciem, ale uwolnienie statku i naprawa kadłuba zajmą trochę czasu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COMET_FRAGMENT_1</Tag><Polish>Fragment meteorytu uderzył w ziemię powodując zniszczenie lasu w promieniu wielu kilometrów i przyspieszenie obrotu ziemi wokół własnej osi o dwie sekundy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COMET_FRAGMENT_1</Tag><Polish>Fragment komety uderzył w Ziemię w odległym regionie tundry, niszcząc cały las i przyspieszając obrót Ziemi o dwie sekundy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COMPULSORY_DEM</Tag><Polish>W odpowiedzi na newsy, niektórych gazet, intelektualista wywołał debatę na temat: dobrowolne vs obowiązkowe głosowanie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COMPULSORY_DEM</Tag><Polish>Ponieważ w tym tygodniu brakuje ważnych wiadomości, niektóre gazety dla intelektualistów roznieciły debatę o dobrowolnym i obowiązkowym głosowaniu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COMPULSORY_DEM_HELP_1</Tag><Polish>[ICON_BULLET]Brak zmiany.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_COPPER_PLATING_1</Tag><Polish>Nasi szkutnicy opracowali sposób pokrywania kadłubów okrętów miedzianymi płytami. Ułatwi to taranowanie i zwiększy odporność na taranowanie przez wroga. Kadłuby będą też dłużej wytrzymywać ostrzał armatni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CORPORATE_EXPANSION_1</Tag><Polish>Przedstawiciel korporacji %s11_corporation domaga się rządowej pomocy w ekspansji.[PARAGRAPH:1]Jeśli wspomożemy jego korporację w planach ekspansji nasze zyski przekroczą najśmielsze oczekiwania i prognozy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CORPORATE_EXPANSION_1</Tag><Polish>Prezes korporacji %s11_corporation zabiega o rządowe zachęty, które ułatwią rozwój firmy.[PARAGRAPH:1]Jeśli pomożemy jej otworzyć oddziały w nowych miastach, zyski gwałtownie wzrosną.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CORPORATE_EXPANSION_DONE_1</Tag><Polish>Gratulacje! Osiągnęłeś zwycięstwo w wyścigu zadania ekspansji korporacji i umożliwiłeś korporacji %s11_corporation kolosalny wzrost zysków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CORPORATE_EXPANSION_DONE_1</Tag><Polish>Gratulacje! Ukończyłeś zadanie „Ekspansja korporacji”, umożliwiając firmie %s11_corporation osiąganie dodatkowych zysków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CORRUPT_SENATE</Tag><Polish>Kilku wysokich rangą senatorów zostało oskarżonych o korupcję.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CORRUPT_SENATE</Tag><Polish>Kilku wysokich rangą senatorów oskarżono o korupcję i nadmierne faworyzowanie protegowanych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRAB_CAKES_1</Tag><Polish>Ciasteczka krabowe z naszych miast stały się niezwykle popularne w całej okolicy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRAB_CAKES_1</Tag><Polish>Kotleciki krabowe przygotowywane w naszych miastach stały się niezwykle popularne w całym regionie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRISIS_IN_THE_SENATE_1</Tag><Polish>Najstarszy z senatorów z czołowej partii opozycyjnej został skompromitowany przez skandal. Cały Senat pogrążył się w chaosie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CROSSING_THE_RUBICON</Tag><Polish>Dowódca naszej najlepszej jednostki militarnej donosi, że Senat nie daje wystarczającego wsparcia dla wojska.  Senat zwolnił go z obowiązków i wysłał do stolicy w celu wyjaśnienia sprawy.  Generał zamiast tego, ruszył na stolicę na czele swojej starej armii.  Zanosi się na wojnę domową.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CROSSING_THE_RUBICON</Tag><Polish>Dowódca naszej najlepszej jednostki skarżył się, że senat nie zapewnia armii dostatecznego wsparcia. Senatorowie odwołali go z funkcji i wezwali do stolicy na przesłuchanie. Generał ruszył jednak na stolicę na czele swojego dawnego oddziału. Wojna domowa wydaje się nieunikniona.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRUCIBLE_STEEL_1</Tag><Polish>Nasi kowale odkryli nową technikę wytapiania żelaza do produkcji pancerzy oraz broni z bardzo wytrzymałej hartowanej stali.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRUCIBLE_STEEL_1</Tag><Polish>Nasi kowale opracowali metodę wytopu żelaza pozwalającą produkować wyjątkowo twarde pancerze i broń ze stali wootz.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRUSADE</Tag><Polish>Wojna przeciwko %s1_civ_adjective trwa nadal. Nasi duchowni wzywają nas do podjęcia krucjaty mającej na celu wyrwanie spod kontroli wroga miasta %s6_city. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRUSADE</Tag><Polish>Nasza wojna przeciw ludowi %s1:2_civ_adjective trwa. Przywódcy duchowi wzywają nas do krucjaty, aby odebrać mu kontrolę nad miastem %s6_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRUSADE_DONE_1</Tag><Polish>Gratulacje! Nasza Krucjata doprowadziła szczęśliwie do odebrania Świętego Miasta %s2_city spod władzy heretyckich %s1_civ_adjective i utrzymania kontroli nad nim! Możesz wybrać nagrodę spośród tych, których są wynikiem pomyślnie ukończonej Krucjaty.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CRUSADE_DONE_1</Tag><Polish>Gratulacje! Twoja krucjata na rzecz zabezpieczenia świętych ziem miasta %s2_city odebrała kontrolę nad nim ludowi %s1:2_civ_adjective! Wybierz nagrodę spośród korzyści, jakie przynosi radość twojego ludu z pomyślnie zakończonej krucjaty.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CURE_FOR_CANCER</Tag><Polish>Miejscowe laboratorium w mieście %s2_city ogłasza przełom w badaniach nad leczeniem niektórych nowotworów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_CYCLONE_1</Tag><Polish>Potężny cyklon, który wytworzył się na półkuli południowej przeszedł przez miasto %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DARWINS_VOYAGE</Tag><Polish>Po zakończeniu podróży dookoła świata, jeden z naszych naukowców opublikował nową teorię o początkach życia, w oparciu o badania nad dziwnymi zwierzętami na obcych ziemiach. Wieści o tej teorii szybko obiegły całe Imperium.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DARWINS_VOYAGE</Tag><Polish>Po morskiej podróży dookoła świata jeden z naszych naukowców opublikował nową teorię pochodzenia życia, opartą na badaniach niezwykłych zwierząt z obcych krain. Wieści o tej teorii pobudziły badania w całym imperium.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DOCK_WORKERS_STRIKE</Tag><Polish>Pracownicy portowi w %s2_city przygotowują sie do strajku wołając o lepsze warunki pracy!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DOCK_WORKERS_STRIKE</Tag><Polish>Pracownicy portowi w mieście %s2_city rozpoczęli strajk obejmujący całe miasto, domagając się lepszych warunków pracy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DRUIDS_1</Tag><Polish>Druidzi %s1_civ_adjective proszą o pozwolenie na pielgrzymkę do Stonehenge. Co powinniśmy zrobić?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DRUIDS_1</Tag><Polish>Druidzi ludu %s1_civ_adjective poprosili o zgodę na pielgrzymkę do Stonehenge. Co powinniśmy zrobić?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DUSTBOWL_1</Tag><Polish>Nadmierne uprawnianie gleby na otwartych równinach spowodowało potężną erozje wietrzną i przyczyniło się do powstania burzy piaskowej</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DUSTBOWL_1</Tag><Polish>Nadmierna orka na otwartych równinach spowodowała rozległą erozję wietrzną gleby i burze pyłowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DUSTBOWL_CONT_1</Tag><Polish>Burza piaskowa wciąż dotyka miejscowe farmy. Kolejna została pozbawiona gleby i bezużyteczna dla opuszczających to miejsce farmerów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_DUSTBOWL_CONT_1</Tag><Polish>Burze pyłowe nie ustają. Utrata gleby i porzucanie gospodarstw przez rolników doprowadziły do zniszczenia kolejnej naszej farmy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EARTHDAY_1</Tag><Polish>Nasz Rząd ogłosił pierwszy doroczny Dzień Ziemi, by zwiększyć świadomość problemów ekologicznych w ogólnej świadomości obywateli.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EARTHDAY_1</Tag><Polish>Nasz rząd ogłasza pierwszy doroczny Dzień Ziemi, aby zwiększyć świadomość problemów środowiskowych wśród mieszkańców.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EARTHQUAKE_1</Tag><Polish>Miastem %s2_city wstrząsnęło trzęsienie ziemi, powodując zawalenie się wielu budynków, obsunięcia ziemi oraz lokalne podtopienia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EARTHQUAKE_2</Tag><Polish>Trzęsienie ziemi o sile powyżej 7.5 stopnia w skali Richtera wstrząsnęło lądem niedaleko miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ELECTRIC_COMPANY_1</Tag><Polish>Nasi szczęśliwi i zadowoleni z życia pracownicy zakładów elektrycznych zdecydowali się naprawić za darmo linie elektryczne.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ELECTRIC_COMPANY_1</Tag><Polish>Pracownicy naszych przedsiębiorstw energetycznych są tak zadowoleni i zmotywowani, że szybko naprawiają uszkodzone linie niezależnie od warunków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ELITE_SWORDS_1</Tag><Polish>Nasi dowódcy chcą przygotowywać armię do kolejnej wojny.[PARAGRAPH:1]Zobowiązali Rząd do wytrenowania odpowiedniej ilości jednostek [COLOR_UNIT_TEXT]Zbrojnych[COLOR_REVERT]. Za ich pomocą będziemy w stanie przegnać wojska przeciwnika z pola bitwy jeszcze przed rozpoczęciem walki!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ELITE_SWORDS_1</Tag><Polish>Nasi dowódcy chcą przygotować się do wojny.[PARAGRAPH:1]Jeśli wyszkolimy wystarczająco liczne oddziały [COLOR_UNIT_TEXT]zbrojnych[COLOR_REVERT], powinniśmy rozgromić wrogów na polu bitwy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ELITE_SWORDS_DONE_1</Tag><Polish>Gratulacje! Wytrenowałeś wystarczająco dużą armię [COLOR_UNIT_TEXT]Zbrojnych[COLOR_REVERT]. Możesz teraz wybrać jedną z nagród.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ELITE_SWORDS_DONE_1</Tag><Polish>Gratulacje! Wyszkoliłeś dostatecznie liczne oddziały [COLOR_UNIT_TEXT]zbrojnych[COLOR_REVERT]. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ESTEEMED_PLAYWRIGHT_1</Tag><Polish>Dramaturg z %s2_city napisał całą serię niesamowicie popularnych sztuk. Teatr w jego rodzinnym mieście uzyskał dzięki temu międzynarodowy rozgłos.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ESTEEMED_PLAYWRIGHT_1</Tag><Polish>Płodny dramaturg z miasta %s2_city napisał długą serię niezwykle popularnych sztuk. Jego macierzysty teatr zdobył sławę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EXPENSIVE_HABITS_1</Tag><Polish>Nasz monarcha wydaje się bardziej pochłonięty upiększaniem swoich ogrodów niż zachowaniem skarbca królewskiego.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EXPERIENCED_CAPTAIN_1</Tag><Polish>Odchodzący na emeryturę kapitan pełnomorski jednej z elitarnych jednostek morskich %s1_civ_adjective obiecał swą pomoc i ekspertyzę w budowaniu nowoczesnej stoczni w mieście %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_EXPERIENCED_CAPTAIN_1</Tag><Polish>Odchodzący na emeryturę kapitan jednego z naszych najlepszych okrętów zaoferował swoją wiedzę i umiejętności, aby wspomóc budowę jednostek w suchym doku miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_1</Tag><Polish>Fatalne zbiory w mieście %s6_city tuż za naszą granicą, spowodowały falę głodu u naszych sąsiadów. Mamy szansę poprawić stosunki u %s1_civ_adjective, wysyłając im pomoc humanitarną z miasta %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_1</Tag><Polish>Fatalne zbiory w należącym do naszych sąsiadów z ludu %s1_civ_adjective mieście %s6_city, tuż za granicą, doprowadziły mieszkańców do głodu. Pomoc humanitarna z miasta %s2_city może zyskać nam ich przychylność.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_2</Tag><Polish>Fala głodu pojawiła się w mieście %s6_city. Nasi obywatele z miasta %s2_city mają wystarczającą ilość żywności aby wspomóc głodujących sąsiednich %s1_civ_adjective .Jesteśmy gotowi  zapewnić im pomoc i pociechę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_2</Tag><Polish>Głód dotknął miasto %s6_city. Nasi mieszkańcy miasta %s2_city mają dość żywności, aby pomóc sąsiadom z ludu %s1_civ_adjective. Jesteśmy gotowi udzielić wsparcia i otuchy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_3</Tag><Polish>Tragedia wydarzyła się tuż za naszymi granicami. Imperium %s1_civ_adjective nie jest w stanie wyżywić wszystkich ludzi w mieście %s6_city. Wielu z nich umrze z głodu. Może powinniśmy wysłać pomoc od obywateli z miasta %s2_city?</Polish>
         </TEXT>
@@ -19955,23 +19955,23 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_2</Tag><Polish>Działalność przestępcza zaburzyła produkcję żywności w regionie rolniczym nieopodal miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_3</Tag><Polish>Powinniśmy rozważyć podjęcie działań przeciwko złodziejom z miasta %s2_city niepokojących naszych rolników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_3</Tag><Polish>Być może powinniśmy podjąć działania przeciw złodziejom z miasta %s2_city, którzy żerują na naszych rolnikach.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_1</Tag><Polish>Lokalne władze z miasta %s2_city wciąż próbują sobie poradzić z napadami bandytów tak dotkliwymi dla naszych rolników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_2</Tag><Polish>Kryminaliści wciąż nękają naszych rolników nieopodal miasta %s2_city. Być może wymagana jest bardziej zdecydowana odpowiedź na ich bandycką działalność.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_BANDITS_AGAIN_2</Tag><Polish>Przestępcy nadal żerują na naszych rolnikach. W mieście %s2_city może być potrzebna bardziej zdecydowana reakcja.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_PLOWS_1</Tag><Polish>Udoskonalony model pługa stał się popularny i pożądany. Nasze kuźnie wypełniły terminowo zamówienia od farmerów z naszych ziem.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FARM_PLOWS_1</Tag><Polish>Nowa konstrukcja pługa zyskała popularność. Nasze kuźnie zrealizowały zamówienia rolników z całego kraju.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FASHION_1</Tag><Polish>Jedwabne suknie stały się hitem mody. Dzięki reklamom radiowym trend ten rozszerza się gwałtownie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAUX_PAS_1</Tag><Polish>Nasz ambasador popełnił faux pas wobec Imperium %s1_civ_adjective!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAUX_PAS_1</Tag><Polish>Nasz ambasador w państwie %s1_civ_adjective popełnił gafę!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAVORITE_SON_1</Tag><Polish>Gladiator z miasta %s2_city wyszedł zwycięsko z rekordowej liczby potyczek na arenie. Jego walki przyciągają tłumy kibiców. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FAVORITE_SON_1</Tag><Polish>Gladiator z miasta %s2_city przeżył wiele walk na arenie. Zdobywa coraz liczniejsze grono wielbicieli.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FEDERAL_RESERVE_1</Tag><Polish>Nasi ekonomiści wymyślili system regulacji rynku pozwalający na normalizację wzrostu gospodarczego.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FEDERAL_RESERVE_1</Tag><Polish>Nasi ekonomiści opracowali system regulowania stóp procentowych, który pomoże ustabilizować wzrost gospodarczy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FIAT_MONEY</Tag><Polish>Nasze rezerwy pieniężne kurczą się w zastraszającym tempie.  Kilku doradców sugeruje, aby wydrukować dodatkowe pieniądze.  Dzięki temu nie będziemy musieli myśleć o cięciach i podwyższeniu podatków, ale ponosimy ryzyko znacznego zwiększenia inflacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FIAT_MONEY</Tag><Polish>Nasze rezerwy pieniężne są na wyczerpaniu. Niektórzy doradcy sugerują, aby zwiększyć je, drukując więcej pieniądza papierowego. Uniknęlibyśmy niepopularnych decyzji o wydatkach i podatkach, lecz na dłuższą metę grozi to wzrostem inflacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FIRING_PINS_1</Tag><Polish>Naczelny zbrojmistrz opracował mechanizm iglicowy dla naszych granatów, kończąc tym samym konieczność używania lontów do zapłonu.</Polish>
         </TEXT>
@@ -19981,49 +19981,49 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_3</Tag><Polish>W pobliżu miasta %s2_city wydarzyła się tragedia: ogień z wioski rozprzestrzenił się do pobliskiego lasu niszcząc tereny na przestrzeni wielu kilometrów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FORTY_THIEVES_1</Tag><Polish>Legenda o Skarbie 40 Rozbójników zwabia poszukiwaczy skarbów i turystów w okolice zwiększając zyski lokalnych handlarzy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FORTY_THIEVES_1</Tag><Polish>Legenda o Czterdziestu Rozbójnikach przyciągnęła poszukiwaczy skarbów i turystów, ożywiając miejscowy handel.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FREEDOMCONCERT_1</Tag><Polish>Muzycy z całego kraju zebrali się w mieście %s2_city aby występami zebrać fundusze i pobudzić świadomość ludzi w walce o niezależność wyznaniową.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FREEDOMCONCERT_1</Tag><Polish>Muzycy z całego kraju zebrali się w mieście %s2_city, aby zbierać pieniądze i zwiększać świadomość znaczenia wolności religijnej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FREE_ENTERPRISE</Tag><Polish>Prywatna korporacja zadeklarowała, że w zamian za wsparcie finansowe, pomoże w projektowaniu i budowaniu części do statku kosmicznego i zrobi to o wiele efektywniej niż rządowa agencja kosmiczna.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FREE_ENTERPRISE</Tag><Polish>Prywatna firma z branży kosmicznej twierdzi, że w zamian za niewielką inwestycję początkową może projektować i budować części statków kosmicznych sprawniej niż rządowa agencja kosmiczna.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FRIENDLY_LOCALS_1</Tag><Polish>Małe plemię przyjaznych tubylców udzieliło schronienia i pomocy naszemu zdziesiątkowanemu oddziałowi %s3_unit</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FRIENDLY_LOCALS_1</Tag><Polish>Niewielkie plemię przyjaznych mieszkańców udzieliło schronienia naszej osaczonej jednostce (%s3_unit).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FUEL_ADDITIVES_1</Tag><Polish>System transportu publicznego w %s2_city wprowadził program zastosowania dodatków do paliw zmniejszających wydzielanie spalin i zmniejszenia kosztów utrzymania i eksploatacji taboru.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FUEL_ADDITIVES_1</Tag><Polish>System transportu publicznego w mieście %s2_city wdrożył ogólnomiejski program stosowania dodatków do paliwa. Mają one ograniczyć zanieczyszczenia, obniżyć koszty utrzymania pojazdów i poprawić oszczędność paliwa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FUGITIVE_1</Tag><Polish>Zbieg, poszukiwany za przestępstwa popełnione w cywilizacji %s1_civ_adjective, został znaleziony na terytorium naszego państwa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FUGITIVE_2</Tag><Polish>Zabójca poszukiwany za zamordowanie urzędnika z cywilizacji %s1_civ_adjective został złapany podczas ucieczki na terytorium naszego państwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FULLERENES_1</Tag><Polish>Naukowcy w mieście %s2_city odkryli fullereny - nową formę molekuł węgla! Mówią, że przyspieszy to badania na innych płaszczyznach i dokona przełomu w nanotechnologii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_FULLERENES_1</Tag><Polish>Naukowcy z miasta %s2_city odkryli fulereny, nową postać cząsteczek węgla! Twierdzą, że przyspieszy to badania w różnych dziedzinach i może stanowić przełom na drodze do nanotechnologii.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GATHERING</Tag><Polish>Zbieractwo</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GIRLS_BEST_FRIEND_1</Tag><Polish>Jubilerzy skutecznie rozwinęli zwyczaj stosowania diamentowych pierścionków zaręczynowych i obrączek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GIRLS_BEST_FRIEND_1</Tag><Polish>Jubilerzy z powodzeniem zapoczątkowali tradycję wręczania pierścionka z diamentem podczas oświadczyn.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_1</Tag><Polish>Niewielkie ilości złota wypłukiwane ze strumieni zachęcają przybyszów z całego świata do poszukiwania furtuny.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_1</Tag><Polish>Niewielkie ilości złota wypłukanego ze strumieni wywołały w okolicy gorączkę złota. Przybywają tu ludzie marzący o fortunie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_2</Tag><Polish>W pobliżu miasta %s2_city znaleziono żyłę złota. Wieść ta spowodowała gorączkę złota!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GOLD_RUSH_2</Tag><Polish>Poszukiwacze z powodzeniem rozpoczęli wydobycie z nowo odkrytych żył złota w pobliżu miasta %s2_city. Wieści o tym wywołały gorączkę złota.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GRAPE_SHOT_1</Tag><Polish>Inżynier stworzył nowy rodzaj amunicji przeciwpiechotnej, która może być używana w armatach. Zamiast zwykłej kuli, do środka pocisku dodał wiele luźnych odpadków metalowych, które rozpraszają się po wybuchu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GRAPE_SHOT_1</Tag><Polish>Mistrz inżynierii stworzył nowy rodzaj amunicji przeciwpiechotnej do dział. Zamiast pojedynczej kuli używa się licznych metalowych kulek luźno ułożonych w płóciennym worku. Całość przypomina kiść winogron. Po wystrzale kulki rozpraszają się, opuszczając lufę z dużą prędkością.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREAT_DEPRESSION_1</Tag><Polish>Defraudacja pieniędzy w naszej korporacji o nazwie [COLOR_HIGHLIGHT_TEXT]%s11_corporation[COLOR_REVERT] spowodowała panikę na giełdzie i osłabienie światowej gospodarki!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREAT_DEPRESSION_1</Tag><Polish>Oszustwo wewnątrz naszej korporacji [COLOR_HIGHLIGHT_TEXT]%s11_corporation[COLOR_REVERT] doprowadziło do załamania kursu jej akcji. Spółka pociągnęła za sobą resztę rynku, wywołując światowy kryzys gospodarczy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREAT_MEDIATOR_1</Tag><Polish>Pojawił się Wielki Mediator; oferuje on rozsądzić nieporozumienia pomiędzy przywódcami %s1_civ_adjective i naszego narodu. Dzięki tamu istnieje duża szansa na pokojowe rozwiązanie konfliktu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREAT_MEDIATOR_1</Tag><Polish>Wybitny mediator zaoferował rozstrzygnięcie sporu między przywódcami państwa %s1_civ_adjective a naszym narodem. To może być szansa na pokój.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREAT_MONUMENTS_1</Tag><Polish>Podróżni zakochali się w zabytkach w mieście %s2_city, a miejscowi korzystają na tym znacznie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREED_1</Tag><Polish>Nasi generałowie pożądają surowca: [COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT] które znajduje się pod panowaniem %s1_civ_adjective.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREED_1</Tag><Polish>Nasi generałowie pożądają źródła surowca [COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT], które znajduje się w granicach państwa %s1_civ_adjective. Bez niego nie możemy odpowiednio szkolić i wyposażać wojska!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREED_DONE_1</Tag><Polish>Gratulacje! Twoja "Zachłanność" nie ma sobie równej! Przejęłeś [COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT]! Nasi generałowie już planują kolejne podboje z wykorzystaniem nowego surowca.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREED_DONE_1</Tag><Polish>Gratulacje! Twoja zachłanność nie ma sobie równej! Odebrałeś państwu %s1_civ_adjective upragniony surowiec [COLOR_HIGHLIGHT_TEXT]%s9_resource[COLOR_REVERT]! Nasi generałowie już rozszerzają plany wojskowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREEK_FIRE</Tag><Polish>Nasi alchemicy opracowali łatwopalną ciecz bazującą na nafcie -- cieczy tej po zapaleniu nie można ugasić wodą.  Może być bardzo użyteczna w walce z wrogimi okrętami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GREEK_FIRE</Tag><Polish>Nasi alchemicy opracowali łatwopalną ciecz na bazie nafty, której nie można ugasić wodą. Może ona wręcz zapalić się, unosząc się na jej powierzchni. Będzie niszczycielską bronią przeciw wrogim statkom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GUNS_BUTTER_1</Tag><Polish>Nasi generałowie domagają się wdrożenia produkcji muszkietów - to broń przyszłości! [PARAGRAPH:1]Jeśli wytrenujemy wystarczającą ilość [COLOR_UNIT_TEXT]Arkebuzerów[COLOR_REVERT] powinniśmy być w stanie zdominować każde pole bitwy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GUNS_BUTTER_1</Tag><Polish>Nasi generałowie proszą, abyśmy skupili się na wytwarzaniu broni palnej. To broń przyszłości![PARAGRAPH:1]Jeśli wyszkolimy dostatecznie liczne oddziały [COLOR_UNIT_TEXT]muszkieterów[COLOR_REVERT], powinniśmy zdominować każde pole bitwy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GUNS_BUTTER_DONE_1</Tag><Polish>Gratulacje! Wytrenowałeś wystarczającą ilość jednostek muszkieterów. Możesz teraz wybrać swoją nagrodę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_GUNS_BUTTER_DONE_1</Tag><Polish>Gratulacje! Wyszkoliłeś dostatecznie liczne oddziały muszkieterów. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HALBERD_1</Tag><Polish>Nasi mistrzowie cechu uzbrojenia opracowali model halabardy, który jest znacznie skuteczniejszy w starciach z konnicą, ale również zwiększa ich efektywność przeciwko nieprzyjacielskiej piechocie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HALBERD_1</Tag><Polish>Nasi mistrzowie uzbrojenia opracowali halabardę, która zachowuje pełną skuteczność przeciw konnicy, a zarazem lepiej sprawdza się przeciw piechocie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HAMBURGER_JOINT_1</Tag><Polish>Niedawno utworzona sieć nowego typu barów szybkiej obsługi, oferująca głównie hamburgery, uzyskała krajowy zasięg dzięki reklamom radiowym.</Polish>
         </TEXT>
@@ -20031,223 +20031,223 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_2</Tag><Polish>Mieszkańcy miasta %s2_city świętują po bardzo udanym sezonie polowań na karibu i zgromadzeniu znacznych zapasów żywności.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_3</Tag><Polish>Znaczny rozrost populacji jeleni w lesie nieopodal miasta %s2_city, pozwolił naszym myśliwym zgromadzić dodatkową ilość mięsa.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_3</Tag><Polish>Jelenie rozmnożyły się w lesie w pobliżu miasta %s2_city, dzięki czemu nasi myśliwi zgromadzili dodatkowe zapasy mięsa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HARBORMASTER</Tag><Polish>Zarządcy portów proszą władze o pomoc w rozbudowie naszego zamorskiego imperium handlowego.[PARAGRAPH:1]Musimy zbudować odpowiednio dużo [COLOR_BUILDING_TEXT]portów morskich[COLOR_REVERT] w naszych miastach oraz statków zdolnych do żeglugi oceanicznej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HARBORMASTER_DONE_1</Tag><Polish>Gratulacje! Zdołałeś wypełnić warunki zadania "Władca Mórz" postawionego przed tobą przez zrzeszenie marynarzy, stoczniowców i kupców pełnomorskich. Wybierz nagrodę spośród ofert wdzięcznych poddanych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HARBORMASTER_DONE_1</Tag><Polish>Gratulacje! Spełniłeś wymagania żeglugi handlowej, budując wystarczającą liczbę statków i doków, aby umożliwić realizację jej planów. Wybierz nagrodę spośród korzyści płynących z nowego imperium handlowego.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HARRY_POTTER</Tag><Polish>Przywódcy religijni lobbują twój rząd do sabotowania wydania serii książek 'Harry Potter'.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HARRY_POTTER</Tag><Polish>Przywódcy religijni naciskają na twój rząd, aby zakazał najnowszej powieści z fantastycznego cyklu o Harrym Potterze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HENRY_MORGAN</Tag><Polish>Osławiony pirat [COLOR_NEGATIVE_TEXT]Henry Morgan[COLOR_REVERT] zmierza ku naszych wodom w celu rozpętania chaosu!  Jego flotylla jest tuż za horyzontem!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HENRY_MORGAN</Tag><Polish>Osławiony pirat [COLOR_NEGATIVE_TEXT]Henry Morgan[COLOR_REVERT] obrał kurs na nasze wody w poszukiwaniu łupów i okazji do siania spustoszenia! Jego flotylla jest tuż za horyzontem!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HERESY_1</Tag><Polish>Heretycki ruch religijny zapoczątkowany w mieście %s2_city zyskuje coraz więcej wyznawców wśród społeczeństwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HERETICAL_RESEARCH2_1</Tag><Polish>Nasi kapłani zadeklarowali aktualne badania jako herezję i zabronią rozgłaszania go w miejscach publicznych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HERETICAL_RESEARCH2_1</Tag><Polish>Nasi kapłani uznali bieżące badania za heretyckie i potępili je podczas publicznych kazań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HERETICAL_RESEARCH_1</Tag><Polish>Nasi kapłani zadeklarowali, że aktualne badania to herezję i zakarzą rozgłaszania go w miejscach publicznych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HERETICAL_RESEARCH_1</Tag><Polish>Nasi kapłani uznali bieżące badania za heretyckie i potępili je podczas publicznych kazań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HEROIC_GESTURE_1</Tag><Polish>Armie %s1_civ_adjective niespodziewanie okazały miłosierdzie naszym rannym, opatrując ich na polu bitwy i odsyłając z powrotem do naszych wojsk.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HEROIC_GESTURE_1</Tag><Polish>Wojska ludu %s1_civ_adjective niespodziewanie okazały miłosierdzie i współczucie naszym rannym. Opatrzyły ich na polu bitwy, a następnie bezpiecznie przekazały nam ocalałych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HIGH_WARLORD_1</Tag><Polish>Znany z męstwa kasztelan opiekujący się zamkiem w %s2_city zaproponował stworzenie własnym sumptem specjalnej akademii wojskowej dla szkolenia kadr.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HIGH_WARLORD_1</Tag><Polish>Szanowany watażka rezydujący w zamku miasta %s2_city zaoferował utworzenie specjalnej akademii wojskowej na własny koszt.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HINDENBERG_1</Tag><Polish>Wypełniony wodorem sterowiec zapalił się i rozbił!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HINDENBERG_1</Tag><Polish>Lekkomyślni kupcy napełnili swoje sterowce wodorem zamiast helu. Jeden z nich zapalił się i rozbił w spektakularnej katastrofie, która pochłonęła ofiary śmiertelne.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HIYOSILVER_1</Tag><Polish>Geologowie odkryli bogate pokłady rudy Srebra.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HIYOSILVER_1</Tag><Polish>Poszukiwacze odkryli nowe, bogate żyły rudy srebra.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_1</Tag><Polish>Nasi religijni przywódcy wierzą, że nasi ludzie mogą otrzymać błogosławieństwo jeśli będziemy w stanie odzyskać Świętą Górę![PARAGRAPH:1]Studiowali księgi w celu poznania lokalizacji świętej góry. Odkryli z pewnością, że na razie święta góra jest poza granicami naszego państwa. Będziemy musieli badać więcej manuskryptów, jeśli chcemy poznać jej lokalizację.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_1</Tag><Polish>Nasi przywódcy religijni wierzą, że lud otrzyma błogosławieństwo bóstwa, jeśli odzyskamy Świętą Górę![PARAGRAPH:1]Studiowali pisma, aby ustalić jej położenie. Nie znaleźli jej dotąd na naszych ziemiach i sądzą, że musi leżeć gdzie indziej. Odkrycie tego świętego miejsca wymaga dalszych badań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_DONE_1</Tag><Polish>Gratulacje! Udało Ci się zlokalizować Świętą Górę i rozszerzyć wpływy kulturalne na uświęcone tereny!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_DONE_1</Tag><Polish>Gratulacje! Odnalazłeś Świętą Górę i objąłeś to święte miejsce swoimi wpływami kulturowymi!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_REVEALED_1</Tag><Polish>Wybudowałeś wystarczającą ilość religijnych budynków, aby przywódcy religijni mogli rozwikłać zagadkę i odnaleźć właściwe położenie Świętej Góry. Osiądź w pobliżu, aby wypełnić zadanie!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_MOUNTAIN_REVEALED_1</Tag><Polish>Zbudowałeś wystarczającą liczbę budynków religijnych, aby przywódcy duchowi rozwiązali zagadkę i wskazali położenie Świętej Góry. Osiedl się w jej pobliżu, aby ukończyć zadanie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_RITUAL_1</Tag><Polish>Wielki Kapłan Świątyni w mieście %s2_city przysłał zamówienie na duże ilości produkowanych u nas kadzideł do użytku w świętych obrządkach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOLY_RITUAL_1</Tag><Polish>Najwyższy kapłan świątyni w mieście %s2_city złożył duże zamówienie na nasze krajowe kadzidło do świętych rytuałów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORSESHOE_1</Tag><Polish>Niezwykle uzdolniony rzemieślnik wprowadził znaczącą innowację w produkcji strzemion.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORSESHOE_1</Tag><Polish>Wybitny kowal wprowadził znaczące udoskonalenie konstrukcji podków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING</Tag><Polish>Nasi treserzy koni uważają, że możliwe jest nawiązanie głębszej więzi i zrozumienia pomiędzy wierzchowcem a jeźdźcem.[PARAGRAPH:1]Domagają się szerszej i ściślejszej współpracy i życzą sobie utworzenia [COLOR_BUILDING_TEXT]Stajni[COLOR_REVERT] by osiągnąć znaczące wyniki tresury i badań.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING</Tag><Polish>Nasi trenerzy koni wierzą, że można nawiązać znacznie głębszą więź z wierzchowcami i lepiej je zrozumieć.[PARAGRAPH:1]Potrzebują do tego większej, lepiej skoordynowanej sieci [COLOR_BUILDING_TEXT]stajni[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING_DONE_1</Tag><Polish>Gratulacje! Wypełniłeś zadanie postawione przed tobą przez hodowców i trenerów koni i wybudowałeś dla nich wystarczającą ilość stadnin i stajni. Teraz możesz wybrać nagrodę za twe wysiłki spośród ofert wdzięcznych poddanych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORSE_WHISPERING_DONE_1</Tag><Polish>Gratulacje! Spełniłeś wymagania trenerów koni i zbudowałeś wystarczającą liczbę obiektów, aby umożliwić realizację ich planów. Wybierz jedną z nagród, które mogą ci zaoferować.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_1</Tag><Polish>Zielarze odkryli rzadkie i drogocenne rośliny, które rosną w obfitości tylko w określonym miejscu w pobliżu miasta %s2_city.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_2</Tag><Polish>Uprawiana przez miejscowych herbata lecznicza okazuje się bardzo skuteczna w zwalczaniu różnych schorzeń. Ta herbata rośnie tylko w jednym regionie nieopodal miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_3</Tag><Polish>Pewien rzadki gatunek owada znaleziony w pobliżu miasta %s2_city, po przekształceniu go w pastę, może być spożywany w celu zbicia gorączki.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HORTICULTURE_3</Tag><Polish>Odizolowane plemię zbiera rzadkie owady występujące w pobliżu miasta %s2_city i rozciera je na pastę, której spożycie obniża gorączkę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOSTILE_TAKEOVER_1</Tag><Polish>Przedstawiciel korporacji %s11_corporation próbuje wycofać się ze swoich planów pod presją zagranicznych dostawców zalewających surowcami jego dotychczasowe rynki.[PARAGRAPH:1]Jeśli zdołamy zabezpieczyć dostęp do wszystkich surowców, jakich jego korporacja potrzebuje do produkcji, ich zyski (a tym samym nasze wpływy z podatków) wzrosną niepomiernie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOSTILE_TAKEOVER_1</Tag><Polish>Prezes korporacji %s11_corporation pragnie uniezależnić się od zagranicznych dostawców surowców.[PARAGRAPH:1]Jeśli przejmiemy kontrolę nad wszystkimi rodzajami surowców potrzebnymi firmie do produkcji, jej zyski gwałtownie wzrosną.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOSTILE_TAKEOVER_DONE_1</Tag><Polish>Gratulacje! Wypełniłeś warunki zadania Wrogie przechwycenie korporacji i umożliwiłeś korporacji %s11_corporation osiągnięcie rekordowych dochodów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HOSTILE_TAKEOVER_DONE_1</Tag><Polish>Gratulacje! Ukończyłeś zadanie „Wrogie przejęcie korporacji”, umożliwiając firmie %s11_corporation osiąganie dodatkowych zysków.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HURRICANE_1</Tag><Polish>Potężny huragan przeszedł przez miasto %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_1</Tag><Polish>%s5_building w mieście %s2_city, to źródło dźwięków składających się na najpiękniejszą muzykę, która to tak zainspirowała młodego chłopca, że wyrósł na Wielkiego Artystę!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_1</Tag><Polish>Muzyka wykonywana w budynku %s5_building w mieście %s2_city zainspirowała młodą osobę, która wyrosła na wielkiego artystę!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_2</Tag><Polish>%s5_building w mieście %s2_city, to miejsce udekorowane najpiękniejszymi rzeźbami, które mocno poruszyły wyobraźnię nowego Wielkiego Artysty!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_2</Tag><Polish>Dzieła sztuki i rzeźby zdobiące budynek %s5_building w mieście %s2_city rozwinęły wyobraźnię oraz talent nowego wielkiego artysty!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ICE_SCULPTURE_1</Tag><Polish>Artysta w mroźnej tundrze nieopodal miasta %s2_city udoskonalił metodę rzeźbienia lodowych posągów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ILLYRIAN_PIRATES</Tag><Polish>Okrutni [COLOR_NEGATIVE_TEXT]Iliriańscy piraci[COLOR_REVERT] przybyli na nasze ziemie w celu plądrowania dróg handlowych!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_ILLYRIAN_PIRATES</Tag><Polish>Nikczemni [COLOR_NEGATIVE_TEXT]piraci iliryjscy[COLOR_REVERT] wpłynęli na nasze wody, aby plądrować szlaki handlowe!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_IMMIGRANTS</Tag><Polish>Imigranci napływają do miasta %s2_city, Zainspirowani jego kulturą!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_IMMIGRANTS</Tag><Polish>Opowieści o kulturze miasta %s2_city przyciągają imigrantów!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_IMPACT_CRATER_1</Tag><Polish>Poszukiwacze znaleźli bogate złoże naturalnie powstałych szklanych kulek w okolicy otaczającej rozległą okrągłą dolinę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_IMPACT_CRATER_1</Tag><Polish>Badacze odkryli liczne naturalne szklane kulki na obszarze wokół szerokiej, okrągłej doliny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INDEPENDENTFILMS_1</Tag><Polish>Stowarzyszenie Niezależnych Filmowców z miasta %s2_city zdobyło kontrolę nad znaczącym segmentem światowej produkcji przebojów kinowych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INDEPENDENTFILMS_1</Tag><Polish>Społeczność niezależnych producentów filmowych z miasta %s2_city zdobyła część rynku przebojów filmowych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INDUSTRIAL_ACTION</Tag><Polish>Robotnicy z miejscowej fabryki w mieście %s2_city zorganizowali się i opuścili miejsca pracy, protestując przeciw złym warunkom pracy i domagając się podwyżek płac. Pracownicy innych zakładów solidarnie przyłączyli się do strajku. Wygląda na to, że miasto będzie sparaliżowane do czasu odwołania strajku generalnego.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INDUSTRIAL_FIRE_1</Tag><Polish>Przypadkowy pożar fabryki w mieście %s2_city zniszczył cały budynek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INDUSTRIAL_FIRE_1</Tag><Polish>Błąd pracownika doprowadził do pożaru fabryki w mieście %s2_city. Ogień strawił budynek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INFLUENZA_1</Tag><Polish>Epidemia ospy zaatakowała miasto %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INFLUENZA_1</Tag><Polish>Epidemia grypy ciężko dotknęła mieszkańców miasta %s2_city. Większość zachorowała, a wielu umiera.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INSPIRED_MISSION_1</Tag><Polish>Misjonarz  %s4_religion_adjective rozprzestrzenił wiarę poza obręb miasta %s2_city. Wraz z innymi misjonarzami chce się z Tobą spotkać i prosić o sfinansowanie dodatkowych misji dla Imperium %s1_civ_adjective.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INSPIRED_MISSION_1</Tag><Polish>Natchnieni misjonarze reprezentujący nurt %s4_religion_adjective rozszerzyli swoje wpływy poza miasto %s2_city. Teraz proszą o audiencję i pomoc w finansowaniu dalszych misji do państwa %s1_civ_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INTERSTATE_1</Tag><Polish>Nasi inżynierowie opracowali krajowy system bezkolizyjnych autostrad. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_INTERSTATE_1</Tag><Polish>Nasi inżynierowie opracowali projekt krajowej sieci dwujezdniowych autostrad. Proste odcinki, łagodne nachylenia i brak miejsc wymagających zatrzymania zapewnią płynny ruch.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JADE_1</Tag><Polish>Bogate źródło jadeitu zostało odkryte pośród żył żelaza w jednej z naszych kopalni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_1</Tag><Polish>Dwie wpływowe rodziny, jedna z naszego narodu, druga pochodząca z państwa %s1_civ_adjective, stworzyła sojusz poprzez zaaranżowane małżeństwo przez %s4_religion_adjective Obrządek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_1</Tag><Polish>Dwie wpływowe rodziny, jedna z naszego ludu, a druga z ludu %s1_civ_adjective, zawarły sojusz poprzez zaaranżowane małżeństwo. Podczas ślubu obowiązywał obrządek %s4_religion_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_2</Tag><Polish>Jedna z naszych wpływowych arystokratek zakochała sie w szlachcicu z państwa %s1_civ_adjective, oboje zamierzają się ożenić przez %s4_religion_adjective Obrządek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_2</Tag><Polish>Jedna z naszych wpływowych młodych arystokratek zakochała się w szlachcicu z ludu %s1_civ_adjective. Para zamierza się pobrać, a podczas ślubu będzie obowiązywał obrządek %s4_religion_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3</Tag><Polish>Spadkobierczyni sieci fabryk z Państwa %s1_civ_adjective otrzymała propozycję małżeństwa od jednego z naszych potentatów finansowych. Ślub odbędzie się jeszcze w tym roku przez %s4_religion_adjective Obrządek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3</Tag><Polish>Dziedziczka przemysłowej fortuny z państwa %s1_civ_adjective otrzymała oświadczyny od jednego z naszych wpływowych magnatów finansowych. Ślub odbędzie się w tym roku; wybrano obrządek %s4_religion_adjective.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LABORATORY_1</Tag><Polish>Dokonaliśmy przełomowego odkrycia w laboratorium w mieście %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_1</Tag><Polish>Zaaranżowane małżeństwo pomiędzy jednym z naszych arystokratów i kobietą ze szlacheckiej rodziny z Imperium %s1_civ_adjective nie doszło do skutku. Pan młody zrezygnował z małżeństwa w dniu ślubu. Doprowadziło to do eskalacji nienawiści pomiędzy naszymi narodami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_1</Tag><Polish>Politycznie zaaranżowane małżeństwo jednego z naszych szlachciców z kobietą z arystokratycznej rodziny ludu %s1_civ_adjective nie doszło do skutku. Pan młody wycofał się w dniu ślubu, wywołując waśń.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_2</Tag><Polish>Dwie wpływowe rodziny, jedna z naszego kraju, druga z Imperium  %s1_civ_adjective, są wściekłe na swoje dzieci. Pan młody z naszej rodziny zostawił swoją niedoszła panne młodą, wychodząc ze świątyni od razu na początku ceremonii, znieważając i oburzając wybrankę i zaproszonych gości.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_2</Tag><Polish>Dwie wpływowe rodziny, jedna z naszego ludu, a druga z państwa %s1_civ_adjective, pokłóciły się o swoje dzieci. Pan młody z naszej rodziny stchórzył i wyszedł ze świątyni, porzucając narzeczoną oraz znieważając i oburzając niedoszłych powinowatych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_3</Tag><Polish>Spadkobierczyni sieci fabryk z cywilizacji %s1_civ_adjective została porzucona przy ołtarzu przez jednego z naszych potentatów finansowych, który złożył jej wcześniej propozycję małżeństwa. Nieudany ślub spowodował nienawiść i wzajemną niechęć u obu rodzin.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LEFT_AT_ALTAR_3</Tag><Polish>Dziedziczka przemysłowej fortuny z państwa %s1_civ_adjective została porzucona przy ołtarzu przez jednego z naszych wpływowych magnatów finansowych, który wcześniej jej się oświadczył. Fiasko ślubu oburzyło obie rodziny i wywołało między nimi waśń.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LESS_DICTATOR</Tag><Polish>Podczas gdy wylewnie chwalą swojego Pana i kłaniają się wielokrotnie, delegacja zaniepokojonych obywateli składa pokornie wniosek, aby rząd podjął bardziej "modernistyczne" spojrzenie w przyszłość</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LESS_DICTATOR</Tag><Polish>Delegacja zaniepokojonych obywateli, wylewnie wychwalając twoje przywództwo i kłaniając się raz po raz, pokornie poprosiła rząd o przyjęcie w przyszłości bardziej „nowoczesnego” spojrzenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LITERACY_1</Tag><Polish>Nasi obywatele są zadowoleni i dumni z powszechnej umiejętności pisania i czytania. Sądzimy, że to osiągnięcie opłaci się w najbardziej nieoczekiwanych okolicznościach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LITERACY_1</Tag><Polish>Niemal wszyscy nasi obywatele potrafią czytać i pisać. To osiągnięcie z pewnością przyniesie nieoczekiwane korzyści.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LONG_RANGE_FIGHTERS_1</Tag><Polish>Nasi inżynierowie zbudowali prototyp zaawansowanego myśliwca o lżejszej konstrukcji i zwiększonym udźwigu paliwa, co efektywnie zwiększa jego zasięg działania.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LONG_RANGE_FIGHTERS_1</Tag><Polish>Nasi inżynierowie opracowali nowoczesny myśliwiec o lżejszej konstrukcji i nieco większym zapasie paliwa, co zwiększa jego zasięg działania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LOOTERS_1</Tag><Polish>Niepokoje społeczne nieopodal miasta %s6_city należącego do państwa %s1_civ_adjective. Nasi wysłannicy twierdzą, że sytuacja w tamtym rejonie może się jeszcze pogorszyć.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LOOTERS_1</Tag><Polish>W pobliżu należącego do państwa %s1_civ_adjective miasta %s6_city panują niepokoje społeczne. Nasi zwiadowcy donoszą, że może nadarzyć się okazja, aby je zaognić.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LOOTERS_2</Tag><Polish>Wybuchły zamieszki nieopodal miasta %s6_city w cywilizacji %s1_civ_adjective. Nasi agenci są gotowi aby podsycać niepokoje społeczne i sprawić dodatkowe problemy. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LOOTERS_2</Tag><Polish>W pobliżu należącego do państwa %s1_civ_adjective miasta %s6_city trwają zamieszki. Nasi agenci są gotowi dolać oliwy do ognia i wywołać dalsze kłopoty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LOYALTY_TESTS_1</Tag><Polish>Rozpoczęliśmy oczyszczanie tych w naszym rządzie którzy posiadają wątpliwą lojalności.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_LOYALTY_TESTS_1</Tag><Polish>Rozpoczęliśmy czystkę wśród członków rządu, których lojalność budzi wątpliwości.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MAJOR_IN_HUMANITIES</Tag><Polish>Nasz uniwersytet w %s2_city specjalizuje się w badaniach starożytnych poezji, literatury i retoryki. Studenci z całego świata pragną studiować z naszymi ekspertami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MAJOR_IN_HUMANITIES</Tag><Polish>Nasz uniwersytet w mieście %s2_city wyspecjalizował się w starożytnej poezji, literaturze i retoryce. Studenci z całego świata pragną uczyć się od naszych ekspertów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MALACCAN_PIRATES</Tag><Polish>Nasze statki zostały zaatakowane przez [COLOR_NEGATIVE_TEXT]Mallakańskich Piratów[COLOR_REVERT]!  Piraci używają swojej floty porwanych okrętów do łupienia handlowców pod ich własnym nosem.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MALACCAN_PIRATES</Tag><Polish>Nasze statki zaatakowali [COLOR_NEGATIVE_TEXT]piraci z Malakki[COLOR_REVERT]! Wykorzystują flotę uprowadzonych jednostek do łupienia statków handlowych tuż pod naszym nosem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MAN_NAMED_JED_1</Tag><Polish>%s3_unit podczas polowania odkrył bogate zasoby czarnej mazi, która paląc się wydziela dużą ilość ciepła.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MAN_NAMED_JED_1</Tag><Polish>Podczas polowania nasza jednostka (%s3_unit) odkryła bogate źródło czarnej ropy, która pali się bardzo gorącym płomieniem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MARATHON_1</Tag><Polish>Odważny i wytrzymały żołnierz przebiegł pieszo około 42 km aby ostrzec przed inwazją!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MARBLE_STATUES_1</Tag><Polish>Władze lokalne miasta %s2_city złożyły zamówienie na dużą ilość marmurowych posągów z przeznaczeniem dla budynków użyteczności publicznej i rynku.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MARBLE_STATUES_1</Tag><Polish>Urzędnicy miasta %s2_city zamówili liczne marmurowe posągi do ozdobienia budynków publicznych i forum.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MASTER_BLACKSMITH</Tag><Polish>Mistrz Cechu Kowali w mieście %s2_city zaoferował przyuczenie wielu czeladników do zawodu kowala jeśli rząd wybuduje dla nich wystarczającą ilość kuźni. Kuźnie te muszą być gotowe w momencie zaliczenia przez nich egzaminu mistrzowskiego.[PARAGRAPH:1]Musimy postawić wystarczającą ilość [COLOR_BUILDING_TEXT]kuźni[COLOR_REVERT] w naszych miastach, by zapewnić studiującym czeladnikom miejsca pracy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MASTER_BLACKSMITH</Tag><Polish>Mistrz kowalski z miasta %s2_city zaoferował przyjęcie i wyszkolenie wielu uczniów, jeśli rząd zbuduje dla nich nowe kuźnie, w których będą pracować po zakończeniu nauki.[PARAGRAPH:1]Musimy zbudować w naszych miastach wystarczającą liczbę [COLOR_BUILDING_TEXT]kuźni[COLOR_REVERT] dla nowych uczniów mistrza.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MASTER_BLACKSMITH_DONE_1</Tag><Polish>Gratulacje! Wybudowałeś wystarczającą ilość [COLOR_BUILDING_TEXT]Kuźni[COLOR_REVERT] dla każdego z czeladników cechu i wypełniłeś tym samym warunki zadania "Wielki Kowal". Możesz wybrać nagrodę spośród ofert, które oferuje wysoko rozwinięty przemysł metalurgiczny.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MASTER_BLACKSMITH_DONE_1</Tag><Polish>Gratulacje! Spełniłeś wymagania mistrza kowalskiego i zbudowałeś wystarczającą liczbę [COLOR_BUILDING_TEXT]kuźni[COLOR_REVERT], aby każdy uczeń mógł prowadzić własną. Wybierz nagrodę spośród korzyści płynących z naszego nowego imperium metalurgicznego.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MASTER_SMITH_1</Tag><Polish>Miasto %s2_city wydało na świat wielkiego mistrza sztuki obróbki metali, który to dokonał unowocześnienia Kuźni i tym samym poprawił jej efektywność.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MASTER_SMITH_1</Tag><Polish>Miasto %s2_city wydało na świat wielkiego mistrza kowalskiego, który nadzorował rozbudowę i modernizację kuźni, zwiększając jej wydajność.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MERCENARIES_ANCIENT_1</Tag><Polish>Bezwględni najemnicy przybyli do ciebie z groźbą: żądają 100 złota z naszego skarbca, jeśli odmówimy zaatakują nas.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MERCENARIES_ANCIENT_1</Tag><Polish>Bezwzględni najemnicy żądają 100 sztuk złota z naszego skarbca. Grożą atakiem, jeśli odmówimy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MERCENARIES_CLASSICAL_1</Tag><Polish>Bezwględni najemnicy przybyli do ciebie z groźbą: żądają 200 złota z naszego skarbca, jeśli odmówimy zaatakują nas.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MERCENARIES_CLASSICAL_1</Tag><Polish>Bezwzględni najemnicy żądają 200 sztuk złota z naszego skarbca. Grożą atakiem, jeśli odmówimy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MERCENARIES_MEDIEVAL_1</Tag><Polish>Bezwględni najemnicy przybyli do ciebie z groźbą: żądają 300 złota z naszego skarbca, jeśli odmówimy zaatakują nas.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MERCENARIES_MEDIEVAL_1</Tag><Polish>Bezwzględni najemnicy żądają 300 sztuk złota z naszego skarbca. Grożą atakiem, jeśli odmówimy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_METAL_DECKS_1</Tag><Polish>Nasi stoczniowcy zdecydowali, że przebudowa lotniskowców z zastosowaniem stalowych pokładów zamiast drewnianych przyniesie nam wymierną przewagę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_1</Tag><Polish>Trzęsienie ziemi w pobliżu miasta %s2_city spowodowało zawalenie się pobliskiej kopalni. Zginęły setki górników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_1</Tag><Polish>Niewielkie trzęsienie ziemi w pobliżu miasta %s2_city spowodowało zawalenie się kopalni. Zginęły setki uwięzionych górników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_2</Tag><Polish>Potężna eksplozja zniszczyła jedną z naszych kopalni. Przyczyna jest nieznana, ale setki ludzi zginęło.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_2</Tag><Polish>Potężna eksplozja zniszczyła jedną z naszych kopalń. Przyczyna pozostaje nieznana, ale zginęły setki ludzi.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MINING_ACCIDENT_3</Tag><Polish>Tragedia wydarzyła się w pobliżu miasta %s2_city - trujące gazy wypełniły kopalnię i spowodowały śmierć większości górników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MIRACLE_1</Tag><Polish>Ponoć u bram miasta %s2_city zdarzył się Cud. Pielgrzymi nadciągają z daleka by odwiedzić nowe Święte Miejsce.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MIRACLE_1</Tag><Polish>Podobno przy murach miasta %s2_city wydarzył się cud. Zewsząd napływają pielgrzymi pragnący odwiedzić nowe święte miejsce.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MODERNOLYMPICS_1</Tag><Polish>W duchu międzynarodowej współpracy władze miasta %s2_city zdecydowały się ożywić tradycję starożytnych Olimpiad, planując uczynić z tego wydarzenie światowe.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MODERNOLYMPICS_1</Tag><Polish>W duchu współpracy międzynarodowej miasto %s2_city postanowiło odrodzić starożytną tradycję igrzysk i nadać im światowy zasięg.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MONEY_CHANGERS_1</Tag><Polish>Rynek w mieście %s2_city stał się sławnym centrum wymiany walut i kruszców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MONEY_CHANGERS_1</Tag><Polish>Targ w mieście %s2_city przyciągnął wielu znanych kupców zajmujących się wymianą pieniędzy i zyskuje sławę dzięki obrotowi obcymi walutami.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MONSOON_1</Tag><Polish>Pomimo że miasto %s2_city przyzwyczajone jest do okresowych powodzi związanych z sezonem monsunowym, w tym roku zaskoczone zostało przez potężną powódź wywołaną padającymi obficie deszczami monsunowymi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MORE_FIAT_MONEY</Tag><Polish>Skarb Państwa donosi, że nasze nadwyżki budżetowe wyparowały, a rezerwy walutowe spadają w niepokojącym tempie.  Możemy dodrukować więcej pieniędzy, lub ponownie obniżyć stopy procentowe, ale to z pewnością spowoduje wzrost inflacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MORE_FIAT_MONEY</Tag><Polish>Skarb państwa donosi, że nadwyżka budżetowa zniknęła, a rezerwy walut wymienialnych spadły do niebezpiecznie niskiego poziomu. Możemy dodrukować pieniądze i ponownie obniżyć stopy procentowe, lecz niemal na pewno jeszcze bardziej zwiększy to inflację.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MOTHER_LODE_1</Tag><Polish>Nasi górnicy w kopalni złota nieopodal miasta %s2_city trafili na zasobne złoża tego metalu! Jesteśmy bogaci, bogaci, bogaci!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MOTOR_OIL_1</Tag><Polish>Nasi chemicy rozwinęli proces produkcji paliwa, które wystarcza na znacznie dłużej niż dotychczasowe.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_MOTOR_OIL_1</Tag><Polish>Nasi chemicy opracowali ulepszony olej silnikowy, który dłużej zachowuje właściwości i lepiej smaruje silniki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NAPALM</Tag><Polish>Nasi naukowcy wynaleźli chemiczną mieszankę benzyny z substancją zwaną "napalm", która może być wykorzystywana jako nowa i bardzo niebezpieczną broń.  Reszta świata może zareagować bardzo niechętnie na wieść, że uzbroiliśmy nasze samoloty w bomby z napalmem.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NAPALM</Tag><Polish>Nasi badacze uzbrojenia odkryli, że mieszanka benzyny ze środkami żelującymi, zwana napalmem, stanowi nową potężną broń zapalającą. Powoduje jednak przerażające oparzenia u nieszczęśników, którzy przeżyją. Opinia światowa może zwrócić się przeciw nam, jeśli wyposażymy lotnictwo w takie bomby.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NATIONAL_ANTHEM</Tag><Polish>Nasi obywatele przyjęli jedną z naszych armijnych piosenek jako oficjalny hymn!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NATIONAL_ANTHEM</Tag><Polish>Nasi obywatele przyjęli jedną z wojskowych pieśni marszowych jako oficjalny hymn narodowy!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NATUROPATHY_FOUNDED_1</Tag><Polish>Szamani w mieście %s2_city odkryli zioła, które mogą pomóc wyleczyć choroby i rany - nasze miasto otrzymuje Chatkę Uzdrowiciela.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NEW_DYNASTY_1</Tag><Polish>Stara dynastia wygasła! Nie ma więcej prawowitych spadkobierców tronu!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NEW_DYNASTY_1</Tag><Polish>Stara dynastia wygasła! Nie pozostał żaden dziedziczny następca, który mógłby objąć tron!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NEW_WORLD</Tag><Polish>Tłumy rozeźlonych mieszkańców zbierają się w pobliżu ośrodków rządowych w naszych miastach, domagając się poprawy warunków życia!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NEW_WORLD</Tag><Polish>Tłumy rozgniewanych mieszkańców zbierają się przy ośrodkach władzy w twoich miastach. Domagają się lepszych warunków życia i grożą konsekwencjami!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NOBLE_KNIGHTS_1</Tag><Polish>Nasza cywilizacja wzywa szlachtę, by przewodziła naszemu Narodowi na drodze ku świetlanej przyszłości. [PARAGRAPH:1]Musimy wytrenować wystarczającą ilość jednostek [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT] by być w stanie kontynuować nasz marsz naprzód - zarówno przez czasy pokoju, jak i wojenne zawieruchy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NOBLE_KNIGHTS_1</Tag><Polish>Nasza cywilizacja wzywa szlachtę, aby poprowadziła lud ku lepszej przyszłości.[PARAGRAPH:1]Jeśli wyszkolimy wystarczająco licznych [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT], zdołamy ruszyć naprzód zarówno w czasie pokoju, jak i wojny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NOBLE_KNIGHTS_DONE_1</Tag><Polish>Gratulacje! Wytrenowałeś wystarczającą ilość [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT]. Wybierz swoją nagrodę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_NOBLE_KNIGHTS_DONE_1</Tag><Polish>Gratulacje! Wyszkoliłeś dostatecznie liczne oddziały [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT]. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_OVERWHELM_1</Tag><Polish>Nasz najbardziej uzdolniony admirał opracował ambitny plan desantu morskiego służący zdobywaniu miast portowych za pomocą błyskawicznych uderzeń z okrętów.[PARAGRAPH:1]Jeśli zdołamy wybudować wystarczająco dużą flotę lotniskowców, będziemy mogli powalić dowolne z nadmorskich miast na kolana, czyniąc sam desant formalnością. Potrzebujemy w tym celu flotylli potrafiącej sparaliżować umocnienia nadmorskie i zmiękczyć obrońców atakowanego miasta poprzez ciężkie naloty bombardowania dywanowego. Dzięki temu siły desantowe będą mogły bez przeszkód uchwycić przyczółki i rozwinąć atak przeciwko zszokowanym obrońcom.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_OVERWHELM_1</Tag><Polish>Nasz najzdolniejszy admirał zaproponował strategię desantową pozwalającą zdobywać miasta portowe błyskawicznymi uderzeniami.[PARAGRAPH:1]Jeśli zbudujemy dostatecznie dużą lotniskowcową flotę bojową, rzucimy na kolana każde nadmorskie miasto, znacznie ułatwiając desant. Potrzebujemy sił zdolnych zniszczyć wszystkie umocnienia ciężkim ostrzałem od strony morza i osłabić obrońców bombardowaniami lotniczymi. Wtedy nasze wojska będą mogły wylądować jeszcze w dniu rozpoczęcia bitwy i ruszyć w głąb lądu przeciw całkowicie zdezorganizowanemu wrogowi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_OVERWHELM_DONE_1</Tag><Polish>Gratulacje! Wybudowałeś potężną flotyllę lotniskowców zdolną do podbicia dowolnego miasta nadmorskiego w jednym zaskakującym ataku desantowym. Armada zdolna wykonać Doktrynę Dominacji Przestworzy oczekuje w gotowości bojowej na rozkazy. Możesz teraz wybrać swoją nagrodę. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_OVERWHELM_DONE_1</Tag><Polish>Gratulacje! Zbudowałeś potężną lotniskowcową flotę bojową zdolną zdobywać wrogie miasta jednym uderzeniem. Siły pozwalające zastosować Doktrynę Dominacji Przestworzy są teraz pod twoim dowództwem. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PAPYRUS_1</Tag><Polish>Miejscowy farmer zastrzegł sobie wynalazek zwojów papirusa. Pragnie on rozdać kilka z nich za darmo, aby skrybowie mogli przepisywać najważniejsze teksty.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PAPYRUS_1</Tag><Polish>Miejscowy rolnik twierdzi, że wynalazł zwoje papirusu. Chce przekazać część z nich za darmo, aby skrybowie mogli przepisać na nie najważniejsze teksty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PAPYRUS_2</Tag><Polish>Miejscowy farmer z miasta %s2_city wynalazł sposób wytwarzania zwojów papirusa. Według niego, miejscowi farmerzy mogą wytwarzać nowe zwoje, jeśli skrybowie zechcą zapłacić za ich pracę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PAPYRUS_2</Tag><Polish>Rolnik z miasta %s2_city odkrył sposób wytwarzania zwojów papirusu. Według niego miejscowi rolnicy mogą produkować je przez wiele lat, jeśli skrybowie będą gotowi płacić im za pracę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PARROTS_1</Tag><Polish>Treserzy odkryli jak wykorzystać obfite źródło papug, znajdujące się w jednym z naszych tropikalnych regionów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PARROTS_1</Tag><Polish>Treserzy opracowali sposób hodowania papug, licznie występujących w jednym z naszych lasów tropikalnych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PARTISANS_1</Tag><Polish>Nasze miasto %s6_city zostało zniszczone przez rozszalałe zastępy %s1_civ_adjective. Część naszych obywateli sformowała oddziały Partyzanckie stawiając opór najeźdźcom!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PARTISANS_1</Tag><Polish>Nasze miasto %s6_city zostało zniszczone przez pustoszącą kraj armię ludu %s1_civ_adjective. Część obywateli organizuje partyzancki ruch oporu!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_1</Tag><Polish>Mecenas nauki mieszkający w mieście %s2_city przekazał tamtejszej bibliotece kolekcję cennych zapisków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_1</Tag><Polish>Zmarły mecenas nauki z miasta %s2_city zapisał bibliotece w testamencie swoją obszerną kolekcję pism.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_2</Tag><Polish>Bogata rodzina z miasta %s2_city Odkryła zbiór zaginionych i rzadkich zapisków. Zostały one oddane państwu, dla dobra ogółu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PATRON_OF_KNOWLEDGE_2</Tag><Polish>Zamożna rodzina z miasta %s2_city odkryła w jednym ze swoich skarbców zbiór zaginionych i rzadkich pism. Postanowiła przekazać je bibliotece.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PERSONAL_COMPUTERS_1</Tag><Polish>Komputery osobiste produkowane w %s2_city są poszukiwane zarówno w domach, jak i w małych firmach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_1</Tag><Polish>Plaga szarańczy spustoszyła pastwiska w pobliżu %s2_city, doprowadzając do śmierci głodowej zwierząt hodowlanych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_1</Tag><Polish>Plaga szarańczy nawiedziła pastwisko w pobliżu miasta %s2_city. Cała hodowla zwierząt została zniszczona.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_2</Tag><Polish>Olbrzymie armie czerwonych mrówek zamieniły ziemie nieopodal miasta %s2_city w pustkowia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_2</Tag><Polish>Ogromne armie mrówek ognistych spustoszyły pastwiska w pobliżu miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_3</Tag><Polish>Potężne kolonie termitów opanowały i zniszczyły cześć terenów rolniczych w pobliżu miasta %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_3</Tag><Polish>Olbrzymie kolonie termitów opanowały i zniszczyły część naszych upraw w pobliżu miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_4</Tag><Polish>Plaga szarańczy zaroiła się nad plantacją nieopodal miasta %s2_city, niszcząc wszystkie uprawy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_4</Tag><Polish>Plaga szarańczy nawiedziła plantację w pobliżu miasta %s2_city, niszcząc wszystkie uprawy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_5</Tag><Polish>Potężne armie czerwonych mrówek spowodowały zniszczenia w plantacjach w rejonie miasta %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_5</Tag><Polish>Ogromne armie mrówek ognistych spustoszyły plantacje w pobliżu miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_6</Tag><Polish>Rój szarańczy zaroiła się nad Farmą nieopodal miasta %s2_city, niszcząc wszystkie uprawy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PESTILENCE_6</Tag><Polish>Plaga szarańczy nawiedziła farmę w pobliżu miasta %s2_city, niszcząc wszystkie uprawy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PIRATES_OF_THE_NEUTRAL_ZONES</Tag><Polish>Nasza służba bezpieczeństwa donosi, że [COLOR_NEGATIVE_TEXT]Piraci[COLOR_REVERT] z terenów neutralnych wyposażyły swoją flotę w szybkie statki niewykrywane przez radary.  Sądzimy, że teraz właśnie zmierzają ku naszym wodom!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PIRATES_OF_THE_NEUTRAL_ZONES</Tag><Polish>Nasz wywiad donosi, że [COLOR_NEGATIVE_TEXT]piraci[COLOR_REVERT] z niekontrolowanych stref neutralnych pokryli swoje szybkie okręty bojowe materiałami pochłaniającymi fale radarowe. Sądzimy, że zmierzają na nasze wody terytorialne!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_POISON_ARROWS_1</Tag><Polish>Nasi szamani znaleźli roślinę zwierającą zabójczą truciznę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_POISON_ARROWS_1</Tag><Polish>Nasi szamani znaleźli zioło zawierające śmiertelną truciznę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PRAIRIE_DOGS_1</Tag><Polish>Treserzy poznali jak udomowić pieski preriowe, żyjące w dużych ilościach na otwartych przestrzeniach. sprzedają je teraz jako zwierzątka domowe.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PRAIRIE_DOGS_1</Tag><Polish>Treserzy odkryli sposób udomawiania piesków preriowych licznie występujących na otwartych terenach. Sprzedają je teraz jako zwierzęta domowe.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PRECIOUS_STONES_1</Tag><Polish>Nasi ludzie natknęli się na ukryte drogocenne kamienie na wzgórzach w pobliżu miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PROMISING_COMMANDER_1</Tag><Polish>Lokalnych szlachcic, który pokazał talent dowódcy w ostatniej wojnie jest także niezwykle skuteczny w swojej prowincji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_PROMISING_COMMANDER_1</Tag><Polish>Miejscowy szlachcic, który wykazał się talentem dowódczym podczas ostatniej wojny, jest również niezwykle sprawnym zarządcą swojej prowincji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_REACTIVE_ARMOR</Tag><Polish>Nasi wojskowi inżynierowie zauważyli, że dodając do pancerza naszych przestarzałych [COLOR_POSITIVE_TEXT]Czołgów[COLOR_REVERT] materiały wybuchowe, aktywnie reaguje on na przebijający go pocisk bardziej nowoczesnych pojazdów bojowych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_REACTIVE_ARMOR</Tag><Polish>Nasi saperzy odkryli, że płyty z ładunkami wybuchowymi, zamontowane na pancerzu przestarzałych [COLOR_POSITIVE_TEXT]czołgów[COLOR_REVERT], mogą powstrzymywać pociski przeciwpancerne wystrzeliwane przez nowocześniejsze pojazdy bojowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_REFINERY_EXPLOSION_1</Tag><Polish>Pracownicy Refinerii Ropy Naftowej w mieście %s2_city popełnili błąd podczas mieszania chemikaliów, co przyczyniło się do wielkiej eksplozji oraz zniszczenia całego kompleksu. Eksplozja spowodowała zniszczenie pobliskich budynków oraz zatruła powietrze szkodliwymi chemikaliami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_REFINERY_EXPLOSION_1</Tag><Polish>Nieostrożny pracownik zmieszał niewłaściwe chemikalia w rafinerii miasta %s2_city, wywołując potężną eksplozję, która całkowicie zniszczyła zakład. Uszkodzone zostały pobliskie kwartały przemysłowe, a niebezpieczne substancje przedostały się do środowiska.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_REINFORCED_HULL_1</Tag><Polish>Nasi szkutnicy wymyślili sposób na wzmocnienie kadłubów Trierów, który zwiększa ich wytrzymałość na atak taranu, a także na taranowanie innych okrętów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_REINFORCED_HULL_1</Tag><Polish>Nasi szkutnicy opracowali sposób wzmacniania kadłubów trier. Zwiększy to ich skuteczność podczas taranowania i odporność na wrogie tarany.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RELICS_HELP_2</Tag><Polish>[ICON_BULLET]Źródło [COLOR_HIGHLIGHT_TEXT]Antycznych Ruin[COLOR_REVERT] zostało odkryte</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RELICS_HELP_2</Tag><Polish>[ICON_BULLET]Odkryto źródło surowca: [COLOR_HIGHLIGHT_TEXT]Starożytne relikty[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RIFLED_CANNON_1</Tag><Polish>Nasza wiedza techniczna w zakresie luf gwintowanych zaowocowała nowymi rozwiązaniami technologii produkcji dział.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RIFLED_CANNON_1</Tag><Polish>Naszą wiedzę o gwintowanych lufach z powodzeniem zastosowano w nowych konstrukcjach dział.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RUNNING_BULLS_1</Tag><Polish>Ludność miasta %s2_city rozpoczęła nową popularną tradycję nazywaną "Byczą Gonitwą".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RUNNING_BULLS_1</Tag><Polish>Mieszkańcy miasta %s2_city zapoczątkowali popularną tradycję zwaną „Gonitwą z Bykami”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RURAL_FARMERS_1</Tag><Polish>Handlujący żywnością kupiec z miasta %s2_city dokonał świetnego interesu kupując duże ilości zboża od zagranicznych rolników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_RURAL_FARMERS_1</Tag><Polish>Kupiec spożywczy z miasta %s2_city zawarł umowę z rolnikami mieszkającymi poza zwykłym zasięgiem handlu któregokolwiek większego miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SAILING_FOUNDED_1</Tag><Polish>Zaprojektowano nowy model statku w stoczni miasta %s2_city  - nasze miasto otrzymuje darmową Galerę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SAILING_FOUNDED_1</Tag><Polish>Szkutnicy z miasta %s2_city zaprojektowali nowy typ statku. Miasto otrzymuje 1 darmową galerę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SALTPETER_1</Tag><Polish>Nasze legendarne już ilości nietoperzy na wzgórzach nieopodal miasta %s2_city, zapewniają nam teraz dodatkowe źródło saletry niezbędnej do produkcji czarnego prochu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SALTPETER_1</Tag><Polish>Legendarnie liczne kolonie nietoperzy na wzgórzach w pobliżu miasta %s2_city zapewniają nam teraz dodatkowe źródła saletry do produkcji prochu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SALT_MINE_1</Tag><Polish>Duże złoża soli zostały odkryte na tundrze w pobliżu miasta %s2_city.</Polish>
         </TEXT>
@@ -20263,19 +20263,19 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SEA_STORM_5</Tag><Polish>Jeden z naszych statków został zniszczony przez sztorm.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SEA_TURTLES_1</Tag><Polish>Miejscowi odkryli cykle lęgowe morskich żółwi, które tłoczą się na brzegu w dużych ilościach. Rozpoczęli polowania na żółwie i rozpoczęli zbiór jajek na skalę nie zagrażającą wymarciu tych stworzeń.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SEA_TURTLES_1</Tag><Polish>Mieszkańcy poznali cykl rozrodczy żółwi morskich, które masowo przybywają na wybrzeże. Zaczęli odławiać żółwie i zbierać jaja w sposób niezagrażający długofalowemu przetrwaniu tych zwierząt.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SECRET_KNOWLEDGE_1</Tag><Polish>Skład sekretnych rękopisów został odnaleziony w skrytce w klasztorze w mieście %s2_city!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SECRET_KNOWLEDGE_1</Tag><Polish>W skrytce klasztoru w mieście %s2_city odkryto zbiór starożytnych pism!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SECURITY_TAX_1</Tag><Polish>Nasi chronieni murami obronnymi obywatele zgodzili się ponieść ciężar podatku na bezpieczeństwo by wspomóc Skarb Państwa w utrzymaniu ich ochrony.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SEGMENTED_ARMOR_1</Tag><Polish>Wynalazek zbroi segmentowej poprawi ochronę naszych pieszych żołnierzy przed strzałami łuczników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SETBACK_1</Tag><Polish>Nasi odkrywcy doznali opóźnienia w pracach badawczych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SETBACK_1</Tag><Polish>Nasi badacze napotkali trudności, które zahamowały ich prace.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SILKWORM_GOING_EXTINCT</Tag><Polish>Lokalne gatunki jedwabników już prawie wymarły. Jeszcze jest czas, aby je uratować.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SILKWORM_GOING_EXTINCT</Tag><Polish>Miejscowy gatunek jedwabnika niemal wymarł. Wciąż jest czas, aby go uratować.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_1</Tag><Polish>W mieście %s2_city! wybuchło powstanie niewolników!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_1</Tag><Polish>W mieście %s2_city wybuchło powstanie niewolników!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_2</Tag><Polish>Niewolnicy z miasta %s2_city wszczęli powstanie przeciwko swoim panom. Miasto pogrążone jest w chaosie.</Polish>
         </TEXT>
@@ -20283,21 +20283,21 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_1</Tag><Polish>Lokalne władze z miasta %s2_city nie były do tej pory w stanie powstrzymać powstania niewolników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_2</Tag><Polish>Powstanie niewolników w mieście %s2_city nie słabnie. Produkcja w mieście została sparaliżowana.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_2</Tag><Polish>Powstanie niewolników w mieście %s2_city nie słabnie. Miejscowa gospodarka stanęła.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_WARNING</Tag><Polish>Niewolnicy z miasta %s2_city zbuntowali się!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_WARNING</Tag><Polish>Niewolnicy w mieście %s2_city są o krok od buntu!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SMALLPOX_1</Tag><Polish>Epidemia ospy wietrznej zaatakowała miasto %s2_city. Choroba ta przyczyniła się do dużej ilości zgonów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SMALLPOX_1</Tag><Polish>Epidemia ospy prawdziwej ciężko dotknęła mieszkańców miasta %s2_city. Większość zachorowała, a wielu umiera.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SMOKELESS_POWDER_1</Tag><Polish>Wynalezienie prochu bezdymnego zwiększyło efektywność naszych muszkietów na polu bitwy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SOCIAL_STAGNATION</Tag><Polish>Niektórzy w mieście %s2_city są niezadowoleni z braku awansu społecznego. Pragną przejścia gdzie indziej z szansą lepszego życia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SOCIAL_STAGNATION</Tag><Polish>Mieszkańcy miasta %s2_city mają dość braku możliwości awansu społecznego. Wyjeżdżają w poszukiwaniu szans na lepsze życie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SOLO_FLIGHT_1</Tag><Polish>Dzielny pilot okrążył w jednoosobowym samolocie kulę ziemską.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SOUR_CRUDE_1</Tag><Polish>Większośc ropy naftowej która wydobywamy z jednego z naszych źródeł jes wypełniona związkami siarki i innymi zanieczyszczeniami. Jesteśmy skazani na źródło ropy naftowej kiepskiej jakości.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SOUR_CRUDE_1</Tag><Polish>Większość ropy wydobywanej w jednym z naszych złóż zawiera dużo siarki i innych zanieczyszczeń. Trafiło nam się źródło zasiarczonej ropy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SPICY_1</Tag><Polish>Odważny w odkrywaniu i łączeniu nowych smaków szef kuchni odkrył źródło nowych przypraw w lesie nieopodal miasta %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SPICY_1</Tag><Polish>Pomysłowy kucharz odkrył nowy rodzaj przyprawy, która rośnie tylko w lesie w pobliżu miasta %s2_city.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SPOILED_GRAIN_1</Tag><Polish>Szkodniki dostały się do spichlerzy w mieście %s2_city. Cały przechowywany tam zapas żywności uległ zniszczeniu.</Polish>
         </TEXT>
@@ -20305,101 +20305,101 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SPORTS_LEAGUE_DONE_1</Tag><Polish>Gratulacje! Zbudowałeś wystarczająco dużo [COLOR_BUILDING_TEXT]aren[COLOR_REVERT], by mogły działać ligi sportowe, spełniając oczekiwania ich organizatorów. Wybierz jedną z nagród, jakie mogą ci przynieść nowe rozgrywki krajowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STAINED_GLASS_1</Tag><Polish>Duże zamówienie na witraże zostało wysłane do miasta %s2_city. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STAINED_GLASS_1</Tag><Polish>Do miasta %s2_city wysłano dużą partię zamówionych witraży.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STEDE_BONNET</Tag><Polish>Sławny pirat [COLOR_NEGATIVE_TEXT]Stede Bonnet[COLOR_REVERT] zmierza ku naszych wodom w celu rozpętania chaosu!  Jego flotylla jest tuż za horyzontem!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STEDE_BONNET</Tag><Polish>Sławny pirat [COLOR_NEGATIVE_TEXT]Stede Bonnet[COLOR_REVERT] obrał kurs na nasze wody w poszukiwaniu łupów i okazji do siania spustoszenia! Jego flotylla jest tuż za horyzontem!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STREAMLINED_GOVERNMENT_1</Tag><Polish>Wysiłki mające na celu ograniczenie biurokracji i liczby personelu w rządzie była skuteczna.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STREAMLINED_GOVERNMENT_1</Tag><Polish>Wysiłki na rzecz ograniczenia biurokracji i liczby urzędników zakończyły się sukcesem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STRONGER_FITTINGS_1</Tag><Polish>Płatnerze zwiększyli siłę i wytrzymałość cięciw używanych do produkcji kusz. Spowoduje to lepsze napięcie kusz i zwiększoną ich siłę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_STRONGER_FITTINGS_1</Tag><Polish>Zbrojmistrzowie zwiększyli wytrzymałość i trwałość okuć używanych do produkcji kusz. Pozwala to mocniej napinać broń i zwiększa jej siłę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SUBWAY_1</Tag><Polish>Wielkie miasto %s2_city ukończyło budowę wielkiego podziemnego połączenia kolejowego.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SUBWAY_1</Tag><Polish>Wspaniałe miasto %s2_city rozbudowało komunikację publiczną o podziemną sieć kolejową, znacznie ożywiając ruch handlowy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SUPER_VIRUS</Tag><Polish>Straszne Wieści! Lata super ochrony lekarskiej w naszych szpitalach i klinikach stworzyły super wirusa w %s2_city!!! Co powinniśmy zrobić?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SUPER_VIRUS</Tag><Polish>Straszne wieści! Wieloletnie stosowanie nadmiernie rygorystycznych norm higieny w naszych szpitalach i klinikach doprowadziło do powstania superwirusa w mieście %s2_city! Jak powinniśmy zareagować?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_SYNTHETIC_FUELS</Tag><Polish>Jeden z naukowców w mieście %s2_city twierdzi, że znalazł sposób na wytworzenie syntetycznego paliwa z krajowego węgla. Prosi o znaczne rządowe dopłaty do badań, aby dalej rozwijać tę technologię.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TANNERY_GLUE_1</Tag><Polish>Miasto %s2_city wypromowało garbarza, który odkrył że resztki skóry mogą być przerobione na klej i teraz sprzedaje swój nowy produkt wszystkim chętnym.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TANNERY_GLUE_1</Tag><Polish>Miasto %s2_city wydało na świat mistrza garbarskiego, który odkrył, że resztki skór można przerabiać na klej. Miejscowa garbarnia sprzedaje go teraz wszystkim zainteresowanym.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TAX_COLLECTION_RECORDS_1</Tag><Polish>Sędziowie Trybunału wykazali błędy w zapisie zbiorów podatków. Nie są już takie optymistyczne</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TAX_COLLECTION_RECORDS_1</Tag><Polish>Urzędnicy sądowi ujawnili, że nasze zapisy wpływów podatkowych z ostatnich kilku lat były zdecydowanie zbyt optymistyczne.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TEA_1</Tag><Polish>Zwyczaj podawania importowanej od %s1_civ_adjective herbaty rozprzestrzenił się wśród elit naszego Narodu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TEA_1</Tag><Polish>Herbata importowana z państwa %s1_civ_adjective stała się niezwykle modna wśród naszych elit.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_THE_CORSAIRS</Tag><Polish>Okrutni [COLOR_NEGATIVE_TEXT]Korsarze[COLOR_REVERT] przybyli na nasze wody, aby grabić i siać chaos!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_THE_CORSAIRS</Tag><Polish>Nikczemni [COLOR_NEGATIVE_TEXT]korsarze[COLOR_REVERT] wpłynęli na nasze wody, aby atakować statki i zdobywać łupy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_THE_GENERALS_PUTSCH</Tag><Polish>Generałowie z naszych elitarnych pułków spadochroniarzy przejęli kontrolę nad biurami rządu w mieście %s2_city.  Twierdzą, że rząd jest zbyt słaby, aby pokonać wrogą armię %s1_civ_adjective, i że potrzebujemy teraz rządów "silnej ręki", które poprowadzą nas do zwycięstwa.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_THE_GENERALS_PUTSCH</Tag><Polish>Dowódcy jednego z naszych elitarnych pułków spadochronowych przejęli urzędy w mieście %s2_city. Twierdzą, że rząd jest zbyt słaby, aby pokonać wroga z ludu %s1_civ_adjective, i że potrzebujemy „silnej ręki”, która poprowadzi nas do zwycięstwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_THOROUGHBRED_1</Tag><Polish>Nowa linia hodowlana koni wyścigowych przynosi coraz większe korzyści ze stadnin.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_THOROUGHBRED_1</Tag><Polish>Nowa rasa koni wyścigowych przynosi naszym stajniom znaczne dochody.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TIN_1</Tag><Polish>Na wzgórzach odkryto bogate źródło cyny!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TOO_CLOSE_TO_CALL_1</Tag><Polish>Wyniki wyborów w %s1_civ_adjective różnią się tak znikomym procentem głosów, ża prawie mieści się to w marginesie błędu z reguły powodowanego zaginionymi urnami wyborczymi, burzami lub błędami w podliczaniu ważnych głosów... Bez możliwości ustalenia prawdziwej woli większości wynik głosowania musi być rozstrzygnięty przez Sąd Najwyższy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TOO_CLOSE_TO_CALL_1</Tag><Polish>Wyniki wyborów są tak wyrównane, że mieszczą się w marginesie błędu zwykle przypisywanym niedoskonałościom systemu: zagubionym lub błędnie oznaczonym kartom, niedokładnie przebitym otworom w kartach czy pomyłkom w liczeniu. Ponieważ nie da się bezspornie ustalić rzeczywistej liczby głosów, rozstrzygnięcie wyborów powierzono sądom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_1</Tag><Polish>Niebiosa otwarły się zsyłając na naród pierwszą z kar. Okropne szalejące tornada zmiotły %s8_improvement.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_1</Tag><Polish>Niebiosa się rozwarły i spadła na nas pięść odpłaty. Straszliwe wiry powietrza zniszczyły nasze ulepszenie: %s8_improvement.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_2</Tag><Polish>Niezwykle potężny i niekorzystny układ frontów wywołał tornada, które zniszczyły %s8_improvement</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_2</Tag><Polish>Niezwykle gwałtowny układ burzowy z potężnymi tornadami zniszczył nasze ulepszenie: %s8_improvement.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_3</Tag><Polish>Potężna burza wywołała tornada klasy F5, pozostawiając ślady zniszczenia i zmiatając %s8_improvement..</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TORNADO_3</Tag><Polish>Wyjątkowo potężna burza wywołała liczne tornada klasy F5. Pozostawiły pas zniszczeń na naszych ziemiach, niszcząc ulepszenie: %s8_improvement.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TOWER_SHIELD_1</Tag><Polish>Wynalazek tarcz wieżowych umożliwi lepszą ochronę wojsk piechoty przeciwko łucznikom i kusznikom przeciwników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TOWER_SHIELD_1</Tag><Polish>Wynalezienie tarczy wieżowej zapewniło naszej piechocie lepszą ochronę przed łucznikami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TRADE_FOUNDED_1</Tag><Polish>Grupa kupców w mieście %s2_city utworzyła karawanę handlową i jest gotowa do drogi w celu poszukiwania nowych rynków w odległych krajach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TRADE_FOUNDED_1</Tag><Polish>Kupcy z miasta %s2_city utworzyli karawanę handlową i są gotowi szukać nowych rynków w odległych krainach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TREASURY_PLUNDERED_1</Tag><Polish>Zuchwali złodzieje okradli nasz skarbiec w mieście %s2_city! Strażnicy skarbca zostali zabici przed kradzieżą, a strażnicy miejscy byli rozproszeni w momencie, gdy złodzieje wraz ze złotem uciekali do obszaru poza naszą stolicą.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TREASURY_PLUNDERED_1</Tag><Polish>Zuchwali złodzieje obrabowali nasz skarbiec w mieście %s2_city! Przed napadem po cichu zabili pełniących służbę strażników. Odwrócili też uwagę straży miejskiej, dzięki czemu zniknęli ze złotem poza naszą stolicą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TRUFFLES_1</Tag><Polish>Bogate źródło trufli zostało odkryte w kilku jaskiniach. Miejscowi zaczęli je zbierać.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TRUFFLES_1</Tag><Polish>W kilku jaskiniach odkryto bogate źródło trufli. Mieszkańcy rozpoczęli ich uprawę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_TSUNAMI_1</Tag><Polish>Ściana wody o wysokości ponad 15 metrów uderzyła niespodziewanie w miasto %s2_city. Tsunami wywołało zniszczenia na niespotykaną dotąd skalę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_UFO_1</Tag><Polish>Najnowsze wiadomości donoszą, że Niezidentifikowane Obiekty Latający w pobliżu miasta %s2_city wzbudziły dużą uwagę na naszą Tajną Bazę Wojskową. Turyści, zagraniczni agenci i reporterzy zmierzają do tego miejsca z aparatami, przez co mogą odkryć tajemnice naszej bazy. Co powinniśmy teraz zrobić?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_UFO_1</Tag><Polish>Doniesienia o UFO w pobliżu miasta %s2_city zwróciły niepożądaną uwagę na naszą tajną bazę wojskową. Turyści, obcy agenci i reporterzy przybywają z aparatami, próbując zobaczyć, co ukrywamy w bazie. Co powinniśmy zrobić?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_UNLIMITED_POWER</Tag><Polish>Naukowcy odkryli doskonałe źródła geotermalne pod %s2_city. Chcą wiedzieć co mają dalej robić.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_UNLIMITED_POWER</Tag><Polish>Naukowcy odkryli doskonałe źródło energii geotermalnej pod miastem %s2_city. Chcą wiedzieć, jakie działania podjąć.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_VOLCANO_1</Tag><Polish>Erupcja wulkanu nieopodal miasta %s2_city wyrzuciła śmiertelną chmurę pyłu, potoki lawy i odłamki skał, które wraz z topniejącymi śniegami przyczyniły sie do powstania lawiny błotnej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_VOLCANO_1</Tag><Polish>W pobliżu miasta %s2_city wybuchł wulkan, wyrzucając śmiercionośne chmury popiołu i strumienie lawy. Topniejący śnieg niesie błoto oraz rumowisko.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_V_GER</Tag><Polish>Nasza agencja kosmiczna proponuje budowę automatycznych sond do "wielkiej wyprawy" po systemie słonecznym.  Sondy odwiedzą każdą planetę i zbadają lokalną przestrzeń.  Agencja kosmiczna prosi o spore zwiększenie dofinansowania na ten program.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_V_GER</Tag><Polish>Nasza agencja kosmiczna proponuje budowę automatycznych sond, które odbędą „wielką podróż” po Układzie Słonecznym. Odwiedzą każdą planetę i zbadają pobliską przestrzeń międzygwiezdną. Agencja prosi o znaczne zwiększenie finansowania tego programu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WARSHIPS_1</Tag><Polish>Nasi admirałowie chcą się powoli przygotowywać do bitwy morskiej.[PARAGRAPH:1]Jeśli wybudujemy odpowiednią ilość [COLOR_UNIT_TEXT]Trier[COLOR_REVERT], zdominujemy szlaki morskie!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WARSHIPS_1</Tag><Polish>Nasi dowódcy marynarki chcą przygotować się do wojny.[PARAGRAPH:1]Jeśli zbudujemy wystarczającą liczbę [COLOR_UNIT_TEXT]trier[COLOR_REVERT], możemy zdominować morza!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WARSHIPS_DONE_1</Tag><Polish>Gratulacje! Stworzyłeś najpotężniejszą flotę świata! Moźesz teraz wybrać swoją nagrodę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WARSHIPS_DONE_1</Tag><Polish>Gratulacje! Zbudowałeś największą flotę wojenną świata. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WAR_CHARIOTS_1</Tag><Polish>Nasi dowódcy chcą się przygotowywać do kolejnej wojny.[PARAGRAPH:1]Jeśli wytrenujemy wystarczającą ilość [COLOR_UNIT_TEXT]Rydwanów[COLOR_REVERT], powinniśmy być w stanie przegnać przeciwników z pola bitwy jeszcze przed rozpoczęciem walk!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WAR_CHARIOTS_1</Tag><Polish>Nasi dowódcy chcą przygotować się do wojny.[PARAGRAPH:1]Jeśli wyszkolimy wystarczająco liczne oddziały [COLOR_UNIT_TEXT]rydwanów[COLOR_REVERT], powinniśmy rozgromić wrogów na polu bitwy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WAR_CHARIOTS_DONE_1</Tag><Polish>Gratulacje! Wyszkoliłeś wystarczającą ilość [COLOR_UNIT_TEXT]Rydwanów[COLOR_REVERT]. Możesz teraz wybrać jedną z nagród za wypełnienie zadania.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WAR_CHARIOTS_DONE_1</Tag><Polish>Gratulacje! Wyszkoliłeś dostatecznie liczne oddziały [COLOR_UNIT_TEXT]rydwanów[COLOR_REVERT]. Wybierz nagrodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WAR_MEMORIAL</Tag><Polish>Nasi obywatele mieszkający w %s2_city zbudowali pomnik wojny upamiętniający życie żołnierzy którzy stracili życie w ostatnich wojnach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WAR_MEMORIAL</Tag><Polish>Mieszkańcy miasta %s2_city wznieśli pomnik ku czci naszych dzielnych żołnierzy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WASHED_OUT_1</Tag><Polish>Powodzie zmyły drogi nieopodal miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WATERS_OF_LIFE_1</Tag><Polish>Wieść ludowa niesie że Woda Życia może być czerpana w pewnej oazie. Plotki podają, jakoby miała ona zdolność leczenia chorób i ran.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WATERS_OF_LIFE_1</Tag><Polish>Według ludowych podań z pewnej oazy można czerpać Wody Życia. Krążą pogłoski, że potrafią one leczyć chorych i rannych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_1</Tag><Polish>Polityczny mariaż naszego rodu szlacheckiego ze szlachtą pochodzącą z imperium %s1_civ_adjective wywołał skandal. Jego główną przyczyną był spór dotyczący obrządku w jakim ma zostać zawarte małżeństwo.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_1</Tag><Polish>Politycznie zaaranżowane małżeństwo między jedną z naszych rodzin szlacheckich a rodziną ludu %s1_civ_adjective nie doszło do skutku. Obie strony spierają się, czy zachować ich tradycję, czy wybrać nasz obrządek %s4_religion_adjective. Napięcie narasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_2</Tag><Polish>Ślub zawarty wbrew woli rodziców państwa młodych wywołał skandal w wyższych sferach. Przywódcy państwa %s1_civ_adjective są szczególnie smutni z faktu, że uroczystość celebrował kapłan %s4_religion_adjective.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_2</Tag><Polish>Dwie wpływowe rodziny pokłóciły się o swoje dzieci, które uciekły razem, aby pobrać się wbrew woli wszystkich. Przywódców państwa %s1_civ_adjective szczególnie oburzył fakt, że podczas ślubu obowiązywał nasz obrządek %s4_religion_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3</Tag><Polish>Spadkobierczyni sieci fabryk z kraju %s1_civ_adjective otrzymała propozycję małżeństwa od jednego z naszych potentatów finansowych. Mimo zbliżającego sie terminu ślubu rodziny wciąż nie mogły zdecydować się w jakim obrządku zostanie udzielony. Para młoda wybrała obrządek %s4_religion_adjective, co przysporzyło wiele przykrości rodzinie panny młodej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3</Tag><Polish>Dziedziczka przemysłowej fortuny z państwa %s1_civ_adjective otrzymała oświadczyny od jednego z naszych wpływowych magnatów finansowych. Małżeństwo dojdzie do skutku, lecz rodziny spierają się o religię, według której odbędzie się ceremonia. Para wybrała obrządek %s4_religion_adjective, ku wielkiemu niezadowoleniu rodziny panny młodej.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WHALEOFATHING_1</Tag><Polish>Żeglarze spotkali nową populację waleni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WININGMONKS_1</Tag><Polish>Zakonnicy z klasztoru w mieście %s2_city rozwinęli swoje prywatne plantacje winogron do tego stopnia, że zaczęły one zajmować znaczące miejsce w krajowej ekonomii i handlu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WININGMONKS_1</Tag><Polish>Mnisi z klasztoru w mieście %s2_city rozbudowali prywatne winnice tak bardzo, że nabrały one znaczenia w skali całego kraju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WORLD_ALTERNATIVE_ENERGY_DONE</Tag><Polish>Zaradne kompanie energetyczne cywilizacji %s1_civ_adjective ukończyły zadanie "Alternatywne Źródła Energii"!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WORLD_ALTERNATIVE_ENERGY_DONE</Tag><Polish>Zaradne przedsiębiorstwa energetyczne państwa %s1_civ_adjective ukończyły zadanie „Alternatywne Źródła Energii”!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIGGER_WORLD_INDUSTRIAL_ACTION</Tag><Polish>W cywilizacji %s1_civ_adjective robotnicy rozpoczęli strajk przeciw złym warunkom pracy i niskim płacom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TRUFFLES_1</Tag><Polish>Trufle? Brzmi smakowicie! Nasi ludzie jedzą jak arystokraci, nieprawdaż?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TRUFFLES_1</Tag><Polish>Trufle! Co za przysmak. Nasz lud jada po królewsku, prawda?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TSUNAMI_1</Tag><Polish>Całe miasto zostało obrócone w ruinę. Cała ludność miasta zginęła a majątek zniszczony.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TSUNAMI_1</Tag><Polish>Miasto legło w gruzach. Nikt nie przeżył, a cały majątek został zniszczony.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TSUNAMI_2</Tag><Polish>Miasto doznało ogromnych zniszczeń i poważnych strat ludności.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TSUNAMI_2</Tag><Polish>Miasto poniosło ogromne straty w ludziach i majątku. Podniesienie się po katastrofie zajmie dziesięciolecia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TSUNAMI_2_HELP</Tag><Polish>[ICON_BULLET]do %d1 budynków zniszczonych w mieście %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TSUNAMI_2_HELP</Tag><Polish>[ICON_BULLET]Liczba zniszczonych budynków: najwyżej %d1. Miasto: %s2_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UFO_1</Tag><Polish>Przesłuchiwać i strzelać do wszystkich, którzy wejdą na teren bazy. Do publicznej wiadomości przesłać fałszywe okoliczności śmierci tych osób, w skutek testów broni dalekiego zasięgu. To powinno trzymać opinię publiczną z daleka od tej strefy, a tajne projekty nie zostaną odkryte.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UFO_1</Tag><Polish>Przesłuchuj i rozstrzeliwuj każdego, kto wejdzie na teren bazy. Publikuj fałszywe raporty, że osoby te zginęły po wtargnięciu na poligon. To powinno odstraszyć ciekawskich i zachować nasze projekty w tajemnicy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UFO_2</Tag><Polish>Zaostrzyć ochronę i zdobyć informacje o każdym, kto zbliży się do naszej bazy bez autoryzacji. Nie podawać żadnej wiadomości o tajemniczych obiektach, ale niech ludzie fotografują teren z daleka.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UFO_2</Tag><Polish>Zaostrz ochronę i zbieraj informacje o każdym, kto zbliża się do bazy bez upoważnienia. Nie potwierdzaj żadnych obserwacji rzekomego UFO, ale pozwól ludziom fotografować teren z daleka.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UFO_3</Tag><Polish>Zbudować nową ukrytą bazę i przenieść tam wszystkie projekty badawcze, a następnie udostępnić starą bazę jako atrakcję turystyczną. Stworzyć w niej kilka fałszywych radioaktywnych artefaktów obcych i pokazać ludziom, że nie mamy niczego do ukrycia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UFO_3</Tag><Polish>Zbuduj nową, zakamuflowaną bazę główną i przenieś do niej wszystkie projekty badawcze. Starą bazę otwórz jako atrakcję turystyczną. Umieść w niej fałszywe radioaktywne przedmioty obcych, aby ludzie „zobaczyli”, że nie mamy nic do ukrycia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_UNHAPPY</Tag><Polish>[ICON_BULLET]%D1[ICON_UNHAPPY] we wszystkich miastach</Polish>
         </TEXT>
@@ -20409,29 +20409,29 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_UNHEALTH_CITY</Tag><Polish>[ICON_BULLET]%D1[ICON_UNHEALTHY] w mieście %s2_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_AT_THE_SWORD</Tag><Polish>Waleczni bohaterowie</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_AT_THE_SWORD</Tag><Polish>Bohaterowie miecza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_CLASS_PROMOTION</Tag><Polish>[ICON_BULLET]Każda jednostka typu [COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT] dostaje promocję  [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_CLASS_PROMOTION</Tag><Polish>[ICON_BULLET]Każda jednostka typu [COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT] otrzymuje awans: [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_COMBAT_PROMOTION</Tag><Polish>[ICON_BULLET]Wszystkie jednostki: %s1_units otrzymują promocję: [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_COMBAT_PROMOTION</Tag><Polish>[ICON_BULLET]Wszystkie jednostki z kategorii %s1_units otrzymują awans: [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_DISBAND</Tag><Polish>[ICON_BULLET]Jednostka: %s1_unit została utracona</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_DISBAND</Tag><Polish>[ICON_BULLET]Utrata jednostki: %s1_unit</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_EXPERIENCE</Tag><Polish>[ICON_BULLET]Jednostka: %s2_unit otrzymuje: %d1 EXP</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_EXPERIENCE</Tag><Polish>[ICON_BULLET]Jednostka (%s2_unit) otrzymuje %d1 PD</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_IMMOBILE</Tag><Polish>Twoja jednostka (%s1_unit) będzie niezdolna do ruchu przez %d2 [NUM2:tury:tur]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_IMMOBILE</Tag><Polish>Twoja jednostka (%s1_unit) nie może się poruszać (tury: %d2).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNIT_PROMOTION</Tag><Polish>[ICON_BULLET]Jednostka %s1_unit otrzymała promocję [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNIT_PROMOTION</Tag><Polish>[ICON_BULLET]Jednostka (%s1_unit) otrzymuje awans: [COLOR_HIGHLIGHT_TEXT]%s2_promotion[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNLIMITED_POWER_1</Tag><Polish>Burmistrz Twojego miasta zwraca się do Ciebie, "Powinniśmy skorzystać z tej energii by uszczęśliwić naszych obywateli. Dlaczego ma się zmarnować?"</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNLIMITED_POWER_1</Tag><Polish>Burmistrz zwraca się do ciebie: „Powinniśmy wykorzystać tę energię do ogrzewania mieszkańców mojego pięknego miasta. Po co ma się marnować?”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_UNLIMITED_POWER_2</Tag><Polish>Burmistrz delikatnie informuje, że inżynier może zapewnić energię elektryczną dla wszystkich miast na tym kontynencie z nowo powstałych generatorów energii geotermalnej, za pewną cenę, oczywiście.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_UNLIMITED_POWER_2</Tag><Polish>Niepozorny, ubrudzony sadzą inżynier delikatnie odsuwa burmistrza i oznajmia, że za pomocą nowatorskich generatorów geotermalnych może dostarczyć prąd wszystkim miastom na tym kontynencie. Oczywiście za odpowiednią cenę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT</Tag><Polish>Szczęśliwy gracz z miasta %s2_city strzelił jackpot.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT</Tag><Polish>Hazardzista z miasta %s2_city rozbił bank na Las Vegas Strip! Oczywiście nasi poborcy podatkowi są gotowi na właśnie taką okazję.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT_1</Tag><Polish>Wyślijcie Urząd Podatkowy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT_1</Tag><Polish>Wyślij poborców podatkowych z wizytą do szczęśliwego hazardzisty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT_2</Tag><Polish>Dobra Fortuna powinna być pozostawiona.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT_2</Tag><Polish>Niech cieszy się swoim szczęściem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_VEGAS_JACKPOT_OTHER_1</Tag><Polish>Szczęśliwy hazardzista z miasta %s2_city rozbił bank na Las Vegas Strip.</Polish>
         </TEXT>
@@ -20441,17 +20441,17 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
 	</TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_VIRTUE_CITY</Tag><Polish>+%d1 do uczciwości w mieście %s2, co zmniejsza korupcję.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_VOLCANO_1</Tag><Polish>Wyślij pomoc osobom, które przeżyły. Powinniśmy dziękować Bogu, że miasto ominęła katastrofa.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_VOLCANO_1</Tag><Polish>Wyślij ocalałym tyle pomocy, ile możemy. Cieszmy się, że samo miasto ocalało.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_VOLCANO_1_HELP</Tag><Polish>[ICON_BULLET]Ulepszenia terenu nieopodal miejsca erupcji ulegną zniszczeniu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_V_GER_1</Tag><Polish>Ludzkość nie może żyć wiecznie w kołysce.  Daj agencji kosmicznej tyle pieniędzy ile zażąda.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_V_GER_1</Tag><Polish>Ludzkość nie może wiecznie pozostawać w kołysce. Daj agencji kosmicznej całą kwotę, o którą prosi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_V_GER_2</Tag><Polish>Nasz budżet jest ograniczony, ale możemy zyskać więcej pieniędzy eksplorując kosmos. W tej chwili możemy sfinansować dwie sondy do odkrywania innych planet.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_V_GER_2</Tag><Polish>Budżet jest ograniczony, ale musimy znaleźć środki na badania kosmosu. Możemy sfinansować dwie sondy do zbadania planet zewnętrznych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_V_GER_3</Tag><Polish>To bardzo interesujący pomysł, ale nie mamy tylu pieniędzy. Musimy niestety odmówić!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_V_GER_4</Tag><Polish>Nie możemy marnować surowców na ten projekt! Powinniśmy ograniczyć finansowanie tego bezsensownego programu kosmicznego i przeznaczyć pieniądze na walkę z ubóstwem.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_V_GER_4</Tag><Polish>Nie możemy marnować zasobów na niepoważne projekty! Ogranicz finansowanie tego bezużytecznego programu kosmicznego i przeznacz pieniądze na „wojnę” z ubóstwem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WANDERING_TRIBES</Tag><Polish>Wędrowne plemiona</Polish>
 </TEXT>
@@ -20463,47 +20463,47 @@ Jednak wraz z jego rozwojem wśród twoich zwolenników narasta niezadowolenie.
 </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WANDERING_TRIBES_WORLD</Tag><Polish>Wędrowne plemiona spotkały się na ziemiach ludów nieznających granic.</Polish>
 </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_1</Tag><Polish>[PARAGRAPH:1]Nasi admirałowie postawili przed Rządem zadanie wybudowania znaczącej floty [COLOR_UNIT_TEXT]Trier[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_1</Tag><Polish>Okręty Pożogi[PARAGRAPH:1]Dowódcy marynarki powierzyli ci zadanie budowy licznej floty [COLOR_UNIT_TEXT]trier[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_DONE_1</Tag><Polish>Z tak wielką flotyllą okrętów liniowych dodatkowy trening jednostek we współdziałaniu jest wskazany.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_DONE_1</Tag><Polish>Tak duża flota wojenna umożliwia przeprowadzenie dodatkowego szkolenia załóg.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_DONE_2</Tag><Polish>Należy spożytkować naszą morską przewagę militarną do ochrony naszych szlaków handlowych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_DONE_2</Tag><Polish>Wykorzystaj naszą dominację na morzu do lepszej ochrony szlaków handlowych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wypełnić to zadanie należy wybudować %d1 [NUM1:jednostka:jednostki] [COLOR_UNIT_TEXT]Triera[COLOR_REVERT].[PARAGRAPH:1]Dodatkowa premia będzie osiągnięta jeśli twoja cywilizacja wybudowała [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Przegrasz, jeśli nie wypełnisz warunków zadania zanim ubiegnie cię inna cywilizacja, lub gdy wkroczysz nie ukończywszy go w epoce renesansu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WARSHIPS_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zbuduj [COLOR_UNIT_TEXT]triery[COLOR_REVERT] (liczba: %d1).[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna, jeśli to twoja cywilizacja zbudowała [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo osiągniesz renesans przed spełnieniem warunków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_1</Tag><Polish>Rydwany Bojowe[PARAGRAPH:1]Rząd został zobowiązany do wyszkolenia odpowiedniej ilości [COLOR_UNIT_TEXT]Rydwanów[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_1</Tag><Polish>Rydwany bojowe[PARAGRAPH:1]Dowódcy powierzyli ci zadanie wyszkolenia licznych oddziałów [COLOR_UNIT_TEXT]rydwanów[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_DONE_1</Tag><Polish>Z tak ogromną siłą Rydwanów współpracujących ze sobą, dodatkowy trening manewrów grupowych dla tych jednostek przyniesie zwiększenie ich siły uderzeniowej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_DONE_1</Tag><Polish>Tak liczne oddziały rydwanów mogą dzięki współdziałaniu przejść dodatkowe szkolenie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_DONE_2</Tag><Polish>Należy użyć naszej przewagi militarnej do rozszerzenia i rozprzestrzenienia naszej jedynie słusznej i prawdziwej wiary.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_DONE_2</Tag><Polish>Wykorzystaj naszą przewagę wojskową do szerzenia wiary.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wypełnić warunki zadania należy wytrenować %d1 [NUM1:jednostkę:jednostki] [COLOR_UNIT_TEXT]Rydwanów[COLOR_REVERT]. Potrzebne są Konie.[PARAGRAPH:1]Dostaniesz dodatkową premię jeśli twoja cywilizacja posiada religię państwową.[PARAGRAPH:1]Pregrasz to zadanie jeśli którakolwiek z innych cywilizacji ukończy je wcześniej, lub nie zdążysz wypełnić warunków przed nadejściem epoki klasycznej. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WAR_CHARIOTS_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, wyszkól jednostki [COLOR_UNIT_TEXT]rydwanów[COLOR_REVERT] (liczba: %d1). Potrzebne będzie źródło koni.[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna, jeśli twoja cywilizacja ma religię państwową.[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo osiągniesz antyk przed spełnieniem warunków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WAR_MEMORIAL_1</Tag><Polish>Będą pamiętać tak długo, jak nowe pomniki stoją.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WAR_MEMORIAL_1</Tag><Polish>Pamięć o nich przetrwa tak długo, jak będą stały nasze nowe pomniki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WAR_MEMORIAL_2</Tag><Polish>Nowe dodatki do naszych zabytków będą podziwiane przez mieszkańców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WAR_MEMORIAL_2</Tag><Polish>Nowe elementy naszych pomników nadal będą budzić podziw mieszkańców.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WASHED_OUT_1</Tag><Polish>Będziemy musieli wysłać robotników by naprawili w późniejszym czasie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WASHED_OUT_1</Tag><Polish>Będziemy musieli później wysłać robotników, aby naprawili szkody.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WASHED_OUT_2</Tag><Polish>Wyślij ekipy budowlane aby zapobiec zniszczeniom - pieniądze nie grają roli.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WASHED_OUT_2</Tag><Polish>Wyślij ekipy interwencyjne do naprawienia szkód, nie bacząc na koszty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WATERS_OF_LIFE_1</Tag><Polish>Czy to zwiększy ilość podróżnych w naszej oazie? Sądzę, że to dobra nowina. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WATERS_OF_LIFE_1</Tag><Polish>To przyciągnie więcej podróżnych do oazy? Brzmi dobrze.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_1</Tag><Polish>Wyślij życzenia wszystkiego najlepszego i przekaż symboliczny prezent ślubny, starając się nie irytować bardziej naszych sąsiadów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_2</Tag><Polish>Wyślij im serdeczne życzenia i przekaż hojny prezent ślubny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_2_HELP</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] W miastach, w których znajduje się religia %F3_religion przez %d2 [NUM2:turę:tury]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_2_HELP</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach z religią %F3_religion (tury: %d2)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_3</Tag><Polish>Ogłoś święto narodowe, wyślij niecodzienny prezent ślubny i daj hojny datek naszym religijnym organizacjom w imieniu nowożeńców. Istnieje duże prawdopodobieństwo, że nasze działania wywołają wojnę!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_3_HELP</Tag><Polish>[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] poprawienie stosunków z przywódcami wyznającymi religię %F2_religion</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_3_HELP</Tag><Polish>[ICON_BULLET]Stosunki ze wszystkimi przywódcami wyznającymi religię %F2_religion: [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_1</Tag><Polish>%s5_religion_adjective kapłan udzielił ślubu jednemu z naszych obywateli i jego partnerowi z cywilizacji %s1_civ_adjective, wydarzenie to rozwścieczyło naszych ludzi. Nasz przeciwnik nie wykazał zainteresowania małżeństwem i nie dał żadnych cennych prezentów, więc ludzie jedynie narzekają i szemrają.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_1</Tag><Polish>Podczas ślubu naszego obywatela obowiązywał obrządek %s5_religion_adjective. Małżeństwo z obywatelem państwa %s1_civ_adjective rozgniewało nasz lud. Rywale nie poświęcili jednak uroczystości szczególnej uwagi ani nie wręczyli wyjątkowych prezentów, więc mieszkańcy poprzestają na narzekaniu i złości.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_2</Tag><Polish>%s5_religion_adjective kapłan udzielił ślubu jednemu z naszych obywateli i jego partnerowi z cywilizacji cywilizacji %s1_civ_adjective, młoda para otrzymała hojny prezent ślubny od naszego rywala. Ludzie są oburzeni tą zniewagą wobec naszej religii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_2</Tag><Polish>Podczas ślubu naszego obywatela obowiązywał obrządek %s5_religion_adjective. Małżeństwo z obywatelem państwa %s1_civ_adjective otrzymało błogosławieństwo rywali i hojne prezenty. Nasz lud jest oburzony tą zniewagą wobec naszej wiary.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_3</Tag><Polish>%s5_religion_adjective kapłan udzielił ślubu jednemu z naszych obywateli i drugiemu z cywilizacji %s1_civ_adjective. Uroczystość została uhonorowana przez naszego rywala świętem narodowym, niecodziennymi prezentami ślubnymi i dotacją na swoje instytucje religijne. To znieważenie wiekowych tradycji religijnych oburzyło ludzi w naszym państwie. Może powinniśmy rozpocząć świętą wojnę przeciwko niewiernym?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WEDDING_FEUD_OTHER_3</Tag><Polish>Podczas ślubu naszego obywatela obowiązywał obrządek %s1_religion_adjective. Państwo %s2_civ, z którego pochodzi drugi małżonek, uczciło ten związek świętem narodowym, ekstrawaganckimi prezentami i datkami na własne instytucje religijne. Zniewaga wobec naszych tradycji religijnych oburzyła lud. Czy powinniśmy wypowiedzieć niewiernym świętą wojnę?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WHALEOFATHING_1</Tag><Polish>To dobra wiadomość dla naszej gospodarki.</Polish>
         </TEXT>
@@ -20524,71 +20524,71 @@ Niektórzy mieszkańcy twierdzą, że słyszeli, jak duchy wypowiadają ich imio
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WININGMONKS_2</Tag><Polish>Należy zobowiązać nasz rząd do natychmiastowej eksploatacji nowych zasobów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_BILLIONS_AND_BILLIONS_1</Tag><Polish>Edukacja w mieście %s2_city polepszyła się odkąd naukowiec rozpoczął produkcję lokalnego serialu telewizyjnego o astronomii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_BILLIONS_AND_BILLIONS_1</Tag><Polish>Poziom edukacji w mieście %s2_city wzrósł, odkąd naukowiec zaczął tworzyć miejscowy cykl programów telewizyjnych o astronomii.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_BILLIONS_AND_BILLIONS_2</Tag><Polish>Naukowiec polepszył poziom edukacji w całym imperium %s1_civ_adjective dzięki produkcji naukowych filmów w Hollywood.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_BILLIONS_AND_BILLIONS_2</Tag><Polish>Naukowiec podnosi poziom edukacji w całym państwie %s1_civ_adjective, tworząc popularne filmy o nauce w Hollywood. Sprzedaż sztruksowych marynarek sportowych gwałtownie rośnie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_BLACKBEARD</Tag><Polish>Zniesławiony pirat [COLOR_NEGATIVE_TEXT]Czarnobrody[COLOR_REVERT] atakuje flotę należącą do cywilizacji %s1_civ_adjective!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_BLACKBEARD</Tag><Polish>Osławiony pirat [COLOR_NEGATIVE_TEXT]Czarnobrody[COLOR_REVERT] atakuje statki państwa %s1_civ_adjective!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_CARNATION_REVOLUTION_1</Tag><Polish>Rząd %s1_civ_adjective upada pod naciskiem lewicowych wywrotowców. Zwiększa się powszechne poparcie dla reform.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_CARNATION_REVOLUTION_1</Tag><Polish>Rząd państwa %s1_civ_adjective rozprawia się z lewicowymi spiskowcami planującymi zamach stanu. Nasila się społeczna agitacja na rzecz reform.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_CARNATION_REVOLUTION_2</Tag><Polish>Ruch reformatorski w siłach zbrojnych cywilizacji %s1_civ_adjective dokonuje zamachu stanu. Rząd upada! Nowi przywódcy wzywają do pokoju z cywilizacją %s3_civ_adjective.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_CARNATION_REVOLUTION_2</Tag><Polish>Ruch reformatorski w siłach zbrojnych państwa %s1_civ_adjective dokonuje zamachu stanu. Rząd upada! Nowi przywódcy wzywają do pokoju z państwem %s3_civ_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_CROSSING_THE_RUBICON_1</Tag><Polish>Bunt wojska przeciwko Republice %s1_civ_adjective został pokonany przez lojalną frakcję -- przywódcy rebeliantów zostali straceni!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_CROSSING_THE_RUBICON_1</Tag><Polish>Lojaliści stłumili bunt armii przeciw republice ludu %s1_civ_adjective. Przywódcy rebelii zostali straceni!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_CROSSING_THE_RUBICON_2</Tag><Polish>Senat %s1_civ_adjective doprowadził do serii reform, które poprawiają cywilno-wojskowe relacje.  Generałowie donoszą, że są zadowoleni z osiągniętego kompromisu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_CROSSING_THE_RUBICON_2</Tag><Polish>Senat państwa %s1_civ_adjective ogłasza reformy mające poprawić stosunki między władzami cywilnymi a wojskiem. Według doniesień dowódcy są zadowoleni z kompromisu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_CROSSING_THE_RUBICON_3</Tag><Polish>Wojsko %s1_civ_adjective zbuntowało się -- rząd został obalony!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_CROSSING_THE_RUBICON_3</Tag><Polish>Niezadowolona jednostka armii państwa %s1_civ_adjective buntuje się. Rząd upada!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_CURE_FOR_CANCER_1</Tag><Polish>Naukowcy w mieście %s2_city opracowali nową terapię w leczeniu niektórych nowotworów. Polityka zachęcania do badań, stosowana przez cywilizację %s1_civ_adjective jest chwalona na całym świecie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_CURE_FOR_CANCER_1</Tag><Polish>Naukowcy w mieście %s2_city opracowali nową terapię niektórych rodzajów nowotworów. Polityka państwa %s1_civ_adjective wspierająca badania naukowe zyskuje uznanie na całym świecie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_DARWINS_VOYAGE_1</Tag><Polish>Badania w cywilizacji %s1_civ_adjective znacząco przyspieszyły po tym, jak jeden z ich naukowców opublikował nową teorię o początkach życia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_FIAT_MONEY_1</Tag><Polish>Skarb Państwa %s1_civ_adjective został zasilony "łatwymi pieniędzmi".  Analitycy obawiają się wysokiej inflacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_FIAT_MONEY_1</Tag><Polish>Skarb państwa %s1_civ_adjective ogłosił nową politykę „łatwego pieniądza”. Analitycy obawiają się kolejnej fali inflacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_FIAT_MONEY_2</Tag><Polish>Skarb Państwa %s1_civ_adjective odrzuca sugestie uzupełnienia deficytu budżetowego dodatkowymi pieniędzmi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_FIAT_MONEY_2</Tag><Polish>Skarb państwa %s1_civ_adjective odrzuca wezwania do pokrywania deficytu budżetowego przez zwiększanie podaży pieniądza.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_FREE_ENTERPRISE_1</Tag><Polish>Agencja kosmiczna %s1_civ_adjective rozpoczęła współpracę z prywatną korporacją przy budowie statku kosmicznego .</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_FREE_ENTERPRISE_1</Tag><Polish>Agencja kosmiczna państwa %s1_civ_adjective zaczęła zlecać budowę statków kosmicznych prywatnym przedsiębiorstwom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_GREEK_FIRE_1</Tag><Polish>Okręty %s1_civ_adjective przewożą teraz nową broń, która wystrzeliwuje pociski z łatwopalną cieczą. Woda nie ugasi jej płomieni a ich flota dzięki temu łatwiej zdominuje morza i oceany.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_GREEK_FIRE_1</Tag><Polish>Okręty państwa %s1_civ_adjective wyposażono w nową broń miotającą płonącą ciecz. Woda nie gasi jej płomieni, dzięki czemu flota może zdobyć przewagę na morzu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_HENRY_MORGAN</Tag><Polish>Osławiony pirat [COLOR_NEGATIVE_TEXT]Henry Morgan[COLOR_REVERT] atakuje flotę należącą do cywilizacji %s1_civ_adjective!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_ILLYRIAN_PIRATES</Tag><Polish>[COLOR_NEGATIVE_TEXT]Iliriańscy piraci[COLOR_REVERT] wypowiedzieli wojnę kupieckim statkom należącym do cywilizacji %s1_civ_adjective!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_ILLYRIAN_PIRATES</Tag><Polish>[COLOR_NEGATIVE_TEXT]Piraci iliryjscy[COLOR_REVERT] wypowiedzieli wojnę żegludze handlowej państwa %s1_civ_adjective!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_1</Tag><Polish>Rząd %s1_civ_adjective rozkazuje strajkącym robotnikom w mieście %s2_city natychmiastowe przerwanie protestu i powrót na stanowiska pracy; siły porządkowe zostają wysłane w celu zapewnienia wykonania rozkazu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_1</Tag><Polish>Rząd państwa %s1_civ_adjective nakazuje strajkującym robotnikom w mieście %s2_city zakończenie protestu i powrót do pracy. Oddziały milicji mają wyegzekwować wykonanie rozkazu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_2</Tag><Polish>Mediator rządu %s1_civ_adjective rozpoczyna negocjacje w celu zakończenia strajku.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_2</Tag><Polish>Mediator wyznaczony przez rząd państwa %s1_civ_adjective rozpoczyna negocjacje w sprawie zakończenia strajku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_3</Tag><Polish>Strajkujący robotnicy w cywilizacji %s1_civ_adjective zgadzają się ma powrót do pracy po tym, jak większość ich żądań zostaje spełniona.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_3</Tag><Polish>Strajkujący robotnicy w państwie %s1_civ_adjective zgadzają się wrócić do pracy po spełnieniu większości ich żądań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_4</Tag><Polish>Wojsko %s1_civ_adjective w mieście %s2_city otwiera ogień do strajkujących! Fabryka zostaje zniszczona, a na ulicach trwa zażarta walka między żołnierzami a robotnikami!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_4</Tag><Polish>Armia państwa %s1_civ_adjective otwiera ogień do strajkujących w mieście %s2_city! Fabryka zostaje zniszczona w zaciętej walce między żołnierzami a robotnikami!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_5</Tag><Polish>W mieście %s2_city trwają negocjacje z pracownikami.  Władze związkowe zarzekają się, że będą kontynuować strajk "do skutku".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_INDUSTRIAL_ACTION_5</Tag><Polish>Negocjacje w mieście %s2_city się przeciągają. Przywódcy związkowi zapowiadają, że strajk potrwa „tak długo, jak będzie trzeba”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_MALACCAN_PIRATES</Tag><Polish>[COLOR_NEGATIVE_TEXT]Mallakańscy Piraci[COLOR_REVERT] porwali kupiecki statek i uprowadzili żeglarzy na wodach należących do cywilizacji %s1_civ_adjective</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_MALACCAN_PIRATES</Tag><Polish>[COLOR_NEGATIVE_TEXT]Piraci z Malakki[COLOR_REVERT] uprowadzają statki handlowe i porywają marynarzy na wodach państwa %s1_civ_adjective!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_MORE_FIAT_MONEY_1</Tag><Polish>Skarb państwa %s1_civ_adjective po raz drugi z rzędu obniża stopy procentowe.  Dłużnicy świętują; oszczędzający nie podzielają ich entuzjazmu...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_MORE_FIAT_MONEY_2</Tag><Polish>Tłumy protestują przeciw decyzji rządu %s1_civ_adjective odnośnie redukcji etatów państwowych i ograniczeń wydatków z powodu dziury budżetowej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_MORE_FIAT_MONEY_2</Tag><Polish>Wielkie tłumy protestują przeciw decyzji rządu państwa %s1_civ_adjective o ograniczeniu wydatków i zwolnieniach pracowników państwowych z powodu niedoborów budżetowych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_PIRATES_OF_THE_NEUTRAL_ZONES</Tag><Polish>[COLOR_NEGATIVE_TEXT]Piraci[COLOR_REVERT] działają z kryjówki na neutralnym terenie oraz używają szybkich i niewykrywalnych statków! Ich ostatni kurs prowadził na wody należące do cywilizacji %s1_civ_adjective!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_PIRATES_OF_THE_NEUTRAL_ZONES</Tag><Polish>[COLOR_NEGATIVE_TEXT]Piraci[COLOR_REVERT] działający z ukrytych baz w strefach neutralnych używają teraz szybkich okrętów bojowych o obniżonej wykrywalności! Według ostatnich doniesień obrali kurs na wody państwa %s1_civ_adjective!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_REACTIVE_ARMOR_1</Tag><Polish>Armia %s1_civ_adjective przedłuża życie swoim starym czołgom poprzez uzbrojenie ich w reaktywny pancerz.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_REACTIVE_ARMOR_1</Tag><Polish>Armia państwa %s1_civ_adjective rozpoczęła program przedłużenia przydatności przestarzałych czołgów przez wyposażanie ich w pancerz reaktywny.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_STEDE_BONNET</Tag><Polish>Sławny pirat [COLOR_NEGATIVE_TEXT]Stede Bonnet[COLOR_REVERT] atakuje flotę należącą do cywilizacji %s1_civ_adjective!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_1</Tag><Polish>Cywilizacja %s1_civ_adjective rozpoczęła finansowanie badań nad pozyskaniem syntetycznego paliwa z węgla.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_1</Tag><Polish>Państwo %s1_civ_adjective finansuje naukowca pracującego nad sposobem otrzymywania syntetycznego paliwa samochodowego z węgla.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_2</Tag><Polish>Cywilizacja %s1_civ_adjective zapewniła ograniczone wsparcie finansowe dla badań nad paliwami syntetycznymi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_2</Tag><Polish>Państwo %s1_civ_adjective zapewnia ograniczone finansowanie badań nad paliwami syntetycznymi w mieście %s2_city.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_3</Tag><Polish>Cywilizacja %s1_civ_adjective odmówiła finansowania badań nad paliwami syntetycznymi; patrz strona 10.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_4</Tag><Polish>Cywilizacja %s1_civ_adjective ogłosiła przełom w badaniach nad paliwami! Miasto %s2_city prowadzi teraz sprzedaż syntetycznych paliw we wszystkich stacjach benzynowych znajdujących się w jego obrębie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_SYNTHETIC_FUELS_4</Tag><Polish>Państwo %s1_civ_adjective ogłasza wielki przełom w badaniach nad paliwami! Stacje benzynowe w mieście %s2_city wprowadzają do sprzedaży syntetyczne paliwo samochodowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_THE_BUCCANEERS_1</Tag><Polish>Ma miejsce olbrzymie powstanie barbarzyńców. Korsarze zamierzają splądrować skarby cywilizacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_THE_BUCCANEERS_1</Tag><Polish>Wybuchło wielkie powstanie barbarzyńców. Bukanierzy zamierzają splądrować bogactwa cywilizacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_THE_CORSAIRS</Tag><Polish>Statek należący do cywilizacji %s1_civ_adjective został zaatakowany przez [COLOR_NEGATIVE_TEXT]Korsarzy[COLOR_REVERT]!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_THE_CORSAIRS</Tag><Polish>Statki państwa %s1_civ_adjective znalazły się pod atakiem [COLOR_NEGATIVE_TEXT]korsarzy[COLOR_REVERT]!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_THE_GENERALS_PUTSCH_1</Tag><Polish>Lojalni żołnierze i obywatele %s1_civ_adjective, po patriotycznym wystąpieniu w mediach, rozbroili zbuntowanych żołnierzy w mieście %s2_city!</Polish>
         </TEXT>
@@ -20596,17 +20596,17 @@ Niektórzy mieszkańcy twierdzą, że słyszeli, jak duchy wypowiadają ich imio
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_WORLD_THE_GENERALS_PUTSCH_3</Tag><Polish>Zbuntowani generałowie w mieście %s2_city dokonali przewrotu!  Rząd %s1_civ_adjective został obalony!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_1</Tag><Polish>Agencja kosmiczna należąca do cywilizacji %s1_civ_adjective wystrzeliła serię sond, których zadaniem będzie eksploracja systemu słonecznego.  Astronomowie przygotowują się do odebrania i analizowania nadchodzących sygnałów transmisyjnych z tych sond.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_1</Tag><Polish>Agencja kosmiczna państwa %s1_civ_adjective wysłała serię automatycznych sond do zbadania Układu Słonecznego. Astronomowie czuwają przez całą dobę, aby odbierać i analizować nadchodzące dane.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_2</Tag><Polish>Agencja kosmiczna należąca do cywilizacji %s1_civ_adjective wystrzeliła dwie sondy, których zadaniem jest poszukiwanie gigantycznych asteroid gazowych w systemie słonecznym.  Astronomowie cieszą się z informacji jakie uzyskają z tego programu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_2</Tag><Polish>Agencja kosmiczna państwa %s1_civ_adjective wysłała dwie automatyczne sondy w podróż do gazowych olbrzymów zewnętrznej części Układu Słonecznego. Astronomowie cieszą się z informacji, które przyniesie ten program.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_3</Tag><Polish>Rząd %s1_civ_adjective odrzuca prośbę na dodatkowe finansowanie agencji kosmicznej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_3</Tag><Polish>Rząd państwa %s1_civ_adjective odrzuca prośbę agencji kosmicznej o dodatkowe finansowanie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_4</Tag><Polish>Rząd s1_civ_adjective drastycznie obcina finansowanie agencji kosmicznej, i zaoszczędzone pieniądze użyje w nowej "Walce z Ubóstwem".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_WORLD_V_GER_4</Tag><Polish>Rząd państwa %s1_civ_adjective drastycznie ogranicza finansowanie agencji kosmicznej. Oszczędności przeznaczy na nową „wojnę z ubóstwem”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_YIELD_CHANGE_PLOT</Tag><Polish>[ICON_BULLET]%s1 na polu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EWTRADE_STRATEGY</Tag><Polish>Zbuduj Siedzibę tej korporacji by otrzymać bonusy.</Polish>
+<TEXT><Tag>TXT_KEY_EWTRADE_STRATEGY</Tag><Polish>Załóż tę korporację, aby uzyskać premie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EXTENDED_GAME_NO_DESKTOP</Tag><Polish>(Wyjście do pulpitu)</Polish>
         </TEXT>
@@ -20614,9 +20614,9 @@ Niektórzy mieszkańcy twierdzą, że słyszeli, jak duchy wypowiadają ich imio
         </TEXT>
 <TEXT><Tag>TXT_KEY_EXTENDED_GAME_TITLE</Tag><Polish>Koniec historii...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EXTENDED_GAME_YES</Tag><Polish>Poczekaj! Jeszcze... tylko...jedną...turę...</Polish>
+<TEXT><Tag>TXT_KEY_EXTENDED_GAME_YES</Tag><Polish>Poczekaj! Jeszcze... tylko... jedną... turę...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_FASHION_STRATEGY</Tag><Polish>[TAB]Zbuduj siedzibę [COLOR_BUILDING_TEXT]Domu Mody[COLOR_REVERT]by utworzyć [COLOR_HIGHLIGHT_TEXT]Korporacje Domów Mody[COLOR_REVERT] która zużywa [COLOR_HIGHLIGHT_TEXT]Jedwab[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Bawełne[COLOR_REVERT],[COLOR_HIGHLIGHT_TEXT]Barwniki[COLOR_REVERT],[COLOR_HIGHLIGHT_TEXT]Owce[COLOR_REVERT] lub [COLOR_HIGHLIGHT_TEXT]Futro[COLOR_REVERT] i daje bonus do kultury każdemu miastu w którym znajduje się [COLOR_HIGHLIGHT_TEXT]Korporacja Domów Mody[COLOR_REVERT]. Siedziba zapewnia złoto dla każdego miasta w którym znajduje się ta korporacja.</Polish>
+<TEXT><Tag>TXT_KEY_FASHION_STRATEGY</Tag><Polish>[TAB]Zbuduj siedzibę [COLOR_BUILDING_TEXT]Domu Mody[COLOR_REVERT], aby założyć [COLOR_HIGHLIGHT_TEXT]korporację Dom Mody[COLOR_REVERT]. Zużywa ona [COLOR_HIGHLIGHT_TEXT]jedwab[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]bawełnę[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]barwniki[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]krowy[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]wełnę[COLOR_REVERT] lub [COLOR_HIGHLIGHT_TEXT]futro[COLOR_REVERT] i zwiększa kulturę każdego miasta, w którym działa [COLOR_HIGHLIGHT_TEXT]Dom Mody[COLOR_REVERT]. Siedziba otrzymuje złoto za każde miasto na świecie z oddziałem tej korporacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_FATAL_ERROR</Tag><Polish>Krytyczny błąd</Polish>
         </TEXT>
@@ -20628,7 +20628,7 @@ Niektórzy mieszkańcy twierdzą, że słyszeli, jak duchy wypowiadają ich imio
 		</TEXT>
 <TEXT><Tag>TXT_KEY_FEATURE_AUYANTEPUI_PEDIA</Tag><Polish>[TAB]Auyan-tepui to góra stołowa w wenezuelskim stanie Bolívar. Jest najczęściej odwiedzaną i jedną z największych gór typu tepui na Wyżynie Gujańskiej. Jej nierówny płaskowyż szczytowy ma kształt serca i jest silnie nachylony: od około 1600 metrów na północnym zachodzie wznosi się do 2450 metrów na południowym wschodzie. Od północy rozcina go rozległa dolina zwana Diabelskim Kanionem. Większa, zachodnia część płaskowyżu jest częściowo zalesiona, natomiast na wschodzie przeważa naga skała porośnięta jedynie płatami roślinności. W górze znajdują się rozbudowane systemy jaskiń.</Polish>
 		</TEXT>
-<TEXT><Tag>TXT_KEY_FEATURE_BAD_HEALTH</Tag><Polish>[NEWLINE][ICON_BULLET]%s1[ICON_UNHEALTHY] w sąsiednich miastach</Polish>
+<TEXT><Tag>TXT_KEY_FEATURE_BAD_HEALTH</Tag><Polish>[NEWLINE][ICON_BULLET]+%s1[ICON_UNHEALTHY] w pobliskich miastach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_FEATURE_BAIKAL</Tag><Polish>Bajkał</Polish>
 		</TEXT>
@@ -20646,7 +20646,7 @@ Niektórzy mieszkańcy twierdzą, że słyszeli, jak duchy wypowiadają ich imio
 		</TEXT>
 <TEXT><Tag>TXT_KEY_FEATURE_BASALT_ORGAN_PEDIA</Tag><Polish>[TAB]Strumień Jackson Creek, który łączy się z Deep Creek, dając początek rzece Maribyrnong, stopniowo wyżłobił głęboką dolinę w równinie z twardej, ciemnej skały bazaltowej. Odsłonił w ten sposób dawne formacje wulkaniczne, w tym sześciokątne słupy bazaltowe zwane „piszczałkami organowymi”. Warstwa lawy w dolinie strumienia ma około 70 metrów grubości. Gdy lawa stygła przez kilka lat, jej płynne wnętrze pozostawało odizolowane. Stopniowa utrata ciepła doprowadziła do utworzenia regularnych słupów bazaltu o jednolitym składzie.</Polish>
 		</TEXT>
-<TEXT><Tag>TXT_KEY_FEATURE_BIOGAS</Tag><Polish>Zakaźna mgła</Polish>
+<TEXT><Tag>TXT_KEY_FEATURE_BIOGAS</Tag><Polish>Zakaźny smog</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_FEATURE_BIOGAS_PEDIA</Tag><Polish>Syntetyczny wirus chroniony przed słońcem przez grubą warstwę smogu.</Polish>
         </TEXT>
@@ -20692,7 +20692,7 @@ Płytkie rafy koralowe bywają nazywane lasami deszczowymi mórz i należą do n
 		</TEXT>
 <TEXT><Tag>TXT_KEY_FEATURE_FUJI_PEDIA</Tag><Polish>[TAB]Fudżi, czynny wulkan, jest najwyższą górą Japonii. Wznosi się na około 12 000 stóp i często otulają go chmury, a jego słynną, ośnieżoną sylwetkę można dostrzec z Tokio. Majestatyczna góra stała się tematem niezliczonych wierszy, pieśni, fotografii, rzeźb i obrazów. Dla całej Japonii jest symbolem dumy i piękna.</Polish>
 		</TEXT>
-<TEXT><Tag>TXT_KEY_FEATURE_GOOD_HEALTH</Tag><Polish>[NEWLINE][ICON_BULLET]+%s1[ICON_HEALTHY] w sąsiednich miastach</Polish>
+<TEXT><Tag>TXT_KEY_FEATURE_GOOD_HEALTH</Tag><Polish>[NEWLINE][ICON_BULLET]+%s1[ICON_HEALTHY] w pobliskich miastach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_FEATURE_GRAND_CANYON</Tag><Polish>Wielki Kanion</Polish>
 	</TEXT>
