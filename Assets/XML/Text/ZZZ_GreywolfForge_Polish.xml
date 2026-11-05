@@ -1912,49 +1912,49 @@
         </TEXT>
 <TEXT><Tag>AI_DIPLO_WORST_ENEMY_TRADING_1</Tag><Polish>Zachęcamy cię do zaprzestania handlu z naszym zaciekłym wrogiem: [OUR_WORST_ENEMY]!</Polish>
         </TEXT>
-<TEXT><Tag>ASSUME_NOT_SNUFFED</Tag><Polish>Jaki wstyd. Moi dyplomaci cieszyli się z Twojej otwartości i wszystkiego co o Tobie usłyszeli.</Polish>
+<TEXT><Tag>ASSUME_NOT_SNUFFED</Tag><Polish>Szkoda. Moi dyplomaci cenili twoją otwartość i wszystko, czego dzięki niej się o tobie dowiedzieli.</Polish>
         </TEXT>
 <TEXT><Tag>ASSUME_REALLY_SNUFFED</Tag><Polish>Niech tak będzie. Ale nasze następne spotkanie może się odbyć na polu walki!</Polish>
         </TEXT>
-<TEXT><Tag>ASSUME_SNUFFED</Tag><Polish>Niech tak będzie. Ale jeśli będziemy potrzebować Cię przy stole, Twoja nieobecność będzie na Twoją nie korzyść.</Polish>
+<TEXT><Tag>ASSUME_SNUFFED</Tag><Polish>Niech tak będzie. Ale jeśli będziemy cię potrzebować przy stole rozmów, twoja nieobecność może zadziałać na twoją niekorzyść.</Polish>
         </TEXT>
 <TEXT><Tag>CHANGED_TXT_KEY_CORPORATION_2</Tag><Polish>Sushi Sida</Polish>
         </TEXT>
-<TEXT><Tag>CHANGED_TXT_KEY_MAIN_MENU_WARLORS</Tag><Polish>Scenariusze w Beyond the Sword</Polish>
+<TEXT><Tag>CHANGED_TXT_KEY_MAIN_MENU_WARLORS</Tag><Polish>Zawartość Beyond the Sword</Polish>
         </TEXT>
 <TEXT><Tag>CHANGED_TXT_KEY_UNIT_TRIREME_PEDIA</Tag><Polish>[TAB]Triery były starożytnymi galerami wojennymi z trzema rzędami wioseł po każdej burcie. Stanowiły rozwinięcie starszej pentekontery, która miała podobną konstrukcję, lecz tylko jeden rząd wioseł po każdej stronie. Zwykłe galery w Civilization IV to właśnie pentekontery. Naprzemienne rozmieszczenie stanowisk wioślarzy pozwalało pomieścić więcej ludzi na podobnej powierzchni, a przede wszystkim zapewniało większą siłę napędową i prędkość. Niektóre źródła starożytne wskazują, że triery istniały już w VIII wieku p.n.e., lecz pierwsza znana wzmianka o ich użyciu dotyczy wyprawy Polikratesa z Samos na Egipt w 525 r. p.n.e. W połowie V wieku p.n.e. były już powszechnie używane w całej Grecji.[PARAGRAPH:1]Typowa triera miała około 35 metrów długości. Pod dowództwem kapitana służyło na niej 170 wioślarzy, 20 członków załogi i 10 żołnierzy piechoty morskiej. Według starożytnych źródeł w walce mogła osiągnąć około 20 km/h, a przez dłuższy czas utrzymywać prędkość 13 km/h. Triery miały także żagle, lecz nie używano ich podczas bitwy. Główną bronią był taran: mocny, zaostrzony element drewniany, często obity metalem, wystający z dziobu na wysokości linii wodnej lub poniżej niej. Podstawowa taktyka polegała na rozpędzeniu okrętu i staranowaniu przeciwnika z siłą wystarczającą do przebicia kadłuba. Wymagało to ścisłej współpracy wioślarzy, ponieważ nawet jeden człowiek wypadający z rytmu mógł znacznie spowolnić jednostkę. Dlatego wioślarzami na greckich trierach nie byli niewolnicy, lecz dobrze wyszkoleni i opłacani wolni ludzie.[PARAGRAPH:1]Podczas wojen perskich Grecy pokonali flotę perską w rozstrzygającej bitwie pod Salaminą, korzystając z trier. Okręty te stanowiły również trzon floty ateńskiej podczas wojny peloponeskiej. W jej trakcie Sparta i jej sprzymierzeńcy zbudowali własną silną flotę trier. Wykorzystali ją w 404 r. p.n.e. pod Ajgospotamoj, gdzie Lizander zniszczył flotę Aten. Odcięcie miasta od handlu doprowadziło w końcu do jego kapitulacji z głodu.[PARAGRAPH:1]Triery zostały z czasem wyparte przez większe i szybsze kwinkweremy. Po latach do tej konstrukcji powrócili jednak Rzymianie. Nie mając poważnych przeciwników na morzu, woleli mniejsze i tańsze triery od kosztownych kwinkwerem.</Polish>
         </TEXT>
-<TEXT><Tag>CONCEPT_APOSTOLIC_PALACE</Tag><Polish>Pałac Apostolski / Zjednoczone Narody</Polish>
+<TEXT><Tag>CONCEPT_APOSTOLIC_PALACE</Tag><Polish>Pałac Apostolski / Organizacja Narodów Zjednoczonych</Polish>
         </TEXT>
-<TEXT><Tag>DELTA_TREND_ADVISOR_SIMPLE</Tag><Polish>+/-</Polish>
+<TEXT><Tag>DELTA_TREND_ADVISOR_SIMPLE</Tag><Polish>Trend</Polish>
         </TEXT>
 <TEXT><Tag>INTERFACE_ANARCHY</Tag><Polish>Anarchia!!! (%d1)</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_COMMERCE_RATE</Tag><Polish>%F1: %s2 (%D3/Tura)</Polish>
+<TEXT><Tag>INTERFACE_CITY_COMMERCE_RATE</Tag><Polish>%F1: %s2 (%D3/turę)</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_COMMERCE_RATE_FLOAT</Tag><Polish>%F1: %s2 (%s3/Tura)</Polish>
+<TEXT><Tag>INTERFACE_CITY_COMMERCE_RATE_FLOAT</Tag><Polish>%F1: %s2 (%s3/turę)</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_GREATPEOPLE_RATE</Tag><Polish>%F1: (%D2/Tura)</Polish>
+<TEXT><Tag>INTERFACE_CITY_GREATPEOPLE_RATE</Tag><Polish>%F1: (%D2/turę)</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_GROWING</Tag><Polish>Wzrasta (%d1 [NUM1:tura:tur])</Polish>
+<TEXT><Tag>INTERFACE_CITY_GROWING</Tag><Polish>Wzrost (tury: %d1)</Polish>
         </TEXT>
 <TEXT><Tag>INTERFACE_CITY_GROWTH</Tag><Polish>Wzrost!</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_HAPPY</Tag><Polish>			%d1[ICON_HAPPY] &gt;%d2[ICON_UNHAPPY]</Polish>
+<TEXT><Tag>INTERFACE_CITY_HAPPY</Tag><Polish>%d1[ICON_HAPPY] &gt; %d2[ICON_UNHAPPY]</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_HEALTH_GOOD</Tag><Polish>			%d1[ICON_HEALTHY] &gt;%d2[ICON_UNHEALTHY]</Polish>
+<TEXT><Tag>INTERFACE_CITY_HEALTH_GOOD</Tag><Polish>%d1[ICON_HEALTHY] &gt; %d2[ICON_UNHEALTHY]</Polish>
         </TEXT>
 <TEXT><Tag>INTERFACE_CITY_MAINTENANCE</Tag><Polish>Utrzymanie:</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_PRODUCTION</Tag><Polish>%s1 (%d2 [NUM2:Tura:Tur])</Polish>
+<TEXT><Tag>INTERFACE_CITY_PRODUCTION</Tag><Polish>%s1 (tury: %d2)</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_SHRINKING</Tag><Polish>[COLOR_YELLOW]Zmniejsza się (%d1 [NUM1:tura:tur])[COLOR_REVERT]</Polish>
+<TEXT><Tag>INTERFACE_CITY_SHRINKING</Tag><Polish>[COLOR_YELLOW]Spadek populacji (tury: %d1)[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>INTERFACE_CITY_STAGNANT</Tag><Polish>Stagnacja</Polish>
         </TEXT>
 <TEXT><Tag>INTERFACE_CITY_STARVING</Tag><Polish>[COLOR_WARNING_TEXT]GŁÓD![COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>INTERFACE_CITY_TURNS</Tag><Polish>(%d1 [NUM1:Tura:Tur])</Polish>
+<TEXT><Tag>INTERFACE_CITY_TURNS</Tag><Polish>(tury: %d1)</Polish>
         </TEXT>
 <TEXT><Tag>INTERFACE_GREAT_PERSON_NONE</Tag><Polish>%s1: Brak</Polish>
         </TEXT>
@@ -1970,57 +1970,57 @@
         </TEXT>
 <TEXT><Tag>LOCAL_REV_INDEX_ADVISOR_SIMPLE</Tag><Polish>Lokalny</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_EMBASSY_DEAL_WITH</Tag><Polish>Nasi ambasadorzy podpisali porozumienie w sprawie misji dyplomatycznej z %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_EMBASSY_DEAL_WITH</Tag><Polish>Nasi ambasadorzy zawarli umowę o ustanowieniu ambasad. Partner: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_OPEN_BORDERS_DEAL_WITH</Tag><Polish>Nasi ambasadorzy podpisali porozumienie w sprawie otwartych granic z %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_OPEN_BORDERS_DEAL_WITH</Tag><Polish>Nasi ambasadorzy zawarli umowę o otwartych granicach. Partner: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_TRIBUTE_DEAL_WITH</Tag><Polish>Nasi ambasadorzy oddali hołd %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_TRIBUTE_DEAL_WITH</Tag><Polish>Nasi ambasadorzy przekazali daninę. Odbiorca: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_UNIT_DEAL_WITH</Tag><Polish>Nasi ambasadorzy sprzedali jednostki do %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_AUTOMATIC_UNIT_DEAL_WITH</Tag><Polish>Nasi ambasadorzy sprzedali jednostki. Nabywca: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_REJECTED_EMBASSY_DEAL_WITH</Tag><Polish>Nasi ambasadorzy odrzucili porozumienie w sprawie misji dyplomatycznej z %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_REJECTED_EMBASSY_DEAL_WITH</Tag><Polish>Nasi ambasadorzy odrzucili propozycję ustanowienia ambasad. Druga strona: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_REJECTED_OPEN_BORDERS_DEAL_WITH</Tag><Polish>Nasi ambasadorzy odrzucili otwarte granice z %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_REJECTED_OPEN_BORDERS_DEAL_WITH</Tag><Polish>Nasi ambasadorzy odrzucili propozycję otwarcia granic. Druga strona: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_REJECTED_TRIBUTE_DEAL_WITH</Tag><Polish>Nasi ambasadorzy odrzucili hołd %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_REJECTED_TRIBUTE_DEAL_WITH</Tag><Polish>Nasi ambasadorzy odmówili przekazania daniny. Żądający: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>PLAYER_SIGNED_REJECTED_UNIT_DEAL_WITH</Tag><Polish>Nasi ambasadorzy zignorowali ofertę wymiany jednostek do %s1.</Polish>
+<TEXT><Tag>PLAYER_SIGNED_REJECTED_UNIT_DEAL_WITH</Tag><Polish>Nasi ambasadorzy zignorowali ofertę sprzedaży jednostek. Potencjalny nabywca: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>RESUME_TALKS</Tag><Polish>Jak chcesz. Odezwę się kiedy zacznie mi to pasować.</Polish>
+<TEXT><Tag>RESUME_TALKS</Tag><Polish>Jak sobie życzysz. Odezwę się, kiedy uznam to za stosowne.</Polish>
         </TEXT>
-<TEXT><Tag>RESUME_TALKS_GLADLY</Tag><Polish>Świetnie! Jest wiele rzeczy, które musisz nam zaoferować.</Polish>
+<TEXT><Tag>RESUME_TALKS_GLADLY</Tag><Polish>Świetnie! Masz nam wiele do zaoferowania.</Polish>
         </TEXT>
-<TEXT><Tag>RESUME_TALKS_RELUCTANT</Tag><Polish>Jeżeli się upierasz. Ale polubiłem twoją nieobecność.</Polish>
+<TEXT><Tag>RESUME_TALKS_RELUCTANT</Tag><Polish>Skoro nalegasz. Choć dobrze mi było bez twojego towarzystwa.</Polish>
         </TEXT>
 <TEXT><Tag>REVOLUTION_GRAPH_TITLE_SMALL</Tag><Polish>Niestabilność rewolucyjna</Polish>
         </TEXT>
 <TEXT><Tag>REVOLUTION_INDEX_ADVISOR_SIMPLE</Tag><Polish>Wsk. rewolucji</Polish>
         </TEXT>
-<TEXT><Tag>SYSTEM_END_TURN</Tag><Polish>			Naciśnij &lt;ENTER&gt;, aby zakończyć turę...</Polish>
+<TEXT><Tag>SYSTEM_END_TURN</Tag><Polish>Naciśnij &lt;ENTER&gt;, aby zakończyć turę...</Polish>
         </TEXT>
 <TEXT><Tag>SYSTEM_GAME_PAUSED</Tag><Polish>Gra zatrzymana przez %s1</Polish>
         </TEXT>
 <TEXT><Tag>SYSTEM_PLAYER_JOINING</Tag><Polish>%s1 (Gracz %d2) dołącza do gry. Proszę czekać...</Polish>
         </TEXT>
-<TEXT><Tag>SYSTEM_RETURN</Tag><Polish>			Naciśnij &lt;ENTER&gt; aby wrócić...</Polish>
+<TEXT><Tag>SYSTEM_RETURN</Tag><Polish>Naciśnij &lt;ESC&gt;, aby wrócić...</Polish>
         </TEXT>
-<TEXT><Tag>SYSTEM_WAITING</Tag><Polish>Czekanie na inne cywilizacje...</Polish>
+<TEXT><Tag>SYSTEM_WAITING</Tag><Polish>Oczekiwanie na inne cywilizacje...</Polish>
         </TEXT>
-<TEXT><Tag>SYSTEM_WAITING_FOR_PLAYER</Tag><Polish>Czekanie na: %s1 (Gracz %d2)</Polish>
+<TEXT><Tag>SYSTEM_WAITING_FOR_PLAYER</Tag><Polish>Oczekiwanie na: %s1 (gracz %d2)</Polish>
         </TEXT>
-<TEXT><Tag>SYSTEM_WAITING_FOR_YOU</Tag><Polish>Czekam, aż dokończysz swoją turę...</Polish>
+<TEXT><Tag>SYSTEM_WAITING_FOR_YOU</Tag><Polish>Oczekiwanie na zakończenie TWOJEJ tury...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_ACO_AttackModifiers</Tag><Polish>[NEWLINE][COLOR_POSITIVE_TEXT]Modyfikatory ataku:[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_AverageHP</Tag><Polish>[NEWLINE]Średnie HP:[SPACE]</Polish>
+<TEXT><Tag>TXT_ACO_AverageHP</Tag><Polish>[NEWLINE]Średnie PŻ:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_BarbFreeWinsLeft</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Darmowe zwycięstwa przeciw barbarzyńcą:[SPACE][COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_ACO_BarbFreeWinsLeft</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Pozostałe darmowe zwycięstwa nad barbarzyńcami:[SPACE][COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_ACO_Defeat</Tag><Polish>[COLOR_NEGATIVE_TEXT]Przegrana[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_DefenseModifiers</Tag><Polish>[NEWLINE][COLOR_NEGATIVE_TEXT]Modyfikator Obrony:[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_ACO_DefenseModifiers</Tag><Polish>[NEWLINE][COLOR_NEGATIVE_TEXT]Modyfikatory obrony:[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_GuaranteedNoDefenderHit</Tag><Polish>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Gwarantowane! Obrońca nie może wykonać uderzenia.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_ACO_GuaranteedNoDefenderHit</Tag><Polish>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Pewne! Obrońca nie może trafić.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_ACO_HP</Tag><Polish>PŻ</Polish>
         </TEXT>
@@ -2028,9 +2028,9 @@
         </TEXT>
 <TEXT><Tag>TXT_ACO_HitsAt</Tag><Polish>uderzenie w</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_INJURED_HP</Tag><Polish>%d1/%d2PŻ</Polish>
+<TEXT><Tag>TXT_ACO_INJURED_HP</Tag><Polish>%d1/%d2 PŻ</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_PressSHIFT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Naciśnij SHIFT po więcej informacji[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_ACO_PressSHIFT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Naciśnij SHIFT, aby zobaczyć więcej szczegółów[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_ACO_Retreat</Tag><Polish>[COLOR_UNIT_TEXT]Ucieczka[COLOR_REVERT]</Polish>
         </TEXT>
@@ -2042,7 +2042,7 @@
         </TEXT>
 <TEXT><Tag>TXT_ACO_Unharmed</Tag><Polish>[NEWLINE]Brak obrażeń:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_UnroundedXP</Tag><Polish>[NEWLINE]Nie zaokrąglone XP:[SPACE]</Polish>
+<TEXT><Tag>TXT_ACO_UnroundedXP</Tag><Polish>[NEWLINE]Niezaokrąglone PD:[SPACE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_ACO_VS</Tag><Polish>[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] przeciw [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]</Polish>
         </TEXT>
@@ -2050,7 +2050,7 @@
         </TEXT>
 <TEXT><Tag>TXT_ACO_Withdraw</Tag><Polish>[COLOR_POSITIVE_TEXT]Wycofanie[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ACO_XP</Tag><Polish>EXP</Polish>
+<TEXT><Tag>TXT_ACO_XP</Tag><Polish>PD</Polish>
         </TEXT>
 <TEXT><Tag>TXT_ADVISOR_BRIBE</Tag><Polish>Kliknij, aby przekupić</Polish>
         </TEXT>
@@ -2062,11 +2062,11 @@
         </TEXT>
 <TEXT><Tag>TXT_ADVISOR_IMPROVING</Tag><Polish>Poprawa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ADVISOR_POSITIVE</Tag><Polish>Pozytywne</Polish>
+<TEXT><Tag>TXT_ADVISOR_POSITIVE</Tag><Polish>Dobre</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ADVISOR_RAPIDLY_WORSENING</Tag><Polish>Szybki spadek</Polish>
+<TEXT><Tag>TXT_ADVISOR_RAPIDLY_WORSENING</Tag><Polish>Szybkie pogorszenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_ADVISOR_WORSENING</Tag><Polish>Spadek</Polish>
+<TEXT><Tag>TXT_ADVISOR_WORSENING</Tag><Polish>Pogorszenie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_APPIAN_BUILT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Via Appia[COLOR_REVERT] buduje brukowane drogi.</Polish>
         </TEXT>
@@ -2074,125 +2074,125 @@
         </TEXT>
 <TEXT><Tag>TXT_BUDDY_LIST_STAGING_LOC</Tag><Polish>W pokoju: "%s1_GameName"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_GOLDEN_SPIKE_BUILT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]The Golden Spike[COLOR_REVERT] buduje tory kolejowe.</Polish>
+<TEXT><Tag>TXT_GOLDEN_SPIKE_BUILT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Złoty Gwóźdź[COLOR_REVERT] tworzy połączenia kolejowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_HANDICAP_LEVEL</Tag><Polish>Poziom Trudności:</Polish>
+<TEXT><Tag>TXT_HANDICAP_LEVEL</Tag><Polish>Poziom trudności:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ABANDON_CITY</Tag><Polish>Porzuc miasto</Polish>
+<TEXT><Tag>TXT_KEY_ABANDON_CITY</Tag><Polish>Porzuć miasto</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ABANDON_CITY_HEADER1</Tag><Polish>Wybierz budynek do wyburzenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ABANDON_CITY_HEADER2</Tag><Polish>% jego produkcji zostanie dodane do skarbca.</Polish>
+<TEXT><Tag>TXT_KEY_ABANDON_CITY_HEADER2</Tag><Polish>% kosztu produkcji budynku zostanie zamienione na złoto.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ABANDON_UNHAPPINESS</Tag><Polish>+1 do niezadowolenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_ALL_UNITS</Tag><Polish>[SPACE](&lt;ALT&gt;dla wszystkich jednostek);</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_ALL_UNITS</Tag><Polish>[SPACE](&lt;ALT&gt; dla wszystkich jednostek)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_ASSASSIN_MISSION</Tag><Polish>Wyeliminuj jednostkę: %s1_unit za %d2[ICON_ESPIONAGE] (Szansa: %d3_percent%%).</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_ASSASSIN_MISSION</Tag><Polish>Wyeliminuj jednostkę: %s1_unit. Koszt: %d2[ICON_ESPIONAGE]. Szansa powodzenia: %d3_percent%%.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATEAIR_RECON_HELP</Tag><Polish>Jednostki Powietrzne będą automatycznie rozpoznawać wroga.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATEAIR_RECON_HELP</Tag><Polish>Automatycznie rozpoznaje pobliskie pozycje wroga.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRBOMB</Tag><Polish>Automatyczne Bombardowanie z Powietrza</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRBOMB</Tag><Polish>Automatyczne bombardowanie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRBOMB_HELP</Tag><Polish>Wyślij oddział aby atakował umocnienia wroga, ulepszenia i miasta gdzie to tylko możliwe.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRBOMB_HELP</Tag><Polish>Jednostka będzie atakować wrogie umocnienia, ulepszenia i miasta przy każdej sposobności.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRSTRIKE</Tag><Polish>Automatyczny atak powietrzny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRSTRIKE_HELP</Tag><Polish>Wyślij oddział aby atakował jednostki wroga gdzie to tylko możliwe.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIRSTRIKE_HELP</Tag><Polish>Jednostka będzie atakować wrogie oddziały przy każdej sposobności.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIR_RECON</Tag><Polish>Automatyczne Rozpoznawanie</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_AIR_RECON</Tag><Polish>Automatyczne rozpoznanie lotnicze</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BORDER_PATROL</Tag><Polish>Automatyczne patrolowanie granic</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BORDER_PATROL_HELP</Tag><Polish>Wyślij jednostkę do patrolowania i obrony granic</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BORDER_PATROL_HELP</Tag><Polish>Jednostka będzie patrolować granice twojej cywilizacji i niszczyć wkraczające na jej teren wrogie oddziały.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BUILD</Tag><Polish>Buduj ulepszenia (Automatycznie)</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BUILD</Tag><Polish>Buduj ulepszenia (automatycznie)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BUILD_HELP</Tag><Polish>Zautomatyzuj wszystkie prace [COLOR_UNIT_TEXT]Robotnika[COLOR_REVERT]. Będzie prowadził swoje prace, dopóki nie anulujesz rozkazów.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_BUILD_HELP</Tag><Polish>Automatyzuje wszystkie działania [COLOR_UNIT_TEXT]robotnika[COLOR_REVERT]. Jednostka będzie pracować, dopóki nie wyłączysz automatyzacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_PROMOTIONS</Tag><Polish>Anuluj Automatyczne Promocje</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_PROMOTIONS</Tag><Polish>Wyłącz automatyczne awanse</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_PROMOTIONS_HELP</Tag><Polish>Anuluj automatyczną promocję jednostek</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_PROMOTIONS_HELP</Tag><Polish>Anuluje rozkaz automatycznego wybierania awansów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_UPGRADING</Tag><Polish>Anuluj automatyczne ulepszanie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_UPGRADING_HELP</Tag><Polish>Anuluj automatyczne ulepszanie jednostek</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CANCEL_UPGRADING_HELP</Tag><Polish>Anuluje rozkaz automatycznego ulepszania jednostki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY</Tag><Polish>Ulepszaj obszar najbliższego miasta (automatycznie)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY_DEFENSE</Tag><Polish>Automatyczna Obrona Miasta</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY_DEFENSE</Tag><Polish>Automatyczna obrona miasta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY_DEFENSE_HELP</Tag><Polish>Będzie broniła miasta przed agresorami.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY_DEFENSE_HELP</Tag><Polish>Jednostka będzie chronić miasto przed pobliskimi napastnikami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY_HELP</Tag><Polish>Będzie pracował wokół najbliższego miasta. Przerwie pracę kiedy anulujesz rozkazy.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_CITY_HELP</Tag><Polish>Jednostka będzie ulepszać wyłącznie teren najbliższego miasta, dopóki nie wyłączysz automatyzacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_EXPLORE</Tag><Polish>Odkrywaj (Automatycznie)</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_EXPLORE</Tag><Polish>Odkrywaj (automatycznie)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_EXPLORE_HELP</Tag><Polish>Ten rozkaz spowoduje, że zostanie podjęta misja odkrywania nowych terenów. Przerwie pracę kiedy anulujesz rozkazy</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_EXPLORE_HELP</Tag><Polish>Jednostka będzie badać nieodkryte obszary mapy, dopóki nie zabraknie miejsc do zbadania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HUNT</Tag><Polish>Automatyczne Polowanie</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HUNT</Tag><Polish>Automatyczne polowanie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HUNT_HELP</Tag><Polish>Wyślij jednostkę do polowania oraz zniszczenia każdej jednostki którą znajdzie.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HUNT_HELP</Tag><Polish>Jednostka będzie tropić i niszczyć napotkane wrogie oddziały.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HURRY</Tag><Polish>Automatyczne Przyśpieszanie</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HURRY</Tag><Polish>Automatyczne przyspieszanie budowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HURRY_HELP</Tag><Polish>Wyślij jednostkę do przyśpieszenia konstrukcji w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_HURRY_HELP</Tag><Polish>Wysyła jednostkę, aby przyspieszyła budowę w pobliskim mieście.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NATIONAL_DEFENSE</Tag><Polish>Automatyczna Obrona Granic Imperium</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NATIONAL_DEFENSE</Tag><Polish>Automatyczna obrona kraju</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NATIONAL_DEFENSE_HELP</Tag><Polish>Będzie bronić Imperium przed Najeźdźcami.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NATIONAL_DEFENSE_HELP</Tag><Polish>Jednostka będzie chronić kraj przed najeźdźcami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NETWORK</Tag><Polish>Buduj sieć handlową (Automatycznie)</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NETWORK</Tag><Polish>Buduj sieć handlową (automatycznie)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NETWORK_HELP</Tag><Polish>Jednostka tworzy węzeł handlowy łączący wszystkie miasta i surowce. Przerwie pracę kiedy anulujesz rozkazy</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_NETWORK_HELP</Tag><Polish>Jednostka będzie tworzyć sieć handlową łączącą wszystkie twoje miasta i surowce, dopóki nie wyłączysz automatyzacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PILLAGE</Tag><Polish>Automatyczne plądrowanie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PILLAGE_HELP</Tag><Polish>Wyślij jednostkę do niszczenia ulepszeń wroga</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PILLAGE_HELP</Tag><Polish>Jednostka będzie wyszukiwać i niszczyć wrogie ulepszenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PIRATE</Tag><Polish>Automatyczne Piractwo</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PIRATE</Tag><Polish>Automatyczne piractwo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PIRATE_HELP</Tag><Polish>Wyślij jednostkę do plądrowania oraz atakowania osadników i transportów bez ochrony.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PIRATE_HELP</Tag><Polish>Jednostka będzie plądrować pobliskie osady i zatapiać słabe lub niechronione transportowce.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROMOTIONS</Tag><Polish>Automatyczne Promocje</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROMOTIONS</Tag><Polish>Automatyczne awanse</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROMOTIONS_HELP</Tag><Polish>Nadaje jednostce promocje automatycznie gdy tylko otrzyma awans.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROMOTIONS_HELP</Tag><Polish>Automatycznie wybiera awans, gdy jednostka może go otrzymać.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROTECT</Tag><Polish>Automatyczna Ochrona</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROTECT</Tag><Polish>Automatyczna ochrona</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROTECT_HELP</Tag><Polish>Pozwala wybranym jednostkom na ochronę oraz eskortę.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_PROTECT_HELP</Tag><Polish>Pozwala wybrać jednostkę, którą należy chronić i eskortować.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_RELIGION</Tag><Polish>Rozprzestrzeniaj automatycznie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_RELIGION_HELP</Tag><Polish>Rozkazuje jednostce samodzielnie rozprzestrzeniać religię lub zakładać oddziały korporacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADING</Tag><Polish>Automatyczne Ulepszanie Jednostek</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADING</Tag><Polish>Automatyczne ulepszanie jednostek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADING_HELP</Tag><Polish>Ulepsza jednostki gdy tylko to możliwe.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMATE_UPGRADING_HELP</Tag><Polish>Automatycznie ulepsza jednostkę do nowszego typu, gdy tylko jest to możliwe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_AUTOMOVES</Tag><Polish>Uruchamia automatyzację wszystkich ruchów</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_AUTOMOVES</Tag><Polish>Wykonaj wszystkie automatyczne ruchy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_BARE_MAP</Tag><Polish>Przełącz widok mapy</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_BARE_MAP</Tag><Polish>Włącz/wyłącz mapę bez oznaczeń</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_BARE_MAP_HELP</Tag><Polish>Ułatwia spojrzenie na krajobraz</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_BARE_MAP_HELP</Tag><Polish>Ułatwia oglądanie terenu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_BECOMES_IMP</Tag><Polish>[ICON_BULLET]Stanie się: %s1_ImpName za %d2_Num [NUM2:tura:tur].</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_BECOMES_IMP</Tag><Polish>[ICON_BULLET]Następny etap: [LINK=literal]%s1_ImpName[\LINK] (tury: %d2_Num)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_BOMB</Tag><Polish>Bomba</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_BOMB</Tag><Polish>Bombarduj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_BRIBE_BARBARIAN</Tag><Polish>Przekup Jednostkę Barbarzyńców</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_BRIBE_BARBARIAN</Tag><Polish>Przekup jednostkę barbarzyńców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_BUILDING_HURRY</Tag><Polish>[COLOR_WARNING_TEXT]Może przyspieszyć produkcję tylko budowli.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_BUILDING_HURRY</Tag><Polish>[COLOR_WARNING_TEXT]Może przyspieszać tylko budowę budynków.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CANCEL</Tag><Polish>Anuluj akcję</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CANNOT_FOUND</Tag><Polish>[COLOR_WARNING_TEXT]Niemożliwe w obrębie %d1_Num pól od miasta.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CANNOT_FOUND</Tag><Polish>[COLOR_WARNING_TEXT]Nie można założyć miasta w odległości do %d1_Num pól od innego miasta.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CANNOT_FOUND_CITY_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Nie możesz wybudować więcej miast niż %d1 ponieważ %s2[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CANNOT_FOUND_CITY_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Nie można założyć więcej niż %d1 miast. Powód: %s2.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CANNOT_SPREAD_NON_STATE_RELIGION</Tag><Polish>[COLOR_WARNING_TEXT]Nie można rozprzestrzenić religii innej niż państwowa [ICON_RELIGION] w tym mieście.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CENTER_SELECTION</Tag><Polish>Wypośrodkuj</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CENTER_SELECTION</Tag><Polish>Wyśrodkuj na zaznaczeniu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CHANCE_DISCOVER</Tag><Polish>[ICON_BULLET]Mała szansa na odkrycie:[SPACE]</Polish>
         </TEXT>
@@ -2200,85 +2200,85 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CHANGE_PRODUCTION</Tag><Polish>[ICON_BULLET]%D1_Change [ICON_PRODUCTION] w %s2_CityName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONNECTS_RESOURCES</Tag><Polish>[ICON_BULLET]Połączenie surowców z twoimi miastami.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONNECTS_RESOURCES</Tag><Polish>[ICON_BULLET]Łączy zagospodarowane surowce z twoimi miastami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONSUME_GREAT_PEOPLE</Tag><Polish>[COLOR_WARNING_TEXT]Powoduje stratę %d1_Num[ICON_GREATPEOPLE][COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONSUME_GREAT_PEOPLE</Tag><Polish>[COLOR_WARNING_TEXT]Zużywa %d1_Num[ICON_GREATPEOPLE][COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONSUME_UNIT</Tag><Polish>[COLOR_WARNING_TEXT]Spowoduje zlikwidowanie jednostki[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONSUME_UNIT</Tag><Polish>[COLOR_WARNING_TEXT]Zużywa jednostkę[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_AUTOMOVES_HELP</Tag><Polish>Zmusza wszystkie jednostki mające akcje w kolejce do wykonania ruchu.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_AUTOMOVES_HELP</Tag><Polish>Wykonuje ruchy wszystkich jednostek z zaplanowanymi rozkazami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_CENTER_SELECTION_HELP</Tag><Polish>Kamera na wybranej jednostce</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_CENTER_SELECTION_HELP</Tag><Polish>Ustawia kamerę na wybranej jednostce.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_CYCLES_UNIT_HELP</Tag><Polish>Przewija jednostki do takiej, która jeszcze nie wykonywała ruchu w tej turze.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_CYCLES_UNIT_HELP</Tag><Polish>Wybiera jednostkę, która nadal oczekuje na rozkaz w tej turze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_CYCLE_UNIT_ALT_HELP</Tag><Polish>Przewija jednostki do takiej, która jeszcze nie wykonywała ruchu w tej turze.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_CYCLE_UNIT_ALT_HELP</Tag><Polish>Wybiera jednostkę, która nadal oczekuje na rozkaz w tej turze.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CONTROL_ENDTURN_ALT_HELP</Tag><Polish>Koniec twojej tury.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CONTROL_ENDTURN_HELP</Tag><Polish>Koniec twojej tury.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_FORCE_ENDTURN_HELP</Tag><Polish>Wymusza zakończenie tury, mimo że nie wszystkie jednostki wykonały ruch.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_FORCE_ENDTURN_HELP</Tag><Polish>Kończy turę, nawet jeśli niektóre jednostki nadal czekają na rozkazy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CONTROL_LOAD_GAME_HELP</Tag><Polish>Pokazuje ekran ładowania gry.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_NEXT_CITY_HELP</Tag><Polish>Następny ekran miasta</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_NEXT_CITY_HELP</Tag><Polish>Przechodzi do ekranu następnego miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_NEXT_PLOT_UNIT_HELP</Tag><Polish>Następna jednostka na danym polu.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_NEXT_PLOT_UNIT_HELP</Tag><Polish>Wybiera następną jednostkę na tym polu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CONTROL_OPTIONS_SCREEN_HELP</Tag><Polish>Pokazuje ekran z opcjami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_PREVIOUS_CITY_HELP</Tag><Polish>Poprzedni ekran miasta.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_PREVIOUS_CITY_HELP</Tag><Polish>Przechodzi do ekranu poprzedniego miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_PREVIOUS_PLOT_UNIT_HELP</Tag><Polish>Poprzednia jednostka na danym polu.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_PREVIOUS_PLOT_UNIT_HELP</Tag><Polish>Wybiera poprzednią jednostkę na tym polu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_RETIRE_HELP</Tag><Polish>Zrezygnowanie z gry spowoduje, że w trybie wieloosobowym komputer przejmie cywilizacje gracza.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_RETIRE_HELP</Tag><Polish>Kończy twój udział w grze. W rozgrywce wieloosobowej SI przejmie twoją cywilizację.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_SAVE_GAME_HELP</Tag><Polish>Zapisuje grę</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_SAVE_GAME_HELP</Tag><Polish>Zapisuje grę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_CONTROL_SAVE_GROUP_HELP</Tag><Polish>Zapisuje grę na wszystkich komputerach (dla gry wieloosobowej).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CONTROL_WORKERS_HELP</Tag><Polish>Przewija jednostki do robotnika, który jeszcze nie wykonywał ruchu w tej turze.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CONTROL_WORKERS_HELP</Tag><Polish>Wybiera robotnika, który nadal czeka na rozkaz w tej turze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CORPORATION_COMPETING_HEADQUARTERS</Tag><Polish>[COLOR_WARNING_TEXT]Nie można zmienić oddziału korporacji (%s1_corporation) w siedzibę %s2_corporation[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CORPORATION_COMPETING_HEADQUARTERS</Tag><Polish>[COLOR_WARNING_TEXT]Nie można założyć oddziału korporacji %s1_corporation w siedzibie korporacji %s2_corporation.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CORPORATION_NOT_ACTIVE</Tag><Polish>[COLOR_WARNING_TEXT]Założenie oddziału korporacji (%s1_corporation) w granicach %s2:4_civ_adjective jest niemożliwe[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CORPORATION_NOT_ACTIVE</Tag><Polish>[COLOR_WARNING_TEXT]Nie można rozszerzać korporacji %s1_corporation w granicach ludu %s2_civ_adjective.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CORPORATION_NO_RESOURCES</Tag><Polish>[COLOR_WARNING_TEXT]%s1_city nie posiada dostępu do: %s2_bonus_list[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CORPORATION_NO_RESOURCES</Tag><Polish>[COLOR_WARNING_TEXT]Miasto %s1_city nie ma dostępu do następujących surowców: %s2_bonus_list[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CYCLE_CAMERA_FLYING_MODES</Tag><Polish>Przewijaj tryby kamery z lotu ptaka</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CYCLE_CAMERA_FLYING_MODES</Tag><Polish>Przełącz tryb swobodnej kamery</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CYCLE_UNITS</Tag><Polish>Przewijaj jednostki</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CYCLE_UNITS</Tag><Polish>Przełącz jednostkę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CYCLE_UNITS_ALT</Tag><Polish>Przewijaj jednostki (Alt)</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CYCLE_UNITS_ALT</Tag><Polish>Przełącz jednostkę (Alt)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_CYCLE_WORKERS</Tag><Polish>Przewijaj robotników</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_CYCLE_WORKERS</Tag><Polish>Przełącz robotnika</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_DEFENSE_MODIFIER</Tag><Polish>[ICON_BULLET]%D1%% do premii obronnej</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_DEFENSE_MODIFIER</Tag><Polish>[ICON_BULLET]%D1%% do obrony na polu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_DELETE</Tag><Polish>Skasuj jednostkę</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_DELETE</Tag><Polish>Rozwiąż jednostkę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_DESTROY_IMP</Tag><Polish>[ICON_BULLET]Zniszczono [COLOR_HIGHLIGHT_TEXT]%s1_ImpName[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_DESTROY_IMP</Tag><Polish>[ICON_BULLET]Niszczy: [COLOR_HIGHLIGHT_TEXT]%s1_ImpName[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_ENDTURN</Tag><Polish>Koniec tury</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_ENDTURN_ALT</Tag><Polish>Koniec tury (Alt)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_ESPIONAGE_MISSION</Tag><Polish>Jednostka może wykonać misje szpiegowskie jedynie po uzbieraniu odpowiedniej ilości punktów szpiegostwa oraz gdy pozostaje w określonym miejscu.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_ESPIONAGE_MISSION</Tag><Polish>Jednostka może wykonywać misje szpiegowskie w odpowiednim miejscu, jeśli gracz ma wystarczającą liczbę punktów szpiegostwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_EXTRA_CONSTRUCTION</Tag><Polish>%D1_Change[ICON_PRODUCTION] dla produkcji [COLOR_BUILDING_TEXT]%s2_BuildName[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_EXTRA_CONSTRUCTION</Tag><Polish>%D1_Change[ICON_PRODUCTION] do budowy: [COLOR_BUILDING_TEXT]%s2_BuildName[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_EXTRA_FOOD</Tag><Polish>%D1_Change[ICON_FOOD] z miasta [COLOR_BUILDING_TEXT]%s2[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_EXTRA_FOOD</Tag><Polish>%D1_Change[ICON_FOOD] w mieście [COLOR_BUILDING_TEXT]%s2[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_EXTRA_RESEARCH</Tag><Polish>%D1_NumResearch[ICON_RESEARCH] dla Badania: [COLOR_TECH_TEXT]%s2_TechName[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_EXTRA_RESEARCH</Tag><Polish>%D1_NumResearch[ICON_RESEARCH] do badań nad technologią: [COLOR_TECH_TEXT]%s2_TechName[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_FINISH_CONSTRUCTION</Tag><Polish>Ukończono: [COLOR_BUILDING_TEXT]%s1_BuildName[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_FINISH_CONSTRUCTION</Tag><Polish>Kończy budowę: [COLOR_BUILDING_TEXT]%s1_BuildName[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_FINISH_FOOD</Tag><Polish>W pełni zaopatrzony w żywność z [COLOR_BUILDING_TEXT]%s1[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_FINISH_FOOD</Tag><Polish>Całkowicie uzupełnia zapasy żywności miasta [COLOR_BUILDING_TEXT]%s1[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_FLAT_MOVEMENT_COST</Tag><Polish>[ICON_BULLET]Wszystkie jednostki mogą przebyć %d1 pól w ciągu tury.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_FLAT_MOVEMENT_COST</Tag><Polish>[ICON_BULLET]Ruch wszystkich jednostek: %d1 pól na turę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_FLYING_CAMERA</Tag><Polish>Przełącz kamerę</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_FLYING_CAMERA</Tag><Polish>Włącz/wyłącz swobodną kamerę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_FORCE_DELETE</Tag><Polish>Rozwiąż jednostkę</Polish>
         </TEXT>
@@ -2286,39 +2286,39 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_GIFT</Tag><Polish>Podaruj jednostkę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_GOES_TO_CIV</Tag><Polish>[ICON_BULLET]Idzie do:[SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_GOES_TO_CIV</Tag><Polish>[ICON_BULLET]Odbiorca:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_GOODWILL</Tag><Polish>Poprawia stosunki z cywilizacją.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_GOODWILL</Tag><Polish>Poprawia nastawienie rywala do ciebie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_GRID</Tag><Polish>Włącz/wyłącz siatkę mapy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_GRID_HELP</Tag><Polish>Przełącza siatkę wł/wył</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_GRID_HELP</Tag><Polish>Włącza lub wyłącza siatkę pól.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_INFILTRATE_MISSION_FOREIGN</Tag><Polish>[COLOR_WARNING_TEXT]Misja wywiadowcza może zostać wykonana jedynie w obcym mieście.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_IRRIGATED</Tag><Polish>Nawodnione</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_ISOMETRIC_CAMERA_LEFT</Tag><Polish>Obróć kamerę o 45 Stopni w Lewo</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_ISOMETRIC_CAMERA_LEFT</Tag><Polish>Obróć kamerę o 45 stopni w lewo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_ISOMETRIC_CAMERA_RIGHT</Tag><Polish>Obróć kamerę o 45 stopni w Prawo</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_ISOMETRIC_CAMERA_RIGHT</Tag><Polish>Obróć kamerę o 45 stopni w prawo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_LASTUNIT</Tag><Polish>Przewijaj jednostki (cofaj)</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_LASTUNIT</Tag><Polish>Przełącz jednostkę (wstecz)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_LEAD_TROOPS</Tag><Polish>Dodaje %d1_Num doświadczenia wszystkim jednostkom znajdującym się na tym samym polu</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_LEAD_TROOPS</Tag><Polish>Rozdziela łącznie %d1_Num PD między jednostki na tym samym polu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_LOAD</Tag><Polish>Wczytaj</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_LOAD</Tag><Polish>Załaduj</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_LOAD_GAME</Tag><Polish>Wczytaj grę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_MORE_GREAT_PEOPLE</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga więcej %d1_Num [ICON_GREATPEOPLE][COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_MORE_GREAT_PEOPLE</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga jeszcze %d1_Num [ICON_GREATPEOPLE][COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_MOUSE_FLYING_CAMERA</Tag><Polish>Odblokuj poruszanie kamerą przez mysz</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_MOUSE_FLYING_CAMERA</Tag><Polish>Odblokuj sterowanie swobodną kamerą za pomocą myszy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_MOVEMENT_COST</Tag><Polish>[ICON_BULLET]Koszt ruchu 1/%d1 punktów ruchu.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_MOVEMENT_COST</Tag><Polish>[ICON_BULLET]Koszt ruchu: 1/%d1 punktu ruchu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_NEEDS_CULTURE_BORDER</Tag><Polish>[COLOR_WARNING_TEXT]Musi znajdować się w obrębie Granic Kulturowych.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_NEEDS_CULTURE_BORDER</Tag><Polish>[COLOR_WARNING_TEXT]Musi znajdować się w naszych granicach kulturowych.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_NEEDS_OUT_RIVAL_CULTURE_BORDER</Tag><Polish>[COLOR_WARNING_TEXT]Musi być poza granicami kulturalnymi rywala.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_NEEDS_OUT_RIVAL_CULTURE_BORDER</Tag><Polish>[COLOR_WARNING_TEXT]Musi znajdować się poza granicami kulturowymi rywala.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_NEXT_CITY</Tag><Polish>Następne miasto</Polish>
         </TEXT>
@@ -2328,9 +2328,9 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_NUKE</Tag><Polish>ATAK NUKLEARNY</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_NUM_TURNS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%d1_Num[COLOR_REVERT] [NUM1:Tura:Tur]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_NUM_TURNS</Tag><Polish>Tury: [COLOR_HIGHLIGHT_TEXT]%d1_Num[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_ONLY_HOLY_CONSTRUCT</Tag><Polish>[COLOR_WARNING_TEXT]Może być zbudowany tylko w %F1_RelIcon Świętym Mieście [COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_ONLY_HOLY_CONSTRUCT</Tag><Polish>[COLOR_WARNING_TEXT]Można zbudować tylko w świętym mieście religii %F1_RelIcon.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_OPTIONS_SCREEN</Tag><Polish>Ekran opcji</Polish>
         </TEXT>
@@ -2338,9 +2338,9 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_PING</Tag><Polish>Wskaż miejsce</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_PING_HELP</Tag><Polish>Sygnalizuje miejsce by zwrócić uwagę drużyny.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_PING_HELP</Tag><Polish>Oznacza pole, aby zwrócić na nie uwagę członków drużyny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_PLUNDER_IN_BORDERS</Tag><Polish>[COLOR_WARNING_TEXT]Musi być poza granicami kulturalnymi.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_PLUNDER_IN_BORDERS</Tag><Polish>[COLOR_WARNING_TEXT]Musi znajdować się poza granicami kulturowymi.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_PREVIOUS_CITY</Tag><Polish>Poprzednie miasto</Polish>
         </TEXT>
@@ -2352,9 +2352,9 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_PROVIDES_BONUS</Tag><Polish>[ICON_BULLET]Dostarcza: [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_QUICK_LOAD</Tag><Polish>Szybkie Wczytanie Gry</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_QUICK_LOAD</Tag><Polish>Szybkie wczytanie gry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_QUICK_SAVE</Tag><Polish>Szybki Zapis Gry</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_QUICK_SAVE</Tag><Polish>Szybki zapis gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_REMOVE_FEATURE</Tag><Polish>[COLOR_WARNING_TEXT]Usunie: %s1_FeatName[COLOR_REVERT]</Polish>
         </TEXT>
@@ -2372,7 +2372,7 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_SCORES</Tag><Polish>Włącz/wyłącz okno punktacji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SCORES_HELP</Tag><Polish>Przełącza widok wyniku.</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SCORES_HELP</Tag><Polish>Włącza lub wyłącza widok punktacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_SELECT_CAPITAL</Tag><Polish>Wybierz stolicę</Polish>
         </TEXT>
@@ -2380,71 +2380,71 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_SELECT_UNIT_ALL</Tag><Polish>Wybierz wszystkie jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SELECT_UNIT_TYPE</Tag><Polish>Wybierz wszystkie (Jednakowego typu)</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SELECT_UNIT_TYPE</Tag><Polish>Wybierz wszystkie jednostki tego typu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_SHOW_CIVICS_SCREEN</Tag><Polish>Zmień doktrynę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SHOW_CIVICS_SCREEN_HELP</Tag><Polish>Pokazuje ekran doktryn</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SHOW_CIVICS_SCREEN_HELP</Tag><Polish>Wyświetla ekran doktryn.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SHOW_CORPORATION_SCREEN</Tag><Polish>Doradca ds. Korporacji</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SHOW_CORPORATION_SCREEN</Tag><Polish>Doradca do spraw korporacji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SHOW_CORPORATION_SCREEN_HELP</Tag><Polish>Wyświetl ekran korporacji</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SHOW_CORPORATION_SCREEN_HELP</Tag><Polish>Wyświetla ekran korporacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_SHOW_RELIGION_SCREEN</Tag><Polish>Zmień religię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SHOW_RELIGION_SCREEN_HELP</Tag><Polish>Pokazuje ekran religii</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SHOW_RELIGION_SCREEN_HELP</Tag><Polish>Wyświetla ekran religii.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SHOW_RESOURCES_HELP</Tag><Polish>Ułatwia szukanie surowców</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SHOW_RESOURCES_HELP</Tag><Polish>Ułatwia znajdowanie surowców.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_SIGN</Tag><Polish>Znacznik</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_SIGN_HELP</Tag><Polish>Dodaj specjalny znacznik w sektorze, który będzie widzialny tylko dla członków zespołu</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_SIGN_HELP</Tag><Polish>Dodaje na wybranym polu znacznik widoczny dla ciebie i członków twojej drużyny.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_STOP_AUTOMATION</Tag><Polish>Zatrzymaj automatyzację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_TOP_DOWN_CAMERA</Tag><Polish>Przełącz kamerę na widok z dołu</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_TOP_DOWN_CAMERA</Tag><Polish>Włącz/wyłącz widok z góry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_TRADE_MISSION_FOREIGN</Tag><Polish>[COLOR_WARNING_TEXT]Może podjąć misję handlową jedynie w mieście należącym do innej cywilizacji.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_UNIT_ICONS</Tag><Polish>Przełączaj widzialność wrogich jednostek</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_UNIT_ICONS</Tag><Polish>Włącz/wyłącz wyświetlanie wrogich jednostek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_UNLOAD</Tag><Polish>Zejdź na ląd</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_UNLOAD</Tag><Polish>Wyładuj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_WAKE_WHEN_READY</Tag><Polish>Zostanie obudzony gdy zostanie zebrana maksymalna ilość pkt szpiegostwa</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_WAKE_WHEN_READY</Tag><Polish>Jednostka wznowi aktywność po zgromadzeniu maksymalnej możliwej liczby punktów szpiegostwa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ACTION_WILL_DESTROY_IMP</Tag><Polish>[COLOR_WARNING_TEXT]Zniszczy: %s1_ImpName[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_WILL_ELIMINATE_CORPORATION</Tag><Polish>[ICON_BULLET]Wykup filie korporacji %s1_corporation w tym mieście</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_WILL_ELIMINATE_CORPORATION</Tag><Polish>[ICON_BULLET]Wykupuje oddział korporacji %s1_corporation w tym mieście.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_YIELDS</Tag><Polish>Pokaż widok zasobów</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_YIELDS</Tag><Polish>Włącz/wyłącz wydajność pól</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTION_YIELDS_HELP</Tag><Polish>Przełącz żywność / produkcja / handel</Polish>
+<TEXT><Tag>TXT_KEY_ACTION_YIELDS_HELP</Tag><Polish>Włącza lub wyłącza ikony żywności, produkcji i handlu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ACTUAL_EFFECTS</Tag><Polish>Bieżące</Polish>
+<TEXT><Tag>TXT_KEY_ACTUAL_EFFECTS</Tag><Polish>Rzeczywiste</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADDED_BUDDY_IMAGE_TEXT</Tag><Polish>ŻĄDANIE ZNAJOMEGO</Polish>
+<TEXT><Tag>TXT_KEY_ADDED_BUDDY_IMAGE_TEXT</Tag><Polish>ZAPROSZENIE DO ZNAJOMYCH</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADDED_BUDDY_PROMPT</Tag><Polish>Czy chciałbyś dodać: %s1_BuddyName do listy znajomych?</Polish>
+<TEXT><Tag>TXT_KEY_ADDED_BUDDY_PROMPT</Tag><Polish>Gracz %s1_BuddyName chce dodać cię do swojej listy znajomych. Zgadzasz się?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADDED_BUDDY_TITLE</Tag><Polish>Żądanie znajomego</Polish>
+<TEXT><Tag>TXT_KEY_ADDED_BUDDY_TITLE</Tag><Polish>Zaproszenie do znajomych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADDRESS_REQUIRED_DESC</Tag><Polish>Wymagany ważny adres internetowy.</Polish>
+<TEXT><Tag>TXT_KEY_ADDRESS_REQUIRED_DESC</Tag><Polish>Wymagany jest prawidłowy adres internetowy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADDRESS_REQUIRED_TITLE</Tag><Polish>Brak adresu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADD_BUDDY_HELP_TEXT</Tag><Polish>Do osoby dodanej do listy możesz przesyłać krótkie wiadomości</Polish>
+<TEXT><Tag>TXT_KEY_ADD_BUDDY_HELP_TEXT</Tag><Polish>Po dodaniu osoby do listy znajomych możesz wysyłać jej prywatne wiadomości.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADD_BUDDY_IMAGE_TEXT</Tag><Polish>DODAJ ZNAJOMEGO</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADD_BUDDY_NAME_TITLE</Tag><Polish>Dodaj znajomego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADD_BUDDY_REQ_TITLE</Tag><Polish>ŻĄDANIE ZNAJOMEGO</Polish>
+<TEXT><Tag>TXT_KEY_ADD_BUDDY_REQ_TITLE</Tag><Polish>ZAPROSZENIE DO ZNAJOMYCH</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADD_BUDDY_TAG</Tag><Polish>Dodaj znajomego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADD_MEMBER_AS_BUDDYHELP</Tag><Polish>Aby móc przeprowadzić rozmowę ze znajomym musisz go najpierw dodać do listy. Czy chcesz dodać: %s1_Name do listy znajomych?</Polish>
+<TEXT><Tag>TXT_KEY_ADD_MEMBER_AS_BUDDYHELP</Tag><Polish>Aby rozpocząć prywatny czat, musisz najpierw dodać gracza do znajomych. Czy dodać teraz gracza %s1_Name?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADJUSTS_INFLATION</Tag><Polish>[ICON_BULLET]%d1%% do Inflacji</Polish>
+<TEXT><Tag>TXT_KEY_ADJUSTS_INFLATION</Tag><Polish>[ICON_BULLET]%d1%% do inflacji</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADVANCED_START_BEGIN_GAME</Tag><Polish>Start!</Polish>
         </TEXT>
@@ -2452,7 +2452,7 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADVANCED_START_POINTS_HELP</Tag><Polish>Złoto, które otrzymujesz na starcie, aby zakupić miasta, jednostki i ulepszenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ADVENTURE_STRATEGY</Tag><Polish>Zbuduj tą korporacje by zdobyć bonusy z podróży.</Polish>
+<TEXT><Tag>TXT_KEY_ADVENTURE_STRATEGY</Tag><Polish>Załóż tę korporację, aby otrzymywać premie związane z przygodami.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADVISOR_CULTURE</Tag><Polish>Kultura</Polish>
         </TEXT>
@@ -2466,19 +2466,19 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ADVISOR_SCIENCE</Tag><Polish>Nauka</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_ABDICATE</Tag><Polish>Starość dała w końcu znać o sobie i zadecydowałeś zrzec się tronu.</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_ABDICATE</Tag><Polish>Starość w końcu daje o sobie znać. Postanawiasz zrzec się władzy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_AUTOMATION</Tag><Polish>Wybierz tryb autogry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_CANCEL</Tag><Polish>Anuluj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_CIV_DIED</Tag><Polish>Twoja cywilizacja upadła.[NEWLINE]Czy chcesz przewodzić inną cywilizacją?[NEWLINE]</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_CIV_DIED</Tag><Polish>Twoja cywilizacja upadła.[NEWLINE]Czy chcesz przejąć władzę nad inną cywilizacją?[NEWLINE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_DEBUG</Tag><Polish>Tryb Debugowy (odkryje cały świat!!!)</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_DEBUG</Tag><Polish>Tryb debugowania (odsłania cały świat!)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_FULLY</Tag><Polish>Pełna automatyzacja</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_GOOD_NEWS</Tag><Polish>[NEWLINE][NEWLINE]Pomimo tego, są i dobre wieści![NEWLINE]Mistycy głoszą, że za %d tur dostąpisz reinkarnacji i powrócisz do władzy.[NEWLINE][NEWLINE]W międzyczasie, możesz tylko mieć nadzieję, że Twój następca dobrze się spisze.</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_GOOD_NEWS</Tag><Polish>[NEWLINE][NEWLINE]Są jednak i dobre wieści![NEWLINE]Mistycy zapowiadają twoje odrodzenie i powrót do władzy. Pozostało tur: %d.[NEWLINE][NEWLINE]Do tego czasu możesz tylko liczyć na to, że twój następca okaże się godny stanowiska.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_NEW_LEADER</Tag><Polish>Mamy nowego przywódcę!!!</Polish>
         </TEXT>
@@ -2486,11 +2486,11 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_NONE</Tag><Polish>Brak</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_OF_THE</Tag><Polish>%s %s</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_OF_THE</Tag><Polish>%s (%s)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_PICK_CIV</Tag><Polish>Wybierz cywilizację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_TAKE_CONTROL_CIV</Tag><Polish>Przejmij kontrolę nad tą cywilizacją ...</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_TAKE_CONTROL_CIV</Tag><Polish>Przejmij kontrolę nad tą cywilizacją...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_TURNS</Tag><Polish>Ile tur SI ma kontrolować twoją cywilizację?</Polish>
         </TEXT>
@@ -2498,65 +2498,65 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_AIAUTOPLAY_UNIT</Tag><Polish>Automatyzuj tylko ruchy jednostek (nie w pełni przetestowane)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AIAUTOPLAY_USURPATOR</Tag><Polish>Okropne wieści:[NEWLINE][NEWLINE]Rywale obalili cię w zamachu stanu![NEWLINE]Może pozwoliłeś im za dużo wolności?</Polish>
+<TEXT><Tag>TXT_KEY_AIAUTOPLAY_USURPATOR</Tag><Polish>Okropne wieści:[NEWLINE][NEWLINE]Knujący rywale obalili cię w zamachu stanu![NEWLINE]Może zbyt często słyszeli od ciebie: „Niech jedzą ciastka”?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ALL_CLIMATES</Tag><Polish>Wszystkie klimaty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ALL_DIFFICULTIES</Tag><Polish>Wszystkie poz. trudności</Polish>
+<TEXT><Tag>TXT_KEY_ALL_DIFFICULTIES</Tag><Polish>Wszystkie poziomy trudności</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ALL_ERAS</Tag><Polish>Wszystkie epoki</Polish>
+<TEXT><Tag>TXT_KEY_ALL_ERAS</Tag><Polish>Wszystkie epoki początkowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ALL_GAME_SPEEDS</Tag><Polish>Prędkości gry</Polish>
+<TEXT><Tag>TXT_KEY_ALL_GAME_SPEEDS</Tag><Polish>Wszystkie prędkości gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ALL_LEADERS</Tag><Polish>Wszyscy przywódcy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ALL_SEA_LEVELS</Tag><Polish>Wszystkie poziomy wody</Polish>
+<TEXT><Tag>TXT_KEY_ALL_SEA_LEVELS</Tag><Polish>Wszystkie poziomy mórz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ALL_VICTORIES</Tag><Polish>Wszystkie zwycięstwa</Polish>
+<TEXT><Tag>TXT_KEY_ALL_VICTORIES</Tag><Polish>Wszystkie rodzaje zwycięstwa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ALL_WORLD_SIZES</Tag><Polish>Wszystkie rozmiary świata</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ALREADY_BUDDY_DESC</Tag><Polish>Próbujesz dodać istniejącego znajomego.</Polish>
+<TEXT><Tag>TXT_KEY_ALREADY_BUDDY_DESC</Tag><Polish>Ta osoba jest już na twojej liście znajomych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ALREADY_BUDDY_TITLE</Tag><Polish>Już jest znajomym</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANARCHY_TURNS</Tag><Polish>%d1 [NUM1:Tura:Tur] rewolucji</Polish>
+<TEXT><Tag>TXT_KEY_ANARCHY_TURNS</Tag><Polish>Rewolucja (tury: %d1)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AND</Tag><Polish>[SPACE]i[SPACE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AND_SPACE</Tag><Polish>[SPACE]i[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AND_UNITS_PER_TILE</Tag><Polish>%d1 Jednostek na Pole</Polish>
+<TEXT><Tag>TXT_KEY_AND_UNITS_PER_TILE</Tag><Polish>Jednostki na pole: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_ANARCHY</Tag><Polish>"Twoja cywilizacja pogrążyła się w anarchii!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_ANARCHY</Tag><Polish>„Nasza cywilizacja pogrążyła się w anarchii!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_ARGH</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „AAAARRRGHHHH!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_BAD_ENTERTAINMENT</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Nie lubimy takiej rozrywki!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_BIG_CITY</Tag><Polish>+%d1_Change[ICON_UNHAPPY] : "Wielkie miasta są Przygnębiające!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_BIG_CITY</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Wielkie miasta nas przytłaczają!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_BONUS</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Niektóre towary są niezadowalające!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_BONUS</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Niektóre towary nas unieszczęśliwiają!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_BUILDINGS</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Drażnią nas niektóre budynki!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_DEFY_RESOLUTION</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Cały świat uważa, że jesteś łajdakiem! "</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_DEFY_RESOLUTION</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Świat uważa cię za łajdaka!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_DEMAND_CIVIC</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Żądamy %s2_Name!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_DEMAND_CIVIC</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Żądamy tej doktryny: %s2_Name!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_DRAFT</Tag><Polish>No tag or error : (</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_DRAFT</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Nie ma mowy! Nie pójdziemy do wojska!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_ESPIONAGE</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Obywatele potępiają Twoją podłość!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_ESPIONAGE</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Docierają do nas wieści o twojej nikczemności!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_FEATURES</Tag><Polish>+%d1_Change[ICON_UNHAPPY] : "Niektóre udoskonalenia czynią nas niezadowolonymi!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_FEATURES</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Niektóre ulepszenia nas unieszczęśliwiają!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_HANDICAP</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "My po prostu jesteśmy "trudną" społecznością!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_HANDICAP</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Po prostu lubimy narzekać!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_MILITARY_PRESENCE</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Niepokoi nas obecność wojska!"</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_MILITARY_PROTECTION</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Nie czujemy się bezpiecznie. Żądamy ochrony wojskowej!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_OCCUPIED</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Pragniemy powrócić do naszej Ojczyzny!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_OCCUPIED</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Pragniemy wrócić do naszej ojczyzny!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_OPPRESSION</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Nie możemy zapomnieć waszych okrucieństw!"</Polish>
         </TEXT>
@@ -2570,11 +2570,11 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_STATE_RELIGION</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Domagamy się zmiany religii państwowej!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_TOO_MANY_CITIES</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: Ekspansje naszego nieudolnego rządu powodują u nas niezadowolenie</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_TOO_MANY_CITIES</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: Próby nadmiernej ekspansji naszego nieudolnego rządu budzą niezadowolenie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ANGER_TOTAL_UNHAPPY</Tag><Polish>Poziom niezadowolenia: %d1_Num[ICON_UNHAPPY]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ANGER_WAR_WEAR</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: "Wojna nie jest niczym dobrym!"</Polish>
+<TEXT><Tag>TXT_KEY_ANGER_WAR_WEAR</Tag><Polish>+%d1_Change[ICON_UNHAPPY]: „Wojna... Po co komu ona? Zupełnie po nic... Ech!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_APOSTOLIC_PALACE_RESIDENT</Tag><Polish>Rezydent Pałacu Apostolskiego</Polish>
         </TEXT>
@@ -2588,77 +2588,77 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_ATTITUDE_FURIOUS</Tag><Polish>Wściekły</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ATTITUDE_MASTER_OF</Tag><Polish>Pan %s1_player</Polish>
+<TEXT><Tag>TXT_KEY_ATTITUDE_MASTER_OF</Tag><Polish>Zwierzchnik gracza %s1_player</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ATTITUDE_PLEASED</Tag><Polish>Uprzejmy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_ATTITUDE_TOWARDS</Tag><Polish>%s1_attitude wobec %s2_leader</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_ATTITUDE_VASSAL_OF</Tag><Polish>Wasal cywilizacji należącej do: %s1_CivDesc</Polish>
+<TEXT><Tag>TXT_KEY_ATTITUDE_VASSAL_OF</Tag><Polish>Wasal państwa: %s1_CivDesc</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AT_WAR_WITH</Tag><Polish>[ICON_BULLET][COLOR_YELLOW]Wojna z %s1_player[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AT_WAR_WITH_YOU</Tag><Polish>[ICON_BULLET][COLOR_YELLOW]Jesteś w stanie wojny![COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_AD</Tag><Polish>[SPACE]N.E.</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_AD</Tag><Polish>[SPACE]n.e.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_AFTER_END_TURN</Tag><Polish>Po Zakończeniu Tury:</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_AFTER_END_TURN</Tag><Polish>Po zakończeniu tury:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_ANOTHER_CIV_ELIMINATED</Tag><Polish>Inna cywilizacja została wyeliminowana</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_ATTITUDE_CHANGE</Tag><Polish>Zmiana Relacji: %s1 do %s2, z '%s3' na '%s4'</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_ATTITUDE_CHANGE</Tag><Polish>Zmiana nastawienia gracza %s1 wobec gracza %s2: z „%s3” na „%s4”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_BATTLE_STATS</Tag><Polish>Statystyki Bitwy:</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_BATTLE_STATS</Tag><Polish>Statystyki walk:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_BATTLE_STATS_WRITTEN</Tag><Polish>Statystyki bitwy zostały zapisane do rejestru i zresetowane</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_BC</Tag><Polish>[SPACE]P.N.E</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_BC</Tag><Polish>[SPACE]p.n.e.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_CITY_CAPTURED</Tag><Polish>Zdobyto miasto: %s1 (%s2)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_EXPANDED</Tag><Polish>Rozszerzyły się granice miasta: %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_EXPANDED</Tag><Polish>Miasto %s1 rozszerza granice.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_FLIPPED</Tag><Polish>Miasto: %s1 (%s2) zostało przejęte poprzez wysoką kulturę</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_FLIPPED</Tag><Polish>Miasto %s1 (%s2) zmienia właściciela pod wpływem kultury.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_CITY_FOUNDED</Tag><Polish>Założono miasto: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_GROWS</Tag><Polish>Miasto: %s1 wzrasta do wielkości: %d2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_GROWS</Tag><Polish>Miasto %s1 osiąga wielkość %d2.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_CITY_LOST</Tag><Polish>Stracono miasto: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_PRODUCES_BUILDING</Tag><Polish>Miasto: %s1 rozpoczyna budowę: %s2 (%d3 tur)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_PRODUCES_BUILDING</Tag><Polish>Miasto %s1 rozpoczyna produkcję: %s2 (tury: %d3)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_PRODUCES_UNIT</Tag><Polish>Miasto: %s1 rozpoczyna budowę: %s2 (%d3 tur)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_PRODUCES_UNIT</Tag><Polish>Miasto %s1 rozpoczyna produkcję: %s2 (tury: %d3)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_CITY_RAZED</Tag><Polish>Zburzono miasto: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_RAZED_BY</Tag><Polish>Miasto: %s1 zostało zburzone przez: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_RAZED_BY</Tag><Polish>Miasto %s1 zburzono. Sprawca: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_TRADED</Tag><Polish>Miasto: %s1 (%s2) zostało przejęte poprzez umowę handlową</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CITY_TRADED</Tag><Polish>Przejęto miasto %s1 (%s2) w ramach wymiany.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CIVIC_CHANGE</Tag><Polish>Zmiana Doktryny: %s1 z '%s2' na '%s3'</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CIVIC_CHANGE</Tag><Polish>Zmiana doktryny u gracza %s1: z „%s2” na „%s3”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_CIV_ELIMINATED</Tag><Polish>Wyeliminowano: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_COMMERCE_GOLD_SLIDERS</Tag><Polish>%d1%% %s2: %d3 na turę, %d4 w banku</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_COMMERCE_GOLD_SLIDERS</Tag><Polish>%d1%% %s2: %d3 na turę, %d4 w skarbcu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_COMMERCE_OTHER_SLIDERS</Tag><Polish>%d1%% %s2: %d3 na turę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CONSCRIPT</Tag><Polish>Zastosowano pobór: %s1 w mieście: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CONSCRIPT</Tag><Polish>Pobór jednostki: %s1. Miasto: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_FOUNDED</Tag><Polish>%s1 założono w mieście: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_FOUNDED</Tag><Polish>Założono korporację %s1 w mieście %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_REMOVED_IN</Tag><Polish>%s1 wycofuje się z miasta: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_REMOVED_IN</Tag><Polish>Korporacja %s1: usunięto oddział. Miasto: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_REMOVED_OUT</Tag><Polish>%s1 wycofuje się z miasta: %s2 (%s3)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_REMOVED_OUT</Tag><Polish>Korporacja %s1: usunięto oddział. Miasto: %s2 (%s3).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_SPREAD_IN</Tag><Polish>%s1 rozprzestrzenia się w mieście: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_SPREAD_IN</Tag><Polish>Korporacja %s1: powstał oddział. Miasto: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_SPREAD_OUT</Tag><Polish>%s1 rozprzestrzenia się w mieście: %s2 (%s3)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_CORP_SPREAD_OUT</Tag><Polish>Korporacja %s1: powstał oddział. Miasto: %s2 (%s3).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_CUSTOM_ENTRY</Tag><Polish>Wprowadź własny wpis</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_DECLARES_WAR</Tag><Polish>%s1 wypowiada wojnę przeciwko: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_DECLARES_WAR</Tag><Polish>%s1 wypowiada wojnę. Przeciwnik: %s2.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_DIPLO_CITY_OFFER</Tag><Polish>Dyplomacja: %s1 (%s2) proponuje przekazać miasto: %s3. Odbiorca: %s4 (%s5).</Polish>
         </TEXT>
@@ -2702,23 +2702,23 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_DRAFT_ANGER_DECREASED</Tag><Polish>Niezadowolenie z poboru zmalało w mieście: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_ENTER_LOG_NAME</Tag><Polish>Wpisz nową lub istniejącą nazwę pliku</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_ENTER_LOG_NAME</Tag><Polish>Wpisz nazwę nowego lub istniejącego pliku dziennika.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_FINISH_BUILDING</Tag><Polish>W mieście: %s1 ukończono budynek: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_FINISH_BUILDING</Tag><Polish>Miasto %s1 ukończyło budynek: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_FINISH_PROJECT</Tag><Polish>W mieście: %s1 ukończono projekt: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_FINISH_PROJECT</Tag><Polish>Miasto %s1 ukończyło projekt: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_FINISH_UNIT</Tag><Polish>W mieście: %s1 ukończono jednostkę: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_FINISH_UNIT</Tag><Polish>Miasto %s1 wyszkoliło jednostkę: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_FIRST_CONTACT_PLAYER</Tag><Polish>Kontakt nawiązany(Gracz): %s1 of %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_FIRST_CONTACT_PLAYER</Tag><Polish>Nawiązano kontakt z graczem %s1. Cywilizacja: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_FIRST_CONTACT_TEAM</Tag><Polish>Kontakt nawiązany(Grupa): %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_FIRST_CONTACT_TEAM</Tag><Polish>Nawiązano kontakt z drużyną: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_GOLDENAGE_BEGINS</Tag><Polish>Rozpoczyna się Złoty Wiek</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_GOLDENAGE_BEGINS</Tag><Polish>Rozpoczyna się złoty wiek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_GOLDENAGE_ENDS</Tag><Polish>Kończy się Złoty Wiek</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_GOLDENAGE_ENDS</Tag><Polish>Kończy się złoty wiek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_GP_BORN</Tag><Polish>%s1 narodził się w %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_GP_BORN</Tag><Polish>Narodziny wielkiej postaci: %s1. Miasto: %s2.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT</Tag><Polish>%s1</Polish>
         </TEXT>
@@ -2726,87 +2726,87 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED</Tag><Polish>Zniszczono: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED_BY_GOLD</Tag><Polish>[SPACE]zostało zniszczone przez %s1 %s2 (%d3 gold)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED_BY_GOLD</Tag><Polish>[SPACE]- zniszczenie przez %s1 %s2 (złoto: %d3)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED_BY_NOGOLD</Tag><Polish>[SPACE]zostało zniszczone przez %s1 %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_DESTROYED_BY_NOGOLD</Tag><Polish>[SPACE]- zniszczenie przez %s1 %s2</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_UNKNOWN</Tag><Polish>Udoskonalenie</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_IMPROVEMENT_UNKNOWN</Tag><Polish>Ulepszenie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_IN_TERRITORY</Tag><Polish>na terytorium: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_IN_TERRITORY_AT</Tag><Polish>%s1 przy  %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_IN_TERRITORY_AT</Tag><Polish>%s1 przy %s2</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_IN_TERRITORY_NEAR</Tag><Polish>%s1 w pobliżu %s2</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_IN_THE_WILD</Tag><Polish>w dziczy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_JUST_OFF_SHORE</Tag><Polish>na wybrzeżu</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_JUST_OFF_SHORE</Tag><Polish>tuż przy brzegu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_LOGGING_GAME</Tag><Polish>Rejestruj Grę do Pliku: %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_LOGGING_GAME</Tag><Polish>Zapisywanie przebiegu gry do pliku: %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_NEAR</Tag><Polish>[SPACE]w pobliżu miasta: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_NO_LOGGING</Tag><Polish>Nie Loguj tej Gry</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_NO_LOGGING</Tag><Polish>Bez zapisywania przebiegu tej gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_NO_STATE_RELIGION</Tag><Polish>brak religii państwowej</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_ON_A_LAKE</Tag><Polish>na jeziorze</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_ON_THE_HIGH_SEAS</Tag><Polish>na głębokim morzu</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_ON_THE_HIGH_SEAS</Tag><Polish>na pełnym morzu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_OTHER_PLAYER_ACTIONS</Tag><Polish>Inne Akcje Gracza:</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_OTHER_PLAYER_ACTIONS</Tag><Polish>Działania innych graczy:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_PEACE_TREATY</Tag><Polish>%s1 i %s2 podpisali traktat pokojowy</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_PEACE_TREATY</Tag><Polish>%s1 i %s2: podpisano traktat pokojowy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_POPUP_ANSWERS</Tag><Polish>OK dla TAK, Anuluj dla NIE</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_POPUP_ANSWERS</Tag><Polish>Wybierz OK, aby potwierdzić, lub Anuluj, aby odmówić.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_POPUP_QUESTION</Tag><Polish>Czy chcesz rejestrować przebieg tej gry?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_PROMOTION</Tag><Polish>%s1 promował jednostkę: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_PROMOTION</Tag><Polish>Awans: %s1 (%s2)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_CHANGE</Tag><Polish>Zmiana religii państwowej: %s1 z '%s2' na '%s3'</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_CHANGE</Tag><Polish>Zmiana religii państwowej u gracza %s1: z „%s2” na „%s3”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_FOUNDED</Tag><Polish>%s1 założono w mieście: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_FOUNDED</Tag><Polish>Założono korporację %s1 w mieście %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_REMOVED_IN</Tag><Polish>%s1 wycofuje się z: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_REMOVED_IN</Tag><Polish>Religia %s1: usunięta z miasta %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_REMOVED_OUT</Tag><Polish>%s1 wycofuje się z miasta: %s2 (%s3)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_REMOVED_OUT</Tag><Polish>Korporacja %s1: usunięto oddział. Miasto: %s2 (%s3).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_SPREAD_IN</Tag><Polish>%s1 rozprzestrzenia się w mieście: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_SPREAD_IN</Tag><Polish>Korporacja %s1: powstał oddział. Miasto: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_SPREAD_OUT</Tag><Polish>%s1 rozprzestrzenia się w mieście: %s2 (%s3)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RELIGION_SPREAD_OUT</Tag><Polish>Korporacja %s1: powstał oddział. Miasto: %s2 (%s3).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_RESEARCH_BEGUN</Tag><Polish>Badanie rozpoczęte: %s1 (%d2 Tur)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_RESEARCH_BEGUN</Tag><Polish>Rozpoczęto badania: %s1 (tury: %d2)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_ROUTE</Tag><Polish>%s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_TECH_ACQUIRED</Tag><Polish>Uzyskano technologię (handel, chatka, szpiegostwo, inne): %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_TECH_ACQUIRED</Tag><Polish>Uzyskano technologię przez handel, wielką postać, wioskę lub szpiegostwo: %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_TECH_RESEARCHED</Tag><Polish>Zakończono badanie technologii: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_TECH_TRADED</Tag><Polish>Wymiana technologii: %s2 na technologię: %s1 </Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_TECH_TRADED</Tag><Polish>Technologia przekazana graczowi %s1: %s2</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_TURN</Tag><Polish>Tura %s1 (%s2) [%s3]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_DEFEATED_ATTACKING</Tag><Polish>Jednostki zniszczone (atakujące): %d1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_DEFEATED_ATTACKING</Tag><Polish>Jednostki pokonane podczas ataku: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_DEFEATED_DEFENDING</Tag><Polish>Jednostki zniszczone (broniące się): %d1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_DEFEATED_DEFENDING</Tag><Polish>Jednostki pokonane podczas obrony: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_ESCAPING_ATTACKING</Tag><Polish>Jednostki uciekające (atakujące): %d1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_ESCAPING_ATTACKING</Tag><Polish>Jednostki, które uciekły podczas ataku: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_VICTORIOUS_ATTACKING</Tag><Polish>Jednostki zwycięskie (atakujące):</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_VICTORIOUS_ATTACKING</Tag><Polish>Jednostki zwycięskie podczas ataku: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_VICTORIOUS_DEFENDING</Tag><Polish>Jednostki zwycięskie (broniące się): %d1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_VICTORIOUS_DEFENDING</Tag><Polish>Jednostki zwycięskie podczas obrony: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_WITHDRAWING_ATTACKING</Tag><Polish>Jednostki wycofujące się (atakujące): %d1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_UNITS_WITHDRAWING_ATTACKING</Tag><Polish>Jednostki, które wycofały się podczas ataku: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_VASSAL_BECOMES</Tag><Polish>%s1 staje się Wasalem: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_VASSAL_BECOMES</Tag><Polish>%s1 staje się państwem wasalnym. Zwierzchnik: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_VASSAL_REVOLTS</Tag><Polish>%s1 buntuje się i nie jest dłużej Wasalem: %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_VASSAL_REVOLTS</Tag><Polish>%s1 buntuje się i zrywa zależność wasalną. Dotychczasowy zwierzchnik: %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_VILLAGE_RESULT</Tag><Polish>Rezultat z wioski plemiennej: %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_VILLAGE_RESULT</Tag><Polish>Wynik wizyty w wiosce plemiennej: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_VILLAGE_RESULT_HEALING</Tag><Polish>uzdrowienie</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_VILLAGE_RESULT_HEALING</Tag><Polish>leczenie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_VILLAGE_RESULT_LITTLEGOLD</Tag><Polish>trochę złota</Polish>
         </TEXT>
@@ -2832,63 +2832,63 @@
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOLOG_VILLAGE_RESULT_XP</Tag><Polish>doświadczenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_DECIMATES</Tag><Polish>Podczas ataku, %s1 dziesiątkuje %s2 %s3 (Szansa Zwycięstwa: %s4%s5)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_DECIMATES</Tag><Polish>Podczas ataku %s1 dziesiątkuje %s2 %s3 (szansa zwycięstwa: %s4%s5)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_DEFEATS</Tag><Polish>Podczas ataku %s1, %s2 (%s3/%d4) pokonuje %s5 %s6 (Szansa Zwycięstwa: %s7%s8)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_DEFEATS</Tag><Polish>Podczas ataku %s1, %s2 (%s3/%d4) pokonuje %s5 %s6 (szansa zwycięstwa: %s7%s8)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_ESCAPES</Tag><Polish>Podczas ataku, %s1 ucieka od %s2 %s3 (Szansa Zwycięstwa: %s4%s5)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_ESCAPES</Tag><Polish>Podczas ataku %s1 ucieka przed %s2 %s3 (szansa zwycięstwa: %s4%s5)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_LOSES</Tag><Polish>Podczas ataku %s1, %s2 przegrywa z %s3 %s4 (%s5/%d6) (Szansa Zwycięstwa: %s7%s8)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_ATTACKING_LOSES</Tag><Polish>Podczas ataku %s1, %s2 przegrywa z %s3 %s4 (%s5/%d6) (szansa zwycięstwa: %s7%s8)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_DEFENDING_DEFEATS</Tag><Polish>Podczas obrony %s1, %s2 (%s3/%d4) pokonuje %s5 %s6 (Szansa Zwycięstwa: %s7%s8)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_DEFENDING_DEFEATS</Tag><Polish>Podczas obrony %s1, %s2 (%s3/%d4) pokonuje %s5 %s6 (szansa zwycięstwa: %s7%s8)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_DEFENDING_LOSES</Tag><Polish>Podczas obrony %s1, %s2 przegrywa z %s3 %s4 (%s5/%d6) (Szansa Zwycięstwa: %s7%s8)</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHILE_DEFENDING_LOSES</Tag><Polish>Podczas obrony %s1, %s2 przegrywa z %s3 %s4 (%s5/%d6) (szansa zwycięstwa: %s7%s8)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHIP_ANGER_DECREASED</Tag><Polish>Niezadowolenie z przyspieszenia zmalało w mieście %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHIP_ANGER_DECREASED</Tag><Polish>Zmalało niezadowolenie z przyspieszania produkcji kosztem ludności. Miasto: %s1.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOLOG_WHIP_APPLIED</Tag><Polish>Zastosowano przyspieszenie w mieście: %s1</Polish>
+<TEXT><Tag>TXT_KEY_AUTOLOG_WHIP_APPLIED</Tag><Polish>Przyspieszono produkcję kosztem ludności w mieście %s1.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOMATED_WORKERS_CAN_BUILD</Tag><Polish>Automatyczni Robotnicy w pobliżu %s1 mogą %s2</Polish>
+<TEXT><Tag>TXT_KEY_AUTOMATED_WORKERS_CAN_BUILD</Tag><Polish>Zautomatyzowani robotnicy w pobliżu miasta %s1 mogą: %s2</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_AUTOMATED_WORKERS_CAN_BUILD_CITY</Tag><Polish>Automatyczna Opcja Robotników dla %s1:</Polish>
+<TEXT><Tag>TXT_KEY_AUTOMATED_WORKERS_CAN_BUILD_CITY</Tag><Polish>Opcje automatyzacji robotników dla miasta %s1:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_AUTOSAVING</Tag><Polish>Autozapis...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BAD_HEALTH_FROM_SPECIALISTS</Tag><Polish>%D1_Change[ICON_UNHEALTHY] od Specjalistów</Polish>
+<TEXT><Tag>TXT_KEY_BAD_HEALTH_FROM_SPECIALISTS</Tag><Polish>%D1_Change[ICON_UNHEALTHY] od specjalistów</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BAD_LOGIN_DESC</Tag><Polish>Wprowadzona nazwa użytkownika nie jest prawidłowa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BAD_LOGIN_TITLE</Tag><Polish>Nazwa użytkownika nie została odnaleziona</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BAD_NEW_PASSWORD_DESC</Tag><Polish>Dla podanego adresu e-mail, to hasło jest niewłaściwe.</Polish>
+<TEXT><Tag>TXT_KEY_BAD_NEW_PASSWORD_DESC</Tag><Polish>Hasło jest nieprawidłowe dla podanego adresu e-mail.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BAD_NEW_PASSWORD_TITLE</Tag><Polish>Złe hasło</Polish>
+<TEXT><Tag>TXT_KEY_BAD_NEW_PASSWORD_TITLE</Tag><Polish>Nieprawidłowe hasło</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BAD_PASSWORD_DESC</Tag><Polish>Wprowadzone hasło jest niewłaściwe.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BAD_PASSWORD_TITLE</Tag><Polish>Niewłaściwe hasło</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_DISCOVER_WRITING</Tag><Polish>Teraz znasz już sekret pisma i możesz zawierać stosunki dyplomatyczne!</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_DISCOVER_WRITING</Tag><Polish>Dzięki odkryciu pisma możesz teraz prowadzić dyplomację!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_FORM_MINOR</Tag><Polish>%s pojawiło się w %s!</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_FORM_MINOR</Tag><Polish>Nowa cywilizacja: %s. Miejsce powstania: %s!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_FULL_CIV</Tag><Polish>Twoje wielkie osiągnięcia przyczyniły się do tego, że twoi obywatele nie będą już dłużej nazywani podrzędną cywilizacją!</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_FULL_CIV</Tag><Polish>Dzięki twoim osiągnięciom twój lud jest teraz uznawany za prawdziwą cywilizację!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_HUMAN_DECLARE</Tag><Polish>Twoi doradcy naciskają na wypowiedzenie wojny przeciwko %s!</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_HUMAN_DECLARE</Tag><Polish>Twoi doradcy nalegają na wypowiedzenie wojny. Cel: %s!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BARBCIV_MINOR_SETTLE</Tag><Polish>%s zjednoczył %s i utworzył %s!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BARBCIV_OK</Tag><Polish>Dobrze</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_OPT_AM</Tag><Polish>Ja jestem %s ...</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_OPT_AM</Tag><Polish>Jestem %s...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_SPREAD_OPT</Tag><Polish>[NEWLINE][NEWLINE](Notatka: Możesz wybrać i stać się %s)</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_SPREAD_OPT</Tag><Polish>[NEWLINE][NEWLINE](Uwaga: możesz przejąć kontrolę nad cywilizacją %s)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BARBCIV_WORD_SPREADS</Tag><Polish>Wieści przychodzą z odległego kraju:</Polish>
+<TEXT><Tag>TXT_KEY_BARBCIV_WORD_SPREADS</Tag><Polish>Z odległych krain docierają wieści:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BEING_BUILT</Tag><Polish>Jest budowane</Polish>
+<TEXT><Tag>TXT_KEY_BEING_BUILT</Tag><Polish>W budowie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BELOW_MIN_SPECS_MESSAGE</Tag><Polish>Niestety wymagania Cywilizacji 4 są znacznie większe niż możliwości twojego sprzętu.</Polish>
+<TEXT><Tag>TXT_KEY_BELOW_MIN_SPECS_MESSAGE</Tag><Polish>Twój komputer nie spełnia minimalnych wymagań. Civilization IV nie uruchomi się na tej konfiguracji sprzętowej.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_ALCOHOL</Tag><Polish>Alkohol</Polish>
         </TEXT>
@@ -2914,7 +2914,7 @@ Doustne przyjmowanie ekstraktów z aloesu może być niebezpieczne, ponieważ wy
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_AMMO_PEDIA</Tag><Polish>[TAB]Amunicja jest to ogół środków służących do obezwładniania lub likwidowania przeciwnika, niszczenia różnych obiektów, a także do osiągania innych celów (np. zadymianie, zagazowywanie, oświetlanie, łowy), wystrzeliwana z różnego rodzaju broni lub wyrzutni, miotana ręcznie, umieszczana w przewidywanych miejscach ruchu itp. Obejmuje pociski, naboje, bomby, granaty, miny, torpedy, rakiety, race</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_ANCIENTTEMPLE</Tag><Polish>Starożytne Relikty</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_ANCIENTTEMPLE</Tag><Polish>Starożytne relikty</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_ANCIENTTEMPLE_PEDIA</Tag><Polish>[TAB] Skarb to jedna z podstawowych kategorii stanowisk archeologicznych. Może być nim zespół cennych w danym okresie czasu przedmiotów (np. monet, ozdób), fragmentów surowca (bryłek minerałów, metali) czy narzędzi (broń) ukryty w ziemi lub zdeponowany w wodzie w celach kultowych (jako ofiara) lub jako forma przechowywania majątku, zwykle w czasach zagrożenia najazdami. </Polish>
         </TEXT>
@@ -3014,11 +3014,11 @@ Są symbolem rolnictwa oazowego i mają bogate znaczenie symboliczne w islamie, 
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_DEER_PEDIA</Tag><Polish>[TAB]Te ssaki-przeżuwacze występują powszechnie, można je spotkać na wszystkich kontynentach, prócz Australii i Afryki. Jelenie różnią się od innych przeżuwaczy tym, że zamiast rogów mają poroże. Samca nazywa się kozłem, a samicę łanią. O młodych mówi się jelonki lub cielęta. [PARAGRAPH:1] Uważa się, że gatunki żyjące w Nowym Świecie pojawiły się około 5 milionów lat temu i ewoluowały w lasach północnej Ameryki i Syberii.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_DIESEL</Tag><Polish>Produkty Naftowe</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_DIESEL</Tag><Polish>Produkty naftowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_DIESEL_PEDIA</Tag><Polish>[TAB]Ropa naftowa (olej skalny, czarne złoto) jest to ciekła kopalina, złożona z mieszaniny naturalnych węglowodorów gazowych, ciekłych i stałych (bituminów), z niewielkimi domieszkami azotu, tlenu, siarki i zanieczyszczeń. Posiada podstawowe znaczenie dla gospodarki światowej jako surowiec przemysłu chemicznego, a przede wszystkim jako jeden z najważniejszych surowców energetycznych. Jest podstawowym surowcem przemysłu petrochemicznego stosowanym do otrzymywania m.in. benzyny, nafty, olejów, parafiny, smarów, asfaltów, mazutów, wazelin i wielu materiałów syntetycznych.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_DRAMA</Tag><Polish>Przeboje Operowe</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_DRAMA</Tag><Polish>Popularne musicale</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_DRAMA_PEDIA</Tag><Polish>[TAB]Dramat jest zdefiniowany jako forma literacka tworzona w celu realizacji scenicznej, gdzie całość podzielona jest na role, które odgrywane są przez aktorów na scenie w obecności widowni. Zachodni dramat takim jakim go znamy wywodzi się ze starożytnej Grecji i powstał około XVw. p.n.e. Za pierwsze dramaty można uznać liryczne poematy śpiewane przez chór; ostatecznie dodano aktorów, którzy odgrywali tak herosów jak i złoczyńców opisanych w poematach. Zachodni dramat nie uległ radykalnej zmianie od tego czasu. [PARAGRAPH:1] Trudno jednoznacznie określić datę powstania dramatu na Wschodzie. Wynika to przede wszystkim z trudności wyróżnienia tego elementu, który odróżniłby dramat od innych form artystycznych takich jak: pantomima, taniec, pewne rytuały religijne które datuje się na ponad cztery tysiące lat temu. Pewne jest tylko, że teatr Chiński otworzono około 700 r. p.n.e. </Polish>
         </TEXT>
@@ -3072,7 +3072,7 @@ Gatunek ten jest znany wyłącznie jako roślina uprawna. Prawdopodobnie udomowi
 
 Od stuleci stosuje się go w medycynie tradycyjnej, lecz współczesne badania kliniczne nie dają jednoznacznej odpowiedzi na temat jego skuteczności leczniczej. Brakuje mocnych dowodów, że żeń-szeń skutecznie leczy jakąkolwiek chorobę. Amerykańska Agencja Żywności i Leków (FDA) nie zatwierdziła go do leczenia, zapobiegania chorobom ani zapewniania korzyści zdrowotnych. Choć jest sprzedawany jako suplement diety, niejednolite standardy produkcji suplementów sprawiają, że w niektórych preparatach wykrywano toksyczne metale lub niezwiązane z rośliną wypełniacze. Nadmierne używanie żeń-szenia może powodować działania niepożądane lub niekorzystne interakcje z lekami na receptę.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_GLASS</Tag><Polish>Wyroby Szklane</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_GLASS</Tag><Polish>Wyroby szklane</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_GLASS_PEDIA</Tag><Polish>[TAB]Szkło zdefiniowane jest jako nieorganiczny materiał który został schłodzony do stanu stałego bez krystalizacji. Surowcem do produkcji tradycyjnego szkła jest piasek kwarcowy oraz dodatki, najczęściej: węglan sodu (Na2CO3) i węglan wapnia (CaCO3), topniki: tlenki boru i ołowiu (B2O3, PbO) oraz pigmenty, którymi są zazwyczaj tlenki metali przejściowych (kadm, mangan i inne). Surowce są mieszane, topione w piecu (tzw. wannie szklarskiej) w temperaturze 1200-1300°C(dzięki dodaniu węglanu sodu), po czym formowane w wyroby przed pełnym skrzepnięciem. Naturalne szkło, jak obsydian, wykorzystywano jako broń w Ameryce. Produkcja szkła znana była już ponad pięć tysięcy lat temu. W I w. p.n.e. znano metodę wytwarzania przedmiotów przez wydmuchiwanie, w XIX w. wynaleziono metodę odlewania. Po dodaniu do masy szklanej odpowiednich tlenków metali można otrzymać szkło barwne. Szkło służy do produkcji szyb, opakowań szklanych, reflektorów, sprzętu laboratoryjnego i optycznego, światłowodów, waty szklanej, duranu.</Polish>
     </TEXT>
@@ -3110,7 +3110,7 @@ Kozy występują w mitologii, folklorze i religii wielu kultur. Przykładami są
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_IRON_PEDIA</Tag><Polish>[TAB]Kiedy pierwsze cywilizacje zaczęły stosować metal w konstruowaniu narzędzi i broni, najczęściej używanym był brąz. Brąz ma tę zaletę, że jest łatwo dostępny i bardzo łatwy do obróbki. Niestety, jest zbyt miękki, by utrzymać efektywne ostrze. W połowie 14 wieku p.n.e. w środkowej Europie, żelazo zastąpiło brąz i rozpoczęła się Epoka Żelaza. Od tego czasu, żelazo jest wartościowym towarem. Odnalezione w górach złoża żelaza i rudy żelaza są wydobywane i przetwarzane albo w surowej formie, bądź do produkcji stali.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_IVORY</Tag><Polish>Kość Słoniowa</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_IVORY</Tag><Polish>Kość słoniowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_IVORY_PEDIA</Tag><Polish>[TAB]Słonie to największe żyjące na lądzie ssaki. Słoniątko tuż po urodzeniu waży ponad 100kg! Na łonie dzikiej przyrody, słonie przejawiają złożone zachowania społeczne i silne więzy rodzinne. Hierarchia młodych i samic oparta jest na wieku i rozmiarze: najsilniejsze i najstarsze stoją najwyżej w hierarchii, najniżej, najmłodsze i najsłabsze. Dorosłe samce ustalają własną hierarchię drogą pojedynków na kły. Słonie komunikują się za pomocą bardzo niskich dźwięków o bardzo dużym zasięgu. [PARAGRAPH:1] Oswajanie słoni rozpoczęło się w dolinie Indusu około 4000 lat p.n.e. Po raz pierwszy użyto słoni w boju około 1100 p.n.e, co odnotowano w kilku hymnach sanskrytu. Słonie migrowały ze wschodu do Imperium Perskiego, gdzie służyły przeciw wojskom Aleksandra Wielkiego w bitwie pod Gaugamelą. Chociaż nie odegrały znaczącej roli w bitwie, Aleksander dostrzegł ich pożyteczność i rozpoczął wcielanie słoni do swojej armii. Wkrótce ten zwyczaj przyjął się w Europie i słonie brały udział w tak znanych kampaniach jak Wojna Macedońska oraz zostały użyte przez Hannibala w trakcie Drugiej Wojny Punickiej.</Polish>
         </TEXT>
@@ -3126,11 +3126,11 @@ Kozy występują w mitologii, folklorze i religii wielu kultur. Przykładami są
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_MARBLE_PEDIA</Tag><Polish>[TAB]Marmur jest rodzajem wapienia, używanym przez ludzkość od wieków. Jest dobrym materiałem budowniczym, szczególnie w krajach o suchym klimacie. Marmur jest również doskonałym materiałem do wyrobu posągów. Powierzchnię marmuru można wypolerować do pięknego połysku, ale surowy kamień jest równie atrakcyjny. [PARAGRAPH:1] Egipcjanie używali marmurowych bloków do ustawienia wierzchniej strony Piramidy Cheopsa. Grecy stosowali brył marmuru do budowy niektórych budynków, jak również do rzeźbienia niektórych z najznamienitszych dzieł sztuki. Rzymianie jako pierwsi użyli płyt marmurowych jako wykończenie murów. Marmur pozostaje jednym z najpopularniejszych materiałów tak budowlanych, jak i stosowanych w celach artystycznych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_METHANE</Tag><Polish>Metanowy Lód</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_METHANE</Tag><Polish>Lód metanowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_METHANE_PEDIA</Tag><Polish>[TAB]Klatrat metanu (hydrat metanu, metanowy lód, wodzian metanu) - substancja krystaliczna złożona z cząsteczek wody i metanu. Klatraty metanu zostały odkryte pod koniec XIX wieku (1888) wraz z hydratami C2H6, C2H4 i N2O przez francuskiego fizyka Paula Villarda[1]. W latach 30. XX wieku E. G. Hammerschmidt[2] skojarzył po raz pierwszy biały, krystaliczny materiał zatykający rurociągi gazu z hydratami metanu. W ten sposób materiał pierwotnie uważany za ciekawostkę czysto laboratoryjną uzyskał znaczenie ekonomiczne. W latach 60. XX wieku znaleziono złoża hydratów na Syberii, a w następnym dziesięcioleciu znaczne ich ilości odkryto na szelfach oceanów. W 1981 statek wiertniczy Glomar Challenger wydobył u wybrzeży Gwatemali pierwszą próbkę klatratu. W 1996 załoga niemieckiego statku badawczego FS Sonne wydobyła 50 kg hydratów z dna Pacyfiku w pobliżu Oregonu. Obecnie rozważane jest wykorzystanie zasobów klatratu metanu jako potencjalnego źródła gazu ziemnego. W ciągu ostatnich parunastu lat, metan uwieziony w hydratach, zaczęto postrzegać również jako potencjalne źródło zmian klimatu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_MOVIES</Tag><Polish>Przeboje Filmowe</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_MOVIES</Tag><Polish>Przeboje filmowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_MOVIES_PEDIA</Tag><Polish>[TAB]Od wieków człowiek zafascynowany jest ruchomymi obrazami. Przed powstaniem filmu, poruszające się obrazy można było obejrzeć dzięki latarni magicznej, kalejdoskopem, animowanym obrazkom w formie książeczki i tym podobnym. Około 1880 r. wynaleziono kliszę filmową i prędko wykorzystano tkwiący w niej potencjał , możliwość tworzenia ruchomych obrazów. W zaledwie kilka lat później pojawiają się pierwsze kamery filmowe i projektory i tak oto narodził się film. [PARAGRAPH:1] Filmy przez prawie 40 lat nieme, u schyłku lat dwudziestych XX wieku uzyskują głos dzięki postsynchronizacji. Do połowy lat pięćdziesiątych film staje się czymś pospolitym. Jeśli pominąć poprawę jakości obrazu i dźwięku filmy nie zmieniły się wiele. [PARAGRAPH:1] W pierwszych latach filmu, Stany Zjednoczone stają się ich głównym producentem, a miejscem powstania większości z nich Hollywood w Kalifornii. Chociaż Stany Zjednoczone pozostają bardzo ważnym producentem, to dziś wiele innych krajów rozwinęło własny przemysł filmowy konkurujący z Hollywood. Wystarczy wspomnieć, Indie i tzw. Bollywood, który kręci rocznie więcej filmów i sprzedaje więcej biletów niż Hollywood. Chociaż tylko filmy z Hollywood cieszą się światową popularnością.</Polish>
         </TEXT>
@@ -3142,7 +3142,7 @@ Nazwę murex nadal stosuje się wobec wielu gatunków rozkolcowatych, które pie
 
 Arystoteles opisał te mięczaki w „Historii zwierząt”, posługując się greckim słowem porphyra.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_MUSIC</Tag><Polish>Przeboje Muzyczne</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_MUSIC</Tag><Polish>Przeboje muzyczne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_MUSIC_PEDIA</Tag><Polish>[TAB]Muzyka jest formą sztuki opartą na słyszalnych dźwiękach. Dźwięki można uzyskać dzięki, np. ludzkiemu głosowi, instrumentom perkusyjnym, uderzając lub szarpiąc odpowiednio naprężone struny, dmuchając powietrze (tak wydobędziemy dźwięki z instrumentów dętych). Nie sposób określić dokładnie początków muzyki, ale archeolodzy odkryli instrumenty wykonane z kamienia i kości, które mają ponad 45000 lat. Każda kultura rozwinęła swoją własną formę muzyki. [PARAGRAPH:1] Nie można sobie wyobrazić jak brzmiała pierwsza muzyka. Nie można odtworzyć żadnej, która powstała przed powstaniem notacji muzycznej. Sądzi się, że w starożytnym Egipcie istniały jakaś forma zapisu muzycznego już około 3000 lat p.n.e., podczas gdy Grecy używali go około 200 r p.n.e. Obecny, zachodni styl notacji muzycznej jest zasługą Guido Arezzo i datuje się ją na 1020 r. n.e. </Polish>
         </TEXT>
@@ -3192,7 +3192,7 @@ Na potrzeby nielegalnego handlu narkotykami z opium wyodrębnia się morfinę, z
     </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_PERSONAL_REPLICATORS</Tag><Polish>Replikatory</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_PERSONAL_REPLICATORS_HELP</Tag><Polish>Zmniejsza koszt ulepszania jednostek o 50%</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_PERSONAL_REPLICATORS_HELP</Tag><Polish>Zmniejsza koszt ulepszania jednostek o 50%.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_PIG</Tag><Polish>Świnie</Polish>
         </TEXT>
@@ -3202,11 +3202,11 @@ Na potrzeby nielegalnego handlu narkotykami z opium wyodrębnia się morfinę, z
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_POTATO_PEDIA</Tag><Polish>[TAB] Psianka ziemniak to prawidłowa botaniczna nazwa tej rośliny. Najczęściej jednak używany jest synonim tej nazwy: ziemniak. Jest to gatunek byliny należący do rodziny psiankowatych. Pochodzi z Ameryki Południowej (Peru, Boliwia, Kolumbia, Chile). Obecnie rozprzestrzeniony na całym świecie jako roślina uprawna. pierwsze uprawy ziemniaka pojawiły się w czasach prehistorycznych w Ameryce Południowej (środkowe Andy, tereny dawnego peruwiańskiego Tawaintisuyo należącego do inków). Do Europy ziemniaki dotarły w XVI wieku, a rozpowszechniły się w XVII w. W XVII i XVIII wieku traktowane były również jako roślina ozdobna. W części Europy, po zauważeniu, że jest bardzo wydajną rośliną uprawną wprowadzano ją do uprawy odgórnymi zarządzeniami (Fryderyk II Wielki w Prusach i Piotr I Wielki w Rosji). Wykorzystanie ziemniaków znacznie wzrosło po opracowaniu techniki ich magazynowania w kopcach, w których dają się przechowywać aż do wiosny następnego roku.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_POTTERY</Tag><Polish>Garnki</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_POTTERY</Tag><Polish>Wyroby garncarskie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_POTTERY_PEDIA</Tag><Polish>Garncarstwo to jedno z najstarszych rzemiosł (znane od neolitu). Jest to rękodzielniczy wyrób ceramicznych naczyń i przedmiotów codziennego użytku. Rzemieślnik zajmujący się garncarstwem to garncarz albo garncarka.[NEWLINE][NEWLINE]Na ziemiach polskich naczynia gliniane pojawiły się około 5400 lat p.n.e. Przybyły wówczas na te tereny ludy rolnicze posiadające umiejętność wytwarzania zarówno naczyń o cienkich, bogato zdobionych ściankach, jak i trwalszych, grubościennych, przeznaczonych do gotowania strawy. Głównym surowcem była glina, stosowano także domieszki mineralne (piasek, tłuczeń), wzmacniające konstrukcję. Naczynia lepiono ręcznie z taśm i wałków glinianych. Po wysuszeniu wypalano je w ognisku.[NEWLINE][NEWLINE]Przybycie w ok. 300 r. p.n.e. ludności celtyckiej wzbogaciło rzemiosło o umiejętność toczenia naczyń na kole garncarskim. Najbardziej znane stanowisko archeologiczne znajduje się w okolicach Nowej Huty, gdzie odkryto osady celtyckie z ceramiką wytwarzaną na kole. Ceramikę wypalano w specjalnych piecach garncarskich.[NEWLINE][NEWLINE]Po odejściu Celtów z ziem polskich koło garncarskie zostało zapomniane i naczynia wytwarzano tylko ręcznie. Ponownie umiejętność toczenia pojawiła się pod koniec II wieku n.e. Ceramika z tamtego okresu ma ciemną i błyszczącą powierzchnię. Powstały wówczas osady wyspecjalizowane w garncarstwie, m.in. Pleszów. Do wypalania naczyń stosowano piece częściowo zakopane w ziemię, przeważnie dwukomorowe.[NEWLINE][NEWLINE]Wśród plemion słowiańskich koło garncarskie pojawiło się w VII wieku. Było to koło wolnoobrotowe i stosowano je do obtaczania ręcznie ulepionych naczyń.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_REVEALED_BY</Tag><Polish>[ICON_BULLET]Odkryte dzięki: [COLOR_TECH_TEXT]%s1_TechName[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_REVEALED_BY</Tag><Polish>[ICON_BULLET]Ujawnia technologia: [COLOR_TECH_TEXT]%s1_TechName[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_RICE</Tag><Polish>Ryż</Polish>
         </TEXT>
@@ -3238,7 +3238,7 @@ Na potrzeby nielegalnego handlu narkotykami z opium wyodrębnia się morfinę, z
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_SILVER_PEDIA</Tag><Polish>[TAB]Srebro jest pierwiastkiem chemicznym o symbolu 'Ag' i liczbie atomowej 47. Miękki, biały, lśniący metal odznacza się największą przewodnością elektryczną i termiczną spośród wszystkich metali; znajdowany jest w złożach. [PARAGRAPH:1] Hałdy żużlu odnalezione w Azji Mniejszej dowodzą, że srebro znane jest od bardzo dawna oraz, że jest oddzielane od ołowiu już od 4000 r.p.n.e. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_SMART_MEDICINE</Tag><Polish>Inteligentne Leki</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_SMART_MEDICINE</Tag><Polish>Inteligentne leki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_SPICES</Tag><Polish>Przyprawy</Polish>
         </TEXT>
@@ -3270,21 +3270,21 @@ Według firmy doradczej A.T. Kearney wartość światowej branży sportowej się
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_SULPHUR_PEDIA</Tag><Polish>[TAB] Siarka to minerał z gromady pierwiastków rodzimych. Należy do grupy minerałów rzadkich. Siarka jako minerał ma żółtą barwę z odcieniami zieleni, czerwieni i czerni. Powstaje wskutek rozpadu siarkowodoru lub siarczanów (głównie gipsu). Niewielkie ilości siarki powstają w wyniku ekshalacji wulkanicznych. Używana w przemyśle: farmaceutycznym, chemicznym (do produkcji kwasu siarkowego), drzewnym, papierniczym, nawozów sztucznych.Zazwyczaj tworzy kryształy o pokroju bipiramidalnym, grubotabliczkowe. Występuje w skupieniach zbitych, ziemistych, ziarnistych, naciekowych, nerkowych. Tworzy też naskorupienia, impregnacje i zbliźniaczenia. Najładniejsze kryształy spotykane są w druzach powstałych w kawernach i szczelinach. Jest krucha, przezroczysta. Występuje w przyrodzie w trzech odmianach polformicznych m.in. siarka rodzima (sulfuryt), rosickyit. W temperaturze powyżej 95,3°C przechodzi w siarkę jednoskośną, w temperaturze powyżej 119, 3°C topi się. łatwo elektryzuje się, jest złym przewodnikiem ciepła, pali się. Pod względem chemicznym jest dość czysta, bywa zanieczyszczona związkami organicznymi oraz mechanicznymi domieszkami kalcytu i gipsu. Niekiedy zawiera domieszkę selenu (siarka selenowa).</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_SYNTHETIC_RUBBER</Tag><Polish>Guma Syntetyczna</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_SYNTHETIC_RUBBER</Tag><Polish>Guma syntetyczna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_TEA</Tag><Polish>Herbata</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_TEA_PEDIA</Tag><Polish>Herbata to zielona roślina z rodzaju kamelia, pochodząca z południowo-wschodniej Azji. Uprawia się krzewy herbaty chińskiej (Camellia sinensis, syn. Thea sinensis), drzewa herbaty asamskiej (Camellia assamica) oraz ich mieszańce: herbatę gruzińską i cejlońską. Uprawiana w wielu krajach strefy zwrotnikowej, także poza Azją, dla pączków i liści, z których po uprzednim przygotowaniu (suszenie, czasami fermentacja) przyrządza się napar o tej samej nazwie. Nazwą „herbata” określa się również napary z innych ziół, np. herbata rumiankowa, herbata paragwajska, herbata Rooibos. Historia Herbaty - Jak głosi legenda, wszystko zaczęło się pewnego pięknego dnia w 2737 roku p.n.e. w Chinach. Tego dnia legendarny cesarz chiński - Szen Nung, zielarz i uczony, który ze względów higienicznych pił przegotowaną wodę, wypoczywał pod drzewem dzikiej herbaty. Wiał lekki wiatr i jego podmuch spowodował, że kilka listków wpadło do dzbana z wodą. Oczywiście cesarz zapatrzony w piękno natury nie zauważył tego, dopiero pijąc swój napój poznał smak, który go oczarował. Opowieść z Indii przypisuje początki picia herbaty mnichowi o imieniu Bodhidharma, który postanowił przez 7 lat medytować nie mrużąc oka. Gdy do końca kontemplacji został mu jeden dzień powieki zaczęły mu się zamykać, zerwał więc kilka liści z drzewa, pod którym się znajdował i zaczął je żuć. Od razu opuściło go zmęczenie. Japończycy mają inne zakończenie historii tego mnicha. Zmęczenie, które go opanowało przypisał powiekom, wyciął je więc i rzucił na ziemię. W tym miejscu natychmiast wyrósł krzew herbaty. Mnich zerwał kilka listków i zaczął je żuć. Jak się można domyślić, zmęczenie zniknęło. Takie są legendy, które w piękny sposób opisują odkrycie herbaty. A jak było naprawdę? Trudno powiedzieć. Wiadomo, że już od bardzo dawna napój ten znany jest w Chinach. Pierwsze pisemne wzmianki o tej roślinie pochodzą dopiero z VIII wieku p.n.e., z księgi Chou Huna (770 rok). Przez długie lata herbata była ceniona jako podstawowy napój, lek i środek wzmacniający, który wytwarzano z liści dzikiego drzewa herbacianego. Dopiero w III wieku n.e. rolnicy zaczęli sadzić krzaki herbaciane i z czasem rozwinęło się suszenie liści i przetwórstwo. W VIII wieku chiński poeta Lu You napisał Świętą księgę herbaty, zawierającą opis krzewu herbacianego, narzędzi do zbioru i selekcji liści, przyborów do ceremonii przyrządzania i picia herbaty. Zawierała również spis plantacji i wielbicieli tego napoju. Liście herbaty zawierają znaczne ilości garbników (od 8 do 30%), z których najważniejszym jest tanina. Prócz nich występują tam: kofeina (teina) - do 4%, katechiny, cukry, związki białkowe, śladowe ilości olejku eterycznego, związki żywicowe, kwasy organiczne, enzymy, pektyny (2 - 3%), glikozydy i witaminy. W te ostatnie herbata jest bardzo bogata. Znaleźć w niej można karoten (prowitaminę A), witaminy B1, B2, PP, C, a przede wszystkim witaminę P (spośród roślin ją zawierających, herbata obok gryki ma jej najwięcej). Ponadto znajduje się w niej witamina K odpowiedzialna za krzepnięcie krwi.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_THERMAL_VENT</Tag><Polish>Energia Geotermalna</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_THERMAL_VENT</Tag><Polish>Energia geotermalna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_THERMAL_VENT_PEDIA</Tag><Polish>[TAB]Energia Geotermalna</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_TIMBER</Tag><Polish>Doskonałe drewno</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_TIMBER</Tag><Polish>Drewno wysokiej jakości</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_TIMBER_PEDIA</Tag><Polish>Drewno to surowiec otrzymywany ze ściętych drzew i przetwarzany na różnego rodzaju sortymenty. W drzewie zajmuje przestrzeń między rdzeniem a warstwą łyka i kory. Pod względem technicznym jest naturalnym materiałem kompozytowym o osnowie polimerowej, wzmacnianym ciągłymi włóknami polimerowymi. Tworzą je podłużne komórki ułożone wzdłuż jednej osi.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_TOBACCO</Tag><Polish>Tabaka</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_TOBACCO</Tag><Polish>Tytoń</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_TOBACCO_PEDIA</Tag><Polish>[TAB]Tabaka to sproszkowany tytoń, czasami wzbogacony kompozycjami aromatyzującymi, przeznaczony do zażywania przez nos. W odróżnieniu od papierosów, nikotyna wchłaniana jest nie przez płuca, ale przez śluzówkę nosa.</Polish>
     </TEXT>
@@ -3294,7 +3294,7 @@ Według firmy doradczej A.T. Kearney wartość światowej branży sportowej się
 	</TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_UNHAPPY</Tag><Polish>Niezadowolenie: +%d1_Change[ICON_UNHAPPY]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_UNHEALTHY</Tag><Polish>Choroba: +%d1_Change[ICON_UNHEALTHY]</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_UNHEALTHY</Tag><Polish>Niezdrowotność: +%d1_Change[ICON_UNHEALTHY]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_URANIUM</Tag><Polish>Uran</Polish>
         </TEXT>
@@ -3324,7 +3324,7 @@ W przeliczeniu na masę wanilia jest drugą po szafranie najdroższą przyprawą
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_WINE_PEDIA</Tag><Polish>[TAB]Wino, napój wyrabiany z sfermentowanych winogron, został po raz pierwszy wyprodukowany ponad 6000 lat p.n.e. Wino rozpowszechniło się na Bliskim Wschodzie i Egipcie, stając się popularnym napojem starożytnego świata. Winogrona używane do wyrobu wina, uprawia się w wielu różnych regionach świata. Większość winnic położona jest na wzgórzach i w dolinach regionów o umiarkowanym klimacie. Produkcję wina rozumianą jako przemysł dopracowano do perfekcji w ciągu kilku wieków. Wiele regionów takich jak Dolina Renu czy Loary słynie ze swoich wyśmienitych win, co przynosi wiele korzyści gospodarczych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BONUS_WITH_IMPROVEMENT</Tag><Polish>(z %s1_ImpName)</Polish>
+<TEXT><Tag>TXT_KEY_BONUS_WITH_IMPROVEMENT</Tag><Polish>(ulepszenie: %s1_ImpName)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BONUS_WOOL</Tag><Polish>Wełna</Polish>
         </TEXT>
@@ -3346,7 +3346,7 @@ W przeliczeniu na masę wanilia jest drugą po szafranie najdroższą przyprawą
         </TEXT>
 <TEXT><Tag>TXT_KEY_BTS_LEADERS_PEDIA</Tag><Polish>[H1]Przywódcy w Beyond the Sword[\H1][NEWLINE][LINK=LEADER_BOUDICA]Boudika[\LINK][NEWLINE][NEWLINE][LINK=LEADER_CHARLEMAGNE]Karol Wielki[\LINK][NEWLINE][NEWLINE][LINK=LEADER_DARIUS]Dariusz I Wielki[\LINK][NEWLINE][NEWLINE][LINK=LEADER_DE_GAULLE]Charles de Gaulle[\LINK][NEWLINE][NEWLINE][LINK=LEADER_GILGAMESH]Gilgamesz[\LINK][NEWLINE][NEWLINE][LINK=LEADER_HAMMURABI]Hammurabi[\LINK][NEWLINE][NEWLINE][LINK=LEADER_JOAO]Jan II[\LINK][NEWLINE][NEWLINE][LINK=LEADER_JUSTINIAN]Justynian I Wielki[\LINK][NEWLINE][NEWLINE][LINK=LEADER_LINCOLN]Abraham Lincoln[\LINK][NEWLINE][NEWLINE][LINK=LEADER_PACAL]Pacal II[\LINK][NEWLINE][NEWLINE][LINK=LEADER_PERICLES]Perykles[\LINK][NEWLINE][NEWLINE][LINK=LEADER_SITTING_BULL]Siedzący Byk[\LINK][NEWLINE][NEWLINE][LINK=LEADER_SULEIMAN]Sulejman[\LINK][NEWLINE][NEWLINE][LINK=LEADER_SURYAVARMAN]Surjawarman II[\LINK][NEWLINE][NEWLINE][LINK=LEADER_WILLEM_VAN_ORANJE]Wilhelm I Orański[\LINK][NEWLINE][NEWLINE][LINK=LEADER_ZARA_YAQOB]Zera Jaykob[\LINK][NEWLINE][NEWLINE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BTS_RULES_CHANGES</Tag><Polish>Zmiany w Beyond the Sword</Polish>
+<TEXT><Tag>TXT_KEY_BTS_RULES_CHANGES</Tag><Polish>Zmiany zasad w Beyond the Sword</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BTS_RULES_CHANGES_PEDIA_SR</Tag><Polish>[H1]Zmiany w zasadach wprowadzone w dodatku Beyond the Sword[\H1][NEWLINE][NEWLINE][BOLD]Zmiany w technologiach[\BOLD][NEWLINE]Wybierając opcję "Zakaz handlu technologiami", sprawiamy że gracze nie mogą handlować technologiami których sami nie wynaleźli.[NEWLINE][LINK=TECH_FIBER_OPTICS]Światłowody[\LINK] wymagają [LINK=TECH_LASER]Lasera[\LINK] lub [LINK=TECH_COMPUTERS]Komputerów[\LINK][NEWLINE][LINK=TECH_ROBOTICS]Robotyka[\LINK] nie wymaga już [LINK=TECH_PLASTICS]Plastiku[\LINK][NEWLINE][LINK=TECH_COMPUTERS]Komputery[\LINK] wymagają [LINK=TECH_PLASTICS]Plastik[\LINK][NEWLINE][NEWLINE][BOLD]Zmiany w budynkach[\BOLD][NEWLINE][LINK=BUILDING_AIRPORT]Lotniska[\LINK]  dodają +3 PD dla wszystkich jednostek powietrznych i pozwalają na bazowanie dodatkowych 4 jednostek powietrznych (w sumie 8)[NEWLINE][LINK=BUILDING_PALACE]Pałac[\LINK] daje 4 punkty szpiegostwa na turę[NEWLINE][LINK=BUILDING_COURTHOUSE]Sąd[\LINK] daje 2 punkty szpiegostwa na turę i jednego szpiega specjalistę[NEWLINE][LINK=BUILDING_CASTLE]Zamek[\LINK] zwiększa punkty szpiegostwa o 25%[NEWLINE][LINK=BUILDING_JAIL]Więzienie[\LINK] daje 4 punkty szpiegostwa na turę, zwiększa je w mieście o 50% i pozwala na utworzenie dwóch specjalistów szpiegów[NEWLINE][LINK=BUILDING_LABORATORY]Laboratorium[\LINK] wymaga odkrycia [LINK=TECH_SUPERCONDUCTORS]Nadprzewodników[\LINK][NEWLINE][LINK=BUILDING_FACTORY]Fabryka[\LINK] powoduje niezdrowie wraz z dostępem do ropy lub węgla[NEWLINE][LINK=BUILDING_STABLE]Stajnia[\LINK] staje się przestarzała wraz z odkryciem [LINK=TECH_ADVANCED_FLIGHT]Zaawansowanego Lotnictwa[\LINK][NEWLINE][LINK=BUILDING_OBELISK]Pomniki[\LINK] stają się przestarzałe wraz z odkryciem [LINK=TECH_ASTRONOMY]Astronomii[\LINK][NEWLINE][LINK=BUILDING_MILITARY_ACADEMY]Akadamia Wojskowa[\LINK] może być wybudowana po odkryciu [LINK=TECH_MILITARY_SCIENCE]Nauk Wojskowych[\LINK][NEWLINE][NEWLINE][BOLD]Zmiany w jednostkach[\BOLD][NEWLINE]Szpiedzy zostali znacząco zmienieni, sprawdź [LINK=CONCEPT_ESPIONAGE]Szpiegostwo[\LINK] aby uzyskać więcej informacji[NEWLINE]Jednostki konne oraz helikoptery dostają teraz darmową promocję [LINK=CONCEPT_FLANK_ATTACK]Atak z Flanki[\LINK] przeciw jednostkom oblężniczym. Sprawdź cywilopedię dla uzyskania większej ilości informacji. [NEWLINE][LINK=UNIT_JAPAN_SAMURAI]Samuraj[\LINK] ma darmową promocję Musztra I[NEWLINE]Grecka [LINK=UNIT_GREEK_PHALANX]Falanga[\LINK] zastępuje [LINK=UNIT_AXEMAN]Topornika[\LINK] [NEWLINE][LINK=UNIT_GRENADIER]Grenadier[\LINK] wymaga [LINK=TECH_MILITARY_SCIENCE]Nauk Wojskowych[\LINK], zamiast [LINK=TECH_CHEMISTRY]Chemii[\LINK][NEWLINE][LINK=UNIT_CAVALRY]Kawaleria[\LINK] wymaga [LINK=TECH_RIFLING]Strzelectwa[\LINK] oraz [LINK=TECH_MILITARY_TRADITION]Tradycji Wojskowych[\LINK][NEWLINE][LINK=UNIT_SAM_INFANTRY]Piechota SAM[\LINK] posiada 75% bonus przeciwko helikopterom[NEWLINE]Jednostki przeciwlotnicze otrzymują darmową promocję [LINK=CONCEPT_AIR_PROMOTIONS]Przechwytywanie[\LINK][NEWLINE][LINK=UNIT_TRIREME]Triera[\LINK] wymaga odkrycia [LINK=TECH_METAL_CASTING]Odlewnictwa[\LINK][NEWLINE][LINK=UNIT_GUNSHIP]Ś;śmigłowce[\LINK] i [LINK=UNIT_JET_FIGHTER]Odrzutowce[\LINK] wymagają odkrycia [LINK=TECH_ADVANCED_FLIGHT]Zaawansowanego lotnictwa[\LINK][NEWLINE][LINK=CIVILIZATION_SPAIN]Hiszpania[\LINK] może tworzyć [LINK=UNIT_KNIGHT]Rycerzy[\LINK], ponieważ [LINK=UNIT_SPANISH_CONQUISTADOR]Konkwistadorzy[\LINK] zastępują [LINK=UNIT_CUIRASSIER]Kirasjerów[\LINK][NEWLINE]Możesz posiadać jedynie cztery jednostki powietrzne w jednym mieście. [LINK=BUILDING_AIRPORT]Lotnisko[\LINK], pozwala na lokację dodatkowych czterech.[NEWLINE]Ilość doświadczenia potrzebnego do narodzin [LINK=UNIT_GREAT_GENERAL]Wielkiego Generała[\LINK] została zwiększona[NEWLINE]Bombardowanie zmniejsza obronę miasta o zróżnicowany współczynnik, zamiast o procenty[NEWLINE][NEWLINE][BOLD]Zmiany w cudach świata[\BOLD][NEWLINE][LINK=BUILDING_SCOTLAND_YARD]Scotland Yard[\LINK] może być zbudowany wyłącznie przez [LINK=UNIT_GREAT_SPY]Wielkiego Szpiega[\LINK] i dodaje +100% do punktów szpiegostwa oraz +2 punkty dla Wielkiego Szpiega[NEWLINE][LINK=BUILDING_PENTAGON]Pentagon[\LINK] daje 2 punkty dla narodzin Wielkiego Szpiega[NEWLINE][LINK=BUILDING_GREAT_PALACE]Zakazany Pałac[\LINK] daje 1 punkt dla narodzin Wielkiego Szpiega[NEWLINE][LINK=BUILDING_KREMLIN]Kreml[\LINK] umożliwia skonstruowanie 2 specjalistów szpiegów oraz dostarcza 2 punkty dla narodzin Wielkiego Szpiega[NEWLINE][LINK=BUILDING_WEST_POINT]West Point[\LINK] dostarcza 2 punkty dla narodzin Wielkiego Szpiega[NEWLINE][LINK=BUILDING_GREAT_WALL]Wielki Mur[\LINK] dostarcza 2 punkty dla narodzin Wielkiego Szpiega[NEWLINE][LINK=BUILDING_SISTINE_CHAPEL]Kaplica Sykstyńska[\LINK] dodaje 5 punktów kultury dla każdego budynku związanego z religią państwową i może być zbudowana po odkryciu [LINK=TECH_MUSIC]Muzyki[\LINK][NEWLINE][LINK=BUILDING_NOTRE_DAME]Katedra Notre Dame[\LINK] dostarcza 2 punkty zadowolenia w każdym mieście na kontynencie i może być zbudowana po odkryciu [LINK=TECH_ENGINEERING]Inżynierii[\LINK][NEWLINE][LINK=BUILDING_PARTHENON]Partenon[\LINK] wymaga odkrycia [LINK=TECH_AESTHETICS]Estetyki[\LINK][NEWLINE][LINK=BUILDING_HAGIA_SOPHIA]Hagia Sophia[\LINK] wymaga odkrycia [LINK=TECH_THEOLOGY]Teologii[\LINK][NEWLINE][LINK=BUILDING_STONEHENGE]Stonehenge[\LINK] staje się przestarzały po odkryciu [LINK=TECH_ASTRONOMY]Astronomii[\LINK][NEWLINE]Wszystkie cuda narodowe dostarczają 1 punkt dla narodzin Wielkich Ludzi zamiast 2 punktów [NEWLINE][NEWLINE][BOLD]Zmiany w doktrynach[\BOLD][NEWLINE]Koszt [LINK=CIVIC_SLAVERY]Niewolnictwa[\LINK] został zmieniony na średni[LINK=CIVIC_MERCANTILISM]Merkantylizm[\LINK] nie pozwala na działalność obcym korporacjom[NEWLINE][LINK=CIVIC_FREE_MARKET]Wolny Rynek[\LINK] zmniejsza utrzymanie korporacji o 25%[NEWLINE][LINK=CIVIC_STATE_PROPERTY]Własność Państwowa[\LINK], powoduje że nie działają korporacje oraz dostarcza 10% bonus do produkcji we wszystkich miastach[NEWLINE][LINK=CIVIC_NATIONHOOD]Nacjonalizm[\LINK] dodaje 25% do punktów szpiegostwa[NEWLINE][LINK=CIVIC_CASTE_SYSTEM]System Kastowy[\LINK] daje dodatkową produkcję z Warsztatów[NEWLINE][LINK=CIVIC_ENVIRONMENTALISM]Ochrona środowiska[\LINK]daje dodatkowy dochód z [LINK=CONCEPT_BTS_FOREST_PRESERVE]Rezerwatu Przyrody[\LINK] i Wiatraków, kosztem o 25% większego utrzymania korporacji.[NEWLINE][NEWLINE][BOLD]Zmiany w projektach[\BOLD][NEWLINE]Możesz zobaczyć swój Statek Kosmiczny i postęp w jego budowie na Ekranie Zwycięstwa[NEWLINE]Statek Kosmiczny może być wystrzelony bez wszystkich części, ale braki znacząco oddalają perspektywę sukcesu[NEWLINE][LINK=PROJECT_SS_CASING]Obudowa SK[\LINK] wymaga odkrycia [LINK=TECH_COMPOSITES]Kompozytów[\LINK] zamiast[LINK=TECH_ROCKETRY]Rakiet[\LINK][NEWLINE][LINK=PROJECT_SS_DOCKING_BAY]Miejsce Dokowania SK[\LINK] wymaga [LINK=TECH_SATELLITES]Satelit[\LINK] zamiast [LINK=TECH_ROBOTICS]Robotyki[\LINK][NEWLINE][LINK=PROJECT_SDI]SDI[\LINK] wymaga odkrycia [LINK=TECH_LASER]Lasera[\LINK][NEWLINE][LINK=PROJECT_THE_INTERNET]Internet[\LINK] wymaga odkrycia [LINK=TECH_COMPUTERS]Komputerów[\LINK][NEWLINE][LINK=PROJECT_SS_THRUSTERS]Silniki SK[\LINK] wymagają odkrycia [LINK=TECH_SUPERCONDUCTORS]Nadprzewodników[\LINK][NEWLINE]Statek Kosmiczny dociera teraz do celu z opóźnieniem i może być wystrzelony z większą ilością modułów, w celu szybszego przybycia do celu bądź z większym prawdopodobieństwem sukcesu misji. Jednocześnie może być wystrzelony bez pewnych systemów, co zwiększa szanse porażki. [NEWLINE][NEWLINE][BOLD]Zmiany w ulepszeniach terenu[\BOLD][NEWLINE]Znacząco zmieniło się znaczenie fortów. Zobacz [LINK=CONCEPT_FORT]Forty[\LINK] w celu uzyskania dalszych informacji[NEWLINE]Tory kolejowe mogą być budowane z dostępem do ropy bądź węgla. [NEWLINE][NEWLINE][BOLD]Zmiany w interfejsie[\BOLD][NEWLINE]Możesz zobaczyć aktywne misje w oknie wydarzeń [CTRL + TAB][NEWLINE]Ekran Ministra Spraw Zagranicznych został ulepszony[NEWLINE]Ekran "Początki Ludzkości" został rozszerzony[NEWLINE]Ilość wykonanych tur, punkty nauki i szpiegostwa są widoczne na głównym ekranie[NEWLINE]Ekran informacji na temat jednostek w cywilopedii pokazują także jednostki unikalne które je zastępują[NEWLINE]Ekran demografii pokazuje prawidłowe dane ekonomiczne[NEWLINE]Wrogie jednostki wkraczające na twoje terytorium są zaznaczone na czerwono[NEWLINE]Klikając na własny wyniki minimalizujemy listę przywódców[NEWLINE]Wciskając [CTRL + H] zaznaczymy wszystkie uszkodzone jednostki na danym polu[NEWLINE][NEWLINE][BOLD]Zmiany zasad[\BOLD][NEWLINE]Gry rozgrywane w tempie normalnym trwają teraz 500 tur, jednak upływ czasu został odpowiednio dostosowany, więc gra nadal kończy się w 2050 roku[NEWLINE][LINK=BUILDING_UNITED_NATIONS]Narody Zjednoczone[\LINK] zostały ulepszone. Sprawdź [LINK=CONCEPT_APOSTOLIC_PALACE]Pałac Apostolski[\LINK] aby uzyskać więcej informacji[NEWLINE]Złoty Wiek zwiększa punkty Wielkich Ludzi o 100%[NEWLINE]Twój pierwszy Złoty Wiek wymaga jedynie jednego Wielkiego Człowieka[NEWLINE]Podczas Złotego Wieku nie następuje anarchia podczas zmian doktryn i religii[NEWLINE]Gdy rozpoczynasz grę pojedynczą, bądź w trybie wieloosobowym, możesz wybrać dla każdej cywilizacji dowolnego przywódcą[NEWLINE]Wybierając opcję "Wybierane Religie", będziesz mógł wybrać jaką religię utworzysz po wynalezieniu odpowiedniego wynalazku[NEWLINE]Międzykontynentalne szlaki handlowe, zarówno wewnętrzne jak i zewnętrzne są o 100% bardziej dochodowe[NEWLINE]Zanim będziesz mógł handlować przez rzeki lub wzdłuż wybrzeża, poza twoimi granicami[NEWLINE]Religie nie pozwalają widzieć miast wroga[NEWLINE]Wielcy Specjaliści (Wielcy Ludzie, dodani do miasta jako specjaliści) pozostają w mieście nawet po jego przejęciu przez inną cywilizację[NEWLINE]Możesz zbudować do 5 cudów Narodowych w grze na jedno miasto [NEWLINE][NEWLINE][BOLD]Zmiany w cechach przywódców[\BOLD][NEWLINE]Cecha "Ekspansywny" zwiększa szybkość Robotników tylko o 25% (poprzednio o 50%)[NEWLINE][LINK=LEADER_AUGUSTUS]Oktawian August[\LINK] jest teraz Imperialistyczny i Pracowity[NEWLINE][NEWLINE][BOLD]Zmiany w promocjach jednostek[NEWLINE][\BOLD]Jednostki powietrzne mają swoje własne [LINK=CONCEPT_AIR_PROMOTIONS]Promocje[\LINK][NEWLINE]Nowa promocja - Leśnik III - Leczy jednostki na tym samym polu o 15% szybciej, +50% do ataku w dżungli i w lesie[NEWLINE][LINK=TECH_MILITARY_SCIENCE]Nauki Wojskowe[\LINK] odblokowują promocje Atak Błyskawiczny i Komandos [NEWLINE][LINK=PROMOTION_GUERILLA3]Partyzantka III[\LINK] teraz zwiększa szansę ucieczki do 50%[NEWLINE]Jednostki strzeleckie mają dostęp do promocji "Musztra"[NEWLINE][NEWLINE][BOLD]Zmiany w trybie wieloosobowym[NEWLINE][\BOLD]Równoległe tury drużyn - Gracze z tej samej drużyny wykonują tury jednocześnie[NEWLINE][NEWLINE][BOLD]Zmiany w modowaniu[NEWLINE][\BOLD]W trybie Edytora świata można ustawiać granice kulturowe bez obecności miast[NEWLINE]Dodano modularny system XML[NEWLINE][NEWLINE][BOLD]Zmiany w grafice[\BOLD][NEWLINE]Style jednostek (Bliskowschodni, Grecko-Romański, etc.). Każdy styl ma własny wygląd jednostek, co oznacza że Zwiadowcy wybudowani przez Karola Wielkiego i Surwajarmana II będą wyglądać inaczej. Cechy i zachowanie jednostek pozostały takie same[NEWLINE]Wprowadzono nowe style dróg - Drogi Rzymskie i Drogi Współczesne</Polish>
         </TEXT>
@@ -3366,7 +3366,7 @@ W przeliczeniu na masę wanilia jest drugą po szafranie najdroższą przyprawą
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDYLIST_EMPTY_NAME_TITLE</Tag><Polish>Potrzebna nazwa znajomego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDYLIST_MULTIPLE_PROFILES_DESC</Tag><Polish>Znaleziono wiele wyników proszę sprecyzować kryteria.</Polish>
+<TEXT><Tag>TXT_KEY_BUDDYLIST_MULTIPLE_PROFILES_DESC</Tag><Polish>Znaleziono kilka pasujących profili. Sprecyzuj kryteria wyszukiwania.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDYLIST_MULTIPLE_PROFILES_TITLE</Tag><Polish>Znaleziono wiele wyników</Polish>
         </TEXT>
@@ -3374,7 +3374,7 @@ W przeliczeniu na masę wanilia jest drugą po szafranie najdroższą przyprawą
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDYLIST_NO_PROFILE_TITLE</Tag><Polish>Brak znajomego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDYLIST_SERVER_ERROR_DESC</Tag><Polish>Nieznany błąd na serwerze listy znajomych</Polish>
+<TEXT><Tag>TXT_KEY_BUDDYLIST_SERVER_ERROR_DESC</Tag><Polish>Wystąpił błąd serwera listy znajomych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDYLIST_SERVER_ERROR_TITLE</Tag><Polish>Błąd serwera</Polish>
         </TEXT>
@@ -3382,83 +3382,83 @@ W przeliczeniu na masę wanilia jest drugą po szafranie najdroższą przyprawą
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_LOBBY</Tag><Polish>Poczekalnia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_NA</Tag><Polish>Niedostąpny</Polish>
+<TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_NA</Tag><Polish>Niedostępny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_OFFLINE</Tag><Polish>Wyłączony</Polish>
+<TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_OFFLINE</Tag><Polish>Poza siecią</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_ONLINE</Tag><Polish>Dostępny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_PLAYING</Tag><Polish>Gra</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_STAGING</Tag><Polish>Iscenizacja</Polish>
+<TEXT><Tag>TXT_KEY_BUDDY_LIST_STATUS_STAGING</Tag><Polish>Przygotowuje grę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDY_NAME_TAG</Tag><Polish>Nazwa znajomego:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDY_REQUEST_FAILED_DESC</Tag><Polish>Żądanie znajomego nie może być wysłane</Polish>
+<TEXT><Tag>TXT_KEY_BUDDY_REQUEST_FAILED_DESC</Tag><Polish>Nie udało się wysłać zaproszenia do znajomych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUDDY_REQUEST_FAILED_TITLE</Tag><Polish>Żądanie znajomego zawiodło</Polish>
+<TEXT><Tag>TXT_KEY_BUDDY_REQUEST_FAILED_TITLE</Tag><Polish>Nie wysłano zaproszenia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUDDY_ROOT_NAME</Tag><Polish>Znajomi</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING</Tag><Polish>Ostrzeżenia HOF</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING</Tag><Polish>Ostrzeżenie HOF</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_BALANCED_RESOUCES_NOT_ALLOWED</Tag><Polish>[COLOR_WARNING_TEXT]Zbalansowane surowce nie dostępne[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_BALANCED_RESOUCES_NOT_ALLOWED</Tag><Polish>[COLOR_WARNING_TEXT]Zrównoważone rozmieszczenie surowców jest niedozwolone.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_DIFFERENT</Tag><Polish>[COLOR_WARNING_TEXT]Te ustawienia sa różne od standardowej instalacji. Skontaktuj sie z ekipą HOF.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_DIFFERENT</Tag><Polish>[COLOR_WARNING_TEXT]Pliki gry różnią się od standardowej instalacji. Skontaktuj się z zespołem HOF.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_FAILED</Tag><Polish>[COLOR_WARNING_TEXT]Bład w sprawdzaniu CRCs.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_FAILED</Tag><Polish>[COLOR_WARNING_TEXT]Nie udało się sprawdzić sum kontrolnych CRC.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_MISSING</Tag><Polish>[COLOR_WARNING_TEXT]CRCs nie odnaleziony. Ta gra nie może zostać użyta. Sprawdź zablokowane modyfikacje.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_MISSING</Tag><Polish>[COLOR_WARNING_TEXT]Brakuje sum kontrolnych CRC. Tej rozgrywki nie można zgłosić. Włącz opcję blokowania zmodyfikowanych plików gry, jeśli nie jest zaznaczona.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_SKIPPED</Tag><Polish>[COLOR_WARNING_TEXT]Pominięto Checksum.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_CHECKSUM_SKIPPED</Tag><Polish>[COLOR_WARNING_TEXT]Pominięto sprawdzanie sumy kontrolnej.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_DLL_MISSING</Tag><Polish>[COLOR_WARNING_TEXT]BUFFY: DLL nie znaleziono.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_DLL_MISSING</Tag><Polish>[COLOR_WARNING_TEXT]Brakuje biblioteki DLL moda BUFFY.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_INSTALL_LOCATION</Tag><Polish>[COLOR_WARNING_TEXT]BUFFY musi być zainstalowane w:[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_INSTALL_LOCATION</Tag><Polish>[COLOR_WARNING_TEXT]Mod BUFFY musi być zainstalowany w:[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_MAC</Tag><Polish>[COLOR_WARNING_TEXT]Gracze Mac nie mogą zgłaszać wpisów HoF[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_MAC</Tag><Polish>[COLOR_WARNING_TEXT]Gracze korzystający z komputerów Mac nie mogą zgłaszać wyników do HOF.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_MULTI_PLAYER_NOT_ALLOWED</Tag><Polish>[COLOR_WARNING_TEXT]Gry Multi-Player nie dostępne[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_MULTI_PLAYER_NOT_ALLOWED</Tag><Polish>[COLOR_WARNING_TEXT]Rozgrywki wieloosobowe są niedozwolone.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_MULT_LEADERS</Tag><Polish>[COLOR_WARNING_TEXT]%s1 został wybrany %d2 razy[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_MULT_LEADERS</Tag><Polish>[COLOR_WARNING_TEXT]%s1: liczba wystąpień tego przywódcy wynosi %d2.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUFFYWARNING_NOT_ALLOWED</Tag><Polish>[COLOR_WARNING_TEXT](Niedozwolone)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_NOT_VALID</Tag><Polish>Ta gra nie obsługuje użycia HOF. Zobacz [COLOR_WARNING_TEXT]podświetlone[COLOR_REVERT] ustawienia.</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_NOT_VALID</Tag><Polish>Ta rozgrywka nie spełnia wymagań HOF. Nieprawidłowe ustawienia są [COLOR_WARNING_TEXT]wyróżnione[COLOR_REVERT] w polach poniżej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_NO_TEAMS</Tag><Polish>[COLOR_WARNING_TEXT]Gra drużynowa nie dozwolona[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_NO_TEAMS</Tag><Polish>[COLOR_WARNING_TEXT]Gra drużynowa jest niedozwolona.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUFFYWARNING_REQUIRED</Tag><Polish>[COLOR_WARNING_TEXT](Wymagane)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_TOO_FEW_OPPONENTS</Tag><Polish>[COLOR_WARNING_TEXT]%d1 lub więcej graczy jest wymagane dla  %s2[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_TOO_FEW_OPPONENTS</Tag><Polish>[COLOR_WARNING_TEXT]Wymagana minimalna liczba przeciwników: %d1. Rozmiar mapy: %s2.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFYWARNING_TOO_MANY_OPPONENTS</Tag><Polish>[COLOR_WARNING_TEXT]%d1 lub mniej graczy jest wymagane dla %s2[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUFFYWARNING_TOO_MANY_OPPONENTS</Tag><Polish>[COLOR_WARNING_TEXT]Dozwolona maksymalna liczba przeciwników: %d1. Rozmiar mapy: %s2.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUFFYWARNING_VICTORY_CONDITIONS</Tag><Polish>[COLOR_WARNING_TEXT]Wszystkie warunki zwycięstwa muszą być włączone. Brakuje:[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFY_INVALID_HOF</Tag><Polish>[COLOR_WARNING_TEXT]Uwaga HOF :[COLOR_REVERT] Ta gra nie obsługuje użycia HOF. Szczególy na ekranie Zwycięstwa w zakładce Ustawień.</Polish>
+<TEXT><Tag>TXT_KEY_BUFFY_INVALID_HOF</Tag><Polish>[COLOR_WARNING_TEXT]Ostrzeżenie HOF:[COLOR_REVERT] Ta rozgrywka nie spełnia wymagań HOF. Szczegóły znajdziesz na karcie ustawień ekranu zwycięstwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUFFY_INVALID_HOF_GOTM</Tag><Polish>[COLOR_WARNING_TEXT]Uwaga:[COLOR_REVERT] Ta gra nie obsługuje HOF lub GOTM.</Polish>
+<TEXT><Tag>TXT_KEY_BUFFY_INVALID_HOF_GOTM</Tag><Polish>[COLOR_WARNING_TEXT]Ostrzeżenie:[COLOR_REVERT] Ta rozgrywka nie spełnia wymagań HOF ani GOTM.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_AVERAGE_TRADE_YIELD</Tag><Polish>[NEWLINE]Średnio z pól: %s1[ICON_COMMERCE]</Polish>
+<TEXT><Tag>TXT_KEY_BUG_AVERAGE_TRADE_YIELD</Tag><Polish>[NEWLINE]Średni dochód: %s1[ICON_COMMERCE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_CLOSED_BORDERS</Tag><Polish>[NEWLINE][ICON_BULLET]Nie podpisałeś paktu o otwartych granicach</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_CLOSED_BORDERS</Tag><Polish>[NEWLINE][ICON_BULLET]Nie zawarto umowy o otwartych granicach.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_DEAD</Tag><Polish>[NEWLINE][ICON_BULLET]Nie istnieją</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_THEM</Tag><Polish>[NEWLINE][ICON_BULLET]Ich doktryny nie zezwalają na zagraniczny handel</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_THEM</Tag><Polish>[NEWLINE][ICON_BULLET]Ich doktryny nie pozwalają na handel zagraniczny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_YOU</Tag><Polish>[NEWLINE][ICON_BULLET]Twoje doktryny nie zezwalają na zagraniczny handel</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_FOREIGN_YOU</Tag><Polish>[NEWLINE][ICON_BULLET]Twoje doktryny nie pozwalają na handel zagraniczny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_HEADING</Tag><Polish>Brak handlu z %s1_PlyrName (%s2_CivName)</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_HEADING</Tag><Polish>Brak handlu. Gracz: %s1_PlyrName, cywilizacja: %s2_CivName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_NETWORK_NOT_CONNECTED</Tag><Polish>[NEWLINE][ICON_BULLET]Twoje sieci handlowe nie są połączone</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CANNOT_TRADE_NETWORK_NOT_CONNECTED</Tag><Polish>[NEWLINE][ICON_BULLET]Wasze sieci handlowe nie są połączone.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CHART_HELP</Tag><Polish>Możesz przybliżać i oddalać klikając na grafie</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CHART_HELP</Tag><Polish>Klikaj obszar wykresu, aby przybliżać lub oddalać widok.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_CREATED_BY_HEADER</Tag><Polish>Stworzone przez BUG Mod.</Polish>
+<TEXT><Tag>TXT_KEY_BUG_CREATED_BY_HEADER</Tag><Polish>Przygotowane przez twórców moda BUG.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUG_DEAD_CIV</Tag><Polish>MARTWY</Polish>
+<TEXT><Tag>TXT_KEY_BUG_DEAD_CIV</Tag><Polish>WYELIMINOWANA</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUG_DEFAULT</Tag><Polish>Domyślne</Polish>
         </TEXT>
@@ -8306,15 +8306,15 @@ To najważniejsza spośród kilku tysięcy świątyń poświęconych Inari, sint
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GERMAN_ASSEMBLY_PLANT_PEDIA</Tag><Polish>Zakład Produkcyjny jest budynkiem lub kompleksem budynków gdzie pracownicy tworzą jakieś towary. W wielu przypadkach, towary te są tworzone z użyciem "linii produkcyjnej" gdzie poszczególne fragmenty są dodawane do produktu przez robotników. Fabryka również może zawierać magazyn aby przechowywać części jak i gotowe produkty.[PARAGRAPH:2] Zbrojownia w Wenecji jest pierwszą znaną fabryką w historii. Zbudowana w Wenecji w XII wieku, budowała okręty używając linii produkcyjnej. Podczas rewolucji przemysłowej w XVIII stuleciu, fabryki rozprzestrzeniły się na obszar całej Europy i Ameryki Północnej. Proces produkcji został znacznie zoptymalizowany w USA na początku XX wieku. [PARAGRAPH:2] Niemieckie fabryki w miarę czasu stały się najbardziej wydajnymi. Podczas I i II wojny światowej, budowały w czasie alianckich bombardowań tysiące czołgów, samolotów i innych materiałów potrzebnych do prowadzenia wojny. Także w XXI wieku, niemieckie fabryki nadal pozostają jednymi z najlepszych na świecie. [PARAGRAPH:2]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GERMAN_ASSEMBLY_PLANT_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Zakład Produkcyjny[COLOR_REVERT], niemiecki odpowiednik [COLOR_BUILDING_TEXT]Fabryki[COLOR_REVERT], zwiększa produkcję miasta ale zanieczyszcza środowisko.[COLOR_BUILDING_TEXT]Zakłady Produkcyjne[COLOR_REVERT] potrzebne są do budowy [COLOR_BUILDING_TEXT]Węglowej[COLOR_REVERT], [COLOR_BUILDING_TEXT]Wodnej[COLOR_REVERT], lub [COLOR_BUILDING_TEXT]Nuklearnej[COLOR_REVERT] Elektrowni, które zwiększają produkcję z odpowiednimi surowcami.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GERMAN_ASSEMBLY_PLANT_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Zakłady produkcyjne[COLOR_REVERT], niemiecki odpowiednik [COLOR_BUILDING_TEXT]fabryk[COLOR_REVERT], zwiększają produkcję miasta, ale znacznie pogarszają jego zdrowotność. [COLOR_BUILDING_TEXT]Zakłady produkcyjne[COLOR_REVERT] są wymagane do budowy [COLOR_BUILDING_TEXT]elektrowni węglowych[COLOR_REVERT], [COLOR_BUILDING_TEXT]wodnych[COLOR_REVERT] lub [COLOR_BUILDING_TEXT]jądrowych[COLOR_REVERT], które przy dostępie do odpowiednich surowców dodatkowo zwiększają produkcję.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLASSBLOWERS</Tag><Polish>Siedziba cechu szklarzy</Polish>
 		</TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GLASSSMITH</Tag><Polish>Huta Szkła</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GLASSSMITH</Tag><Polish>Huta szkła</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLASSSMITH_PEDIA</Tag><Polish>[TAB]Huta szkła to zakład przemysłowy zajmujący się produkcją wyrobów szklanych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GLASSSMITH_STRATEGY</Tag><Polish>Huta szkła wytwarza wyroby szklane z kamienia i soli. Wyroby szklane to świetny zasób na sprzedaż innym, którzy nie mają dostępu do tych surowców. Szkło jest wymagane do budowy laboratoriów alchemicznych i obserwatoriów.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GLASSSMITH_STRATEGY</Tag><Polish>Huta szkła wytwarza wyroby szklane z kamienia i soli. Można je z zyskiem sprzedawać cywilizacjom, które nie mają dostępu do tych surowców. Szkło jest potrzebne do budowy laboratoriów alchemicznych i obserwatoriów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLOBAL</Tag><Polish>[SPACE]we wszystkich miastach</Polish>
         </TEXT>
@@ -8330,21 +8330,21 @@ To najważniejsza spośród kilku tysięcy świątyń poświęconych Inari, sint
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLOBAL_POP</Tag><Polish>[ICON_BULLET]%D1_Change do populacji we wszystkich miastach</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GLOBAL_STOCK_EXCHANGE</Tag><Polish>Giełda Światowa</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GLOBAL_STOCK_EXCHANGE</Tag><Polish>Giełda światowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLOBAL_STOCK_EXCHANGE_PEDIA</Tag><Polish>[TAB]Giełda papierów wartościowych umożliwia maklerom i uczestnikom rynku obrót akcjami, obligacjami oraz innymi papierami wartościowymi. Zapewnia również warunki do ich emisji i wykupu, obsługi innych instrumentów finansowych oraz zdarzeń kapitałowych, w tym wypłaty dochodów i dywidend. Przedmiotem obrotu są między innymi akcje spółek, jednostki funduszy, instrumenty pochodne, produkty wspólnego inwestowania i obligacje. Aby papierem wartościowym można było handlować na danej giełdzie, musi zostać dopuszczony do notowań. Zazwyczaj istnieje centralna siedziba, choćby do prowadzenia ewidencji, ale handel coraz mniej zależy od fizycznego miejsca. Współczesne rynki są sieciami elektronicznymi, które przyspieszają transakcje i obniżają ich koszty. Bezpośredni obrót na giełdzie jest zastrzeżony dla jej członków. Pierwsza oferta akcji lub obligacji dla inwestorów należy do rynku pierwotnego, a późniejszy handel odbywa się na rynku wtórnym. Giełda bywa najważniejszą częścią rynku akcji. Popyt i podaż zależą od wielu czynników, które, podobnie jak na innych wolnych rynkach, wpływają na ceny. Zwykle nie ma obowiązku emitowania akcji za pośrednictwem samej giełdy ani późniejszego prowadzenia tam obrotu. Transakcje poza nią określa się jako obrót pozagiełdowy, czyli OTC. W ten sposób często handluje się obligacjami i instrumentami pochodnymi. Giełdy coraz silniej wchodzą w skład światowego rynku papierów wartościowych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GLOBAL_STOCK_EXCHANGE_STRATEGY</Tag><Polish>Globalna giełda zapewnia 3 dodatkowe szlaki handlowe we wszystkich miastach.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GLOBAL_STOCK_EXCHANGE_STRATEGY</Tag><Polish>Giełda światowa zapewnia 3 dodatkowe szlaki handlowe we wszystkich miastach.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLOBE_THEATRE</Tag><Polish>Teatr Narodowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GLOBE_THEATRE_PEDIA</Tag><Polish>[TAB]Większość sztuk Williama Szekspira została wystawiona po raz pierwszy w XVII wieku na deskach londyńskiego teatru Globe. Teatry pozwalały oderwać się widzom przypatrującym się komediom, tragediom i triumfom odgrywanym na scenie od trosk codzienności. Inne teatry, takie jak Comedie Francaise w Paryżu i mediolańska La Scala, spełniały podobną rolą oferując rozrywkę mieszkańcom miast, w których istniały. Chociaż pierwszy Teatr Globe spłonął, sztuki Szekspira nadal wystawia się w teatrze jego imienia, a także w innych teatrach na całym świecie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GLOBE_THEATRE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Teatr Narodowy[COLOR_REVERT] usuwa wszelkie niezadowolenie w mieście, w którym został wybudowany. Zwiększa również prawdopodobieństwo pojawienia się w mieście [COLOR_UNIT_TEXT]Wielkiego Artysty[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GLOBE_THEATRE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Teatr Narodowy[COLOR_REVERT] usuwa całe niezadowolenie w mieście, w którym go zbudowano. Zwiększa też szansę pojawienia się w nim [COLOR_UNIT_TEXT]wielkiego artysty[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GOLDENAGE_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% dłużej trwa Złoty Wiek</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GOLDENAGE_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do czasu trwania złotego wieku</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_AGE</Tag><Polish>[ICON_BULLET]Rozpoczyna Złoty Wiek</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_AGE</Tag><Polish>[ICON_BULLET]Rozpoczyna złoty wiek</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_BUDDHA</Tag><Polish>Złoty Budda</Polish>
 		</TEXT>
@@ -8352,9 +8352,9 @@ To najważniejsza spośród kilku tysięcy świątyń poświęconych Inari, sint
 	</TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_BUDDHA_STRATEGY</Tag><Polish>Złoty Budda działa jak dodatkowa buddyjska stupa, lecz nie wymaga świątyń. Obu budynków nie można oczywiście wznieść w tym samym mieście.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_SPIKE</Tag><Polish>Złote Kolce</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_SPIKE</Tag><Polish>Złoty Gwóźdź</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_SPIKE_HELP</Tag><Polish>[ICON_BULLET] Łączy wszystkie miasta na kontynencie torami kolejowymi.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_SPIKE_HELP</Tag><Polish>[ICON_BULLET]Łączy torami kolejowymi wszystkie miasta na tym samym kontynencie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GOLDEN_SPIKE_PEDIA</Tag><Polish>Złotym Gwoździem nazwano ceremonialny ostatni gwóźdź szynowy wbity na zakończenie budowy pierwszej linii kolejowej przecinającej Stany Zjednoczone. Uroczystość odbyła się 10 maja 1869 r. w Promontory Point w stanie Utah. Do innych wielkich szlaków kolejowych należą Kanadyjska Kolej Pacyficzna i Kolej Transsyberyjska.</Polish>
         </TEXT>
@@ -8404,15 +8404,15 @@ Działały w East Midlands, East of England, Londynie, North East, North West, S
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GRAVEYARD_PEDIA</Tag><Polish>Cmentarz w sensie prawno-administracyjnym jest wyraźnie wyodrębnionym, oznaczonym, zdeterminowanym terenem, przeznaczonym do grzebania zmarłych, a występujące na nich mogiły są w zwyczajowo przyjętej formie wizualnej.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GRAVEYARD_STRATEGY</Tag><Polish>Dodaje punkty kultury i zadowolenia ale zwiększa utrzymanie.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GRAVEYARD_STRATEGY</Tag><Polish>Zwiększa kulturę i zadowolenie, ale podnosi koszty utrzymania.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_DAM</Tag><Polish>Tama Trzech Przełomów</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_DAM_PEDIA</Tag><Polish>[TAB]Zaporę Trzech Wąwozów zaprojektowano w celu wykorzystania potęgi Jangcy, trzeciej pod względem długości rzeki świata. Budowę rozpoczęto w prowincji Hubei, w Chinach w roku 1994, a zakończona ma być w roku 2009. Po ukończeniu będzie mieć 180 metrów wysokości i rozciągać się na 2 kilometry, co uczyni ją największą wodną zaporą w świecie. Chiński rząd ocenia koszt przedsięwzięcia na 30 miliardów dolarów, a źródła niezależne zwiększają te oszacowanie do 75 miliardów. [PARAGRAPH:2] Pomysł zbudowania zapory na Jangcy sięga 1919 r., kiedy to wysunął go Sun Yat-sen, ale powędrował on na czterdzieści lat do lamusa, ze względu na wojny, rewolucje i inne narodowe niepokoje, które wstrząsały Chinami. W 1954 r. pomysł odrodził się, został porzucony i znów do niego powrócono w 1963 r. I tak, aż do ostatecznej decyzji uzyskanej w 1992 r. [PARAGRAPH:2] Nad projektem przetoczyła się fala dyskusji, po pierwsze z tego względu, że doprowadzi on do przeprowadzek 2 miliony ludzi, ale także dlatego, iż w jego wyniku zniszczonych zostanie 1300 miejsc wykopalisk archeologicznych i poważnie ingeruje w środowisko naturalne. Chiński rząd doprowadził do realizacji projektu, mimo bezprecedensowej opozycji 30% delegatów do Ogólnochińskiego Zgromadzenia Przedstawicieli Ludowych, ciała które zazwyczaj bez zastanowienia się akceptuje poczynania rządu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREAT_DAM_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Zapora Trzech Przełomów[COLOR_REVERT] dostarcza czystą energię do wszystkich miast na kontynencie, która jest potrzebna do wzrostu tempa produkcji [COLOR_BUILDING_TEXT]Fabryk[COLOR_REVERT]. Zwiększa również prawdopodobieństwo pojawienia się w mieście [COLOR_UNIT_TEXT]Wielkiego Inżyniera[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREAT_DAM_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Tama Trzech Przełomów[COLOR_REVERT] dostarcza czystą energię wszystkim miastom na tym samym kontynencie, zwiększając produkcję ich [COLOR_BUILDING_TEXT]fabryk[COLOR_REVERT]. Zwiększa również szansę pojawienia się [COLOR_UNIT_TEXT]wielkiego inżyniera[COLOR_REVERT] w mieście, w którym ją zbudowano.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREAT_FIREWALL</Tag><Polish>Wielkie Centrum Cyberobrony</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREAT_FIREWALL</Tag><Polish>Wielkie centrum cyberobrony</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_FIREWALL_PEDIA</Tag><Polish>„Wielka Zapora” to potoczne określenie rozległej cenzury internetu w Chińskiej Republice Ludowej. Informacje na liczne tematy są blokowane, a dostęp podlega monitorowaniu. Internauci często uciekają się do bardzo pomysłowych sposobów obchodzenia Zapory.</Polish>
         </TEXT>
@@ -8426,37 +8426,37 @@ Działały w East Midlands, East of England, Londynie, North East, North West, S
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIBRARY_PEDIA</Tag><Polish>[TAB]Wielka Biblioteka z Aleksandrii była jedną z dwóch najważniejszych w starożytnym świecie. Została założona przez Ptolemeusza I około 300 r. p.n.e., a jego następcy rozbudowali i wzbogacili ją. Biblioteka starała się pozyskać kopie wszystkich znacznych dokumentów i w końcu liczyła sobie ponad 700,000 pozycji. Religijni fanatycy zniszczyli bibliotekę w 391 r. p.n.e., po prawie 700 latach działania. Podczas tego okresu Aleksandria była centrum kultury świata hellenistycznego. Do dzisiaj zachowała się jedynie część katalogu, która daje nam słabe pojęcie o bogactwach zawartych w Wielkiej Bibliotece. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIBRARY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wielka Biblioteka[COLOR_REVERT] zapewnia w mieście 2 dodatkowych specjalistów-naukowców, zwiększając w ten sposób tempo badań naukowych. Znacznie zwiększa prawdopodobieństwo pojawienia się w mieście [COLOR_UNIT_TEXT]Wielkiego Naukowca[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIBRARY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wielka Biblioteka[COLOR_REVERT] zapewnia miastu 2 darmowych specjalistów-naukowców, zwiększając tempo badań. Znacznie zwiększa też szansę pojawienia się w nim [COLOR_UNIT_TEXT]wielkiego naukowca[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIGHTHOUSE</Tag><Polish>Wielka Latarnia Morska</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIGHTHOUSE_PEDIA</Tag><Polish>[TAB]Latarnia na wsypie Faros u wybrzeża Aleksandrii w Egipcie, była marmurową wieżą strażniczą i latarnią morską zbudowaną w roku 280 p.n.e. Miała około 90 metrów wysokości, a jej podstawowym zadaniem było kierowanie zbliżających się statków do wejścia do portu. Historycy spierają się czy na jej szczycie rozpalano ogień, czy też używano luster odbijających światło słoneczne. Ponieważ statki rzadko żeglowały nocą wzdłuż wybrzeża, prawdopodobnie nie było potrzeby uruchamiania latarni po zmroku. Latarnia na Faros uległa zniszczeniu w XIV wieku na skutek szkód jakie wyrządziło kilka kolejnych trzęsień ziemi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIGHTHOUSE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wielka Latarnia Morska[COLOR_REVERT] zapewnia 2 dodatkowe szlaki handlowe wszystkim nadbrzeżnym miastom. [COLOR_BUILDING_TEXT]Wielka Latarnia Morska[COLOR_REVERT] zwiększa również prawdopodobieństwo pojawienia się w mieście [COLOR_UNIT_TEXT]Wielkiego Kupca[COLOR_REVERT] .</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREAT_LIGHTHOUSE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wielka Latarnia Morska[COLOR_REVERT] zapewnia 2 dodatkowe szlaki handlowe wszystkim nadbrzeżnym miastom. [COLOR_BUILDING_TEXT]Wielka Latarnia Morska[COLOR_REVERT] zwiększa też szansę pojawienia się [COLOR_UNIT_TEXT]wielkiego kupca[COLOR_REVERT] w mieście, w którym ją zbudowano.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_PALACE</Tag><Polish>Zakazane Miasto</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_PALACE_PEDIA</Tag><Polish>[TAB]Zespół budynków cesarzy Chin - pekińskie Zakazane Miasto jest ukoronowaniem geniuszu i umiłowania piękna chińskich architektów. Wystawne ogrody, tarasy i fontanny otaczają tą wspaniałą budowlę, stolicę Chin od 1421 roku. Zakazane Miasto było też rezydencją 24 cesarzy z dynastii Ming i Qing, do czasu abdykacji ostatniego cesarza w 1911 roku. Chociaż jego prawidłowa nazwa to Pałac Cesarski, to jest szeroko znane jako Zakazane Miasto, gdyż zwykli obywatele nie posiadali prawa wstępu na jego tereny. Prawie 500 metrowa fosa i mury sięgające około 70 metrów, ograniczały szanse odwiedzin nieproszonych gości. Zakazane Miasto jest ogromne. Liczy sobie 170 akrów i składa sie z 8706 komnat. Liczbę jego mieszkańców, którzy służyć mieli Cesarzowi, szacuje się na 8 do 10 tys. ludzi. Dzisiaj Zakazane Miasto jest dużą atrakcją turystyczną, ale wykorzystuje się go również jako symbol chińskiej suwerenności. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREAT_PALACE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Zakazane Miasto[COLOR_REVERT] zmniejsza utrzymanie pobliskich miast i zwiększa szanse na generowanie [COLOR_UNIT_TEXT]Wielkiego Szpiega[COLOR_REVERT] w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREAT_PALACE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Zakazane Miasto[COLOR_REVERT] zmniejsza koszty utrzymania pobliskich miast. Zwiększa też szansę pojawienia się [COLOR_UNIT_TEXT]wielkiego szpiega[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_WALL</Tag><Polish>Wielki Mur</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREAT_WALL_PEDIA</Tag><Polish>Jest to mur obronny, zaopatrzony w bramy i wieże, od Szanghajkuan (nad zatoką Liaotung) do Ciajukuan w górach Nan-szan o długości ok. 6350 km (uwzględniając tylko wiodącą nitkę muru bez bocznych odgałęzień, w wersji pochodzącej z czasów dynastii Ming), chroniący Chiny przed najazdami ludów z Wielkiego Stepu. Nazywany jest też "Murem 10000 Li". (10000 nie powinno być tutaj traktowane literalnie i oznacza raczej "nieskończoną długość" muru.)[PARAGRAPH:2]Pierwsze Odcinki muru zaczęły już powstawać około VI wieku p.n.e.. Były to jednak początkowo tylko oddolne inicjatywy nadgranicznej ludności nie połączone w żadną całość. Akcję budowania muru jako jednolitej struktury rozpoczął dopiero pierwszy cesarz Chin Qin Shi Huang Di w III wieku p.n.e.. Początkowo kierujący budową muru mieli do dyspozycji ok. 300 tys. ludzi. Wkrótce okazało się to niewystarczające. Przydzielano następne szerokie rzesze robotników. Przestępców i ludzi uznanych za przestępców oczywiście kierowano do katorżniczej pracy przy budowie Wielkiego Muru Chińskiego. Mur wznosili także rekruci, a w razie potrzeby wydłużano im lata służby. Oblicza się, że w budowę muru zaangażowanych było aż 3,5 mln osób, czyli 70 % ludności ówczesnych Chin. Praca ponad siły zbierała straszliwe żniwo, przy pracach zmarło ponad 1 mln ludzi. Ucisk spowodowany tą pracą przy tej gigantycznej budowli spowodował, że rok po śmierci cesarza, w 209 roku p.n.e. chłopi wzniecili powstanie i dynastia Qin upadła. Później jego budowę na zmianę porzucano na całe stulecia, a następnie z małym skutkiem próbowano ponownie podejmować budowę, jednak Mur za dynastii Qin, nie został nigdy ukończony.[PARAGRAPH:2]Znaną do dziś postać mur uzyskał dopiero za dynastii Ming (1368), w XII wieku. Dynastia ta odczuwając duży nacisk ludów Mongolskich, postanowiła zbudować, w oparciu o wciąż istniejące fragmenty starożytnego muru, ciągły system fortyfikacji - od granic Korei aż po pustynię Gobi. System ten składał się nie tylko z samego muru, ale także z przylegających do niego osad nadgranicznych, faktorii handlowych, oraz szerokiego na blisko 1 km, pasa "spalonej" ziemi.[PARAGRAPH:2]Oprócz bezpośredniej ochrony przed najazdami ludów z Wielkiego Stepu mur miał duże znaczenie handlowe, ochraniając na całej swojej długości chińską część Jedwabnego Szlaku.[PARAGRAPH:2]Mur, nawet w czasach swojej świetności, nie spełniał nigdy roli fortyfikacji zdolnej przeciwstawić się długiemu oblężeniu przez silną armię. Stanowił jednak dość skuteczną zaporę przed nieskoordynowanymi atakami małych ord, zapewniając względny spokój na terenach przygranicznych i umożliwiając prowadzenie handlu wzdłuż Jedwabnego Szlaku. W sytuacji zmasowanego ataku zorganizowanej armii, mur był niemal całkowicie bezużyteczny i mógł co najwyżej spełniać rolę systemu wczesnego ostrzegania.[PARAGRAPH:2]W jego historii mur był wielokrotnie skutecznie forsowany przez ludy z Wielkiego Stepu (Hunów, Turków i Mongołów). W końcu po pokonaniu w XVII wieku dynastii Ming przez Mandżurów, mur znalazł się wewnątrz państwa Nurhaciego i jego następców. W efekcie stracił jakiekolwiek znaczenie strategiczne.[PARAGRAPH:2]Mur chiński jest największą budowlą tego typu na świecie. Wbrew powszechnemu przekonaniu, Mur chiński nie jest widoczny "gołym okiem" z odległego kosmosu (np. z Księżyca), natomiast z niskiej orbity okołoziemskiej widocznych jest też wiele innych budowli, np: autostrady.[PARAGRAPH:2]Obecnie większa jego część jest w złym stanie i porozrywana na kilkanaście odcinków o różnej długości (stopniowo odbudowywana); tylko niewielkie fragmenty są udostępnione turystom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREAT_WALL_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wielki Mur[COLOR_REVERT] wpływa na teren wewnątrz granic kulturowych właściciela na kontynencie, nawet jeżeli są one fizycznie poza Wielkim Murem.  [COLOR_HIGHLIGHT_TEXT]Barbarzyńcy[COLOR_REVERT] nie mogą wejść na ten teren, a właściciel dostaje więcej punktów [COLOR_HIGHLIGHT_TEXT]Wielkiego Generała[COLOR_REVERT] na tym obszarze.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREAT_WALL_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wielki Mur[COLOR_REVERT] chroni wszystkie ziemie właściciela w jego granicach kulturowych na tym kontynencie, nawet jeśli leżą poza samym murem. [COLOR_HIGHLIGHT_TEXT]Barbarzyńcy[COLOR_REVERT] nie mogą wkroczyć na ten obszar. Walki na nim zapewniają właścicielowi dodatkowe punkty [COLOR_HIGHLIGHT_TEXT]wielkiego generała[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREEKFIRE</Tag><Polish>Ogień Grecki</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREEKFIRE</Tag><Polish>Ogień grecki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREEKFIRE_PEDIA</Tag><Polish>„Ogień grecki” to nazwa broni zapalającej używanej przez bizantyjską marynarkę wojenną. Była to płynna substancja zapalająca, zdolna płonąć nawet na wodzie. Jej dokładny skład pozostawał tajemnicą; najprawdopodobniej głównym składnikiem był jakiś destylat ropy naftowej, a wśród innych możliwych składników wymienia się saletrę, wapno palone (zapalające się w kontakcie z wodą), żywicę sosnową lub siarkę. Ogień wyrzucano z rur przeciw drewnianym okrętom i murom miejskim. Broń miał wynaleźć człowiek imieniem Kallinikos około 672 r. n.e., a do XIII wieku wiedza o niej zaginęła. Nawet dziś nie udało się w pełni odtworzyć tajemnicy ognia greckiego.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREEKFIRE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Ogień grecki[COLOR_REVERT] zapewnia awans [COLOR_HIGHLIGHT_TEXT]Ogień grecki[COLOR_REVERT] wszystkim Twoim jednostkom łuczniczym, oblężniczym i morskim.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREEK_ODEON</Tag><Polish>Amfiteatr</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREEK_ODEON</Tag><Polish>Odeon</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREEK_ODEON_PEDIA</Tag><Polish>Współczesny zachodni teatr został stworzony w Grecji około 530 p.n.e., ewoluując z "dytyrambii", rolniczego rytuału pieśni, poematów i tańców poświęconych Dionizosowi. Tetr mógł mieścić się wewnątrz budynku lub na wolnym powietrzu. Widownia siedziała w półokręgu dookoła centralnej sceny ("orchestra"). Pierwsze miejsca były zarezerwowane dla ważnych osobistości i kapłanów. Czasami był także ołtarz poświęcony Dionizosowi. "Logeion" był małą podwyższoną platformą na której grali aktorzy.  [PARAGRAPH:2] Teatr był integralną i ważną częścią życia starożytnych Greków. Zapewniał rozrywkę, sztuki odgrywały ważną rolę w życiu politycznym. Wielki dramatopisarz, Arystofanes napisał wiele satyr krytykujących wielkich obywateli i Wojnę Peloponeską.  [PARAGRAPH:2]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GREEK_ODEON_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Odeon[COLOR_REVERT], grecki odpowiednik [COLOR_BUILDING_TEXT]Koloseum[COLOR_REVERT], zwiększa zadowolenie mieszkańców miasta jeszcze bardziej niż [COLOR_BUILDING_TEXT]Koloseum[COLOR_REVERT] oraz dodatkowo zwiększa zadowolenie przy zwiększaniu wydatków na kulturę.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GREEK_ODEON_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Odeon[COLOR_REVERT], grecki odpowiednik [COLOR_BUILDING_TEXT]koloseum[COLOR_REVERT], zapewnia miastu więcej zadowolenia niż zwykłe [COLOR_BUILDING_TEXT]koloseum[COLOR_REVERT]. Zwiększa też korzyści dla zadowolenia wynikające z podnoszenia wydatków na kulturę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GREENHOUSE</Tag><Polish>Szklarnia</Polish>
     </TEXT>
@@ -8480,9 +8480,9 @@ Działały w East Midlands, East of England, Londynie, North East, North West, S
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GROVE_PEDIA</Tag><Polish>Gaj to niewielki las lub skupisko drzew, zwykle z rzadkim podszytem albo zupełnie go pozbawione.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GROVE_STRATEGY</Tag><Polish>Zagajniki dostarczają miejsce dla obywateli we wczesnych stadiach miasta, by mogli się odprężyć w bezpiecznym lesie. </Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GROVE_STRATEGY</Tag><Polish>We wczesnych miastach zagajniki zapewniają mieszkańcom miejsce do bezpiecznego wypoczynku wśród drzew.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_GUILDHALL</Tag><Polish>Siedziba Gildii</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_GUILDHALL</Tag><Polish>Siedziba gildii</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_GUILDHALL_PEDIA</Tag><Polish>[TAB]Gildia (niem. Gilde, związek), zwana także konfraternią (z łac. współbractwo), była w średniowiecznej Europie stowarzyszeniem o charakterze obronnym, religijnym lub towarzyskim.</Polish>
     </TEXT>
@@ -22415,7 +22415,7 @@ W londyńskim City gildie nazywa się livery companies, a ich siedziby livery ha
         </TEXT>
 <TEXT><Tag>TXT_KEY_IMPROVEMENT_COTTAGE_PEDIA</Tag><Polish>[TAB]Współcześnie słowo „cottage” oznacza zwykle niewielki, przytulny dom, najczęściej położony na wsi lub na jej obrzeżach. Domy w tym stylu spotyka się jednak także w miastach, a w niektórych krajach, na przykład w Kanadzie, nazwa nie musi wiązać się z rozmiarem budynku. W Wielkiej Brytanii określenie to odnosi się zazwyczaj do tradycyjnych domów wiejskich, ale bywa używane również wobec nowych budynków naśladujących dawną architekturę. Źródło: Wikipedia.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_IMPROVEMENT_DEFENSE_MODIFIER</Tag><Polish>[ICON_BULLET]%D1%% do premii obronnej</Polish>
+<TEXT><Tag>TXT_KEY_IMPROVEMENT_DEFENSE_MODIFIER</Tag><Polish>[ICON_BULLET]%D1%% do obrony na polu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_IMPROVEMENT_DEFENSE_MODIFIER_EXTRA</Tag><Polish>[ICON_BULLET]Funkcjonuje jak miasto podczas walki.</Polish>
         </TEXT>
@@ -28078,7 +28078,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_GREAT_GENERAL</Tag><Polish>Dowodzona przez Generała</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GREEKFIRE</Tag><Polish>Ogień Grecki</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GREEKFIRE</Tag><Polish>Ogień grecki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_GUARDIAN1</Tag><Polish>Strażnik 1.0</Polish>
         </TEXT>
