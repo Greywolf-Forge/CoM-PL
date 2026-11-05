@@ -8,6 +8,8 @@ Polskie tłumaczenie Chronicles of Mankind 1.3.3 do Civilization IV: Beyond the 
 
 ## English
 
+Current translation: **0.1.1**. See [changes](CHANGELOG.md).
+
 ### Install
 
 1. You need Beyond the Sword 3.19 and Chronicles of Mankind 1.3.3.
@@ -34,13 +36,15 @@ Greywolf Forge translations and fixes are MIT licensed, see [LICENSE](LICENSE). 
 
 ### Testing
 
-Checked statically and in Wine/Xvfb with a Polish locale. Not tested on native Windows 10/11 yet. If you see missing text or broken Polish characters (ę, ń), [open an issue](https://github.com/Greywolf-Forge/CoM-PL/issues/new/choose).
+Version 0.1.1 passed static XML, parameter, number and encoding checks. The overlay format was previously tested in Wine/Xvfb with a Polish locale. This revision has not been tested in a running game or on native Windows 10/11. If you see missing text or broken Polish characters (ę, ń), [open an issue](https://github.com/Greywolf-Forge/CoM-PL/issues/new/choose).
 
 Only 1.3.3 is supported. Other versions may not match.
 
 Unofficial fan translation. Original mod: https://forums.civfanatics.com/forums/civ4-chronicles-of-mankind.628/
 
 ## Polski
+
+Wersja tłumaczenia: **0.1.1**. Zobacz [listę zmian](CHANGELOG.md).
 
 ### Instalacja
 
@@ -68,7 +72,7 @@ Tłumaczenia i poprawki Greywolf Forge są na licencji MIT, patrz [LICENSE](LICE
 
 ### Testy
 
-Sprawdzone statycznie i pod Wine/Xvfb z polskimi ustawieniami regionalnymi. Na prawdziwym Windows 10/11 jeszcze nie testowane. Jeśli widzisz brakujący tekst albo zepsute polskie znaki (ę, ń), [zgłoś to](https://github.com/Greywolf-Forge/CoM-PL/issues/new/choose).
+Wersja 0.1.1 przeszła statyczną kontrolę XML, parametrów, liczb i kodowania. Format nakładki był wcześniej sprawdzony pod Wine/Xvfb z polskimi ustawieniami regionalnymi. Tego wydania nie testowano w uruchomionej grze ani na natywnym Windows 10/11. Jeśli widzisz brakujący tekst albo zepsute polskie znaki (ę, ń), [zgłoś to](https://github.com/Greywolf-Forge/CoM-PL/issues/new/choose).
 
 Obsługiwana jest tylko wersja 1.3.3. Inne wersje mogą się nie zgadzać.
 
