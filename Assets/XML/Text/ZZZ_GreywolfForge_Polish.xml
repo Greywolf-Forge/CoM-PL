@@ -18643,9 +18643,9 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_EXPLOITED_PEASANTS</Tag><Polish>Właściciele ziemscy w okolicach miasta %s2_city obciążyli miejscowych chłopów pańszczyźnianych okrutnymi daninami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_EXPLOITED_PEASANTS_1</Tag><Polish>Ich cierpienie będzie paliwem naszego skarbu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_EXPLOITED_PEASANTS_1</Tag><Polish>Ich cierpienie napełni nasz skarbiec.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FADING_STORY</Tag><Polish>Zapomniana opowieść</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FADING_STORY</Tag><Polish>Zanikająca opowieść</Polish>
 </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FADING_STORY_OPTION1</Tag><Polish>Zbierzmy starszych i odtwórzmy opowieść dokładnie tak, jak brzmiała dawniej.</Polish>
 </TEXT>
@@ -18657,89 +18657,89 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
 </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FADING_STORY_WORLD</Tag><Polish>Wśród ludów przekazujących tradycję ustnie zaciera się pamięć o świętej opowieści o początkach.</Polish>
 </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_ALTERNATIVE_ENERGY_1</Tag><Polish>Nie udało ci się wykonać zadania "Alternatywne Źródła Energii".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_ALTERNATIVE_ENERGY_1</Tag><Polish>Nie udało ci się wykonać zadania „Alternatywne Źródła Energii”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_BEST_DEFENSE</Tag><Polish>Zawiodłeś w wypełnieniu warunków zadania Wielkiego Barbakanu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_BEST_DEFENSE</Tag><Polish>Nie udało ci się wykonać zadania „Wielki Barbakan”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_BLESSED_SEA</Tag><Polish>Nie udało Ci sie wypełnić zadania Błogosławionych Mórz.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_BLESSED_SEA</Tag><Polish>Nie udało ci się wykonać zadania „Błogosławieństwo Mórz”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_CLASSIC_LITERATURE</Tag><Polish>Nie zdołałeś wypełnić warunków zadania Literatury Klasycznej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_CLASSIC_LITERATURE</Tag><Polish>Nie udało ci się wykonać zadania „Literatura klasyczna”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_CORPORATE_EXPANSION</Tag><Polish>Zawiodłeś w wypełnieniu warunków zadania ekspansji korporacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_CORPORATE_EXPANSION</Tag><Polish>Nie udało ci się wykonać zadania „Ekspansja korporacji”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_CRUSADE</Tag><Polish>Krucjata zakończona. Cel nie został osiągnięty. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_CRUSADE</Tag><Polish>Krucjata dobiegła końca. Zadanie zakończyło się porażką.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_ELITE_SWORDS</Tag><Polish>Nie wypełniłeś warunków zadania Elitarni Zbrojni!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_ELITE_SWORDS</Tag><Polish>Nie udało ci się wykonać zadania „Elitarni zbrojni”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_GREED</Tag><Polish>Zawiodłeś w zadaniu "Zachłannośc"!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_GREED</Tag><Polish>Nie udało ci się wykonać zadania „Zachłanność”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_GUNS_BUTTER</Tag><Polish>Zawiodłeś w wypełnieniu warunków zadania Muszkiety nie masło.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_GUNS_BUTTER</Tag><Polish>Nie udało ci się wykonać zadania „Muszkiety, nie masło!”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_HARBORMASTER</Tag><Polish>Zawiodłeś w  wypełnieniu warunków zadania "Władca Mórz". </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_HARBORMASTER</Tag><Polish>Nie udało ci się wykonać zadania „Władca Mórz”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_HOLY_MOUNTAIN</Tag><Polish>Nie udało Ci się wypełnić zadania odnalezienia Świętej Góry.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_HOLY_MOUNTAIN</Tag><Polish>Nie udało ci się wykonać zadania „Święta Góra”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_HORSE_WHISPERING</Tag><Polish>Zawiodłeś w wyścigu do spełnienie warunków Końskich Szeptów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_HORSE_WHISPERING</Tag><Polish>Nie udało ci się wykonać zadania „Końskie Szepty”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_HOSTILE_TAKEOVER</Tag><Polish>Zawiodłeś w wypełnieniu warunków zadania wrogie przechwycenie korporacji!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_HOSTILE_TAKEOVER</Tag><Polish>Nie udało ci się wykonać zadania „Wrogie przejęcie korporacji”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_MASTER_BLACKSMITH</Tag><Polish>Nie wypełniłeś zadania "Wielki Kowal".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_MASTER_BLACKSMITH</Tag><Polish>Nie udało ci się wykonać zadania „Wielki Kowal”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_NOBLE_KNIGHTS</Tag><Polish>Zawiodłeś w spełnieniu warunków zadania Szlachetnych Rycerzy!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_NOBLE_KNIGHTS</Tag><Polish>Nie udało ci się wykonać zadania „Szlachetni rycerze”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_OLYMPICS</Tag><Polish>Wszelkie wyniki starożytnych gier zostały bezpowrotnie zagubione.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_OLYMPICS</Tag><Polish>Wszelkie zapisy o starożytnych igrzyskach przepadły na zawsze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_OVERWHELM</Tag><Polish>Zawiodłeś w wypełnieniu warunków zadania Doktryna Dominacji Przestworzy!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_OVERWHELM</Tag><Polish>Nie udało ci się wykonać zadania „Doktryna Dominacji Przestworzy”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_SPORTS_LEAGUE</Tag><Polish>Zawiodłeś w spełnieniu warunków zadania Narodowej Ligi Sportowej. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_SPORTS_LEAGUE</Tag><Polish>Nie udało ci się wykonać zadania „Narodowa Liga Sportowa”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_WARSHIPS</Tag><Polish>Zawiodłeś w spełnieniu warunków zadania Okrętów Pożogi!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_WARSHIPS</Tag><Polish>Nie udało ci się wykonać zadania „Okręty Pożogi”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAIL_WAR_CHARIOTS</Tag><Polish>Zawiodłeś w wypełnieniu warunków zadania "Rydwany Bojowe"!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAIL_WAR_CHARIOTS</Tag><Polish>Nie udało ci się wykonać zadania „Rydwany bojowe”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMINE_1</Tag><Polish>Nie możemy im w tym momencie pomóc. Prześlij kondolencje do ich przywódcy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMINE_1</Tag><Polish>Nie możemy teraz pomóc. Przekaż wyrazy współczucia ich przywódcom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMINE_2</Tag><Polish>Otwórz zapasy zgromadzone w spichlerzach i wyślij połowę zapasów głodującym sąsiadom.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMINE_2</Tag><Polish>Otwórz miejskie spichlerze i wyślij połowę zapasów sąsiadom w potrzebie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FAMINE_3</Tag><Polish>Wyślij całe zgromadzone zapasy żywności! Nie żałuj wydatków na pomoc naszym przyjaciołom!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMINE_OTHER_2</Tag><Polish>Ludzie z miasta %s2_city należącego do %s1_civ_adjective, przeznaczyli połowę swoich zbiorów dla twojego miasta %s4_city, w obronie przed głodem spowodowanym niewystarczającymi zbiorami żywności. Ta pomoc humanitarna może być punktem zwrotnym w naszych relacjach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMINE_OTHER_2</Tag><Polish>Lud %s1_civ_adjective z miasta %s2_city wysłał połowę swoich zapasów żywności do twojego miasta %s4_city, aby zapobiec głodowi po słabych zbiorach. Ta pomoc może stać się pozytywnym przełomem w waszych stosunkach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMINE_OTHER_3</Tag><Polish>Hojni ludzie z miasta %s2_city należącego do %s1_civ_adjective przysłali nam całe swoje zapasy żywności do naszego miasta %s4_city w celu zapobieżenia fali głodu spowodowanej lokalnymi słabymi zbiorami. Ta pomoc humanitarna znacznie zbliżyła oba nasze narody do siebie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMINE_OTHER_3</Tag><Polish>Hojny lud %s1_civ_adjective z miasta %s2_city wysłał wszystkie swoje zapasy żywności do twojego miasta %s4_city, aby zapobiec głodowi po słabych zbiorach. Ta pomoc znacznie zbliżyła oba narody!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMOUS_DOCTOR</Tag><Polish>Lekarz przechodzi na emeryturę w %s2_city i przekazał swój majątek na cele charytatywne.  Jak chcesz wykorzystać te pieniądze?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMOUS_DOCTOR</Tag><Polish>Światowej sławy lekarz postanowił przejść na emeryturę w mieście %s2_city i przekazuje majątek miejscowym organizacjom dobroczynnym. Jak należy wykorzystać te pieniądze?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMOUS_DOCTOR_1</Tag><Polish>Przekaż pieniądze na badania do oddziału szpitalnego obok naszego uniwersytetu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMOUS_DOCTOR_1</Tag><Polish>Przeznacz pieniądze na szpital badawczy przy naszym uniwersytecie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAMOUS_DOCTOR_2</Tag><Polish>Użyj tych pieniędzy w celu zbudowania darmowej klinik w mieście, do opieki nad chorymi i rannymi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAMOUS_DOCTOR_2</Tag><Polish>Przeznacz pieniądze na utworzenie bezpłatnych przychodni dla chorych i rannych mieszkańców miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FARM_BANDITS_1</Tag><Polish>Potrzebujemy tej żywności. Zrób wszystko co tylko możliwe aby zlikwidować problem bandytów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FARM_BANDITS_1</Tag><Polish>Potrzebujemy tej żywności. Zrób wszystko, co konieczne, aby rozprawić się z bandytami.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FARM_BANDITS_2</Tag><Polish>Przydziel część naszych żołnierzy do wyłapania bandytów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FARM_BANDITS_3</Tag><Polish>Jesteśmy zbyt zajęci, żeby się tym zajmować. Pozostaw tą sprawę lokalnym władzom. (Napady mogą się powtórzyć)</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FARM_BANDITS_3</Tag><Polish>Jesteśmy zbyt zajęci. Pozostaw tę sprawę miejscowym władzom. (Rozboje mogą trwać nadal).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAUX_PAS_1</Tag><Polish>Ta gafa poważnie wpłynęła na nasze relacje.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAUX_PAS_1</Tag><Polish>Ta gafa pogorszyła nasze stosunki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FAUX_PAS_OTHER_1</Tag><Polish>Ambasador z cywilizacji %s1_civ_adjective popełnił faux pas. Ta zniewaga popsuła stosunki dyplomatyczne z tym krajem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAVORITE_SON_1</Tag><Polish>Nikt nie zwycięża za każdym razem. Należy wyciągnąć maksymalne zyski, zanim spotka go nieunikniony koniec.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAVORITE_SON_1</Tag><Polish>Nikt nie żyje wiecznie. Zarób na jego sławie, zanim spotka go nieunikniony koniec.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FAVORITE_SON_2</Tag><Polish>Należy tak ułożyć harmonogram walk, by mógł pokonywać słabszych przeciwników i dopilnować żeby jego popularność rosła.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FAVORITE_SON_2</Tag><Polish>Dobieraj mu łatwych przeciwników i dopilnuj, aby jego legenda rosła.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FEATURE_GROWTH</Tag><Polish>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]%s1_feature[COLOR_REVERT] wzrasta</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FEATURE_GROWTH</Tag><Polish>[ICON_BULLET]Pojawia się element terenu: [COLOR_HIGHLIGHT_TEXT]%s1_feature[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FEATURE_REMOVE</Tag><Polish>[ICON_BULLET]%s1_feature zanika</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FEATURE_REMOVE</Tag><Polish>[ICON_BULLET]Usuwa element terenu: %s1_feature</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FEDERAL_RESERVE_1</Tag><Polish>Wprowadźmy te techniki na wolny rynek!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FEDERAL_RESERVE_1</Tag><Polish>Niech wolny rynek wykorzysta te metody.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FEDERAL_RESERVE_2</Tag><Polish>Załóżmy Narodowy Bank Rezerw Budżetowych aby zajmował się regulacją rynku!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FEDERAL_RESERVE_2</Tag><Polish>Sfinansuj krajowy Bank Rezerwy Federalnej, aby wdrożył nową politykę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FIAT_MONEY_1</Tag><Polish>W dłuższej perspektywie i tak jesteśmy martwi.  Uruchomić maszyny drukarskie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FIAT_MONEY_1</Tag><Polish>W dłuższej perspektywie i tak wszyscy będziemy martwi. Uruchom drukarnie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FIAT_MONEY_2</Tag><Polish>Nie, drukowanie pieniędzy do podreperowania budżetu może prowadzić do hiperinflacji.  Rozwiążemy ten problem przy pomocy dyscypliny i przemyślanych wydatków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FIAT_MONEY_2</Tag><Polish>Nie. Drukowanie pieniędzy w celu pokrycia błędów budżetowych grozi hiperinflacją. Rozwiążemy ten problem dzięki dyscyplinie i starannemu planowaniu budżetu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FIRING_PINS_1</Tag><Polish>Naleźy natychmiast wyposażyć Grenadierów w ulepszone granaty.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FIRING_PINS_1</Tag><Polish>Wyposaż naszych grenadierów w ulepszone materiały wybuchowe.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FIRST_COUNCIL</Tag><Polish>Pierwsza rada</Polish>
 </TEXT>
@@ -18751,77 +18751,77 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
 </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FIRST_COUNCIL_WORLD</Tag><Polish>Po raz pierwszy zbiera się rada plemienna. Otwiera to drogę do rządów, w których liczy się więcej niż jeden głos.</Polish>
 </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FISHING_BOATS_SUNK</Tag><Polish>Silne burze zatopiły wiele łodzi rybackich u naszych wybrzeży. Zaburzenie całej operacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FISHING_BOATS_SUNK</Tag><Polish>Silne sztormy zatopiły wiele łodzi rybackich u naszych wybrzeży, zakłócając połowy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FISHING_BOATS_SUNK_1</Tag><Polish>Możemy dotować rybaków i dostarczać utracone łodzie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FISHING_BOATS_SUNK_1</Tag><Polish>Możemy wesprzeć rybaków finansowo i zastąpić utracone łodzie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FISHING_BOATS_SUNK_2</Tag><Polish>Nie mamy pieniędzy na pomoc.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FOOD</Tag><Polish>[ICON_BULLET]Zapasy żywności we wszystkich miastach: %D1[ICON_FOOD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FOOD_CITY</Tag><Polish>[ICON_BULLET]%D1 [ICON_FOOD] zachowano w mieście %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FOOD_CITY</Tag><Polish>[ICON_BULLET]Zapasy żywności w mieście %s2_city: %D1 [ICON_FOOD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FOOD_PERCENT</Tag><Polish>[ICON_BULLET]%d1%% [ICON_FOOD] zachowano we wszystkich miastach</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FOOD_PERCENT</Tag><Polish>[ICON_BULLET]Zapasy żywności we wszystkich miastach: %d1%% [ICON_FOOD]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FOOD_PERCENT_CITY</Tag><Polish>[ICON_BULLET]Zapas żywności w mieście %s2_city: %d1%%[ICON_FOOD]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FOREST_FIRE_1</Tag><Polish>Zorganizuj akcję ponownego sadzenia lasu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FOREST_FIRE_2</Tag><Polish>Wyślij emisariuszy z pomocą dla poszkodowanych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FOREST_FIRE_2</Tag><Polish>Wyślij przedstawicieli z pomocą dla rodzin, które straciły bliskich.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FOREST_FIRE_3</Tag><Polish>Nie mamy pieniędzy aby przeznaczyć ją na pomoc.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FOREST_FIRE_3</Tag><Polish>Jesteśmy zbyt obciążeni, by udzielić jakiejkolwiek pomocy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FORTY_THIEVES_1</Tag><Polish>Wyśmienicie. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FORT_IN_DISREPAIR</Tag><Polish>Nasz brak finansowania wojska i zaniedbania zastał ten fort w gruzach..</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FORT_IN_DISREPAIR</Tag><Polish>Niedofinansowanie wojska i zaniedbania doprowadziły ten fort do ruiny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FORT_IN_DISREPAIR_1</Tag><Polish>Możemy go odbudować, jeśli musimy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FORT_IN_DISREPAIR_1</Tag><Polish>Możemy go odbudować, gdy będzie potrzebny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FORT_IN_DISREPAIR_2</Tag><Polish>Zapłać by to naprawić.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FORT_IN_DISREPAIR_2</Tag><Polish>Zapłać za naprawę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREEDOMCONCERT_1</Tag><Polish>Prześlijcie fundusze na rzecz lokalnych świątyń.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREEDOMCONCERT_1</Tag><Polish>Przekaż zebrane pieniądze miejscowym świątyniom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREEDOMCONCERT_2</Tag><Polish>Zużyjemy te pieniądze na pokrycie publicznych kampanii na rzecz wolności i tolerancji wyznaniowej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREEDOMCONCERT_2</Tag><Polish>Przeznacz pieniądze na kampanię społeczną na rzecz wolności i tolerancji religijnej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREEDOMCONCERT_HELP_2</Tag><Polish>[ICON_BULLET]Rozsiejcie każdą z obecnych religii w nowym mieście</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREEDOMCONCERT_HELP_2</Tag><Polish>[ICON_BULLET]Rozprzestrzenia każdą z obecnych religii w nowym mieście.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_BUILDING_GLOBAL</Tag><Polish>[ICON_BULLET]Darmowa %s1 we Wszystkich miastach</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_BUILDING_GLOBAL</Tag><Polish>[ICON_BULLET]Darmowy budynek we wszystkich miastach: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_ENTERPRISE_1</Tag><Polish>Tak, prywatna korporacja pomoże nam dotrzeć do gwiazd szybciej niż rządowa biurokracja.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_ENTERPRISE_1</Tag><Polish>Tak, pomysłowość prywatnych przedsiębiorców zaprowadzi nas do gwiazd szybciej niż jakakolwiek rządowa biurokracja.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FREE_ENTERPRISE_2</Tag><Polish>Nie, najlepsi i najzdolniejsi ludzie już pracują dla agencji kosmicznej i robią to doskonale.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_OUTPOST_CITIES</Tag><Polish>[ICON_BULLET]Trzech darmowych osadników na nowym kontynencie</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_OUTPOST_CITIES</Tag><Polish>[ICON_BULLET]Trzy darmowe osady na nowym kontynencie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_OUTPOST_CITY</Tag><Polish>[ICON_BULLET]Jeden darmowy osadnik na nowym kontynencie</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_OUTPOST_CITY</Tag><Polish>[ICON_BULLET]Jedna darmowa osada na nowym kontynencie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_SPECIALIST</Tag><Polish>[ICON_BULLET]%D1 darmowych specjalistów (%s2_specialist) w: %s3_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_SPECIALIST</Tag><Polish>[ICON_BULLET]Darmowi specjaliści: %D1. Typ: %s2_specialist; miasto: %s3_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_SPECIALISTS</Tag><Polish>[ICON_BULLET]%d1 darmowych %s2 w %s3</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_SPECIALISTS</Tag><Polish>[ICON_BULLET]Darmowi specjaliści: %d1. Typ: %s2; miasto: %s3</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FREE_UNIT_SUPPORT</Tag><Polish>[ICON_BULLET]Darmowe utrzymanie dla %d1 jednostek</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FREE_UNIT_SUPPORT</Tag><Polish>[ICON_BULLET]Darmowe utrzymanie jednostek (liczba: %d1)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FRIENDLY_LOCALS_1</Tag><Polish>Ta pomoc powinna przywrócić naszemu oddziałowi zdolność bojową.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FUEL_ADDITIVES_1</Tag><Polish>Redukcja kosztów, zmniejszenie zanieczyszczeń i zwiększone dochody są zawsze dobrymi wiadomościami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FUGITIVE_1</Tag><Polish>Dokonaj ekstradycji przestępcy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FUGITIVE_1</Tag><Polish>Wydaj przestępcę jego ojczyźnie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FUGITIVE_2</Tag><Polish>Potajemnie przesłuchaj więźnia, w nadziei na uzyskanie wartościowych informacji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FUGITIVE_2</Tag><Polish>Potajemnie przesłuchaj więźnia w nadziei na zdobycie poufnych informacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FUGITIVE_3</Tag><Polish>Wypuść więźnia. To nie nasza sprawa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_FULLERENES_1</Tag><Polish>Nominuj tych genialnych naukowców do Nagrody Nobla!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR</Tag><Polish>Nasza narodowa drużyna przegrała mecz z drużyną %s1_civ_adjective w walce o mistrzostwo.  Kilkanaście osób zostało zabitych w zamieszkach po meczu, wliczając w to graczy z przeciwnej drużyny.  Ich rząd odpowiedzialnością za to obarczył nas i zagroził akcją militarną, jeżeli nic z tym nie zrobimy.  Emocje biorą górę po obu stronach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR</Tag><Polish>Nasza reprezentacja piłkarska przegrała mecz mistrzowski z drużyną ludu %s1_civ_adjective. W zamieszkach po meczu zginęło kilka osób, w tym zawodnicy przeciwnej drużyny. Ich rząd obarcza nas odpowiedzialnością za przemoc i grozi interwencją zbrojną, jeśli nie zadośćuczynimy ich „honorowi narodowemu”. Po obu stronach emocje sięgają zenitu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR_1</Tag><Polish>Mobilizuj armię -- zaczynamy zabawę!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR_1</Tag><Polish>Zmobilizuj armię. Zaczynamy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR_2</Tag><Polish>Jedynym rozwiązaniem jest teraz spokój.  Przepraszamy za ten incydent i oferujemy rekompensatę dla rodzin ofiar.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR_2</Tag><Polish>Wybierzmy pokój. Przeprośmy za przemoc i zaproponujmy odszkodowania rodzinom ofiar.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR_3</Tag><Polish>Potęp przemoc i znajdź winnych tego incydentu bez żadnego dodatkowego komentarza.  Nie damy im tej satysfakcji i nie będziemy przepraszać.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_FUTBOL_WAR_3</Tag><Polish>Potęp przemoc i postaw sprawców przed sądem, ale nie komentuj niczego więcej. Nie damy tym psom satysfakcji z przeprosin.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GAME_MIGRATION</Tag><Polish>Stada dzikich zwierząt, które wyemigrowały w ten region.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GAME_MIGRATION</Tag><Polish>Do tego regionu przywędrowały stada dzikich zwierząt.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GAME_MIGRATION_1</Tag><Polish>Doskonale, nasi myśliwi będą szczęśliwi!</Polish>
         </TEXT>
@@ -18829,95 +18829,95 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
     </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GIFT_BONUS_TO_PLAYER</Tag><Polish>[ICON_BULLET]Podaruj: [COLOR_HIGHLIGHT_TEXT]%s1_resource[COLOR_REVERT] (dla: %s2_player)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_AGE</Tag><Polish>[ICON_BULLET]Początek Złotego Wieku</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_AGE</Tag><Polish>[ICON_BULLET]Rozpoczyna złoty wiek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA</Tag><Polish>Mistrz kowalski pracujący w kuźni miasta %s2_city wykonał wspaniały odlew złotego posągu Buddy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA</Tag><Polish>Kowal pracujący w kuźni miasta %s2_city wykonał piękny złoty posąg Buddy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_1</Tag><Polish>To nie jest jego zajęcie. Sprzedać statuę a kowalowi przypomnieć, co należy do jego obowiązków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_1</Tag><Polish>To nie jego praca. Sprzedaj posąg i przypomnij kowalowi o jego obowiązkach.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_2</Tag><Polish>Wspaniale! To uczyni z lokalnej kuźni atrakcję kulturalną!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_3</Tag><Polish>To zaprawdę utalentowany rzemieślnik, należy go zachęcić do produkcji większej ilości podobnych pomników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLDEN_BUDDHA_3</Tag><Polish>Kowal ma prawdziwy talent. Zachęćmy go do tworzenia kolejnych takich posągów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_FROM_PLAYER</Tag><Polish>[ICON_BULLET]Otrzymano %d1[ICON_GOLD] od: %s2_playerName</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_FROM_PLAYER</Tag><Polish>[ICON_BULLET]Otrzymujesz %d1[ICON_GOLD] od gracza %s2_playerName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_GAINED</Tag><Polish>[ICON_BULLET]Otrzymano %d1[ICON_GOLD]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_GAINED</Tag><Polish>[ICON_BULLET]Otrzymujesz %d1[ICON_GOLD]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GOLD_LOST</Tag><Polish>[ICON_BULLET]Z twojego skarbca ubędzie %d1[ICON_GOLD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_FROM_PLAYER</Tag><Polish>[ICON_BULLET]Otrzymano pomiędzy %d1[ICON_GOLD] a %d2[ICON_GOLD] od: %s3_playerName</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_FROM_PLAYER</Tag><Polish>[ICON_BULLET]Otrzymujesz od %d1[ICON_GOLD] do %d2[ICON_GOLD] od gracza %s3_playerName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_GAINED</Tag><Polish>[ICON_BULLET]Otrzymać pomiędzy %d1[ICON_GOLD] a %d2[ICON_GOLD]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_GAINED</Tag><Polish>[ICON_BULLET]Otrzymujesz od %d1[ICON_GOLD] do %d2[ICON_GOLD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_LOST</Tag><Polish>[ICON_BULLET]Obciążyć twój skarbiec kwotą pomiędzy %d1[ICON_GOLD] a %d2[ICON_GOLD]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_LOST</Tag><Polish>[ICON_BULLET]Skarbiec traci od %d1[ICON_GOLD] do %d2[ICON_GOLD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_TO_PLAYER</Tag><Polish>[ICON_BULLET]Podarować %s2_playerName pomiędzy %d1[ICON_GOLD] a %d2[ICON_GOLD]  </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_RANGE_TO_PLAYER</Tag><Polish>[ICON_BULLET]Przekazujesz od %d1[ICON_GOLD] do %d2[ICON_GOLD] graczowi %s2_playerName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_RUSH_1</Tag><Polish>Kiedy gorączka minie, wielu imigrantów pozostanie u nas stałe.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_RUSH_1</Tag><Polish>Kiedy gorączka minie, wielu imigrantów osiedli się tu na stałe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_RUSH_2</Tag><Polish>Zachęćmy poszukiwaczy złota do osiedlenia się tutaj kiedy tylko gorączka się skończy!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_RUSH_2</Tag><Polish>Sfinansuj działania zachęcające większą liczbę poszukiwaczy złota do osiedlenia się po zakończeniu gorączki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOLD_TO_PLAYER</Tag><Polish>[ICON_BULLET]Przekazano %d1[ICON_GOLD] dla: %s2_playerName</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOLD_TO_PLAYER</Tag><Polish>[ICON_BULLET]Przekazujesz %d1[ICON_GOLD] graczowi %s2_playerName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOOD_HARBOR</Tag><Polish>Kupcy z portowego %s2_city należą do najlepszych na kontynencie. Handel kwitnie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOOD_HARBOR</Tag><Polish>Kupcy z bliska i daleka uznają port miasta %s2_city za najlepszy na kontynencie. Handel kwitnie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GOOD_HARBOR_1</Tag><Polish>Ceny taryfowe pomogą lokalnej gospodarce.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GOOD_HARBOR_1</Tag><Polish>Wpływy z ceł pomogą miejscowej gospodarce.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GRAPE_SHOT_1</Tag><Polish>Zaopatrzymy wszystkie jednostki oblężnicze w nowy typ amunicji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST</Tag><Polish>Wielka bestia została odkryta niedaleko naszych obozów myśliwskich.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST</Tag><Polish>W pobliżu jednego z naszych obozów myśliwskich odkryto wielką bestię.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_1</Tag><Polish>Pozwólcie jej się rozmnażać. Polujcie na nią ze spokojem i oszczędnie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_1</Tag><Polish>Pozwól jej się rozmnażać i wydawać potomstwo. Ogranicz polowania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_2</Tag><Polish>Wygląda na to źe jej mięso może wyżywić wielu ludzi. Zorganizujmy wielkie polowanie!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_2</Tag><Polish>Wygląda na to, że mogłaby wyżywić wielu ludzi. Zorganizuj wyprawę łowiecką!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_3</Tag><Polish>Polowanie? Ześwirowałeś? Ta bestia to wcielenie świętego bóstwa!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_3_HELP</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach z %F3_religion na %d2 [NUM2:turę:tur]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREAT_BEAST_3_HELP</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach z religią %F3_religion (tury: %d2).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREAT_DEPRESSION_1</Tag><Polish>Chyba niewiele możemy w tej sprawie zrobić, nieprawdaż?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREAT_DEPRESSION_HELP</Tag><Polish>[ICON_BULLET]Wszystkie cywilizacje świata tracą %d1%% z ich majątku narodowego.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREAT_DEPRESSION_HELP</Tag><Polish>[ICON_BULLET]Wszystkie państwa na świecie tracą %d1%% zawartości swoich skarbców.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_1</Tag><Polish>Nie chcemy pokoju! Kontynuować wojnę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_2</Tag><Polish>Pokój przyniesie korzyści obu stronom. Poprzyjmy tego mediatora, niech jego słowa przezwyciężą nienawiść!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_OTHER_3</Tag><Polish>Wielki mediator zaproponował, że rozważy nasze skargi w stosunku do Imperium %s1_civ_adjective. To otwiera szansę na pokój. Czy chcesz zakończyć wojnę Wasza Wysokość?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREAT_MEDIATOR_OTHER_3</Tag><Polish>Wybitny mediator zaproponował rozstrzygnięcie naszego sporu z państwem %s1_civ_adjective. Otwiera to drogę do zawarcia traktatu pokojowego. Czy chcesz zakończyć wojnę?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREAT_MONUMENTS_1</Tag><Polish>Zwiększy to prestiż miasta!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREED_1</Tag><Polish>Zachłanność[PARAGRAPH:1]Zostałeś zobowiązany przez przywódców sił zbrojnych do przejęcia kontroli nad źródłem tego cennego surowca strategicznego.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREED_1</Tag><Polish>Zachłanność[PARAGRAPH:1]Dowódcy powierzyli ci zadanie przejęcia kontroli nad tym surowcem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREED_DONE_1</Tag><Polish>Należy zwerbować i wytrenować nowych rekrutów do jednostek, które wykorzystają przewagę jaką daje nam zastosowanie nowego surowca.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREED_DONE_1</Tag><Polish>Zwerbuj i wyszkól jednostki, które wykorzystają nasze nowe surowce.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREED_DONE_HELP_1</Tag><Polish>[ICON_BULLET]Otrzymałeś %d1 [NUM1:jednostka:jednostki] [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREED_DONE_HELP_1</Tag><Polish>[ICON_BULLET]Otrzymujesz jednostki typu [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] (liczba: %d1).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREED_HELP_1</Tag><Polish>[PARAGRAPH:1]By wypełnić to zadanie musisz napaść %s1_civ i zdobyć kontrolę nad zasobami surowca %s2_resource.[PARAGRAPH:1]Zawiedziesz jeśli inny naród wcześniej zdobędzie miasto przy którym znajdują się złoża, jeśli miasto zostanie zniszczone lub nie zdołasz go zdobyć w ciągu %d3 tur.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREED_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zaatakuj cywilizację %s1_civ i przejmij kontrolę nad surowcem: %s2_resource.[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal pierwszy zdobędzie wskazane miasto, miasto zostanie zniszczone albo nie osiągniesz celu w wyznaczonym czasie (tury: %d3).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GREEK_FIRE_1</Tag><Polish>Umieść broń na okrętach wojennych.  Zwróć uwagę marynarzom aby z nią bardzo uważali.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GREEK_FIRE_1</Tag><Polish>Wyposaż nasze okręty wojenne w tę broń. Uprzedź marynarzy, żeby uważali.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREENSPACE</Tag><Polish>Mieszkańcy zdecydowali, że zamiast jeździć samochodem na wieś, by zobaczyć drzewa, woleliby posadzić je koło domu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GREENSPACE_1</Tag><Polish>Posiadanie parków jest przyjemne.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_1</Tag><Polish>Broń palna nie okrasa[PARAGRAPH:1]Masz misję od swoich przywódców militarnych aby wytrenować pokaźną siłę jednostek strzelców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_1</Tag><Polish>Muszkiety, nie masło![PARAGRAPH:1]Dowódcy powierzyli ci zadanie wyszkolenia licznych oddziałów uzbrojonych w broń palną.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_1</Tag><Polish>Z tak ogromną liczbą muszkieterów dodatkowy trening we współdziałaniu na polu bitwy jest wskazany.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_1</Tag><Polish>Tak liczne oddziały muszkieterów mogą dzięki współdziałaniu przejść dodatkowe szkolenie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_2</Tag><Polish>Należy wykorzystać naszą przewagę militarną by wymusić większe podatki z podległych nam lordów i baronów i ich dziedzin.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_2</Tag><Polish>Wykorzystaj przewagę wojskową, aby nałożyć wysokie podatki na naszych feudałów i ich hrabstwa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_DONE_3</Tag><Polish>Wykorzystaj dobrodziejstwa Złotego Wieku Muszkietów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_HELP_1</Tag><Polish>[PARAGRAPH:1]ABy wywiązać się z tego zadania musisz wytrenować %d1 jednostek [COLOR_UNIT_TEXT]muszkieterów[COLOR_REVERT].[PARAGRAPH:1]Dodatkową premię uzyskasz jeżeli twoja cywilizacja stosuje [COLOR_HIGHLIGHT_TEXT]$?poddaństwo wasalne[COLOR_REVERT] jako formę prawną.[PARAGRAPH:1]Dodatkowa premia przypadnie ci również jeśli twoja cywilizacja kontroluje [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Przegrasz, jeśli którykolwiek z przeciwników ubiegnie cię w osiągnięciu celu, lub jeśli nie zdołasz wywiązać się z warunków zadania przed odkryciem [COLOR_TECH_TEXT]$?strzelectwa$?[COLOR_REVERT] lub [COLOR_TECH_TEXT]kolei żelaznej[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_GUNS_BUTTER_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, wyszkól odpowiednią liczbę jednostek (łącznie: %d1): [COLOR_UNIT_TEXT]muszkieterów[COLOR_REVERT] lub [COLOR_UNIT_TEXT]strzelców[COLOR_REVERT].[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna, jeśli stosujesz doktrynę [COLOR_HIGHLIGHT_TEXT]Szlachta[COLOR_REVERT].[PARAGRAPH:1]Kolejna nagroda będzie dostępna, jeśli kontrolujesz budynek [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo przed spełnieniem warunków odkryjesz technologię [COLOR_TECH_TEXT]Broń powtarzalna[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HALBERD_1</Tag><Polish>Natychmiast wydać nową broń naszym pikinierom!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HALBERD_1</Tag><Polish>Wyposaż wszystkich naszych pikinierów w nową broń.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HAMBURGER_JOINT_1</Tag><Polish>Mogę spróbować frytek? Dziękuję!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HAMBURGER_JOINT_1</Tag><Polish>Możemy dostać do tego frytki? Dziękujemy!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HAPPY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HAPPY_CITY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] w mieście  %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HAPPY_CITY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] w mieście %s2_city</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HAPPY_FROM_PLAYER</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach. %s3_playerName otrzymuje %D2[ICON_UNHAPPY]</Polish>
         </TEXT>
@@ -18925,41 +18925,41 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HAPPY_TO_PLAYER</Tag><Polish>[ICON_BULLET]%D1[ICON_UNHAPPY] we wszystkich miastach. %s3_playerName otrzymuje %D2[ICON_HAPPY]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_1</Tag><Polish>Władca Mórz[PARAGRAPH:1]Nasi kapitanowie okrętów i konsorcjum handlu pełnomorskiego postawiło przed tobą zadanie wybudowania wystarczającej ilości [COLOR_BUILDING_TEXT]Portów[COLOR_REVERT] aby można było zdominować rynki handlu transoceanicznego. W tym celu musisz wybudować flotyllę pełnomorskich [COLOR_UNIT_TEXT]Karaweli[COLOR_REVERT] zdolnych transportować towary przez morza i oceany.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_1</Tag><Polish>Władca Mórz[PARAGRAPH:1]Przedstawiciele żeglugi handlowej powierzyli ci zadanie budowy odpowiedniej liczby [COLOR_BUILDING_TEXT]portów morskich[COLOR_REVERT], aby zapewnić im niekwestionowaną dominację w handlu morskim. Potrzebna będzie też flota [COLOR_UNIT_TEXT]karawel[COLOR_REVERT] i [COLOR_UNIT_TEXT]brygantyn[COLOR_REVERT] do przewozu ładunków przez głębokie wody.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_1</Tag><Polish>Użyj naszej przewagi aby ulepszyć żeglarstwo naszych obecnych i przyszłych jednostek morskich.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_1</Tag><Polish>Wykorzystaj naszą przewagę, aby podnieść umiejętności żeglarskie załóg obecnych i przyszłych jednostek morskich.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_2</Tag><Polish>Nasze Imperium Handlowe przynosi wspaniałe zyski!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_2</Tag><Polish>Przekuj nasze imperium handlowe w źródło wielkiego bogactwa!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_3</Tag><Polish>Nasi kapitanowie okrętów rozwijają swe doświadczenia, co umożliwia im sprawniejszą nawigację po morzach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_DONE_3</Tag><Polish>Nasi kapitanowie zdobywają dodatkowe doświadczenie, dzięki któremu sprawniej nawigują.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_HELP</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, musisz zbudować %d1 [COLOR_BUILDING_TEXT]portów morskich[COLOR_REVERT] w swoich miastach nadmorskich oraz %d2 [COLOR_UNIT_TEXT]karawel[COLOR_REVERT] lub [COLOR_UNIT_TEXT]brygantyn[COLOR_REVERT].[PARAGRAPH:1]Zadanie zakończy się niepowodzeniem, jeśli inna cywilizacja wykona je wcześniej albo odkryjesz [COLOR_TECH_TEXT]taktykę morską[COLOR_REVERT] przed spełnieniem wymagań.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARBORMASTER_HELP</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zbuduj w swoich miastach nadmorskich [COLOR_BUILDING_TEXT]porty morskie[COLOR_REVERT] (liczba: %d1). Potrzebna będzie też flota [COLOR_UNIT_TEXT]karawel[COLOR_REVERT] lub [COLOR_UNIT_TEXT]brygantyn[COLOR_REVERT] (łącznie: %d2).[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo przed spełnieniem warunków odkryjesz technologię [COLOR_TECH_TEXT]Taktyka Morska[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARDY_CROPS</Tag><Polish>Po latach starannej hodowli, nasi biolodzy opracowali bardzo odporne rośliny idealnie nadające się dla tego regionu.  Mimo, że nie może się rozwijać poza tym terenem, lokalna produkcja żywności gwałtownie wzrasta.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARDY_CROPS</Tag><Polish>Po latach starannej hodowli nasi biolodzy wyhodowali bardzo odporną roślinę uprawną, idealnie przystosowaną do tego regionu. Gdzie indziej nie rośnie równie dobrze, ale miejscowa produkcja żywności gwałtownie wzrasta.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HARDY_CROPS_1</Tag><Polish>Dodatkowe jedzenie może wykarmić mieszkańców pobliskich miast.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARDY_SCOUTS</Tag><Polish>Nasi zwiadowcy są twardzi jak skała i mogą przeżyć w każdych warunkach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARDY_SCOUTS</Tag><Polish>Nasi zwiadowcy są twardzi jak skała i potrafią sprostać każdej sytuacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARDY_SCOUTS_1</Tag><Polish>Świetnie. Mogą przetrwać Czas Niedźwiedzia!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARDY_SCOUTS_1</Tag><Polish>Doskonale. Może przetrwają Erę Niedźwiedzia!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARRY_POTTER_1</Tag><Polish>"Bardzo cieszyły mnie książki o Harrym dopóki nie natrafiłem na część w której Harry przyzywa demony by mu służyły" mówi doradca ds. Religii. "To złe. Musimy wywołać dużą debatę by usunąć tę książkę z półek a nawet spalić."</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARRY_POTTER_1</Tag><Polish>„Książka całkiem mi się podobała, dopóki nie dotarłem do fragmentu, w którym Harry przyzywa złe demony, by mu służyły”, mówi twój główny doradca religijny. „To już niedopuszczalne. Trzeba przywrócić rozsądek tej debacie, a przez to rozumiem usunięcie książki z półek, porządne posolenie jej i spalenie”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HARRY_POTTER_2</Tag><Polish>Twój doradca ds. Religii nie zgadza się, "Daj spokój ta książka jest świetna! I diabelnie dobrze się ją czyta. Chciałbym by nasz rząd polecał tę książkę nauczycielom; oraz bibliotekom; by dzieci miały leszy dostęp do niej bez wpływu fanatyków naszej religii."</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HARRY_POTTER_2</Tag><Polish>Twój doradca do spraw wewnętrznych nie zgadza się: „Daj spokój, to przecież fantastyka! I cholernie dobra lektura. Rząd powinien wydać oświadczenie popierające nauczycieli i bibliotekarzy, żeby dzieci mogły czytać dobre książki bez ingerencji religijnych fanatyków, takich jak wyznawcy [CT_STATE_RELIGION]”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT</Tag><Polish>Nasi botanicy odkryli nowe zioło, w którym pokładamy wielkie nadzieje medyczne. Jednakże potrzebne są testy na ludziach, aby znaleźć odpowiednie proporcje.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT</Tag><Polish>Nasi zielarze odkryli nową roślinę, która daje duże nadzieje na skuteczniejsze leczenie. Znalezienie właściwej mieszanki wymaga jednak prób na ludziach.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_1</Tag><Polish>Zapomnijcie o jakichkolwiek testach. Wszystko warte wiedzy zostało już dawno odkryte, więc po co ryzykować niepotrzebną śmierć?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_2</Tag><Polish>Dobrze, wykonajcie ograniczone testy, ale tylko na nieistotnych obywatelach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_3</Tag><Polish>Zdrowie to zalążek światowej dominacji! Wykonacje pełne testy na wszystkich oprócz najmłodszych i najstarszych spośród nasi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_3</Tag><Polish>Zdrowie to fundament światowej dominacji! Przeprowadź zakrojone na szeroką skalę próby na wszystkich poza najmłodszymi i najsłabszymi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_4</Tag><Polish>W swoich próbach znalezienia odpowiednich proporcji, nasi znachorzy spowodowali straty w całym imperium!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_4</Tag><Polish>Próbując znaleźć właściwą mieszankę ziół, nasi uzdrowiciele spowodowali ofiary śmiertelne w całym imperium!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_5</Tag><Polish>Nasze eksperymenty powiodły się! Teraz w naszych miastach rozpowszechnia się wiedza o lepszych ziołach leczniczych!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_5</Tag><Polish>Nasze doświadczenia zakończyły się sukcesem! Miasta mają teraz dostęp do lepszych ziół leczniczych!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_6</Tag><Polish>Nasze eksperymenty zakończyły się sukcesem! Posiadamy teraz o wiele większą wiedzę!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEALING_PLANT_6</Tag><Polish>Nasze doświadczenia zakończyły się wielkim sukcesem! Dysponujemy teraz znacznie skuteczniejszymi metodami leczenia!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HEALTH</Tag><Polish>[ICON_BULLET]%D1[ICON_HEALTHY] we wszystkich miastach</Polish>
         </TEXT>
@@ -18969,151 +18969,151 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HEALTH_TO_PLAYER</Tag><Polish>[ICON_BULLET]%D1[ICON_UNHEALTHY] we wszystkich miastach. %s3_playerName otrzymuje %D2[ICON_HAPPY]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEIR_ASSASSINATED</Tag><Polish>Nasz ukochany książę padła ofiarą zabójstwa! Niestety, morderca popełnił samobójstwo, zanim mógł być postawiony przed sądem.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEIR_ASSASSINATED</Tag><Polish>Nasz ukochany książę zginął od kuli zamachowca! Niestety morderca odebrał sobie życie, zanim można go było postawić przed sądem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HEIR_ASSASSINATED_1</Tag><Polish>Nie możemy nic zrobić oprócz opłakiwania straty.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HELP_BILLIONS_AND_BILLIONS_2</Tag><Polish>(zastosowane do każdego Teatru w Imperium)</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HELP_BILLIONS_AND_BILLIONS_2</Tag><Polish>(dotyczy każdego kina w imperium)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HELP_FREE_ENTERPRISE_2</Tag><Polish>Nie podejmuj żadnych działań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HENRY_MORGAN_1</Tag><Polish>Chcę dorwać tego pirata w swoje ręce!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HENRY_MORGAN_1</Tag><Polish>Chcę, żeby ten „dżentelmen fortuny” zawisł na rei!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HENRY_MORGAN_HELP_1</Tag><Polish>[ICON_BULLET]Niebiezpieczna liczba barbarzyńskich [COLOR_UNIT_TEXT]Okrętów Liniowych[COLOR_REVERT], [COLOR_UNIT_TEXT]Fregat[COLOR_REVERT] oraz [COLOR_UNIT_TEXT]Okrętów Pirackich[COLOR_REVERT] pojawiła się na naszych wodach!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HENRY_MORGAN_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych wód pojawiła się niebezpiecznie liczna flota barbarzyńskich [COLOR_UNIT_TEXT]okrętów liniowych[COLOR_REVERT], [COLOR_UNIT_TEXT]fregat[COLOR_REVERT] i [COLOR_UNIT_TEXT]okrętów korsarskich[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HERESY_1</Tag><Polish>Wyplenić herezję! Następnie rozpocząć akcję przypominającą naszej ludności, że już przyrzekliśmy wierność i posłuszeństwo jedynej prawdziwej i słusznej wierze.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HERESY_1</Tag><Polish>Stłum herezję! Następnie rozpocznij kampanię przypominającą naszemu ludowi, że już wyznajemy jedyną prawdziwą wiarę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HERESY_2</Tag><Polish>Należy tolerować przekonania wszystkich obywateli, ale możemy zmniejszyć podatki dla wyznawców słusznej wiary, aby wyrazić nasze poparcie dla nich.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HERESY_2</Tag><Polish>Toleruj herezję, ale na pewien czas obniż podatki wiernym. To będzie czytelny sygnał.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HERESY_3</Tag><Polish>Zignorować herezję.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH2_1</Tag><Polish>Musimy zrobić krok wstecz i przekonać uczniów, że nasze badania nie będą sprzeczne z naszą wiarą.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH2_1</Tag><Polish>Musimy się nieco wycofać i przekonać naszych wyznawców, że badania nie będą sprzeczne z wiarą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH2_2</Tag><Polish>Czasy się zmieniają, i my również. Rozgłaszajmy te badania.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH2_2</Tag><Polish>Czasy się zmieniają, a my wraz z nimi. W końcu się z tym pogodzą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH_1</Tag><Polish>Musimy zrobić krok wstecz i przekonać uczniów, że nasze badania nie będą sprzeczne z naszą wiarą.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH_1</Tag><Polish>Musimy się nieco wycofać i przekonać naszych wyznawców, że badania nie będą sprzeczne z wiarą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH_2</Tag><Polish>Czasy się zmieniają, i my również. Niech badania trwają.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HERETICAL_RESEARCH_2</Tag><Polish>Czasy się zmieniają, a my wraz z nimi. W końcu się z tym pogodzą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_1</Tag><Polish>Heh, co za idioci! Wysłać naszych odzyskanych żołnierzy natychmiast, jak tylko będą sprawni, z powrotem na pole bitwy!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_1</Tag><Polish>Żaden dobry uczynek nie pozostanie bez kary. Wyślij odzyskanych żołnierzy z powrotem do walki, gdy tylko będą gotowi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_2</Tag><Polish>Może to znak, iż dość krwi zostało przelanej. Wysłać naszych negocjatorów by sprawdzili, czy tamci są już gotowi się poddać.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_2</Tag><Polish>Może to znak, że przelano już dość krwi. Wyślij posłów, aby sprawdzili, czy druga strona jest gotowa rozmawiać o pokoju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_OTHER_3</Tag><Polish>Heroiczny i głęboko humanitarny gest waszych sił zbrojnych w stosunku do rannych %s1_civ_adjective otworzył furtkę porozumienia, dzięki któremu możliwe staje się podjęcie negocjacji pokojowych. Co powiecie na propozycję zakończenia tej wojny?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_OTHER_3</Tag><Polish>Bohaterski gest miłosierdzia twoich wojsk wobec rannych ludu %s1_civ_adjective otworzył drogę do traktatu pokojowego. Czy chcesz zakończyć wojnę?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_WORLD_2</Tag><Polish>Heroiczny i głęboko humanitarny gest sił zbrojnych %s3_civ_adjective w stosunku do rannych %s1:2_civ_adjective zaowocował niespodziewaną okazją na pokój. Obie strony powstrzymują się od działań, by rozważyć nadarzającą się okazję. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HEROIC_GESTURE_WORLD_2</Tag><Polish>Bohaterski gest miłosierdzia wojsk ludu %s3_civ_adjective wobec rannych ludu %s1_civ_adjective stworzył niespodziewaną szansę na pokój. Obie strony przynajmniej zatrzymały się, by rozważyć tę możliwość.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HIGH_WARLORD_1</Tag><Polish>Nie należy przejmować się jego przechwałkami. Niech lepiej przekaże pieniądze do skarbca naszego Imperium.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HIGH_WARLORD_1</Tag><Polish>Nie potrzebujemy jego usług. Poproś go zamiast tego o przekazanie pieniędzy państwu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HIGH_WARLORD_2</Tag><Polish>Wyśmienicie! Niech trenuje zastępy Pikinierów na potrzeby naszej armii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HIGH_WARLORD_2</Tag><Polish>Doskonale! Niech szkoli dla nas pikinierów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HIGH_WARLORD_3</Tag><Polish>Świetnie! Należy wysyłać wszystkich rekrutów na przeszkolenie w nowej akademii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HIGH_WARLORD_3</Tag><Polish>Wspaniale! Niech wszyscy rekruci z tego miasta przechodzą szkolenie w nowej akademii.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HINDENBERG_1</Tag><Polish>Wprowadź zakaz używania wodoru w pojazdach lżejszych od powietrza.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HINDENBERG_2</Tag><Polish>Wprowadź wymogi bezpieczeństwa zapewniające wiarygodność komercyjnych podróży powietrznych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HINDENBERG_2</Tag><Polish>Sfinansuj działania na rzecz regulacji ruchu lotniczego, poprawy bezpieczeństwa i zapewnienia warunków do rozwoju lotnictwa komercyjnego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HIYOSILVER_1</Tag><Polish>To wspaniała wiadomość - przyniesie z pewnością ożywienie w naszej gospodarce.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HIYOSILVER_2</Tag><Polish>Należy zobowiązać nasz rząd do natychmiastowej eksploatacji nowych zasobów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_1</Tag><Polish>Święta Góra[PARAGRAPH:1]Otrzymałeś od swoich przywódców religijnych zadanie znalezienia, zasiedlenia się w pobliżu i przejęcie kontroli nad Świętą Górą.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_1</Tag><Polish>Święta Góra[PARAGRAPH:1]Przywódcy religijni powierzyli ci zadanie odnalezienia Świętej Góry, osiedlenia się w jej pobliżu i przejęcia nad nią kontroli.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_DONE_1</Tag><Polish>Twoi ludzie są natchnieni sposobem w jaki uhonorowałeś wiarę przodków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_DONE_1</Tag><Polish>Twój lud czerpie natchnienie ze sposobu, w jaki uczciłeś swoją wiarę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_HELP</Tag><Polish>[PARAGRAPH:1]Aby wypełnić to zadanie musisz rozszerzyć wpływy kultury i kontrolować pole ze szczytem Świętej Góry. Możesz to osiągnąć osiedlając się wokół wszystkich szczytów jakie napotkasz, być może trafisz na właściwy.[PARAGRAPH:1] Możesz też szukać dalszych wskazówek ze studiowania świętych manuskryptów. Jeśli wybudejssz %d3 świętych budynków (Świątyni i Klasztorów), Twoi przywódcy religijni rozwikłają tajemnicę i wskażą dokładne położenie Świętej Góry. Wciąż jednak będziesz musiał wyruszyć na wyprawę i osiedlić się w pobliżu, aby wypełnić zadanie. Wybudowanie %s2_building liczone jest tak samo jakbyś wybudował cztery świątynie. [PARAGRAPH:1]Zadanie nie zostanie wykonane jeśli zmienisz religię państwową, wprowadzisz laicyzację państwa lub osiągniesz technologię [COLOR_TECH_TEXT]Uprzemysłowienie[COLOR_REVERT] zanim wypełnisz wszystkie warunki zadania. Cel nie zostanie osiągnięty również w momencie gdy inna cywilizacja przejmie kontrolę nad Świętą Górą przed Tobą.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_HELP</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, obejmij wpływami kulturowymi i przejmij pole szczytu, który jest Świętą Górą. Możesz zdać się na boską opatrzność i osiedlać się przy kolejnych napotkanych górach. W końcu być może trafisz na właściwą.[PARAGRAPH:1]Możesz też szukać wskazówek w świętych pismach. Gdy zbudujesz odpowiednią liczbę budynków religijnych (świątyń i klasztorów: %d3), przywódcy religijni rozwiążą zagadkę i wskażą położenie Świętej Góry. Nadal trzeba będzie udać się tam i osiedlić w pobliżu. Budynek %s2_building umożliwia lepszą organizację kultu i na potrzeby tego zadania liczy się jak cztery świątynie.[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli przed spełnieniem warunków zmienisz religię państwową, zrezygnujesz z niej lub odkryjesz [COLOR_TECH_TEXT]Uprzemysłowienie[COLOR_REVERT]. Przegrasz również, jeśli inna cywilizacja wcześniej przejmie kontrolę nad Świętą Górą.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HOLY_MOUNTAIN_REVEALED_1</Tag><Polish>Podziwiaj Świętą Górę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HOLY_RITUAL_1</Tag><Polish>Wypełnić zamówienie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSESHOE_1</Tag><Polish>Wprowadzimy zatem te strzemiona do produkcji dla naszych żołnierzy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSESHOE_1</Tag><Polish>Zastosujemy ulepszone podkowy we wszystkich naszych jednostkach konnych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_1</Tag><Polish>Zadanie: Końskie Szepty [PARAGRAPH:1]Zostałeś zobowiązany przez związek hodowców i trenerów koni do wybudowania całej sieci nowoczesnych stadnin, która umożliwi im przełamać dotychczasowe problemy w hodowli i tresurze.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_1</Tag><Polish>Końskie Szepty[PARAGRAPH:1]Najlepsi trenerzy powierzyli ci zadanie budowy odpowiedniej liczby stajni, aby mogli przekroczyć dotychczasowe granice hodowli zwierząt.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_1</Tag><Polish>Natychmiast należy rozpocząć trening i formowanie jednostek [COLOR_UNIT_TEXT]konnych łuczników[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_1</Tag><Polish>Wykorzystaj naszą przewagę, aby natychmiast wyszkolić [COLOR_UNIT_TEXT]konnych łuczników[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_2</Tag><Polish>Należy wyposażyć zwiadowców w konie, by bardziej efektywnie mogli spełniać swoje zadania. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_2</Tag><Polish>Wykorzystaj nasze obecne konie do skuteczniejszego zwiadu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_3</Tag><Polish>Wyhodowane w naszych stadninach konie są lepiej podatne na trening, co zwiększa ich wydajność w pracy polowej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_3</Tag><Polish>Nasze konie są szkolone do wydajniejszej pracy w gospodarstwach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_HELP_1</Tag><Polish>[ICON_BULLET]Otrzymałeś %d1 jednostek [COLOR_UNIT_TEXT]Konnych łuczników[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_DONE_HELP_1</Tag><Polish>[ICON_BULLET]Otrzymujesz [COLOR_UNIT_TEXT]konnych łuczników[COLOR_REVERT] (liczba: %d1).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_HELP</Tag><Polish>[PARAGRAPH:1]Aby sprostać temu zadaniu musisz wybudować [COLOR_BUILDING_TEXT]Stajnie[COLOR_REVERT] w twoich miastach.[PARAGRAPH:1]Przegrasz jeśli któryś z rywali osiągnie ten cel przed tobą lub jeśli osiągniesz Renesans bez spełnienia tych warunków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORSE_WHISPERING_HELP</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zbuduj w swoich miastach [COLOR_BUILDING_TEXT]stajnie[COLOR_REVERT] (liczba: %d1). Musisz też pozyskać źródła [COLOR_HIGHLIGHT_TEXT]koni[COLOR_REVERT] (liczba: %d2).[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo osiągniesz renesans przed spełnieniem warunków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORTICULTURE_1</Tag><Polish>Powinniśmy rozpocząć handel z miejscowymi aby zdobyć te rzadkie dobra.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORTICULTURE_1</Tag><Polish>Powinniśmy nawiązać handel wewnętrzny z miejscowymi, aby pozyskiwać te rzadkie towary.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HORTICULTURE_2</Tag><Polish>Sfinansuj nakłady na większą produkcję składnika, bez narażania naturalnego siedliska gatunku na zniszczenie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HORTICULTURE_2</Tag><Polish>Sfinansuj zwiększenie produkcji bez narażania zasobów naturalnych, z których korzysta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_1</Tag><Polish>Wrogie przechwycenie korporacji[PARAGRAPH:1]Nasz rząd został zobowiązany przez prezesów korporacji do zabezpieczenia (wszelkimi dostępnymi sposobami) własnych źródeł wszystkich surowców koniecznych dla podtrzymania ich funkcjonowania.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_1</Tag><Polish>Wrogie przejęcie korporacji[PARAGRAPH:1]Przywódcy korporacji powierzyli ci zadanie zdobycia własnych źródeł wszystkich rodzajów surowców potrzebnych im do działalności. Wszelkie środki są dozwolone.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_DONE_1</Tag><Polish>Tak, tak! Przemówcie lepiej do mojej kieszeni!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_DONE_1</Tag><Polish>Brzęk monet! Pokażcie mi pieniądze!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_HELP_1</Tag><Polish>[PARAGRAPH:1]Żeby wypełnić to zadanie musimy założyć miasta w pobliżu niekontrolowanych jeszcze źródeł surowców lub zaatakować i przejąć kontrolę nad miastami posiadającymi owe złoża.[PARAGRAPH:1]Będziesz potrzebował nowego źródła surowca %d1 [NUM1:rodzaj surowca:różne rodzaje surowca].[PARAGRAPH:1]Nie zaliczysz tego zadania jeżeli cywilizacja rywala, która również próbuje przejąć kontrolę nad tym surowcem dla swojej korporacji zrobi to szybciej od ciebie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HOSTILE_TAKEOVER_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, osiedl się przy niekontrolowanych surowcach lub zaatakuj inne cywilizacje i przejmij ich surowce.[PARAGRAPH:1]Potrzebujesz nowych źródeł surowców (liczba rodzajów: %d1; lista: %s2_list_of_resources).[PARAGRAPH:1]Musisz również zachować kontrolę nad wszystkimi potrzebnymi rodzajami surowców, które już posiadasz.[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal poszukujący surowców dla swojej korporacji wykona je wcześniej.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HURRICANE_1</Tag><Polish>Budynki zostały zniszczone.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HURRICANE_1_HELP</Tag><Polish>Maksymalnie jeden tani i jeden drogi budynek zostaną zniszczone.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HURRICANE_2</Tag><Polish>Zgineli obywatele.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HURRICANE_2</Tag><Polish>Zginęli mieszkańcy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HURRICANE_2_HELP</Tag><Polish>Populacja miasta zostanie obniżona o 1.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HURRICANE_NEW_1</Tag><Polish>Miasto będzie znacznie zniszczone.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HURRICANE_NEW_1</Tag><Polish>Miasto dozna poważnych zniszczeń.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HURRY_ANGER</Tag><Polish>[ICON_BULLET]%d1[ICON_UNHAPPY] tymczasowo we wszystkich miastach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_HURRY_ANGER_CITY</Tag><Polish>[ICON_BULLET]%d1[ICON_UNHAPPY] tymczasowo w mieście %s2_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_HYMNS_AND_SCULPTURES_1</Tag><Polish>Zaproś na audiencję tego młodego artystę, abyśmy mogli jak najlepiej wykorzystać jego talent.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_HYMNS_AND_SCULPTURES_1</Tag><Polish>Przyjmij tego obiecującego artystę na audiencji, abyśmy mogli zdecydować, jak najlepiej wykorzystać jego talent.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ICE_SCULPTURE_1</Tag><Polish>Cieszymy się widząc jak miejscowa kultura kwitnie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ICE_SCULPTURE_1</Tag><Polish>Cieszy nas rozkwit miejscowej kultury.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ICE_SCULPTURE_2</Tag><Polish>Ten wysiłek warty jest kontynuowania. Sfinansuj wysiłek przekształcenia tej nowej formy sztuki w element miejscowej kultury.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ICE_SCULPTURE_2</Tag><Polish>Warto rozwijać ten pomysł. Sfinansuj doskonalenie tej nowej sztuki i włączenie jej do miejscowej kultury.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_ILLYRIAN_PIRATES_1</Tag><Polish>Musimy zebrać naszą flotę, aby pokonała te barbarzyńskie świnie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ILLYRIAN_PIRATES_HELP_1</Tag><Polish>[ICON_BULLET]Zatrważająca horda barbarzyńskich [COLOR_UNIT_TEXT]Galer Wojennych[COLOR_REVERT] pojawiła się znienacka u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ILLYRIAN_PIRATES_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych wód pojawiła się niebezpiecznie liczna flota barbarzyńskich [COLOR_UNIT_TEXT]galer wojennych[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_IMMIGRANTS_1</Tag><Polish>Jesteśmy zadowoleni z ich nowego miejsca zamieszkania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMMOBILE_UNIT</Tag><Polish>[ICON_BULLET]Jednostka: %s2_unit będzie zajęta przez: %d1 [NUM5:tury:tur], rozkazy w czasie trwania będą niedostępne.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMMOBILE_UNIT</Tag><Polish>[ICON_BULLET]Jednostka %s2_unit będzie zajęta (tury: %d1). W tym czasie może jedynie się bronić.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPACT_CRATER_1</Tag><Polish>Czemu uważacie to za istotne odkrycie? Nie zawracajcie mi głowy głupotami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPACT_CRATER_1</Tag><Polish>Dlaczego to ważne? Nie zawracajcie mi głowy drobiazgami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPACT_CRATER_2</Tag><Polish>Należy zobowiązać nasz rząd do rozwiązania tajemnic tej zagadki.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPACT_CRATER_2</Tag><Polish>Zaangażuj nasz rząd w rozwikłanie tej tajemnicy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPEACHMENT</Tag><Polish>Kongres chce oskarżyć prezydenta. Populacja poprze ten wniosek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPEACHMENT</Tag><Polish>Kongres chce postawić prezydenta w stan oskarżenia. Społeczeństwo popiera ten wniosek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPEACHMENT_1</Tag><Polish>Wtedy oskarżenie powinno postępować, jeśli taka jest wola ludu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPEACHMENT_1</Tag><Polish>W takim razie procedura powinna być kontynuowana, skoro taka jest wola ludu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPEACHMENT_2</Tag><Polish>To przesadna reakcja. Prezydent otrzymał wieści, źe jego administracja wymaga usprawnień.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPEACHMENT_2</Tag><Polish>To przesadna reakcja. Prezydent już zrozumiał, że jego administracja musi działać lepiej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPROVEMENT_GROWTH</Tag><Polish>[ICON_BULLET]Zbudowano[COLOR_HIGHLIGHT_TEXT]%s1_improvement[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPROVEMENT_GROWTH</Tag><Polish>[ICON_BULLET]Powstaje ulepszenie: [COLOR_HIGHLIGHT_TEXT]%s1_improvement[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_IMPROVEMENT_REMOVE</Tag><Polish>[ICON_BULLET]Zniszczono %s1_improvement</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_IMPROVEMENT_REMOVE</Tag><Polish>[ICON_BULLET]Zniszczenie ulepszenia: %s1_improvement</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INDEPENDENTFILMS_1</Tag><Polish>To dobra wiadomość dla naszej gospodarki!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INDEPENDENTFILMS_HELP_1</Tag><Polish>[ICON_BULLET]%D1%F2 w mieście %s3_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INDEPENDENT_FISHERS</Tag><Polish>Rybacy działających u naszych wybrzeży organizują własne floty łódek. Drastyczny wzrastają plony.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INDEPENDENT_FISHERS</Tag><Polish>Rybacy działający u naszych wybrzeży zorganizowali własne floty łodzi roboczych, znacznie zwiększając połowy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INDEPENDENT_FISHERS_1</Tag><Polish>Cóż to świetnie!  Nie musimy robić to sami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INDEPENDENT_FISHERS_1</Tag><Polish>To świetnie! Nie musimy robić tego sami.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_1</Tag><Polish>Aresztować wywrotowców i zagonić robotników z powrotem do pracy. Jeśli będzie trzeba, użyjcie siły.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_2</Tag><Polish>Wyznaczcie mediatora, aby pomógł w wypracowaniu porozumienia, ale poza tym trzymajcie się z daleka od konfliktu, niezależnie od tego, jak długo będzie trwał.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP</Tag><Polish>[ICON_BULLET]Nie możesz stosować doktryny [COLOR_NEGATIVE_TEXT]Nacjonalizacja[COLOR_REVERT], ponieważ przy tej doktrynie rząd [COLOR_POSITIVE_TEXT]jest[COLOR_REVERT] zarządem fabryki.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP</Tag><Polish>[ICON_BULLET]Nie możesz stosować doktryny [COLOR_NEGATIVE_TEXT]Gospodarka planowa[COLOR_REVERT], ponieważ przy niej rząd [COLOR_POSITIVE_TEXT]jest[COLOR_REVERT] zarządem fabryki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_3</Tag><Polish>Żądania pracowników są słuszne. Wyrazimy zgodę na skrócenie czasu pracy i zwiększenie płac, jeśli tylko wrócą natychmiast do pracy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_3_HELP</Tag><Polish>(Dotyczy tylko [COLOR_BUILDING_TEXT]Fabryki[COLOR_REVERT] w danym mieście.)</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_ACTION_3_HELP</Tag><Polish>(Dotyczy wyłącznie [COLOR_BUILDING_TEXT]fabryki[COLOR_REVERT] w danym mieście).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_FIRE_1</Tag><Polish>Należy położyć zwiększony nacisk na szkolenie BHP i zabezpieczenia przeciwpożarowe, by podobne wypadki nie zdarzały się w przyszłości.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_FIRE_1</Tag><Polish>Połóż nacisk na poprawę bezpieczeństwa, aby taki wypadek nigdy się nie powtórzył.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_FIRE_2</Tag><Polish>Należy sfinansować odbudowę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INDUSTRIAL_FIRE_2</Tag><Polish>Sfinansuj pilną odbudowę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INFLATION_MODIFIER</Tag><Polish>[ICON_BULLET]Inflacja %D1%%</Polish>
         </TEXT>
@@ -19121,89 +19121,89 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INFLUENZA_2</Tag><Polish>Gdybyśmy tylko znali tajemnice Medycyny!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INFLUENZA_HELP_2</Tag><Polish>[ICON_BULLET]Wirus przedostaje się do pobliskich miast i redukuje ich populację o %d1.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INFLUENZA_HELP_2</Tag><Polish>[ICON_BULLET]Wirus rozprzestrzenia się na część pobliskich miast i zmniejsza ich populację o %d1.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INFLUENZA_HIT_CITY</Tag><Polish>Wirus zaatakował miasto %s1_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INFLUENZA_HIT_CITY</Tag><Polish>Wirus grypy zaatakował miasto %s1_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INFO_FUGITIVE_4</Tag><Polish>Nasz gest dobrej woli wobec Imperium %s1_civ_adjective spowodował rozłoszczenie %s6_player. </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INFO_FUGITIVE_4</Tag><Polish>Nasz gest dobrej woli wobec państwa %s3_civ_adjective rozgniewał gracza %s6_player.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INFO_FUGITIVE_5</Tag><Polish>Wiadomość o przesłuchaniu zbiega wyciekła i rozłościła władze państwa %s3_civ_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INSPIRED_MISSION_1</Tag><Polish>Nie ma możliwości abyśmy teraz im pomogli.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INSPIRED_MISSION_1</Tag><Polish>Nie możemy teraz udzielić pomocy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INSPIRED_MISSION_2</Tag><Polish>Możemy złożyć mały datek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_INSPIRED_MISSION_3</Tag><Polish>Miło nam, że możemy zapewnić każdą pomoc jaką będą tylko potrzebować!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_INSPIRED_MISSION_3</Tag><Polish>Z przyjemnością zapewnimy wszelką potrzebną im pomoc!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_INTERSTATE_1</Tag><Polish>Prace konstrukcyjne rozpoczęte zostaną natychmiast po ukończeniu procesu planowania.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_JADE_1</Tag><Polish>Możemy sprzedawać cenny jadeit i mieć dodatkowy przychód.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_JAIL</Tag><Polish>Mieszkańcy miasta %s2_city nie czują się bezpiecznie. Są zaniepokojeni że kryminaliści mogą uciec z lokalnego więzienia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_JAIL</Tag><Polish>Mieszkańcy miasta %s2_city nie czują się bezpiecznie. Obawiają się ucieczki przestępców z miejscowego więzienia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_JAIL_1</Tag><Polish>A więc? Nikt stamtąd i tak nie ucieknie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_JAIL_2</Tag><Polish>Wzmocnić straże więzienne i zorganizować kampanię przekonującą obywateli o ich bezpieczeństwie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_JAIL_2</Tag><Polish>Wzmocnij zabezpieczenia więzienia i zorganizuj kampanię przekonującą mieszkańców, że są bezpieczni.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_1</Tag><Polish>Wyślij im życzenia wszystkiego najlepszego i przekaż symboliczny prezent ślubny.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_2</Tag><Polish>Wyślij im serdeczne życzenia i przekaż hojny prezent ślubny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_3</Tag><Polish>Ogłoś święto narodowe, wyślij niecodzienny prezent ślubny i daj hojny datek religijnym organizacjom w imieniu nowożeńców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_3</Tag><Polish>Ogłoś narodowe obchody, wyślij ekstrawagancki prezent ślubny i przekaż hojne datki organizacjom religijnym w imieniu nowożeńców.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_1</Tag><Polish>%s5_religion_adjective obrządek ślubu naszego obywatela i jego partnera z imperium %s1_civ_adjective nie wzbudził większego zainteresowania naszej ludności, uroczystość odbyła się bez protestów, ale również bez większego zainteresowania ludności. Część członków rodziny nowożeńców jest zafascynowana, ale wygląda na to, że całe wydarzenie przeszło bez echa.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_1</Tag><Polish>Ślub w obrządku określanym jako %s5_religion_adjective połączył naszego obywatela z obywatelem państwa %s1_civ_adjective. Nie wywołał tam protestów ani większego zainteresowania. Niektórzy krewni nowożeńców narzekają, ale wydarzenie najwyraźniej nie pozostawiło większego rozgoryczenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_2</Tag><Polish>Kościół %s5_religion_adjective udzielił ślubu jednemu z naszych obywateli i jego szczęśliwemu partnerowi z Imperium %s1_civ_adjective. Nowożeńcy otrzymali hojny prezent ślubny. Nasi ludzie są zadowoleni z gestu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_2</Tag><Polish>Ślub w obrządku określanym jako %s5_religion_adjective połączył naszego obywatela z obywatelem państwa %s1_civ_adjective. Spotkał się tam z błogosławieństwem i hojnymi prezentami. Nasz lud jest zadowolony z tego gestu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_3</Tag><Polish>%s5_religion_adjective obrządek ślubu jednego z naszych obywateli i jego partnera z Imperium %s1_civ_adjective zachwycił nasz lud. Wydarzenie to zostało uhonorowane świętem narodowym, niecodziennymi prezentami ślubnymi i dotacją na instytucje religijne.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_JOYOUS_WEDDING_OTHER_3</Tag><Polish>Ślub w obrządku określanym jako %s5_religion_adjective połączył naszego obywatela z obywatelem państwa %s1_civ_adjective. Uczczono go tam świętem narodowym, ekstrawaganckimi prezentami i datkami dla naszych instytucji religijnych. Nasz lud jest zachwycony tym gestem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LABORATORY_1</Tag><Polish>Powinno się to przyczynić do przyspieszenia naszych czołowych badań.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LABORATORY_1</Tag><Polish>Powinno to przyspieszyć nasze bieżące badania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LABOR_UNIONS</Tag><Polish>Nasi pracownicy zaczęli strajk i wymagają bezpiecznego środowiska pracy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LABOR_UNIONS</Tag><Polish>Nasi robotnicy zaczęli tworzyć związki zawodowe i domagają się bezpieczniejszych warunków pracy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LABOR_UNIONS_1</Tag><Polish>Zalegalizować związki i zagwarantować bezpieczeństwo pracy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LABOR_UNIONS_1</Tag><Polish>Zalegalizuj związki i spełnij ich żądania dotyczące bezpieczeństwa pracy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LABOR_UNIONS_2</Tag><Polish>Hamują produkcję! Zakazać to!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LABOR_UNIONS_2</Tag><Polish>Hamują wydajność! Zdelegalizuj je!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LARGE_RECESSION</Tag><Polish>Nasza gospodarka miała nagłe i poważne spowolnienie i ulgi nie są już możliwe. Ekonomiści twierdzą że wydatki rządowe powinny zostać zwiększone.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LARGE_RECESSION</Tag><Polish>Nasza gospodarka nagle i poważnie osłabła, a poprawy nie widać. Ekonomiści spierają się o to, czy należy zwiększyć wydatki rządowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LARGE_RECESSION_1</Tag><Polish>Trzymajmy się naszych dział ... rząd nie powinien ingerować w rynek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LARGE_RECESSION_1</Tag><Polish>Nie ustępujmy. Rząd nie powinien ingerować w rynek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LARGE_RECESSION_2</Tag><Polish>Słuchaj tych "ekonomistów" i starają się zrównoważyć spadek wydatków konsumpcyjnych z naszymi finansami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LARGE_RECESSION_2</Tag><Polish>Posłuchaj tych marudzących „ekonomistów” i spróbuj zrównoważyć spadek wydatków konsumpcyjnych pieniędzmi ze skarbca.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LEFT_AT_ALTAR_1</Tag><Polish>Wyślij kondolencje do obu rodzin i zachęcaj je do szukania zgody i wyjaśnienia ich wzajemnych pretensji i żali.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LEFT_AT_ALTAR_1</Tag><Polish>Przekaż obu rodzinom wyrazy współczucia i zachęć je do pokojowego rozwiązania sporu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LESS_DICTATOR_1</Tag><Polish>Minister Finansów który czuje się jak Twój brat odrzuca żądania. "Co Ci ludzie nie uświadamiają sobie, że wiesz, co jest dla nich najlepsze?. Alternatywą jest anarchia! Mówię że trzeba trzymać się kursu, Iiwykonywać te idiotyzmy za zdradę."</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LESS_DICTATOR_1</Tag><Polish>Wielki minister finansów, który jest zarazem twoim bratem, odrzuca żądania. „Ci ludzie nie rozumieją, że wiesz, co jest dla nich najlepsze. Alternatywą jest anarchia! Trzymaj się obranego kursu. I każ stracić tych wariatów za zdradę”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LESS_DICTATOR_2</Tag><Polish>"Być może ludzie powinni otrzymać więcej swobody politycznej," sugeruje Szef Sztabu, który jest Twoją siostrą. "Czy to sprawi problem umożliwienie publicznej dyskusji o pomysłach? Można nawet mieć realną opozycję, która nie będzie Twoją laleczką, mam na myśli."</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LESS_DICTATOR_2</Tag><Polish>„Może należałoby dać ludziom więcej swobód politycznych”, zastanawia się szefowa twojego gabinetu, która jest twoją siostrą. „Czy publiczna dyskusja nad pomysłami naprawdę tak zaszkodzi? Moglibyśmy nawet mieć prawdziwą partię opozycyjną. Taką, która nie składa się wyłącznie z twoich marionetek”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LEVITTOWN</Tag><Polish>Innowacyjny Budowniczy Domów skonstruował serię identycznych, masowo produkowanych domów, dając tanie mieszkania do dojazdów do pracy pracownikom.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LEVITTOWN</Tag><Polish>Pomysłowy przedsiębiorca budowlany wzniósł serię identycznych domów produkowanych masowo, zapewniając tanie mieszkania robotnikom dojeżdżającym do pracy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_LEVITTOWN_1</Tag><Polish>Napływ nowych osób dojeżdżających do pracy spowoduje wzrost miejscowej gospodarki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LITERACY_1</Tag><Polish>Kontynuować wysiłki szerzenia oświaty. Wiedza to potęga!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LITERACY_1</Tag><Polish>Nadal wspieraj naukę czytania i pisania. Wiedza to potęga!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOCAL_MILLS</Tag><Polish>Mieszkańcy z miasta %s2_city posiada wbudowane liczne małe młyny, zwiększające produkcje lokalną.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOCAL_MILLS</Tag><Polish>Mieszkańcy okolic miasta %s2_city zbudowali liczne młyny, dzięki którym mogą wytwarzać różnorodne dobra konsumpcyjne.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOCAL_MILLS_1</Tag><Polish>Świetnie.  Możemy to wykorzystać do produkcji innych rzeczy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOCAL_MILLS_1</Tag><Polish>Doskonale. Możemy wykorzystać tę produkcję także do innych celów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOCAL_THE_BUCCANEERS_2</Tag><Polish>Korsarze przyjęli naszą daninę i wycofali się na pogranicze.  Przynajmniej na razie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOCAL_THE_BUCCANEERS_2</Tag><Polish>Bukanierzy przyjęli naszą daninę i wycofali się w głąb lądu. Na razie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOG</Tag><Polish>Zapis zdarzeń</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOG</Tag><Polish>Dziennik wydarzeń</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LONG_RANGE_FIGHTERS_1</Tag><Polish>Produkcję nowego modelu myśliwca należy rozpocząć natychmiast.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LONG_RANGE_FIGHTERS_1</Tag><Polish>Rozpocznij produkcję nowego myśliwca.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOSE_MORALS</Tag><Polish>Starszyzna w naszym społeczeństwie jest rozczarowana muzyka i kulturą współczesnej młodzieży.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOSE_MORALS</Tag><Polish>Starsi członkowie naszego społeczeństwa są rozczarowani muzyką i kulturą dzisiejszej młodzieży.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_LOOSE_MORALS_1</Tag><Polish>To muzyka przyszłości.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_1</Tag><Polish>Te problemy to wewnętrzna sprawa ich kraju i nic nam do tego. Powiedz naszym szpiegom aby wstrzymali się z działaniami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_1</Tag><Polish>Ich problemy to nie nasza sprawa. Rozkaż naszym agentom powstrzymać się od działań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_2</Tag><Polish>Dyskretnie sfinansuj działania lokalnych grup przestępczych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_2</Tag><Polish>Dopilnuj, aby pomoc dotarła do organizatorów miejscowej działalności przestępczej. Zachowaj dyskrecję.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_3</Tag><Polish>Daj naszym agentom wolną rękę. Pozwól im wykorzystać wszelkie możliwości wywołania większego zamieszania jakie będą możliwe.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_3</Tag><Polish>Daj naszym agentom wolną rękę. Niech wykorzystają każdą okazję do wywołania zamieszania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_3_HELP</Tag><Polish>[ICON_BULLET]Pomiędzy %d1 i %d2 budynków zniszczonych w mieście %s3_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_3_HELP</Tag><Polish>[ICON_BULLET]Liczba zniszczonych budynków: od %d1 do %d2. Miasto: %s3_city</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_LOOTERS_4</Tag><Polish>Nasi agenci zostali wykryci!</Polish>
         </TEXT>
@@ -19211,45 +19211,45 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_LOOTERS_OTHER_2</Tag><Polish>Niepokoje społeczne nieopodal miasta %s4_city doprowadziły do zamieszek i plądrowania okolicy. Wiele ulepszeń zostało zniszczonych!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_OTHER_3</Tag><Polish>Ogromne niepokoje społeczne nieopodal miasta %s4_city doprowadziły do zamieszek i grabieży. Zarówno w mieście jak i poza miastem doszło do zniszczenia ulepszeń przez szabrowników i buntowników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_OTHER_3</Tag><Polish>Ogromne niepokoje społeczne w okolicach miasta %s4_city doprowadziły do zamieszek i grabieży. Szabrownicy zniszczyli część naszych ulepszeń zarówno w mieście, jak i poza nim.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_OTHER_4</Tag><Polish>Zidentyfikowaliśmy agentów, którzy nieustannie i aktywnie podsycają bieżącą sytuację w mieście %s4_city!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOOTERS_OTHER_4</Tag><Polish>Zidentyfikowaliśmy agentów państwa %s1_civ_adjective, którzy systematycznie i aktywnie zaogniają sytuację w mieście %s4_city!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_LOSE_POPULATION</Tag><Polish>[ICON_BULLET]%d1 straconej populacji w %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_LOSE_POPULATION</Tag><Polish>[ICON_BULLET]Utrata ludności: %d1. Miasto: %s2_city</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_LOYALTY_TESTS_1</Tag><Polish>Niech upadek tych zdrajców będzie znakiem, że nadchodzą lepsze czasy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MAHDI_ARMY_HELP_1</Tag><Polish>[ICON_BULLET]Zatrważająca horda barbarzyńskich [COLOR_UNIT_TEXT]Knechtów[COLOR_REVERT] pojawiła się znienacka u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MAHDI_ARMY_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]knechtów[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MAJOR_IN_HUMANITIES_1</Tag><Polish>Chociaż nie będzie dalszego postępu naukowego, uczyni ludzi szczęśliwymi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MAJOR_IN_HUMANITIES_1</Tag><Polish>Choć nie przyspieszy to postępu naukowego, uszczęśliwi ludzi.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MALACCAN_PIRATES_1</Tag><Polish>Rozkaż straży wybrzeżnej ścigać i wyłapać tych łajdaków co do jednego!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MALACCAN_PIRATES_HELP_1</Tag><Polish>[ICON_BULLET]Niebiezpieczna liczba barbarzyńskich [COLOR_UNIT_TEXT]Transportowców[COLOR_REVERT] pojawiła się na naszych wodach!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MALACCAN_PIRATES_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych wód pojawiła się niebezpiecznie liczna flota barbarzyńskich [COLOR_UNIT_TEXT]torpedowców[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MAN_NAMED_JED_1</Tag><Polish>Nie mamy czasu na takie bzdury. Rozkaż im kontynuować zwiad.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MAN_NAMED_JED_2</Tag><Polish>Powinniśmy przebadać tą substancję pod kątem możliwości jej wykorzystania.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MAN_NAMED_JED_2</Tag><Polish>Trzeba zbadać tę substancję i sprawdzić, jak moglibyśmy ją wykorzystać.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MARATHON_1</Tag><Polish>Ta heroiczna śmierć zainspirowała całą naszą armię!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MARATHON_1</Tag><Polish>Ten bohaterski czyn natchnął całą naszą armię!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_1</Tag><Polish>Wielki Kowal[PARAGRAPH:1]Zostałeś obarczony przez Mistrza Cechu Kowali zadaniem wybudowania wystarczającej ilości [COLOR_BUILDING_TEXT]Kuźni[COLOR_REVERT] do zapewnienia warsztatów dla wszystkich szkolących się w fachu kowalskim czeladników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_1</Tag><Polish>Wielki Kowal[PARAGRAPH:1]Mistrz kowalski powierzył ci zadanie budowy odpowiedniej liczby nowych [COLOR_BUILDING_TEXT]kuźni[COLOR_REVERT], aby zapewnić godziwe warunki pracy wszystkim uczniom, którym zamierza przekazać tajniki swojego fachu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_1</Tag><Polish>Należy wykorzystać naszą przewagę wynikającą z umiejętności zastosowania obróbki [COLOR_HIGHLIGHT_TEXT]Miedzi[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_1</Tag><Polish>Wykorzystaj naszą przewagę, aby odkryć nowe źródło [COLOR_HIGHLIGHT_TEXT]miedzi[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_2</Tag><Polish>Nasze duże umiejętności metalurgiczne powinny zaowocować stworzeniem lepszego uzbrojenia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_2</Tag><Polish>Wykorzystaj naszą potęgę metalurgiczną do wytwarzania lepszej broni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_3</Tag><Polish>Najlepszy ze studiujących czeladników Mistrza Cechu Kowali obejmie jego funkcję i kuźnię, by kontynuować tradycję najwyższej jakości wyrobów metalurgicznych w tym mieście.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_DONE_3</Tag><Polish>Gdy mistrz odejdzie na emeryturę, jego najlepszy uczeń przejmie kuźnię i zapoczątkuje w tym mieście tradycję doskonałego odlewnictwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_HELP_1</Tag><Polish>[PARAGRAPH:1]By wypełnić warunki tego zadania musisz wybudować %d1 [COLOR_BUILDING_TEXT]Kuźni[COLOR_REVERT] w naszych miastach (wliczając w to również istniejące już kuźnie).[PARAGRAPH:1]Mistrz Cechu Kowali jest człowiekiem religijnym. Dodatkową nagrodę otrzymasz za istnienie religii państwowej w momencie kiedy (i jeśli) zadanie zostanie spełnione.[PARAGRAPH:1]Jeśli którykolwiek z twoich przeciwników ukończy zadanie przed tobą, lub jeśli utracisz kontrolę nad miastem %s2_city i Mistrzem Cechu Kowali, lub też nie zdołasz się z niego wywiązać przed osiągnięciem Renesansu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MASTER_BLACKSMITH_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zbuduj w swoich miastach [COLOR_BUILDING_TEXT]kuźnie[COLOR_REVERT] (łącznie: %d1). Wliczają się również kuźnie już istniejące. Musisz też zgromadzić surowce metalowe (wymagana liczba: %d2): [COLOR_HIGHLIGHT_TEXT]miedź[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]złoto[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]żelazo[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]ołów[COLOR_REVERT] lub [COLOR_HIGHLIGHT_TEXT]srebro[COLOR_REVERT].[PARAGRAPH:1]Mistrz kowalski jest człowiekiem religijnym. Dodatkowa nagroda będzie dostępna, jeśli w chwili ukończenia zadania twoja cywilizacja ma religię państwową.[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej, utracisz miasto %s3_city i mistrza kowalskiego albo osiągniesz renesans przed spełnieniem warunków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MASTER_SMITH_1</Tag><Polish>Doceniamy dokonania naszego wielkiego kowala.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MASTER_SMITH_1</Tag><Polish>Wyrażamy uznanie dla osiągnięć naszego szanowanego mistrza kowalskiego.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MEDIATOR_WORLD_2</Tag><Polish>Wielki mediator próbował doprowadzić do porozumienia pokojowego pomiędzy nacjami %s1_civ_adjective i %s3_civ_adjective!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MEDIATOR_WORLD_2</Tag><Polish>Wybitny mediator podjął próbę wynegocjowania pokoju między państwami %s1_civ_adjective i %s3_adjective!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MEGA_ATTACK</Tag><Polish>Wypadek w Parku Plejstocenu doprowadził do ucieczki zwierząt! Kilku ludzi nie żyje, kilkudziesięciu jest rannych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MEGA_ATTACK</Tag><Polish>Wypadek w Parku Plejstoceńskim doprowadził do ucieczki zwierząt! Kilka osób nie żyje, a kilkadziesiąt jest rannych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MEGA_ATTACK_1</Tag><Polish>Oferta odszkodowania dla poszkodowanych rodzin.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MEGA_ATTACK_1</Tag><Polish>Zaproponuj odszkodowania poszkodowanym rodzinom.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MEGA_ATTACK_2</Tag><Polish>Nie mamy pieniędzy na pomoc.</Polish>
         </TEXT>
@@ -19257,65 +19257,65 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_ANCIENT_2</Tag><Polish>Daj im złoto, aby nasze miasta żyły w spokoju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_ANCIENT_3</Tag><Polish>Przekup najemników, aby dołączyli do naszej armii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_ANCIENT_3</Tag><Polish>Przekup najemników dodatkowym złotem, aby dołączyli do naszych wojsk.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_ANCIENT_HELP_1</Tag><Polish>[ICON_BULLET]Niebezpieczna liczba najemników - [COLOR_UNIT_TEXT]Wojowników[COLOR_REVERT] pojawiła się w pobliżu naszych granic!.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_ANCIENT_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały najemnych [COLOR_UNIT_TEXT]wojowników[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_CLASSICAL_1</Tag><Polish>Nie ugniemy się przed żadną groźbą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_CLASSICAL_2</Tag><Polish>Daj im złoto, aby nasze miasta żyły w spokoju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_CLASSICAL_3</Tag><Polish>Przekup najemników, aby dołączyli do naszej armii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_CLASSICAL_3</Tag><Polish>Przekup najemników dodatkowym złotem, aby dołączyli do naszych wojsk.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_CLASSICAL_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych granic pojawiła się niebezpieczna liczba najemnych [COLOR_UNIT_TEXT]Toporników[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_CLASSICAL_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały najemnych [COLOR_UNIT_TEXT]toporników[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_MEDIEVAL_1</Tag><Polish>Nie ugniemy się przed żadną groźbą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_MEDIEVAL_2</Tag><Polish>Daj im złoto, aby nasze miasta żyły w spokoju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_MEDIEVAL_3</Tag><Polish>Przekup najemników, aby dołączyli do naszej armii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_MEDIEVAL_3</Tag><Polish>Przekup najemników dodatkowym złotem, aby dołączyli do naszych wojsk.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_MEDIEVAL_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych granic pojawiła się niebezpieczna liczba najemnych [COLOR_UNIT_TEXT]Zbrojnych[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MERCENARIES_MEDIEVAL_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały najemnych [COLOR_UNIT_TEXT]zbrojnych[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_METAL_DECKS_1</Tag><Polish>Tak należy uczynić.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_METEOR_STRIKE</Tag><Polish>To straszne!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MINING_ACCIDENT_1</Tag><Polish>Rozpocznij odbudowę kopalni.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MINING_ACCIDENT_1</Tag><Polish>Zorganizuj odbudowę, kładąc nacisk na poprawę bezpieczeństwa w kopalni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MINING_ACCIDENT_2</Tag><Polish>Wyślij wysłanników do pomocy rodzinom ofiar.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MINING_ACCIDENT_2</Tag><Polish>Wyślij przedstawicieli z pomocą dla rodzin ofiar.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MINING_ACCIDENT_3</Tag><Polish>Nie musimy pomagać temu miastu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MINING_ACCIDENT_3</Tag><Polish>Jesteśmy zbyt obciążeni, by udzielić miastu jakiejkolwiek pomocy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MIRACLE_1</Tag><Polish>Turyści wzbogacają dochody miasta.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MIRACLE_1</Tag><Polish>Turystyka zwiększy dochody miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MIRACLE_2</Tag><Polish>Powinniśmy zacząć werbować pielgrzymów jako misjonarzy naszej wiary.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MIRACLE_2</Tag><Polish>Powinniśmy zatrudnić i wyszkolić część pielgrzymów na misjonarzy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MODERNOLYMPICS_1</Tag><Polish>Igrzyska będą wielkim wydarzeniem, a uczestnicy i kibice przybędą z całego świata!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MODERNOLYMPICS_1</Tag><Polish>Igrzyska będą wspaniałym widowiskiem! Zaprosimy sportowców ze wszystkich narodów!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MONEY_CHANGERS_1</Tag><Polish>Spowoduje to wzrost lukratywności naszego rynku? To dobra wiadomość.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MONEY_CHANGERS_1</Tag><Polish>Obrót obcymi walutami zwiększa rentowność targu? To dobra wiadomość.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MORE_FIAT_MONEY_1</Tag><Polish>Musimy utrzymać wzrost gospodarczy i jednocześnie napełnić kufry. Zmniejsz stopy procentowe i dodrukuj pieniędzy. Miejmy nadzieję, że wzrost inflacji nie będzie zbyt dotkliwy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MORE_FIAT_MONEY_2</Tag><Polish>Nie, prędzej czy później wróci to do nas z nawiązką. Mimo, że ludziom się to nie spodoba, musimy wprowadzić program oszczędnego gospodarowania aby obniżyć wydatki i znieść inflację.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MORE_FIAT_MONEY_2</Tag><Polish>Nie, prędzej czy później będziemy musieli wypić piwo, którego nawarzyliśmy. Choć to niepopularne, trzeba wprowadzić program oszczędnościowy, aby ograniczyć wydatki i obniżyć inflację.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_MOTHER_LODE_1</Tag><Polish>Przekujmy nasz sukces na pieniądze!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MOTOR_OIL_1</Tag><Polish>Rozpocznijmy sprzedaż tego paliwa na wolnym rynku!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MOTOR_OIL_1</Tag><Polish>Zezwól na sprzedaż ulepszonego oleju silnikowego na wolnym rynku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_MOTOR_OIL_2</Tag><Polish>Zmodyfikujmy naszą flotę aby używała nowego paliwa!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_MOTOR_OIL_2</Tag><Polish>Sfinansuj modernizację pojazdów naszej armii, aby mogły korzystać z nowej receptury.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NAPALM_1</Tag><Polish>Taktyczna przewaga na polu bitwy jest ważniejsza niż opinia reszty świata!  Wyposaż nasze samoloty szturmowe w bomby z napalmem!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NAPALM_2</Tag><Polish>Ta broń jest zbyt kosztowna i może zaważyć na naszych stosunkach międzynarodowych.  Spal wszystkie dokumenty na jej temat, aby już nigdy więcej o niej nie usłyszeć.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NAPALM_2</Tag><Polish>Użycie tej broni kosztowałoby zbyt wiele, zarówno pieniędzy, jak i poparcia opinii publicznej. Schowaj raport do szuflady i nie wracajmy do tematu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NAPALM_HELP_1</Tag><Polish>[ICON_BULLET]Otrzymujemy [COLOR_NEGATIVE_TEXT]-1[COLOR_REVERT] nastawienia od wszystkich przywódców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NAPALM_HELP_1</Tag><Polish>[ICON_BULLET]Stosunki ze wszystkimi przywódcami: [COLOR_NEGATIVE_TEXT]-1[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NAPALM_HELP_2</Tag><Polish>[ICON_BULLET]Nie podejmuj działań.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NATIONAL_ANTHEM_1</Tag><Polish>Spowoduje że ludzie są szczęśliwsi.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NATIONAL_ANTHEM_1</Tag><Polish>To uszczęśliwi ludzi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NATIONAL_HOLIDAY</Tag><Polish>[ICON_BULLET]Spowoduje Święto Narodowe na Twą cześć.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NATIONAL_HOLIDAY</Tag><Polish>[ICON_BULLET]Wywołuje narodowe obchody na twoją cześć.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NATUROPATHY_FOUNDED_1</Tag><Polish>Wyślij gratulacje szamanom, którzy ryzykowali życiem, aby odkryć te cenne zioła lecznicze.</Polish>
         </TEXT>
@@ -19323,168 +19323,167 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NAVAL_PROXIMITY_AAA_FUSES_1</Tag><Polish>Świetnie! Zestrzelcie wszystkie samoloty wroga!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEWS_IMPACT_CRATER_1</Tag><Polish>Odkrycie naturalnie powstałych płytek szkła zostało zignorowane przez przywódców %s1_civ_adjective i przepadnie na śmietniku historii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEWS_IMPACT_CRATER_1</Tag><Polish>Przywódcy państwa %s1_civ_adjective zignorowali odkrycie naturalnych szklanych kulek. Przepadnie ono na śmietniku historii.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEWS_IMPACT_CRATER_2</Tag><Polish>Geologowie %s1_civ_adjective odkryli bogate złoża [COLOR_HIGHLIGHT_TEXT]uranu[COLOR_REVERT] w dawno zapomnianym kraterze po uderzeniu meteorytu w starożytności.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEWS_IMPACT_CRATER_2</Tag><Polish>Geolodzy ludu %s1_civ_adjective odkryli bogate źródło [COLOR_HIGHLIGHT_TEXT]uranu[COLOR_REVERT] w miejscu, które okazało się ogromnym, bardzo starym kraterem uderzeniowym.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEW_DYNASTY_1</Tag><Polish>Należy udzielić poparcia wiodącemu generałowi, by mógł objął tron poprzez udany zamach stanu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEW_DYNASTY_1</Tag><Polish>Wesprzyj czołowego generała, aby w drodze zamachu stanu został nowym monarchą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEW_DYNASTY_2</Tag><Polish>Należy pozwolić pretendentom do tronu wybić się nawzajem. Najsilniejszy lub najsprytniejszy zostanie nowym władcą.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEW_DYNASTY_2</Tag><Polish>Niech szlachta walczy między sobą. Najsilniejszy lub najsprytniejszy zostanie nowym monarchą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEW_DYNASTY_3</Tag><Polish>Należy posłuchać głosu przywódców religijnych by zdecydowali komu sprzyjają niebiosa, a następnie wesprzeć ich kandydata.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEW_DYNASTY_3</Tag><Polish>Posłuchaj przywódców duchowych, którzy wskażą, komu sprzyjają bogowie, i poprzyj tego kandydata.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEW_WORLD_1</Tag><Polish>Phi! Niehc jedzą ciastka!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEW_WORLD_1</Tag><Polish>Phi! Niech jedzą ciastka!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEW_WORLD_2</Tag><Polish>Niech robią co chcą nie potrzebuje ich!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEW_WORLD_2</Tag><Polish>Niech robią, co chcą. Nie potrzebuję ich!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NEW_WORLD_3</Tag><Polish>ZNajdz flotę statków i wyślij ich do nowego świata!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NEW_WORLD_3</Tag><Polish>Sfinansuj flotę statków, która zabierze żądnych przygód obywateli do Nowego Świata!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NOBLES_DEMAND_COMPENSATION</Tag><Polish>Miejscowa szlachta jest oburzona naszą ścisłą kontrolą nad skarbcem. Uważa, że należy jej się część zgromadzonego majątku. Domaga się rekompensaty!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NOBLES_DEMAND_COMPENSATION_1</Tag><Polish>Zaakceptuj uzasadnione roszczenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NOBLES_DEMAND_COMPENSATION_2</Tag><Polish>Zignorować Ich.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NOBLES_DEMAND_COMPENSATION_2</Tag><Polish>Zignoruj ich żądania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_1</Tag><Polish>Szlachetni Rycerze[PARAGRAPH:1]Nasi obywatele zobowiązali nas do wytrenowania znacznej siły jednostek [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_1</Tag><Polish>Szlachetni rycerze[PARAGRAPH:1]Z woli swojego ludu otrzymałeś zadanie wyszkolenia licznych oddziałów [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_1</Tag><Polish>Posiadanie tak potężnej armii rycerzy wymaga dodatkowego treningu jednostek we współdziałaniu na polu walki.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_1</Tag><Polish>Tak liczne oddziały rycerzy mogą dzięki współdziałaniu przejść dodatkowe szkolenie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_2</Tag><Polish>Należy wykorzystać naszych rycerzy do szerzenia naszej jedynie słusznej i prawdziwej wiary.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_2</Tag><Polish>Zaangażuj naszych szlachetnych rycerzy w szerzenie wiary.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_3</Tag><Polish>Wśród rzeszy najbardziej wierzących i zaufanych rycerzy pojawił się dowódca obdarzony świętą wizją.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_DONE_3</Tag><Polish>Wśród najwierniejszych rycerzy pojawia się jeden obdarzony świętą wizją.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby ukończyć zadanie, musisz wyszkolić %d1
-[COLOR_UNIT_TEXT]Rycerzy[COLOR_REVERT].[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna jeśli Twoja cywilizacja działa w [COLOR_HIGHLIGHT_TEXT]ustroju[COLOR_REVERT] obywatelskim.[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna jeśli Twoja cywilizacja kontroluje [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Poniesiesz klęskę w tej misji jeśli twój przeciwnik ukończy ją przed Tobą lub odkryje Zaawansowaną Broń Palną ([COLOR_TECH_TEXT]Tradycja Wojskowa[COLOR_REVERT], [COLOR_TECH_TEXT]Karabiny Maszynowe[COLOR_REVERT], lub [COLOR_TECH_TEXT]Koleje[COLOR_REVERT]) bez spełniania warunków potrzebnych do ukończenia misji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NOBLE_KNIGHTS_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, wyszkól jednostki konne z [COLOR_HIGHLIGHT_TEXT]epoki średniowiecza[COLOR_REVERT] (łącznie: %d1): [COLOR_UNIT_TEXT]jeźdźców[COLOR_REVERT], [COLOR_UNIT_TEXT]rycerzy[COLOR_REVERT] lub [COLOR_UNIT_TEXT]rycerzy szlacheckich[COLOR_REVERT].[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna, jeśli stosujesz doktrynę [COLOR_HIGHLIGHT_TEXT]Kościół państwowy[COLOR_REVERT].[PARAGRAPH:1]Kolejna nagroda będzie dostępna, jeśli kontrolujesz budynek [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo przed spełnieniem warunków odkryjesz którąkolwiek z technologii: [COLOR_TECH_TEXT]Tradycje Wojskowe[COLOR_REVERT], [COLOR_TECH_TEXT]Strzelectwo[COLOR_REVERT] lub [COLOR_TECH_TEXT]Koleje Żelazne[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NO_JUSTICE</Tag><Polish>Miejscowe osiłki zabierają siłą naszych poddanych, żeby dopiec lokalnym gubernatorom. Niestety, nie jesteśmy w stanie nic zrobić, nie mamy do kogo zwrócić się o pomoc.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NO_JUSTICE</Tag><Polish>Miejscowi watażkowie wymuszają pieniądze na naszych poddanych i zastraszają lokalnych zarządców. Niestety nie ma skutecznej drogi prawnej, aby temu zaradzić.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NO_JUSTICE_1</Tag><Polish>Nie ma tu nic co możemy zrobić.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NO_JUSTICE_1</Tag><Polish>Niewiele możemy zrobić.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST</Tag><Polish>Nasi obywatele sprzeciwiają się rozbudowie arsenału nuklearnego. Obawiają się, że jego użycie pociągnie za sobą katastrofalne konsekwencje.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST</Tag><Polish>Nasi obywatele protestują przeciw naszemu arsenałowi jądrowemu. Obawiają się katastrofalnych skutków jego użycia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_1</Tag><Polish>Wola naszych obywateli stanowi nasz główny wyznacznik działania. Zdemontujemy nasz arsenał nuklearny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_1_HELP</Tag><Polish>[ICON_BULLET]Zdemontować wszystkie nasze pociski nuklearne</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_1_HELP</Tag><Polish>[ICON_BULLET]Utrata całej broni jądrowej.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_2</Tag><Polish>Co? Wytropić podżegaczy i pod sąd ich!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_3</Tag><Polish>Potrzebujemy zorganizować kampanię poparcia dla naszych armii, natychmiast!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NUCLEAR_PROTEST_3</Tag><Polish>Potrzebujemy pozytywnej kampanii wizerunkowej dla naszego wojska. Natychmiast!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NUM_BUILDINGS_DESTROYED</Tag><Polish>%d1 [NUM1:budynek należący do cywilizacji %s2_civ_adjective został zniszczony:budynki należące do cywilizacji %s2_civ_adjective zostały zniszczone] w mieście  à %s3_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NUM_BUILDINGS_DESTROYED</Tag><Polish>Liczba zniszczonych budynków: %d1. Właściciel: państwo %s2_civ_adjective. Miasto: %s3_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_NUM_CITY_IMPROVEMENTS_DESTROYED</Tag><Polish>Zniszczono %d1 [NUM1:ulepszenie:ulepszenia] %s2_civ_adjective</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_NUM_CITY_IMPROVEMENTS_DESTROYED</Tag><Polish>Liczba zniszczonych ulepszeń: %d1. Właściciel: państwo %s2_civ_adjective.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERFISHING</Tag><Polish>Lata realizacji potrzeb naszych ludzi doprowadziły do nadmiernych połowów w tym obszarze. Nie wyciągniemy już więcej z tego pola.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERFISHING</Tag><Polish>Wieloletnie zaspokajanie potrzeb naszego ludu doprowadziło do przełowienia tych wód. Połowy nie są już tak obfite jak dawniej.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_OVERFISHING_1</Tag><Polish>To niedobrze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_1</Tag><Polish>Doktryna Dominacji Przestworzy[PARAGRAPH:1]Rząd został zobowiązany przez sztab generalny do wybudowania w pełni wyposażonej floty lotniskowców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_1</Tag><Polish>Doktryna Dominacji Przestworzy[PARAGRAPH:1]Dowódcy powierzyli ci zadanie budowy w pełni sprawnej lotniskowcowej floty bojowej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_1</Tag><Polish>Należy wykorzystać naszą przewagę aby zapewnić dodatkowy trening dla załóg tej armady. Ogłosić alarm bojowy i posłać ich na podbój! </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_1</Tag><Polish>Wykorzystaj sprzyjający moment, aby dodatkowo wyszkolić te załogi. Przygotuj je do walki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_2</Tag><Polish>Naszym zamiarem jest utrzymywanie pokoju za pomocą siły. Należy wykorzystać presję strachu dla zabezpieczenia naszych globalnych interesów handlowych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_2</Tag><Polish>Zamierzamy utrzymywać pokój dzięki sile. Przekuj naszą potęgę w możliwości handlowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_3</Tag><Polish>Należy wykorzystać naszą przewagę do wymuszenia na rządach świata ratyfikacji układu o zakazie użycia broni masowej zagłady.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_3</Tag><Polish>Wykorzystaj naszą przewagę wojskową, aby przekonać świat do zakazania broni jądrowej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_HELP_3</Tag><Polish>[ICON_BULLET]Żadnej broni nuklearnej!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_DONE_HELP_3</Tag><Polish>[ICON_BULLET]Zakaz broni jądrowej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby ukończyć zadanie, musisz wybudować %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] (wliczając [COLOR_UNIT_TEXT]%s3_unit[COLOR_REVERT]), %d4 [COLOR_UNIT_TEXT]%s5_unit[COLOR_REVERT] (wliczając [COLOR_UNIT_TEXT]%s6_unit[COLOR_REVERT]), %d7 [COLOR_UNIT_TEXT]%s8_unit[COLOR_REVERT] (wliczając [COLOR_UNIT_TEXT]%s9_unit[COLOR_REVERT]), i %d10 [COLOR_UNIT_TEXT]%s11_unit[COLOR_REVERT] jednostek. Źródło [COLOR_HIGHLIGHT_TEXT]Produktów ropopochodnych[COLOR_REVERT] będzie konieczne do zasilenia samolotów.[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna jeśli twoja cywilizacja wybudowała [COLOR_BUILDING_TEXT]%s12_building[COLOR_REVERT].[PARAGRAPH:1]Poniesiesz klęskę jeśli cywilizacja rywala zakończy ją wcześniej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_OVERWHELM_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zbuduj następujące jednostki: %d1 [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] (wliczając [COLOR_UNIT_TEXT]%s3_unit[COLOR_REVERT]), %d4 [COLOR_UNIT_TEXT]%s5_unit[COLOR_REVERT] (wliczając [COLOR_UNIT_TEXT]%s6_unit[COLOR_REVERT]), %d7 [COLOR_UNIT_TEXT]%s8_unit[COLOR_REVERT] (wliczając [COLOR_UNIT_TEXT]%s9_unit[COLOR_REVERT]) oraz %d10 [COLOR_UNIT_TEXT]%s11_unit[COLOR_REVERT]. Do zasilania samolotów potrzebne będzie źródło [COLOR_HIGHLIGHT_TEXT]produktów ropopochodnych[COLOR_REVERT].[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna, jeśli to twoja cywilizacja zbudowała [COLOR_BUILDING_TEXT]%s12_building[COLOR_REVERT].[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PAPYRUS_1</Tag><Polish>Rozprowadź zwoje wśród naszych skrybów, abyśmy jak najszybciej odczuli korzyści z tego wynalazku.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PAPYRUS_1</Tag><Polish>Rozdaj puste zwoje naszym skrybom, abyśmy od razu odnieśli korzyści.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PAPYRUS_2</Tag><Polish>Finansuj Szkołę Skrybów, aby kupować więcej papirusu od rolników.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PAPYRUS_2</Tag><Polish>Dofinansuj szkołę skrybów, aby mogła kupować więcej zwojów papirusu od rolników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PARROTS_1</Tag><Polish>Papugi to doskonałe zwierzęta domowe. Powinniśmy wypromować aby stało sie jednym z naszych dóbr handlowych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PARROTS_1</Tag><Polish>Papugi to doskonałe zwierzęta domowe. Wypromujmy je jako jeden z naszych towarów handlowych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_1</Tag><Polish>Posłać wiadomość do nowych oddziałów partyzanckich by kontynuowały walkę wśród ruin.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_1</Tag><Polish>Przekaż nowym oddziałom partyzanckim, aby kontynuowały walkę w pobliżu zniszczonych domów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_2</Tag><Polish>Aby nie utracić aż do połowy stanu osobowego tych oddziałów z powodu wyczerpania, dezercji i świadomej odmowy opuszczenia stron ojczystych, musimy skierować te oddziały szybkim marszem do najbliższego wolnego miasta, gdzie należy przekształcić je w regularne jednostki.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_2</Tag><Polish>Choć możemy stracić nawet połowę ludzi wskutek wyczerpania, dezercji i odmowy opuszczenia okolicy, musimy przekonać te oddziały do odwrotu. Niech maszerują do naszej stolicy, gdzie zostaną ponownie zorganizowane.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_HELP_1</Tag><Polish>Uzyskaliśmy %d1[NUM1:oddział:oddziały] jednostki [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] w pobliżu ruin miasta.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_HELP_1</Tag><Polish>Otrzymujesz jednostki typu [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] w pobliżu ruin miasta (liczba: %d1).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_HELP_2</Tag><Polish>Otrzymaliśmy %d1 [NUM1:oddział:oddziały] [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] w naszej stolicy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PARTISANS_HELP_2</Tag><Polish>Otrzymujesz jednostki typu [COLOR_UNIT_TEXT]%s2_unit[COLOR_REVERT] w naszej stolicy %s3_city (liczba: %d1).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PARTISANS_OTHER_1</Tag><Polish>Obywatele państwa %s1_civ_adjective z miasta zniszczonego przez nasze wojska formują wokół ruin oddziały partyzanckie!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PARTISANS_OTHER_2</Tag><Polish>Obywatele %s1_civ_adjective ze zniszczonego przez nasze armie miasta uciekają w kierunku swojej stolicy i spodziewamy się, że zaczną tam formować oddziały partyzanckie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PASTURE_BUILT</Tag><Polish>Pracowici Wieśniacy blisko naszego miasta %s2_city wybudowali pastwisko.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PASTURE_BUILT</Tag><Polish>Pracowici mieszkańcy wsi w pobliżu naszego miasta %s2_city założyli pastwisko.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PASTURE_BUILT_1</Tag><Polish>Wyślij im nasze podziękowania!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_1</Tag><Polish>Niech te pisma trafią do naszych uczonych tak, aby wyciągnęli z nich natychmiastowe korzyści.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_2</Tag><Polish>Poszerzmy naszą bibliotekę o nowe dzieła.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PATRON_OF_KNOWLEDGE_2</Tag><Polish>Sfinansuj rozbudowę biblioteki o nowe skrzydło, które pomieści wszystkie te cenne pisma.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PENICILLIN</Tag><Polish>Wynalazłeś Peniciline! Twoi Lekarze i wojsko pracują ponad siły by rozprowadzić ją wśród żołnierzy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PENICILLIN</Tag><Polish>Opracowałeś penicylinę! Lekarze i personel wojskowy pracują po godzinach, aby dostarczyć ten nowy cudowny lek naszym żołnierzom.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PENICILLIN_1</Tag><Polish>Pozwoli to szybciej wyleczyć naszych żołnierzy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PENICILLIN_OTHER_1</Tag><Polish>Cywilizacja %s1_civ_adjective rozdysponowała peniciline wśród swoich żołnierzy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PENICILLIN_OTHER_1</Tag><Polish>Państwo %s1_civ_adjective dostarcza penicylinę swoim żołnierzom.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PESTILENCE_1</Tag><Polish>To straszne!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PILLAGE</Tag><Polish>[ICON_BULLET]Zniszczono %d1 [NUM1:ulepszenie:ulepszenia]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PILLAGE</Tag><Polish>[ICON_BULLET]Liczba zniszczonych ulepszeń terenu: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PILLAGE_CITY</Tag><Polish>[ICON_BULLET]Zniszczono %d1 [NUM1:ulepszenie:ulepszenia] w pobliżu miasta %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PILLAGE_CITY</Tag><Polish>[ICON_BULLET]Liczba zniszczonych ulepszeń terenu: %d1. Okolice miasta: %s2_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PILLAGE_RANGE</Tag><Polish>[ICON_BULLET]Zniszczono pomiędzy %d1 a %d2 ulepszeń</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PILLAGE_RANGE</Tag><Polish>[ICON_BULLET]Liczba zniszczonych ulepszeń terenu: od %d1 do %d2</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PILLAGE_RANGE_CITY</Tag><Polish>[ICON_BULLET]Zniszczono pomiędzy %d1 a %d2 ulepszeń wokół miasta %s3_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PILLAGE_RANGE_CITY</Tag><Polish>[ICON_BULLET]Liczba zniszczonych ulepszeń terenu: od %d1 do %d2. Okolice miasta: %s3_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PIRATES_OF_THE_NEUTRAL_ZONES_1</Tag><Polish>Strzelaj gdy będziesz gotów, panie Gridley.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PIRATES_OF_THE_NEUTRAL_ZONES_1</Tag><Polish>Może pan otworzyć ogień, gdy będzie gotów, panie Gridley.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PIRATES_OF_THE_NEUTRAL_ZONES_HELP_1</Tag><Polish>[ICON_BULLET]Niebiezpieczna liczba barbarzyńskich [COLOR_UNIT_TEXT]Niewykrywalnych Niszczycieli[COLOR_REVERT] pojawiła się na naszych wodach!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PIRATES_OF_THE_NEUTRAL_ZONES_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych wód pojawiła się niebezpiecznie liczna flota barbarzyńskich [COLOR_UNIT_TEXT]niszczycieli stealth[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_POISON_ARROWS_1</Tag><Polish>Wyposaż wszystkich łuczników w zatrute strzały.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_POPULATION_CHANGE</Tag><Polish>[ICON_BULLET]%D1 mieszkańców we wszystkich miastach</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_POPULATION_CHANGE</Tag><Polish>[ICON_BULLET]Zmiana populacji we wszystkich miastach: %D1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_POPULATION_CHANGE_CITY</Tag><Polish>[ICON_BULLET]%D1 mieszkańców w mieście %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_POPULATION_CHANGE_CITY</Tag><Polish>[ICON_BULLET]Zmiana populacji: %D1. Miasto: %s2_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PRAIRIE_DOGS_1</Tag><Polish>Pieski preriowe? Na tym da się zarobić? Jeśli tak to spróbujmy!.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PRAIRIE_DOGS_1</Tag><Polish>Pieski preriowe? Zarabiamy na tym? Chyba to dobrze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER</Tag><Polish>Naukowiec z miasta %s2_city przeszedł na wiarę baptystów i został mnichem w miejscowym klasztorze.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER</Tag><Polish>Naukowiec z miasta %s2_city przyjął chrzest i został kaznodzieją w miejscowym klasztorze chrześcijańskim.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER_1</Tag><Polish>Przkażcie mu nasze najlepsze życzenia powodzenia.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER_1</Tag><Polish>Przekaż naukowcowi nasze najlepsze życzenia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PREACHING_RESEARCHER_2</Tag><Polish>Dowiedzcie się, czy zgodzi się na kontynuowanie swoich badań w klasztorze, jeśli wspomożemy go finansowo.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PRESIDENT_ASSASSINATED</Tag><Polish>Radykalni członkowie partii opozycyjnej zostali wolnioni przez naszego prezydenta; jest mało prawdopodobne by mścił się przez noc.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PRESIDENT_ASSASSINATED</Tag><Polish>Radykalny członek partii opozycyjnej postrzelił naszego prezydenta. Prezydent prawdopodobnie nie przeżyje nocy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PRESIDENT_ASSASSINATED_1</Tag><Polish>Potrzebujemy nowego Secret Service by chronić przywódców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PRESIDENT_ASSASSINATED_1</Tag><Polish>Musimy utworzyć służbę ochrony naszych przywódców politycznych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PRIME_TIMBER</Tag><Polish>Drzewa z tego regionu rosną wysoko oraz potężnie. Są idealnym surowcem budowlanym.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PRIME_TIMBER</Tag><Polish>Drzewa w tym regionie wyrosły wyjątkowo wysokie i mocne. Dostarczają doskonałego drewna budowlanego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_PRIME_TIMBER_1</Tag><Polish>Nie wytnijcie wszystkich naraz.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PROMISING_COMMANDER_1</Tag><Polish>Powołajmy go na Generała.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PROMISING_COMMANDER_1</Tag><Polish>Mianuj go naszym nowym mistrzem broni.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PROVIDES_AREA_POWER</Tag><Polish>[ICON_BULLET]Dostarcza energię elektryczną do wszystkich miast na kontynencie</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PROVIDES_AREA_POWER</Tag><Polish>[ICON_BULLET]Wszystkie miasta na kontynencie otrzymują darmową energię elektryczną.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_PROVIDES_POWER</Tag><Polish>[ICON_BULLET]%s1 dostarcza darmowej energii</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_PROVIDES_POWER</Tag><Polish>[ICON_BULLET]Miasto %s1 otrzymuje darmową energię elektryczną.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_QUALITY_WOOL</Tag><Polish>Wełny produkowane z tych pastwiskach są bardzo dobrej jakości w tym roku.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_QUALITY_WOOL</Tag><Polish>Wełna z tego pastwiska jest w tym roku wyjątkowo wysokiej jakości.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_QUALITY_WOOL_1</Tag><Polish>Płaszcze powinny być droższe na rynkach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_QUALITY_WOOL_1</Tag><Polish>Płaszcze uzyskają dobrą cenę na rynku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RABBI</Tag><Polish>Rabin z  %s2_city spisał wartościową kolekcję prac religijnych stanowiącą ogromną wartość dla wyznawców judaizmu na całym Świecie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RABBI</Tag><Polish>Rabin z miasta %s2_city napisał zbiór dzieł religijnych o wielkim znaczeniu dla judaizmu na całym świecie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RABBI_1</Tag><Polish>Opublikować i rozpowszechnić te prace po miastach naszego imperium i wysłać do odbiorców zagranicznych!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RABBI_1</Tag><Polish>Rozprowadź te dzieła w miastach naszego imperium i za granicą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RABBI_2</Tag><Polish>Rabinowi niewątpliwie należy się pensja ze skarbu państwa w nagrodzie za jego pracę.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RABBI_2</Tag><Polish>Rabin z pewnością zasługuje na państwowe wsparcie finansowe swojej pracy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_RABBI_3</Tag><Polish>Prace tego typu mogą z łatwością uczynić lokalny klasztor celem turystyki światowej!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_REACTIVE_ARMOR_1</Tag><Polish>Doskonale -- to przedłuży życie naszego starego sprzętu.  Uzbrój stare czołgi "pancerzem reaktywnym".</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_REACTIVE_ARMOR_1</Tag><Polish>Doskonale. To przedłuży przydatność naszego starszego sprzętu. Natychmiast wyposaż starsze czołgi w ten „pancerz reaktywny”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE</Tag><Polish>Twoja armia rozpoczęła nowy rewolucyjny program rekrutacji, zachęcając tysiące ludzi do wstąpienia w szeregi armii.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE</Tag><Polish>Nasza armia rozpoczęła nowatorski program werbunkowy, zachęcając tysiące ludzi do wstąpienia w jej szeregi.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE_1</Tag><Polish>Świetnie, wykorzystamy dodatkową siłę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE_2</Tag><Polish>Zainwestujmy więcej pieniędzy w ten program, a nawet rekrutujmy więcej żołnierzy!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE_2</Tag><Polish>Zainwestujmy więcej pieniędzy w ten udany program, aby zwerbować jeszcze więcej ludzi!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE_3</Tag><Polish>Nasza armia narodowa wymaga każdego człowieka którego możemy dostać! Przekonać niezdecydowanych kilkoma dodatkowymi sztukami złota!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RECRUITMENT_DRIVE_3</Tag><Polish>Nasza armia potrzebuje każdego, kogo uda się zwerbować! Przekonaj niezdecydowanych dodatkowym złotem!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_REFINERY_EXPLOSION_1</Tag><Polish>Zorganizuj odbudowę i wyczyszczenie terenu z chemikaliów.</Polish>
         </TEXT>
@@ -19492,93 +19491,93 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_REFINERY_EXPLOSION_3</Tag><Polish>Jesteśmy zbyt zajęci, aby poświęcić temu wydarzeniu więcej uwagi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_REINFORCED_HULL_1</Tag><Polish>Nasze istniejące jednostki również mogą być wzmocnione? Rozpocząć prace natychmiast! </Polish>
+<TEXT><Tag>TXT_KEY_EVENT_REINFORCED_HULL_1</Tag><Polish>Nasze istniejące okręty też można zmodernizować? Zaczynaj natychmiast!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_REMOVE_BUILDING</Tag><Polish>[ICON_BULLET]Straci: [COLOR_BUILDING_TEXT]%s1_building[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_REMOVE_BUILDING</Tag><Polish>[ICON_BULLET]Utrata budynku: [COLOR_BUILDING_TEXT]%s1_building[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_REQUIRES_SCIENTIFIC</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga Metod Naukowych[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_REQUIRES_SCIENTIFIC</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga technologii Badania Naukowe[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RESORT_TOWN</Tag><Polish>Miejsca na zakupy i przyjazna atmosfera, z miasta %s2_city przyciąga turystów z daleka.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RESORT_TOWN</Tag><Polish>Miasteczko w pobliżu miasta %s2_city słynie ze sklepów i przyjaznej atmosfery, przyciągając turystów z bliska i daleka.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RESORT_TOWN_1</Tag><Polish>Kto nie kocha zakupów? Zainwestujmy w nich!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RESORT_TOWN_1</Tag><Polish>Kto nie lubi oglądać wystaw sklepowych? Zaróbmy na tych turystach!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_REVOLT_TURNS</Tag><Polish>[ICON_BULLET]%d1 [NUM1:tura:tury] buntu w mieście %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_REVOLT_TURNS</Tag><Polish>[ICON_BULLET]Zamieszki (tury: %d1). Miasto: %s2_city</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_REVOLUTION_INDEX</Tag><Polish>Obniża ryzyko rewolucji we wszystkich miastach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_REVOLUTION_INDEX_CITY</Tag><Polish>Obniża ryzyko rewolucji w mieście</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RIFLED_CANNON_1</Tag><Polish>Czy potrzebujemy silniejszych dział? To pytanie podchwytliwe czy ironia?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RIFLED_CANNON_1</Tag><Polish>Czy chcemy silniejszych dział? To podchwytliwe pytanie?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION</Tag><Polish>Buntownicza radiostacja w mieście %s2_city nadaje wywrotową propagandę przeciwko partii rządowej w zaskakującym pokazie bezczelności.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION</Tag><Polish>Niezależna od władz radiostacja w mieście %s2_city z niesłychaną bezczelnością nadaje propagandę przeciw naszej partii rządzącej.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION_1</Tag><Polish>Wysłać grupę komandosów w tajnej misji zniszczenia wieży radiowej, możemy oficjalnie złożyć to na karb wypadku przemysłowego - błędu konstrukcji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION_1</Tag><Polish>Wyślij tajny oddział, aby zniszczył wieżę radiową. Możemy przedstawić to jako wypadek przemysłowy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION_2</Tag><Polish>Aresztować nadających audycję. To powinno wywołać odpowiedni skutek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION_2</Tag><Polish>Aresztuj nadawców. To powinno być wyraźnym ostrzeżeniem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION_3</Tag><Polish>Poczekajcie aż rozgłośnia przyciągnie więcej słuchaczy, a następnie otoczyć ich i wysłać do pracy w naszych fabrykach.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ROGUE_STATION_3</Tag><Polish>Poczekaj, aż rozgłośnia zdobędzie więcej słuchaczy. Potem aresztuj ich wraz z nadawcami i wyślij wszystkich do pracy w naszych fabrykach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ROUTE_GROWTH</Tag><Polish>[ICON_BULLET]Zbudowano: [COLOR_HIGHLIGHT_TEXT]%s1_route[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ROUTE_GROWTH</Tag><Polish>[ICON_BULLET]Powstaje nowy szlak: [COLOR_HIGHLIGHT_TEXT]%s1_route[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_ROUTE_REMOVE</Tag><Polish>[ICON_BULLET]Zniszczona: %s1_route</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_ROUTE_REMOVE</Tag><Polish>[ICON_BULLET]Zniszczenie szlaku: %s1_route</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_RUNNING_BULLS_1</Tag><Polish>Miło nam patrzeć na fakt, że lokalna kultura odnosi znaczące sukcesy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_RUNNING_BULLS_1</Tag><Polish>Cieszy nas rozkwit miejscowej kultury.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_RUNNING_BULLS_2</Tag><Polish>Powinniśmy uczynić to naszym świętem narodowym!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_RURAL_FARMERS_1</Tag><Polish>Dzięki temu miasto ma dodatkową żywność? Doskonale!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SAILING_FOUNDED_1</Tag><Polish>Wyślij gratulacje do twórców tego nowego statku.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SAILING_FOUNDED_1</Tag><Polish>Pogratuluj szkutnikom, którzy zbudowali ten nowy statek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SALES_TAXES</Tag><Polish>Podatki ze sprzedaży powinny znacznie uzupełnić nasz Skarbiec.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SALES_TAXES</Tag><Polish>Podatki od tej sprzedaży powinny znacząco zasilić nasz skarbiec.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SALTPETER_1</Tag><Polish>Nasza zdolność do produkcji dużej ilości prochu strzelniczego powinna się okazać bardzo lukratywną.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SALTPETER_1</Tag><Polish>Zdolność wytwarzania dużych ilości prochu strzelniczego powinna przynieść zyski.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SALTPETER_DISCOVERED</Tag><Polish>Saletra Potasowa została Odkryta.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SALTPETER_DISCOVERED</Tag><Polish>Odkryto saletrę potasową.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SALTPETER_HELP</Tag><Polish>[ICON_BULLET]+1[ICON_COMMERCE] na %d1 [NUM1:dodatkowym polu:dodatkowych polach]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SALTPETER_HELP</Tag><Polish>[ICON_BULLET]+1[ICON_COMMERCE] na dodatkowych polach (liczba: %d1)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SALT_MINE_1</Tag><Polish>Dobre wieści. Mieszkańcy mogą eksportować ten i zyskać.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SALT_MINE_1</Tag><Polish>Dobre wieści. Mieszkańcy mogą eksportować ten produkt z zyskiem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SANDSTORM_1</Tag><Polish>Za jakiś czas wyślemy robotników, aby je naprawili.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SANDSTORM_2</Tag><Polish>Wyślemy ekipę robotników w celu naprawienia poniesionych szkód, bez względu na koszty.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SANDSTORM_2</Tag><Polish>Wyślij ekipy interwencyjne do naprawienia szkód, nie bacząc na koszty.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_1</Tag><Polish>Poinformuj rodziny żeglarzy o tej tragedii.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_2_1</Tag><Polish>Miejmy nadzieję aby nasze statki to przetrwały.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_2_1</Tag><Polish>Miejmy nadzieję, że nasze statki nie znalazły się w zasięgu tego sztormu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_3_1</Tag><Polish>Zawiadom rodziny marynarzy o ich zaginieniu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_3_1</Tag><Polish>Zawiadom rodziny marynarzy o poniesionych stratach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_4_1</Tag><Polish>Zawiadom rodziny marynarzy o ich zaginieniu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_4_1</Tag><Polish>Zawiadom rodziny marynarzy o poniesionych stratach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_5_1</Tag><Polish>Poinformuj rodziny żeglarzy o stracie.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SEA_STORM_5_1</Tag><Polish>Zawiadom rodziny marynarzy o poniesionych stratach.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SEA_TURTLES_1</Tag><Polish>Żółwie! Cóz oni wymyślą następnym razem?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SEA_TURTLES_1</Tag><Polish>Żółwie! Co oni wymyślą następnym razem?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SECRET_KNOWLEDGE_1</Tag><Polish>Naleźy przekazać te materiały naszym uczonym i badaczom.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SECRET_KNOWLEDGE_1</Tag><Polish>Przekaż te materiały naszym badaczom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SECRET_KNOWLEDGE_2</Tag><Polish>Należy zachować te skarby jako dziedzictwo naszej kultury.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SECRET_KNOWLEDGE_2</Tag><Polish>Zachowaj te dzieła jako skarb kultury.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SECURITY_TAX_1</Tag><Polish>Zebrać Podatki!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SECURITY_TAX_1</Tag><Polish>Zbierz podatki!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SEGMENTED_ARMOR_1</Tag><Polish>Wprowadź nowy rodzaj zbroi dla naszego wojska na tyle, na ile pozwalają środki.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SEGMENTED_ARMOR_1</Tag><Polish>Wyposażaj naszych żołnierzy w zbroje segmentowe w miarę dostępności zaopatrzenia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SETBACK_1</Tag><Polish>Postęp czasami przychodzi wolniej, niż byśmy tego chcieli.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SILKWORM_GOING_EXTINCT_1</Tag><Polish>Jeśli zaczniemy nowy program hodowli, będziemy mogli je uratować.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SILKWORM_GOING_EXTINCT_2</Tag><Polish>Skarb Państwa jest dla poważnych celów, nie dla "ochrony"!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SILKWORM_GOING_EXTINCT_2</Tag><Polish>Skarbiec służy poważnym celom, a nie „ochronie przyrody”!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_1</Tag><Polish>Musimy natychmiast wysłać siły zbrojne w ten rejon !</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_1</Tag><Polish>Musimy natychmiast wysłać wojsko w ten rejon!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_2</Tag><Polish>Użyj wszystkich dostępnych środków by zaktualizować oprogramowanie i przywrócić kontrolę nad nanitami!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_2</Tag><Polish>Wykorzystaj wszelkie dostępne środki i zaktualizuj oprogramowanie nanitów, aby odzyskać nad nimi kontrolę!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_3</Tag><Polish>Możemy spróbować ataku atomowego. Impuls elektromagnetyczny powinien wyłączyć nanitów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_3</Tag><Polish>Możemy spróbować uderzenia jądrowego w te chmury. Impuls elektromagnetyczny powinien wyłączyć nanity.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_HELP_1</Tag><Polish>[ICON_BULLET]Niebezpiecznie duża liczba niekontrolowanych [COLOR_UNIT_TEXT]Chmur nanitów[COLOR_REVERT] pojawiła się pod naszymi granicami.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiła się niebezpiecznie duża liczba niekontrolowanych [COLOR_UNIT_TEXT]chmur nanitów[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_HELP_3</Tag><Polish>[ICON_BULLET]Jeśli nie możemy rozmieścić bomb atomowych, niebezpiecznie duża liczba niekontrolowanych  [COLOR_UNIT_TEXT]Chmur nanitów[COLOR_REVERT] pojawi się koło naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SILVER_RAIN_HELP_3</Tag><Polish>[ICON_BULLET]Jeśli nie możemy użyć broni jądrowej, w pobliżu naszej granicy pojawi się niebezpiecznie duża liczba niekontrolowanych [COLOR_UNIT_TEXT]chmur nanitów[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SLAVE_REVOLT_1</Tag><Polish>Wprowadź represje i sankcje wobec rebeliantów. Zdław powstanie. Przywróć porządek.</Polish>
         </TEXT>
@@ -19586,49 +19585,49 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SLAVE_REVOLT_3</Tag><Polish>Jesteśmy zbyt zajęci, żeby się tym zajmować. Pozostaw sprawę lokalnym władzom. (Powstanie może trwać dalej)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SLAVE_REVOLT_WARNING</Tag><Polish>Panie, nasi niewolnicy zbuntowali się! Tak długo jak będziemy korzystać z niewolników, istnieje możliwość ich buntu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SLAVE_REVOLT_WARNING</Tag><Polish>Panie, nasi niewolnicy są o krok od buntu! Dopóki nasze społeczeństwo korzysta z niewolniczej pracy, istnieje ryzyko powstania!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SMALLPOX_1</Tag><Polish>Przeznacz tyle środków, ile trzeba, aby objąć miasto kwarantanną.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SMALLPOX_2</Tag><Polish>Gdybyśmy tylko znali tajemnicę Medycyny!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SMALLPOX_HELP_2</Tag><Polish>[ICON_BULLET]Ospa wietrzna przedostaje się do pobliskich miast i redukuje ich populację o %d1</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SMALLPOX_HELP_2</Tag><Polish>[ICON_BULLET]Ospa prawdziwa rozprzestrzenia się na część pobliskich miast i zmniejsza ich populację o %d1.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SMALLPOX_HIT_CITY</Tag><Polish>Ospa wietrzna zaatakowała miasto %s1_city.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SMALLPOX_HIT_CITY</Tag><Polish>Ospa prawdziwa zaatakowała miasto %s1_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SMALL_VIRUS_SPREAD</Tag><Polish>[ICON_BULLET]Mała szansa na rozprzestrzenienie</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SMALL_VIRUS_SPREAD</Tag><Polish>[ICON_BULLET]Mała szansa na rozprzestrzenienie się wirusa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SMOKELESS_POWDER_1</Tag><Polish>Należy natychmiast zmodernizować nasze oddziały strzeleckie, by mogły używać tego prochu strzelniczego.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SMOKELESS_POWDER_1</Tag><Polish>Przezbrój naszych muszkieterów, aby mogli korzystać z nowego prochu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SOCIAL_STAGNATION_1</Tag><Polish>Niech idą.  Ludzie powinni znać swoje miejsce.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SOCIAL_STAGNATION_1</Tag><Polish>Krzyżyk na drogę. Ludzie powinni znać swoje miejsce.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SOLO_FLIGHT_1</Tag><Polish>Te wielkie osiągnięcie spowodowało zachwyt ludzkości na całym świecie!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SOLO_FLIGHT_1</Tag><Polish>To wielkie osiągnięcie zdobyło podziw ludzi na całym świecie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SOLO_FLIGHT_HELP_1</Tag><Polish>[ICON_BULLET]Otrzymujemy [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] nastawienia od wszystkich przywódców.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SOLO_FLIGHT_HELP_1</Tag><Polish>[ICON_BULLET]Stosunki ze wszystkimi przywódcami: [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SOUR_CRUDE_1</Tag><Polish>Zanieczyszczona ropa naftowa? To fatalnie. Mniejsza wartość opałowa każdej baryłki, ale wciąż się ta ropa naftowa pali, nieprawdaż? Nic nie możemy z tym zrobić.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SOUR_CRUDE_1</Tag><Polish>Zanieczyszczona ropa? Co za paskudztwo. Każda baryłka jest mniej warta, ale przecież nadal się pali. Trzeba sobie z tym poradzić.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPACE_PRODUCTION_CITY</Tag><Polish>[ICON_BULLET][ICON_BULLET]%D1_Mod%% do produkcji Statku Kosmicznego w mieście %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPACE_PRODUCTION_CITY</Tag><Polish>[ICON_BULLET][ICON_BULLET]%D1_Mod%% do produkcji statku kosmicznego w mieście %s2_city</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SPICY_1</Tag><Polish>To brzmi jak dobra wiadomość dla naszej gospodarki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPICY_2</Tag><Polish>Rozkaż naszemu rządowi natychmiastowy zbiór surowca.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPICY_2</Tag><Polish>Zaangażuj nasz rząd w natychmiastowe pozyskiwanie tego nowego surowca.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SPOILED_GRAIN_1</Tag><Polish>To bardzo złe wieści, ale cóż możemy poradzić? Nic. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPOILED_GRAIN_2</Tag><Polish>Zakupić natychmiast nowe zapasy w miejsce zniszczonych.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPOILED_GRAIN_2</Tag><Polish>Zapłać za uzupełnienie utraconego zboża.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_1</Tag><Polish>Narodowa Liga Sportowa.[PARAGRAPH:1]Zostałeś obarczony przez swoich doradców kulturalnych zadaniem wybudowania wystarczającej ilości [COLOR_BUILDING_TEXT]Aren[COLOR_REVERT] by wspierać ligi sportowe.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_1</Tag><Polish>Narodowa Liga Sportowa[PARAGRAPH:1]Doradcy do spraw kultury powierzyli ci zadanie budowy odpowiedniej liczby [COLOR_BUILDING_TEXT]aren[COLOR_REVERT], aby umożliwić sprawne działanie lig sportowych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_1</Tag><Polish>Należy spożytkować pozytywny efekt ligi dla podniesienia poziomu zadowolenia obywateli.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_1</Tag><Polish>Wykorzystaj ligi, aby uszczęśliwić swój lud.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_2</Tag><Polish>Należy podnieść rozgrywki ligi do rangi tradycji narodowej.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_2</Tag><Polish>Przekształć te ligi sportowe w tradycję kulturową.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_3</Tag><Polish>Należy organizować periodyczne rozgrywki sportowe poświęcone kultowi Zeusa.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_DONE_3</Tag><Polish>Organizuj wielkie, cykliczne zawody sportowe ku czci Zeusa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby ukończyć zadanie musisz wybudować %d1 [COLOR_BUILDING_TEXT]Areny[COLOR_REVERT] w swoich miastach.[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna jeśli kontrolujesz[COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT] kiedy ta misja zostanie zakończone.[PARAGRAPH:1]Poniesiesz klęskę jeśli cywilizacja rywala zakończy ją wcześniej lub kiedy osiągniesz Erę Nowożytną bez wypełnienia warunków.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1</Tag><Polish>[PARAGRAPH:1]Aby wykonać zadanie, zbuduj w swoich miastach [COLOR_BUILDING_TEXT]areny[COLOR_REVERT] (liczba: %d1). Musisz również zbudować własną [COLOR_BUILDING_TEXT]Statuę Zwycięstwa[COLOR_REVERT].[PARAGRAPH:1]Dodatkowa nagroda będzie dostępna, jeśli w chwili ukończenia zadania kontrolujesz budynek [COLOR_BUILDING_TEXT]%s2_building[COLOR_REVERT].[PARAGRAPH:1]Zadanie zakończy się porażką, jeśli rywal wykona je wcześniej albo przed spełnieniem warunków odkryjesz którąkolwiek z technologii: Aerodynamika, Elektronika, Globalizacja lub Nowoczesna Opieka Zdrowotna.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPY_DISCOVERED</Tag><Polish>Szpieg  %s1_civ_adjective zinfiltrował wysokie poziomy naszego rządu! Co powinniśmy uczynić?</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPY_DISCOVERED</Tag><Polish>Szpieg państwa %s1_civ_adjective działa na wysokim szczeblu naszego rządu! Co powinniśmy zrobić?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SPY_DISCOVERED_1</Tag><Polish>Zachowajmy dyskrecję. Po przesłuchaniu szpiega zaproponujmy przekazanie go jego rządowi.</Polish>
         </TEXT>
@@ -19636,37 +19635,37 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SPY_DISCOVERED_3</Tag><Polish>To akt wojny! Nasi obywatele i dostawcy wojskowi z pewnością staną na wysokości zadania!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SPY_DISCOVERED_3_HELP</Tag><Polish>[ICON_BULLET]Otrzymałeś %d1 [COLOR_UNIT_TEXT]Czołgów[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SPY_DISCOVERED_3_HELP</Tag><Polish>[ICON_BULLET]Otrzymujesz [COLOR_UNIT_TEXT]czołgi[COLOR_REVERT] (liczba: %d1).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_STEDE_BONNET_1</Tag><Polish>Chcę dorwać tego pirata w swoje ręce!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_STEDE_BONNET_1</Tag><Polish>Chcę, żeby ten „dżentelmen fortuny” zawisł na rei!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_STEDE_BONNET_HELP_1</Tag><Polish>[ICON_BULLET]Niebiezpieczna liczba barbarzyńskich [COLOR_UNIT_TEXT]Karak[COLOR_REVERT] oraz [COLOR_UNIT_TEXT]Statków Holenderskich[COLOR_REVERT] pojawiła się na naszych wodach!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_STEDE_BONNET_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych wód pojawiła się niebezpiecznie liczna flota barbarzyńskich [COLOR_UNIT_TEXT]karak[COLOR_REVERT] i [COLOR_UNIT_TEXT]statków wschodnioindyjskich[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_STREAMLINED_GOVERNMENT_1</Tag><Polish>Doskonale, poprawi to naszą administracje.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_STREAMLINED_GOVERNMENT_1</Tag><Polish>Doskonale. To zwiększy sprawność naszej administracji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_STRONGER_FITTINGS_1</Tag><Polish>Należy natychmiast wyposażyć nasze jednostki kuszników w ulepszone cięciwy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_STRONGER_FITTINGS_1</Tag><Polish>Zamów nowe okucia do broni wszystkich naszych kuszników.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUBWAY_1</Tag><Polish>Te przedsięwzięcie będzie wzorem do naśladowania dla całego świata!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUBWAY_1</Tag><Polish>To wzór do naśladowania dla całego świata! Świetna robota.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUMMER_OF_LOVE</Tag><Polish>Lato miłości rozpoczęło się!.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUMMER_OF_LOVE</Tag><Polish>Wraz z Latem Miłości rozpoczęła się Era Wodnika! Artyści, studenci i wszelkiej maści radykałowie otwierają umysły, poszukują nowych doznań i odrzucają dotychczasowe życie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUMMER_OF_LOVE_1</Tag><Polish>Cool !</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUMMER_OF_LOVE_1</Tag><Polish>Ale odlot, stary! Tylko co na to sztywniacy?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUMMER_OF_LOVE_OTHER_1</Tag><Polish>Lato Miłości Rozpoczęło się w Imperium %s1_civ_adjective</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUMMER_OF_LOVE_OTHER_1</Tag><Polish>W państwie %s1_civ_adjective rozpoczęło się Lato Miłości.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_1</Tag><Polish>Jestem pewien, że lekarze znajdą na to sposób .... Mam nadzieję.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_1</Tag><Polish>Jestem pewien, że lekarze coś wymyślą... kiedyś. Mam nadzieję.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_2</Tag><Polish>Sytuacja wymaga szybkiego działania. Zamknij szpitale oraz nałóż kwarantannę na pacjentów. Znajdziemy lekarstwo na to.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_2</Tag><Polish>Sytuacja wymaga szybkiego działania. Zamknij szpital i obejmij pacjentów kwarantanną. W końcu znajdziemy lekarstwo.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_3</Tag><Polish>Wprowadź kwarantannę wojskową wokół szpitali oraz zgromadź najlepszych specjalistów by znaleźć lekarstwo.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_3</Tag><Polish>Otocz szpital wojskowym kordonem sanitarnym i skieruj najlepszych naukowców do badań nad wirusem oraz poszukiwania lekarstwa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_4</Tag><Polish>To straszne. Niestety nie mamy wyboru, nie uda nam się na stałe wytępić tego wirusa. Spalić szpitale i zlikwidować każdego kto był zarażony.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_4</Tag><Polish>To straszne. Niestety nie mamy wyboru: musimy raz na zawsze wytępić tego wirusa. Spal szpital i zabij wszystkich, którzy byli narażeni na zakażenie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_HIT_CITY</Tag><Polish>Super Wirus zabił %d1 ludzi w %s2</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SUPER_VIRUS_HIT_CITY</Tag><Polish>Superwirus spowodował śmierć mieszkańców miasta %s2 (liczba ofiar: %d1).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SYNTHETIC_FUELS_1</Tag><Polish>Tak, zapłacimy każdą cenę jeżeli pozwoli to nam uzyskać niezależność energetyczną.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_SYNTHETIC_FUELS_2</Tag><Polish>Pomysł jest interesujący, ale ryzykowny.  Dajcie mu tyle pieniędzy, żeby mógł zaangażować dodatkowy personel, oraz kupić nowocześniejszy sprzęt. Nie możemy spełniać wszystkich jego zachcianek.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_SYNTHETIC_FUELS_2</Tag><Polish>Pomysł jest ciekawy, ale ryzykowny. Daj badaczowi dość pieniędzy na zatrudnienie zespołu i zakup nowego sprzętu, lecz stanowczo odmawiaj dalszych próśb.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SYNTHETIC_FUELS_3</Tag><Polish>Zasilać silnik spalinowy paliwem wyciśniętym z węgla? Nie mam czasu na takie bzdury.</Polish>
         </TEXT>
@@ -19680,91 +19679,91 @@ Niezależnie od tego, czy sam wyruszasz na wyprawy, czy poznajesz odległe kraje
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_SYNTHETIC_FUELS_HELP_4</Tag><Polish>[ICON_BULLET]%D1%F2 w mieście %s3_city</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TANNERY_GLUE_1</Tag><Polish>Radujmy się z odkrycia naszego garbarza.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TANNERY_GLUE_1</Tag><Polish>Wyrażamy uznanie dla osiągnięć naszego mistrza garbarskiego.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TAX_COLLECTION_RECORDS_1</Tag><Polish>Wygląda na to, że nasz skarb nie jest tak duży, jak myśleliśmy.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TAX_COLLECTION_RECORDS_1</Tag><Polish>Wygląda na to, że nasz skarbiec nie jest tak zasobny, jak sądziliśmy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TEA_1</Tag><Polish>Podatki ze sprzedaży powinny znacznie zasilić nasz skarbiec, równocześnie poprawiając nasze stosunki międzynarodowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TEA_OTHER_1</Tag><Polish>Eksport herbaty dla klientów %s1_civ_adjective poprawił nasze stosunki dwustronne.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TEA_OTHER_1</Tag><Polish>Eksport herbaty do klientów z państwa %s1_civ_adjective znacząco poprawił nasze stosunki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED</Tag><Polish>[ICON_BULLET]Uzyskać znajomość: [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED</Tag><Polish>[ICON_BULLET]Poznajesz technologię: [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED_FROM_PLAYER</Tag><Polish>[ICON_BULLET]Uzyskać znajomość: [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] od: %s2_player</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED_FROM_PLAYER</Tag><Polish>[ICON_BULLET]Poznajesz technologię [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] dzięki graczowi %s2_player</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED_FROM_PLAYER_PERCENT</Tag><Polish>[ICON_BULLET]%D1[ICON_RESEARCH] wobec [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT] od %s3_player</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED_FROM_PLAYER_PERCENT</Tag><Polish>[ICON_BULLET]%D1[ICON_RESEARCH] do badań nad [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT] od gracza %s3_player</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED_PERCENT</Tag><Polish>[ICON_BULLET]%D1_num[ICON_RESEARCH] wobec [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TECH_GAINED_PERCENT</Tag><Polish>[ICON_BULLET]%D1_num[ICON_RESEARCH] do badań nad [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TEMP_HAPPY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach przez %d2 [NUM2:tury:tur]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TEMP_HAPPY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] we wszystkich miastach (tury: %d2)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TEMP_HAPPY_CITY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] w %s3_city przez %d2 [NUM2:tury:tur]</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TEMP_HAPPY_CITY</Tag><Polish>[ICON_BULLET]%D1[ICON_HAPPY] w mieście %s3_city (tury: %d2)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS</Tag><Polish>Zwiadowcy donoszą, że korsarze utworzyli armię na naszym zapleczu.  Zamierzają splądrować nasze miasta!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS</Tag><Polish>Zwiadowcy donoszą, że w głębi lądu grupa bukanierów sformowała armię. Zamierzają splądrować bogactwa naszych miast!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS_1</Tag><Polish>Dawać mi tu te zapchlone kundle!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS_1</Tag><Polish>Niech przyjdą! Jesteśmy gotowi na te parszywe psy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS_2</Tag><Polish>Poproś Korsarzy o rokowania.  Zaoferuj im daninę w zamian za zostawienie naszych miast w spokoju.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS_2</Tag><Polish>Zaproś bukanierów do rokowań. Zaoferuj daninę w zamian za pozostawienie naszych miast w spokoju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS_HELP_1</Tag><Polish>[ICON_BULLET]Niebiezpieczna liczba barbarzyńskich [COLOR_UNIT_TEXT]Muszkieterów[COLOR_REVERT] pojawiła się w pobliżu naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_BUCCANEERS_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]muszkieterów[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_THE_CITY</Tag><Polish>miasto</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_THE_CORSAIRS_1</Tag><Polish>Musimy zebrać naszą flotę, aby pokonała te barbarzyńskie świnie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_CORSAIRS_HELP_1</Tag><Polish>[ICON_BULLET]Niebiezpieczna liczba barbarzyńskich [COLOR_UNIT_TEXT]Karak[COLOR_REVERT] pojawiła się na naszych wodach!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_CORSAIRS_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszych wód pojawiła się niebezpiecznie liczna flota barbarzyńskich [COLOR_UNIT_TEXT]karak[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_1</Tag><Polish>Nie może im się to udać!  Użyj przekazu telewizyjnego, aby obudzić patriotyzm w sercach obywateli i pokonać te niezdyscyplinowane wojsko!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_1</Tag><Polish>Nie przejdą! Wykorzystaj transmisje telewizyjne, aby zgromadzić prawdziwych patriotów pod naszą flagą i udaremnić wojskowy pucz!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_1_HELP</Tag><Polish>[ICON_BULLET]Musisz posiadać przynajmniej jedną [COLOR_UNIT_TEXT]Wieżę nadawczą[COLOR_REVERT] lub [COLOR_UNIT_TEXT]Wieżę Eiffla[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_1_HELP</Tag><Polish>[ICON_BULLET]Musisz posiadać co najmniej jedną [COLOR_UNIT_TEXT]wieżę nadawczą[COLOR_REVERT] lub [COLOR_UNIT_TEXT]Wieżę Eiffla[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_2</Tag><Polish>Zwołaj żołnierzy z Legii Cudzoziemskiej, aby unicestwić tą rebelię.  Upewnij się, że zostaną odpowiednio wynagrodzeni za swoją lojalność.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_2</Tag><Polish>Sprowadź żołnierzy Legii Cudzoziemskiej, aby stłumili bunt. Dopilnuj, by wynagrodzono ich lojalność.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_3</Tag><Polish>Generałowie mają rację.  Utwórz Komitet Bezpieczeństwa Publicznego, aby ustanowić nowy rząd pod ich ochroną.  Może będą w stanie przywrócić potęgę naszemu Imperium.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_3</Tag><Polish>Generałowie mają rację. Utwórz Komitet Ocalenia Publicznego, aby powołać nowy rząd pod ich ochroną. Oby zdołali przywrócić chwałę naszemu imperium.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_3_HELP</Tag><Polish>Jedna tura anarchii; Rząd obywatelski zmieni się w Despotyzm.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_GENERALS_PUTSCH_3_HELP</Tag><Polish>Jedna tura anarchii; zmiana doktryny rządowej na Despotyzm.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_GOTHS_HELP_1</Tag><Polish>[ICON_BULLET]Ogromna horda barbarzyńskich [COLOR_UNIT_TEXT]Toporników[COLOR_REVERT] wyrosła u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_GOTHS_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]toporników[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_HUNS_HELP_1</Tag><Polish>[ICON_BULLET]Zatrważająca horda barbarzyńskich [COLOR_UNIT_TEXT]konnych łuczników[COLOR_REVERT] wyrosła znienacka u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_HUNS_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]konnych łuczników[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_PHILISTINES_HELP_1</Tag><Polish>[ICON_BULLET]Zatrważająca horda barbarzyńskich [COLOR_UNIT_TEXT]Włóczników[COLOR_REVERT] wyroiła się u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_PHILISTINES_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]włóczników[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_THE_RELIGION</Tag><Polish>religia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_TALIBAN_HELP_1</Tag><Polish>[ICON_BULLET]Zatrważająca horda barbarzyńskiej [COLOR_UNIT_TEXT]Piechoty[COLOR_REVERT] pojawiła się znienacka u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_TALIBAN_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskiej [COLOR_UNIT_TEXT]piechoty[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_THE_UNIT</Tag><Polish>jednostka</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_VANDALS_HELP_1</Tag><Polish>[ICON_BULLET]Ogromna horda barbarzyńskich [COLOR_UNIT_TEXT]Zbrojnych[COLOR_REVERT] zbliża się do naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_VANDALS_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]zbrojnych[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_THE_VEDIC_ARYANS_HELP_1</Tag><Polish>[ICON_BULLET]Ogromna horda barbarzyńskich [COLOR_UNIT_TEXT]łuczników[COLOR_REVERT] pojawiła się u naszych granic.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_THE_VEDIC_ARYANS_HELP_1</Tag><Polish>[ICON_BULLET]W pobliżu naszej granicy pojawiły się niebezpiecznie liczne oddziały barbarzyńskich [COLOR_UNIT_TEXT]łuczników[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TIN_1</Tag><Polish>Wspaniała wiadomość! Przede wszystkim to znacznie zwiększy produkcję brązu.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TIN_1</Tag><Polish>Doskonałe wieści. Między innymi zwiększy to naszą produkcję brązu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOLERANCE</Tag><Polish>Twoja tolerancja dla innych wyznań daje wiele możliwości do duchowego przebudzenia!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOLERANCE</Tag><Polish>Twoja tolerancja wobec innych wyznań dała wielu ludziom szansę na duchowe przebudzenie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOLERANCE_1</Tag><Polish>Cóż, każdy chce iść własną ścieżką.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOLERANCE_1</Tag><Polish>Pozwalamy każdemu podążać własną drogą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOO_CLOSE_TO_CALL_1</Tag><Polish>Niech sąd podejmie decyzję, nawet jeśli zdania sędziów będą podzielone wzdłuż linii sympatii politycznych. Należy bezwzględnie podtrzymywać przestrzeganie praw Konstytucji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOO_CLOSE_TO_CALL_1</Tag><Polish>Niech sprawa sądowa toczy się swoim trybem, nawet jeśli sędziowie dzielą się wyłącznie według sympatii partyjnych. Przestrzegaj litery konstytucji, choć wynik zdaje się zależeć od tego, która strona ma więcej zwolenników w składzie sędziowskim.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOO_CLOSE_TO_CALL_2</Tag><Polish>Odmówmy podporządkowania się interpretacji Konstytucji powołując się na stronniczość sędziów wydających te opinie. Osiągniemy w ten sposób pożądany wynik bez uciekania się do Konstytucji.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOO_CLOSE_TO_CALL_2</Tag><Polish>Odmów podporządkowania się konstytucyjnemu porządkowi prawnemu, powołując się na życzeniowe interpretacje konstytucji lub argumenty oparte na emocjach i zasadach. Osiągnij pożądany wynik bez oglądania się na rzeczywiste zapisy konstytucji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TORNADO_1</Tag><Polish>Zróbmy co tylko możemy aby pomóc osobom, które przeżyły.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TORNADO_1</Tag><Polish>Zróbmy wszystko, co możemy, aby pomóc ocalałym.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOWER_SHIELD_1</Tag><Polish>Należy wydawać nowe tarcze naszym żołnierzom w miarę napływu zasobów.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOWER_SHIELD_1</Tag><Polish>Wyposażaj naszych żołnierzy w tarcze w miarę dostępności zaopatrzenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOXCATL</Tag><Polish> Podczas dorocznego festiwalu na cześć Toxcatl, młody człowiek będący wcieleniem Tezcatlipoca uciekł z teokalli w %s2_city gdzie miał zostać poświęcony bogom.</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOXCATL</Tag><Polish>Podczas święta Toxcatl młodzieniec będący uosobieniem Tezcatlipoki uciekł ze świątyni teokalli w mieście %s2_city, zanim zdołano złożyć go w ofierze!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TOXCATL_1</Tag><Polish>To straszne nowiny. Niech się niebiosa nad nami ulitują!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TOXCATL_2</Tag><Polish>Nie szczędzić środków na pochwycenie zbiega!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TOXCATL_2</Tag><Polish>Dołóż wszelkich starań, aby ponownie go schwytać!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRADE_FOUNDED_1</Tag><Polish>Życz im powodzenia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TREASURY_PLUNDERED_1</Tag><Polish>Żaden z tych złodziei nie został schwytany? Wyznacz nagrodę za ich głowy i podwyższ podatki w mieście, aby pokryć straty!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_EVENT_TREASURY_PLUNDERED_2</Tag><Polish>Chcę żeby ci złodzieje zostali schwytani żywi lub martwi! Wyślij wojska, aby przeszukać pobliskie miasta i zdobyć tak dużo informacji o tej grupie złodziei jak tylko będzie to konieczne. Po ich schwytaniu dokonaj publicznej egzekucji! Zatrudnij nowych szpiegów, aby więcej się to już nie powtórzyło!</Polish>
+<TEXT><Tag>TXT_KEY_EVENT_TREASURY_PLUNDERED_2</Tag><Polish>Chcę tych złodziei żywych lub martwych! Wyślij wojsko do przeszukania pobliskich miasteczek i przekupuj ludzi, aby zdobyć jak najwięcej informacji o tej szajce. Po schwytaniu złodziei stracimy ich publicznie! Zatrudnij też nowych szpiegów, aby taka sytuacja się nie powtórzyła!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_EVENT_TRIBE_DIVIDES</Tag><Polish>Podział plemienia</Polish>
 </TEXT>
@@ -32605,29 +32604,29 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SEISMOLOGY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Sejsmologia[COLOR_REVERT] pozwala robotnikom budować [COLOR_HIGHLIGHT_TEXT]nowoczesne kopalnie[COLOR_REVERT] i [COLOR_HIGHLIGHT_TEXT]studnie głębinowe[COLOR_REVERT]. Zwiększa też produkcję [COLOR_HIGHLIGHT_TEXT]szybów naftowych[COLOR_REVERT] i [COLOR_HIGHLIGHT_TEXT]platform wiertniczych[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS</Tag><Polish>Broń Pół-automatyczna</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS</Tag><Polish>Broń półautomatyczna</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_NEW</Tag><Polish>Broń Automatyczna</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_NEW</Tag><Polish>Broń powtarzalna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_PEDIA</Tag><Polish>[TAB]Broń półautomatyczna - rodzaj broni palnej, w której część operacji cyklu pracy broni jest wykonywana kosztem energii gazów prochowych lub zewnętrznych źródeł energii, a część ręcznie przez obsługę.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_QUOTE</Tag><Polish>[SPACE]"Wyjść na ulicę, żeby policja mogła nas bić pałkami? Bez sensu. Pójdę pod warunkiem, że dacie mi broń." - Che Guevara</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_QUOTE</Tag><Polish>[SPACE]„Przeciętny Zulus pod względem sprawności fizycznej z nawiązką dorównuje przeciętnemu Anglikowi. A jednak ucieka przed angielskim chłopcem, ponieważ boi się jego rewolweru lub tych, którzy użyją go w jego obronie”. - Mahatma Gandhi</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Broń automatyczna[COLOR_REVERT] jest wymagana do produkcji [COLOR_UNIT_TEXT]karabinów Gatlinga[COLOR_REVERT] i zwiększa siłę [COLOR_UNIT_TEXT]strzelców[COLOR_REVERT]. Zwiększa też dochód z handlu uzyskiwany z [COLOR_HIGHLIGHT_TEXT]obozowisk[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SEMI_AUTOMATIC_WEAPONS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Broń powtarzalna[COLOR_REVERT] jest wymagana do produkcji [COLOR_UNIT_TEXT]karabinów Gatlinga[COLOR_REVERT] i zwiększa siłę [COLOR_UNIT_TEXT]strzelców[COLOR_REVERT]. Zwiększa też dochód z handlu uzyskiwany z [COLOR_HIGHLIGHT_TEXT]obozowisk[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SENTIENT_EARTH</Tag><Polish>Świadoma Ziemia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SENTIENT_EARTH_PEDIA</Tag><Polish>[TAB]Ziemia, nasza planeta staje się świadoma!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SENTIENT_EARTH_QUOTE</Tag><Polish>[SPACE]"Słońce podziwia wasze osiągnięcia, a ziemia przykrywa waszą ignorancję." - John Milton</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SENTIENT_EARTH_QUOTE</Tag><Polish>[SPACE]„Nawadnianie ziemi wodą morską odsoloną dzięki energii syntezy jądrowej jest stare jak świat. Nazywamy to deszczem”. - Michael McClary</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SENTIENT_EARTH_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Świadoma Ziemia[COLOR_REVERT] pozwala produkować [COLOR_UNIT_TEXT]roboty Hi-Tech[COLOR_REVERT] i jest jedną z technologii wymaganych do budowy [COLOR_BUILDING_TEXT]Bramy Oświecenia[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SHIELDING</Tag><Polish>Pole Siłowe</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SHIELDING</Tag><Polish>Pole siłowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SHIELDING_PEDIA</Tag><Polish>[TAB]Zapewnienie ochrony dla wielkich miejskich arkologi było dużym wyzwaniem. Wczesne próby opierały się na grubych murach wykonanych z ciężkiego materiału. Doświadczenie pokazało jednak, że ten materiał jest niezdolny do zatrzymania współczesnych pocisków - a kiedy zawiedzie, jest bardziej niebezpieczny od samego wroga i jego arsenału.[PARAGRAPH:2]Ostatnie próby bazują jednak na dużo cieńszym materiale, którego węzły molekularne są sztucznie utwardzane za pomocą pól energii. Materiał ten, podobnie jak generatory, jest kosztowny, ale zapewnia pewne bezpieczeństwo przed atakiem nuklearnym bądź konwencjonalnym.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SHIELDING_QUOTE</Tag><Polish>"Wymieniliśmy dotyk wiatru na naszych twarzach za wątpliwe bezpieczeństwo." - Kim Lau 0X2, Technofilozof</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SHIELDING_QUOTE</Tag><Polish>„Zamieniliśmy wiatr na twarzach na wątpliwe bezpieczeństwo”. - Kim Lau 0X2, technofilozof</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SHIELDING_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Pole siłowe[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]tarcze arkologiczne[COLOR_REVERT] oraz ulepszenie terenu [COLOR_HIGHLIGHT_TEXT]Nawodne pole siłowe[COLOR_REVERT].</Polish>
         </TEXT>
@@ -32639,9 +32638,9 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SHIP_BUILDING_QUOTE</Tag><Polish>„Jeśli chcesz zbudować statek, nie zwołuj ludzi, żeby zbierali drewno, dzielili pracę i wydawali rozkazy. Naucz ich tęsknić za rozległym, bezkresnym morzem.” - Antoine de Saint-Exupery</Polish>
      </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SHIP_BUILDING_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Szkutnictwo[COLOR_REVERT] pozwala budować [COLOR_UNIT_TEXT]triery[COLOR_REVERT], [COLOR_UNIT_TEXT]pentery[COLOR_REVERT] i [COLOR_BUILDING_TEXT]duże stocznie[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SHIP_BUILDING_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Szkutnictwo[COLOR_REVERT] pozwala budować [COLOR_UNIT_TEXT]triery[COLOR_REVERT], [COLOR_UNIT_TEXT]pentery oblężnicze[COLOR_REVERT] i [COLOR_BUILDING_TEXT]duże stocznie[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SIEGECRAFT</Tag><Polish>Sztuka Oblężnicza</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SIEGECRAFT</Tag><Polish>Sztuka oblężnicza</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SIEGECRAFT_QUOTE</Tag><Polish>„Najwyższa strategia udaremnia plany przeciwnika, druga w kolejności nie pozwala mu zebrać sił, trzecia wyprowadza go na pole bitwy, a najgorsza oblega jego warowne miasta.” - Sun Zi</Polish>
      </TEXT>
@@ -32655,7 +32654,7 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SIEGE_WARFARE_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Mechanika[COLOR_REVERT] pozwala szkolić [COLOR_UNIT_TEXT]pikinierów[COLOR_REVERT], produkować [COLOR_UNIT_TEXT]katapulty[COLOR_REVERT] i [COLOR_UNIT_TEXT]tarany oblężnicze[COLOR_REVERT] oraz zwiększa siłę [COLOR_UNIT_TEXT]słoni wojennych[COLOR_REVERT]. Umożliwia też budowę [COLOR_BUILDING_TEXT]wysokich murów[COLOR_REVERT] i [COLOR_BUILDING_TEXT]wartowni[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SKYROADS</Tag><Polish>Korytarze Powietrzne</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SKYROADS</Tag><Polish>Korytarze powietrzne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SKYROADS_PEDIA</Tag><Polish>[TAB]Korytarze powietrzne to drogi lotnicze, wydzielone z przestrzeni powietrznej jako obszar przeznaczony do lotu statków powietrznych, w którym obowiązują specjalne warunki lotu. łączący dwa punkty. Szerokość korytarza powietrznego krajowego wynosi 10 NM, międzynarodowego 20 NM, podstawa dolna minimum 900 m, górna do 12 km.</Polish>
     </TEXT>
@@ -32679,13 +32678,13 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
      </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SMART_DRUGS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Nanomedycyna[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]szpitale badawcze[COLOR_REVERT], które zapewniają zasób [COLOR_HIGHLIGHT_TEXT]inteligentne leki[COLOR_REVERT]. Zwiększa też produkcję złota w [COLOR_BUILDING_TEXT]aptekach[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SMART_DUST</Tag><Polish>Inteligentne Cząsteczki</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SMART_DUST</Tag><Polish>Inteligentny pył</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SMART_DUST_PEDIA</Tag><Polish>[TAB]Zintegrowane systemy o bardzo niskim poborze mocy zawierające: 1. Układ obliczeniowy 2. Układ komunikacji bezprzewodowej 3. Układ (układy) do interakcji z otoczeniem (czujniki, elementy mechaniczne)</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SMART_DUST_QUOTE</Tag><Polish>[SPACE]"Cóż za smutna epoka, w której łatwiej jest rozbić atom niż zniszczyć przesąd." - Albert Einstein</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SMART_DUST_QUOTE</Tag><Polish>[SPACE]„Lecz te obawy nie powstrzymają nadciągającej burzy. Nadchodzi epoka pyłu”. - Matthew Boyle</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SMART_DUST_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Inteligentne cząsteczki[COLOR_REVERT] pozwalają produkować [COLOR_UNIT_TEXT]nanoszpiegów[COLOR_REVERT] i budować [COLOR_BUILDING_TEXT]neutralizatory nanitów[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SMART_DUST_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Inteligentny pył[COLOR_REVERT] pozwala produkować [COLOR_UNIT_TEXT]nanoszpiegów[COLOR_REVERT] i budować [COLOR_BUILDING_TEXT]neutralizatory nanitów[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SMITHING</Tag><Polish>Kowalstwo</Polish>
         </TEXT>
@@ -32695,7 +32694,7 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SMITHING_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Kowalstwo[COLOR_REVERT] pozwala szkolić [COLOR_UNIT_TEXT]zbrojnych[COLOR_REVERT] i budować warsztaty [COLOR_BUILDING_TEXT]płatnerzy[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_SOCIAL_CONTRACT</Tag><Polish>Umowa Społeczna</Polish>
+<TEXT><Tag>TXT_KEY_TECH_SOCIAL_CONTRACT</Tag><Polish>Umowa społeczna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_SOCIAL_CONTRACT_PEDIA</Tag><Polish>[TAB]Termin umowa społeczna łączy w sobie wiele różnych teorii filozoficznych, których tematem są umowy dorozumiane, przy pomocy których ludzie tworzą narody i utrzymują porządek społeczny. Teoria umowy społecznej stanowi racjonalne uzasadnienie historycznie ważnego poglądu, że legalna władza państwowa musi wywodzić się od zgody społeczeństwa. Punktem wyjścia dla większości tych teorii jest heurystyczna analiza kondycji ludzkiej, określana jako "stan natury" lub "stan naturalny", czyli bez jakiegokolwiek porządku społecznego. W związku z tym, działanie jednostki jest ograniczone jedynie przez jej sumienie. Podążając tym torem, różni autorzy teorii umowy społecznej usiłują na wiele sposobów wyjaśnić, dlaczego w interesie własnym jednostki leży dobrowolna zamiana swobody działania, którą gwarantuje stan naturalny (zwany także "prawami naturalnymi") na korzyści wynikające z tworzenia struktur społecznych.</Polish>
     </TEXT>
