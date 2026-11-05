@@ -22630,13 +22630,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFLATION_OUTLOOK_STABLE</Tag><Polish>bez zmian</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INFLATION_OUTLOOK_WORSENING</Tag><Polish>spada</Polish>
+<TEXT><Tag>TXT_KEY_INFLATION_OUTLOOK_WORSENING</Tag><Polish>pogarsza się</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_ENTIRE_HISTORY</Tag><Polish>Cała historia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_GRAPH</Tag><Polish>WYKRES</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INFO_NUM_TURNS</Tag><Polish>%d1_Num Tur</Polish>
+<TEXT><Tag>TXT_KEY_INFO_NUM_TURNS</Tag><Polish>Liczba tur: %d1_Num</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_RIVAL_BEST</Tag><Polish>Najlepszy rywal</Polish>
         </TEXT>
@@ -22644,17 +22644,17 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_SCREEN</Tag><Polish>Statystyki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INFO_SCREEN_BUILT</Tag><Polish>Budowa</Polish>
+<TEXT><Tag>TXT_KEY_INFO_SCREEN_BUILT</Tag><Polish>Zbudowane</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INFO_SCREEN_CITIES_BUILT</Tag><Polish>Miasta zbudowane</Polish>
+<TEXT><Tag>TXT_KEY_INFO_SCREEN_CITIES_BUILT</Tag><Polish>Założone miasta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INFO_SCREEN_CITIES_RAZED</Tag><Polish>Miasta spalone</Polish>
+<TEXT><Tag>TXT_KEY_INFO_SCREEN_CITIES_RAZED</Tag><Polish>Zburzone miasta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_SCREEN_KILLED</Tag><Polish>Zabite</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_SCREEN_LOST</Tag><Polish>Utracone</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INFO_SCREEN_NUM_GOLDEN_AGES</Tag><Polish>Złoty Wiek</Polish>
+<TEXT><Tag>TXT_KEY_INFO_SCREEN_NUM_GOLDEN_AGES</Tag><Polish>Złote wieki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INFO_SCREEN_RELIGIONS_FOUNDED</Tag><Polish>Założone religie</Polish>
         </TEXT>
@@ -22668,109 +22668,109 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_INIT_INITIALIZING</Tag><Polish>Inicjowanie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INIT_MAP_TRANSFER_ERROR_DESC</Tag><Polish>Błąd przesyłania mapy.</Polish>
+<TEXT><Tag>TXT_KEY_INIT_MAP_TRANSFER_ERROR_DESC</Tag><Polish>Nie udało się rozpocząć przesyłania mapy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INIT_MAP_TRANSFER_ERROR_TITLE</Tag><Polish>Błąd przesyłania pliku</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INIT_SAVE_TRANSFER_ERROR_DESC</Tag><Polish>Błąd przesyłania danych.</Polish>
+<TEXT><Tag>TXT_KEY_INIT_SAVE_TRANSFER_ERROR_DESC</Tag><Polish>Nie udało się rozpocząć przesyłania pliku danych gry.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INIT_SAVE_TRANSFER_ERROR_TITLE</Tag><Polish>Błąd przesyłania pliku</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INIT_SETUP_INTERFACE</Tag><Polish>Ustawienia interfejsu</Polish>
+<TEXT><Tag>TXT_KEY_INIT_SETUP_INTERFACE</Tag><Polish>Przygotowywanie interfejsu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INIT_SETUP_MAP</Tag><Polish>Ustawienia mapy</Polish>
+<TEXT><Tag>TXT_KEY_INIT_SETUP_MAP</Tag><Polish>Przygotowywanie mapy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INIT_SETUP_PLAYERS</Tag><Polish>Ustawienia gracza</Polish>
+<TEXT><Tag>TXT_KEY_INIT_SETUP_PLAYERS</Tag><Polish>Przygotowywanie graczy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_ABOMBARD_HELP</Tag><Polish>"Atak łuczniczy" pozwala ostrzeliwać pobliskie pole za pomocą łuczników, aby zranić znajdujące się tam jednostki.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_ABOMBARD_HELP</Tag><Polish>„Ostrzał łuczniczy” pozwala łucznikom ostrzelać sąsiednie pole, aby zadać obrażenia wrogim jednostkom.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB</Tag><Polish>Nalot</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB1</Tag><Polish>Bombardowanie umocnień</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB1_HELP</Tag><Polish>"Bombardowanie umocnień" pozwala bombardować pola z udoskonaleniami lub osłabiać obronę miasta.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB1_HELP</Tag><Polish>„Bombardowanie umocnień” pozwala bombardować ulepszenia pól lub zmniejszać premię obronną miasta.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB2</Tag><Polish>Bombardowanie budynków</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB2_HELP</Tag><Polish>"Bombardowanie budynków" pozwala zniszczyć jeden z budynków w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB2_HELP</Tag><Polish>„Bombardowanie budynków” pozwala podjąć próbę zniszczenia jednego z budynków w mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB3</Tag><Polish>Bombardowanie fabryk</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB3_HELP</Tag><Polish>"Bombardowanie fabryk" pozwala zniszczyć jeden z budynków produkcyjnych w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB3_HELP</Tag><Polish>„Bombardowanie fabryk” pozwala podjąć próbę zniszczenia jednego z budynków produkcyjnych w mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB4</Tag><Polish>Bombardowanie portu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB4_HELP</Tag><Polish>"Bombardowanie portu" pozwala uszkodzić statek w porcie, lub go zatopić.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB4_HELP</Tag><Polish>„Bombardowanie portu” pozwala podjąć próbę uszkodzenia stojącego w porcie statku, z szansą na jego zatopienie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB5</Tag><Polish>Bombardowanie strategiczne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB5_HELP</Tag><Polish>"Bombardowanie strategiczne" pozwala uszkodzić aktualną produkcję w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB5_HELP</Tag><Polish>„Bombardowanie strategiczne” pozwala podjąć próbę uszkodzenia bieżącego projektu produkcyjnego miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB_HELP</Tag><Polish>Nakazuje jednostkom powietrznym bombardowanie ulepszeń na wybranym polu.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRBOMB_HELP</Tag><Polish>Nakazuje jednostce powietrznej zbombardować miasto lub ulepszenie na wybranym polu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRLIFT</Tag><Polish>Tryb drogi powietrznej</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRLIFT</Tag><Polish>Tryb transportu powietrznego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRLIFT_HELP</Tag><Polish>Nakazuje stworzenie mostu powietrznego do wybranego pola.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRLIFT_HELP</Tag><Polish>Nakazuje przetransportować jednostkę drogą powietrzną na wybrane pole.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRSTRIKE</Tag><Polish>Tryb walki w powietrzu</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRSTRIKE</Tag><Polish>Tryb ataku lotniczego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRSTRIKE_HELP</Tag><Polish>Nakazuje jednostkom latającym atakowanie wroga na wybranym polu.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_AIRSTRIKE_HELP</Tag><Polish>Nakazuje jednostce powietrznej zaatakować wrogie jednostki na wybranym polu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_BOMBARD_HELP</Tag><Polish>[H1]Bombardowanie na dystans[\H1][PARAGRAPH:2]Zaznaczając ikonę bombardowania możesz wybrać bombardowanie jednostek, ulepszeń terenu lub miast.[PARAGRAPH:2] Bombardowanie na dystans zadaje zwykłe Masowe Obrażenia znane z BTS. To czyni je bezużytecznym przeciwko pojedynczej jednostce jak i dużym stosom.[PARAGRAPH:2]Kiedy bombardujesz miasto, bombardowanie na dystans ma niewielką szanse uszkodzić obrońców nie tylko umocnienia. Bombardowanie z miast jest dużo mniej efektywne niż ze specjalistycznych konstrukcji takich jak forty.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_BOMBARD_HELP</Tag><Polish>[H1]Bombardowanie na odległość[\H1] Po wybraniu ikony bombardowania możesz wskazać jako cel jednostki, ulepszenia lub miasta. Ciężka artyleria może również bombardować z dystansu.[PARAGRAPH:2]Bombardowanie na odległość zadaje standardowe obrażenia uboczne znane z BTS. Jest przez to bezużyteczne przeciw pojedynczym jednostkom i dużym zgrupowaniom, a główny obrońca nie odnosi obrażeń.[PARAGRAPH:2]Podczas bombardowania miast istnieje również niewielka szansa trafienia obrońców, a nie tylko umocnień. Ostrzał z wnętrza miasta jest znacznie mniej skuteczny niż z odpowiednich budowli polowych, takich jak forty.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_FENGAGE</Tag><Polish>Ataki myśliwców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_FENGAGE_HELP</Tag><Polish>"Angażowanie myśliwców" pozwala myśliwcom atakować wrogie myśliwce znajdujące się w powietrzu lub na ziemi.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_FENGAGE_HELP</Tag><Polish>„Walka myśliwców” pozwala myśliwcom atakować wrogie myśliwce w powietrzu lub na ziemi.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_GLOBELAYER_INPUT</Tag><Polish>Tryb globalny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO</Tag><Polish>Tryb idź do</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO</Tag><Polish>Tryb „Idź do”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_ALL</Tag><Polish>Idź do (wszystkie jednostki)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_ALL_HELP</Tag><Polish>Nakazuje wszystkim aktualnie wybranym jednostkom na polu poruszyć się.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_ALL_HELP</Tag><Polish>Nakazuje przemieścić się wszystkim jednostkom znajdującym się na polu zaznaczonej jednostki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_HELP</Tag><Polish>Nakazuje wybranej jednostce automatycznie przemieścić się do wybranego pola.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_HELP</Tag><Polish>Nakazuje zaznaczonej jednostce przejść na wskazane pole.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_SENTRY</Tag><Polish>Idź do i Wartuj</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_SENTRY</Tag><Polish>Idź do i pełnij wartę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_SENTRY_HELP</Tag><Polish>Wyznacz kratkę do ruchu dla jednostki. Jedostka będzie tak długo podążać aż nie spotka innej wrogiej jednostki</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_SENTRY_HELP</Tag><Polish>Nakazuje zaznaczonej jednostce przejść na wskazane pole. Zatrzyma się ona przed osiągnięciem celu, jeśli w zasięgu wzroku pojawi się wroga jednostka tego samego typu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_TYPE</Tag><Polish>Idź do (jednakowego typu)</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_TYPE</Tag><Polish>Idź do (ten sam typ jednostek)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_TYPE_HELP</Tag><Polish>Nakazuje aktualnie wybranym jednostkom danego typu poruszyć się.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_GO_TO_TYPE_HELP</Tag><Polish>Nakazuje przemieścić się wszystkim jednostkom tego samego typu co zaznaczona jednostka.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_GRIP</Tag><Polish>Tryb kontroli</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_NUKE</Tag><Polish>Tryb atomowy</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_NUKE</Tag><Polish>Tryb ataku jądrowego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_NUKE_HELP</Tag><Polish>Nakazuje zrzucić bombe atomową na wybrane pole.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_NUKE_HELP</Tag><Polish>Nakazuje uderzenie pociskiem jądrowym w wybrane pole.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_PARADROP</Tag><Polish>Tryb zrzutu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_PARADROP_HELP</Tag><Polish>Jednostka zostanie zrzucona w wybranym miejscu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_PING</Tag><Polish>Ping zespołu</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_PING</Tag><Polish>Sygnał dla drużyny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_PRETARGET_NUKE</Tag><Polish>Tryb Celu</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_PRETARGET_NUKE</Tag><Polish>Wybór celu ataku jądrowego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_PRETARGET_NUKE_HELP</Tag><Polish>Wybierz dane pole jako cel nuklearny</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_PRETARGET_NUKE_HELP</Tag><Polish>Wyznacza wybrane pole jako cel uderzenia pociskiem jądrowym.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_RANGE_ATTACK</Tag><Polish>Tryb Ataku z dystansu</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_RANGE_ATTACK</Tag><Polish>Tryb ataku dystansowego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_RANGE_ATTACK_HELP</Tag><Polish>Jednostka będzie atakować z dystansu wybrane pole</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_RANGE_ATTACK_HELP</Tag><Polish>Nakazuje jednostce zaatakować wybrane pole z dystansu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_REBASE</Tag><Polish>Tryb zmiany bazy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_REBASE_HELP</Tag><Polish>Nakazuje lot jednostce do innego miasta.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_REBASE_HELP</Tag><Polish>Nakazuje jednostce powietrznej przenieść bazę do innego miasta.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_RECON</Tag><Polish>Zwiad</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_RECON_HELP</Tag><Polish>Nakazuje wykonać rekonesans na wybranym obszarze.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_RECON_HELP</Tag><Polish>Nakazuje jednostce powietrznej przeprowadzić zwiad nad wybranym obszarem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_ROUTE_TO</Tag><Polish>Tryb droga do</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_ROUTE_TO</Tag><Polish>Tryb „Droga do”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INTERFACEMODE_ROUTE_TO_HELP</Tag><Polish>Nakazuje zbudowanie trasy do wybranego pola.</Polish>
+<TEXT><Tag>TXT_KEY_INTERFACEMODE_ROUTE_TO_HELP</Tag><Polish>Nakazuje jednostce budować drogę lub kolej aż do wybranego pola.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_SELECTION</Tag><Polish>Tryb wyboru</Polish>
         </TEXT>
@@ -22778,43 +22778,43 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_INTERFACEMODE_VOLLEY_HELP</Tag><Polish>Salwa to atak dystansowy na cel, którym mogą być jednostki, ulepszenia lub miasta.[NEWLINE][NEWLINE]Jeżeli jednostka potrafi zadawać obrażenia uboczne, zostaną one również uwzględnione.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_INTERNET_LOBBY_TITLE</Tag><Polish>DOSTĘPNE SERWERY</Polish>
+<TEXT><Tag>TXT_KEY_INTERNET_LOBBY_TITLE</Tag><Polish>POCZEKALNIA INTERNETOWA</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVALID_CAPTURE_DESC</Tag><Polish>Niewłasciwe urządzenie przechwytywania głosu. Opcja będzie niedostępna.</Polish>
+<TEXT><Tag>TXT_KEY_INVALID_CAPTURE_DESC</Tag><Polish>Wybrano urządzenie, którego nie można użyć do nagrywania głosu. Nagrywanie zostało wyłączone.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVALID_CAPTURE_TITLE</Tag><Polish>Błąd</Polish>
+<TEXT><Tag>TXT_KEY_INVALID_CAPTURE_TITLE</Tag><Polish>Nieprawidłowe urządzenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVALID_LOGIN_DESC</Tag><Polish>Nik nie może rozpoczynać się od znaku '$', '#', '%%', '&amp;', lub '@'</Polish>
+<TEXT><Tag>TXT_KEY_INVALID_LOGIN_DESC</Tag><Polish>Pseudonim nie może zaczynać się od cyfry ani od znaków: $, #, %%, &amp; lub @.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_INVALID_LOGIN_TITLE</Tag><Polish>Nieprawidłowa nazwa użytkownika</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVALID_PLAYBACK_DESC</Tag><Polish>Niewłasciwe urządzenie odtwarzania głosu. Opcja będzie niedostępna.</Polish>
+<TEXT><Tag>TXT_KEY_INVALID_PLAYBACK_DESC</Tag><Polish>Wybrano urządzenie, którego nie można użyć do odtwarzania głosu. Odtwarzanie zostało wyłączone.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVALID_PLAYBACK_TITLE</Tag><Polish>Błąd</Polish>
+<TEXT><Tag>TXT_KEY_INVALID_PLAYBACK_TITLE</Tag><Polish>Nieprawidłowe urządzenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVASION_ENDED</Tag><Polish>Udało nam się uszczelnić przejście w %s1 . Nasze Fortyfikacje są znów bezpieczne.</Polish>
+<TEXT><Tag>TXT_KEY_INVASION_ENDED</Tag><Polish>Udało nam się zablokować wejście do miasta %s1. Nasze fortyfikacje są znów bezpieczne.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVASION_SUCCESSFUL</Tag><Polish>Nasi żołnierze odkryli tajne przejście w %s1!</Polish>
+<TEXT><Tag>TXT_KEY_INVASION_SUCCESSFUL</Tag><Polish>Nasi żołnierze odkryli tajne wejście do miasta %s1!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVISIBLE_CAMOUFLAGE</Tag><Polish>Specjalne Jednostki Hi-Tech</Polish>
+<TEXT><Tag>TXT_KEY_INVISIBLE_CAMOUFLAGE</Tag><Polish>Specjalne jednostki zaawansowane technologicznie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVISIBLE_STEALTH_NAVY</Tag><Polish>Niewykrywalne Statki</Polish>
+<TEXT><Tag>TXT_KEY_INVISIBLE_STEALTH_NAVY</Tag><Polish>Statki o obniżonej wykrywalności</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_INVISIBLE_SUBMARINE</Tag><Polish>Okręt Podwodny</Polish>
+<TEXT><Tag>TXT_KEY_INVISIBLE_SUBMARINE</Tag><Polish>Okręty podwodne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_IN_CITY_VICINITY</Tag><Polish>[SPACE]w zasięgu miasta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_IS_ACCURACY_BOMBARD</Tag><Polish>[ICON_BULLET]Celność: %d1_BombAccuracy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_IS_DCM_BOMBARD</Tag><Polish>[ICON_BULLET]Może: Atak dystansowy</Polish>
+<TEXT><Tag>TXT_KEY_IS_DCM_BOMBARD</Tag><Polish>[ICON_BULLET]Może wykonywać ataki dystansowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_IS_FIGHTER_ENGAGE</Tag><Polish>Może: Angażowanie myśliwców.</Polish>
+<TEXT><Tag>TXT_KEY_IS_FIGHTER_ENGAGE</Tag><Polish>Może wykonywać misję walki myśliwców.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_IS_RANGE_BOMBARD</Tag><Polish>[ICON_BULLET]Zasięg: %d1_BombRange</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_JOIN_FAILURE_DESC</Tag><Polish>Połączenie z graczem "%s1_Name" jest niemożliwe.[NEWLINE]Ten gracz może mieć nieprawidłowo skonfigurowanego firewalla...</Polish>
+<TEXT><Tag>TXT_KEY_JOIN_FAILURE_DESC</Tag><Polish>Nie udało się połączyć z graczem „%s1_Name”.[NEWLINE]Jego zapora sieciowa może być nieprawidłowo skonfigurowana.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_JOIN_FAILURE_TITLE</Tag><Polish>Nie udało się połączenie do peer'a!</Polish>
+<TEXT><Tag>TXT_KEY_JOIN_FAILURE_TITLE</Tag><Polish>Nie udało się połączyć z uczestnikiem gry!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_JOIN_GAME_PASSWORD_DESC</Tag><Polish>Wprowadź hasło potrzebne do tej gry.</Polish>
         </TEXT>
@@ -22828,7 +22828,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_DELETE_KEY</Tag><Polish>Delete</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_DOWN_ARROW</Tag><Polish>Strzałka dolna</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_DOWN_ARROW</Tag><Polish>Strzałka w dół</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_END_KEY</Tag><Polish>End</Polish>
         </TEXT>
@@ -22842,31 +22842,31 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_LEFT_ALT_KEY</Tag><Polish>Lewy Alt</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_LEFT_ARROW</Tag><Polish>Strzałka lewa</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_LEFT_ARROW</Tag><Polish>Strzałka w lewo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_LEFT_CONTROL_KEY</Tag><Polish>Lewy Control</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_LEFT_CONTROL_KEY</Tag><Polish>Lewy Ctrl</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_LEFT_SHIFT_KEY</Tag><Polish>Lewy Shift</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_COMMA</Tag><Polish>Klaw. numeryczna ,</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_COMMA</Tag><Polish>Num ,</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_ENTER_KEY</Tag><Polish>Klaw. numeryczna Enter</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_ENTER_KEY</Tag><Polish>Num Enter</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_EQUALS</Tag><Polish>Klaw. numeryczna =</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_EQUALS</Tag><Polish>Num =</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_MINUS</Tag><Polish>Klaw. numeryczna minus</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_MINUS</Tag><Polish>Num -</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_NUMBER</Tag><Polish>Klaw. numeryczna %d1_Num</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_NUMBER</Tag><Polish>Num %d1_Num</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_PERIOD</Tag><Polish>Klaw. numeryczna .</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_PERIOD</Tag><Polish>Num .</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_PLUS</Tag><Polish>Klaw. numeryczna plus</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_PLUS</Tag><Polish>Num +</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_SLASH</Tag><Polish>Klaw. numeryczna /</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUMPAD_SLASH</Tag><Polish>Num /</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_NUM_LOCK</Tag><Polish>Num Lock</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_NUM_PAD_STAR</Tag><Polish>Klaw. Numeryczna</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_NUM_PAD_STAR</Tag><Polish>Num *</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_PAGE_DOWN</Tag><Polish>Page Down</Polish>
         </TEXT>
@@ -22876,9 +22876,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_RIGHT_ALT_KEY</Tag><Polish>Prawy Alt</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_RIGHT_ARROW</Tag><Polish>Strzałka prawa</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_RIGHT_ARROW</Tag><Polish>Strzałka w prawo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_RIGHT_CONTROL_KEY</Tag><Polish>Ctrl Prawy</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_RIGHT_CONTROL_KEY</Tag><Polish>Prawy Ctrl</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_RIGHT_SHIFT_KEY</Tag><Polish>Prawy Shift</Polish>
         </TEXT>
@@ -22888,15 +22888,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_SYSRQ</Tag><Polish>SysRq</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KEYBOARD_UP_ARROW</Tag><Polish>Strzałka górna</Polish>
+<TEXT><Tag>TXT_KEY_KEYBOARD_UP_ARROW</Tag><Polish>Strzałka w górę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_VOLUME_DOWN</Tag><Polish>Ciszej</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_KEYBOARD_VOLUME_UP</Tag><Polish>Głośniej</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_KICK_NOTICE</Tag><Polish>Zostałeś wyeliminowany z gry. Wychodzenie...</Polish>
+<TEXT><Tag>TXT_KEY_KICK_NOTICE</Tag><Polish>Zostałeś wyrzucony z gry. Wychodzenie...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LANDMARK_BAY_0</Tag><Polish>Zatoki %s1</Polish>
+<TEXT><Tag>TXT_KEY_LANDMARK_BAY_0</Tag><Polish>Zatoka %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANDMARK_BAY_1</Tag><Polish>Zatoka %s1</Polish>
         </TEXT>
@@ -22912,9 +22912,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANDMARK_JUNGLE_1</Tag><Polish>Dżungla %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LANDMARK_JUNGLE_2</Tag><Polish>Lasy Deszczowe %s1</Polish>
+<TEXT><Tag>TXT_KEY_LANDMARK_JUNGLE_2</Tag><Polish>Las deszczowy %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LANDMARK_JUNGLE_3</Tag><Polish>Lasy Deszczowe %s1</Polish>
+<TEXT><Tag>TXT_KEY_LANDMARK_JUNGLE_3</Tag><Polish>Las deszczowy %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANDMARK_LAKE_0</Tag><Polish>Jezioro %s1</Polish>
         </TEXT>
@@ -22922,7 +22922,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANDMARK_MOUNTAINS_0</Tag><Polish>Góry %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LANDMARK_MOUNTAINS_1</Tag><Polish>Pas Gór %s1</Polish>
+<TEXT><Tag>TXT_KEY_LANDMARK_MOUNTAINS_1</Tag><Polish>Pasmo górskie %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANDMARK_NAME</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT]</Polish>
     </TEXT>
@@ -22948,9 +22948,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANGUAGE_16</Tag><Polish>Grecki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LANGUAGE_17</Tag><Polish>Portugalsk</Polish>
+<TEXT><Tag>TXT_KEY_LANGUAGE_17</Tag><Polish>Portugalski</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LANGUAGE_18</Tag><Polish>Brazylijczyk</Polish>
+<TEXT><Tag>TXT_KEY_LANGUAGE_18</Tag><Polish>Portugalski (Brazylia)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANGUAGE_19</Tag><Polish>Chiński tradycyjny</Polish>
         </TEXT>
@@ -22970,11 +22970,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LANGUAGE_9</Tag><Polish>Czeski</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LAN_LOBBY_TITLE</Tag><Polish>SALON SIECI LOKALNEJ</Polish>
+<TEXT><Tag>TXT_KEY_LAN_LOBBY_TITLE</Tag><Polish>POCZEKALNIA SIECI LOKALNEJ</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_ABUBAKR_PEDIA</Tag><Polish>[H1]Abu Bakr Abdallah ibn Abi Quhafa As-Siddiq[\H1][NEWLINE][BOLD]Kalif Arabii[\BOLD][NEWLINE][BOLD]Lata życia: [\BOLD] ok. 573 n.e.-634[NEWLINE][PARAGRAPH:2][BOLD]Rys historyczny:[\BOLD][NEWLINE][TAB]Abu Bakr Abdallah ibn Abi Quhafa As-Siddiq był jednym z pierwszych nawróconych na islam i jednym z najważniejszych towarzyszy (sahaba) muzułmańskiego proroka Mahometa. Przez całe życie pozostawał przyjacielem i powiernikiem Mahometa. Po jego śmierci został pierwszym władcą muzułmańskim (632–634), uznawanym w islamie sunnickim za pierwszego z kalifów sprawiedliwych, czyli prawowiernych. Jego kalifat trwał dwa lata i trzy miesiące; w tym czasie umocnił państwo muzułmańskie. Po śmierci Mahometa niektóre plemiona się zbuntowały, na co odpowiedział wojnami ridda przeciw tym plemionom arabskim, aby ustanowić rządy islamu w całej Arabii. Podbił też ziemie Syrii i Iraku.[PARAGRAPH:1]Abu Bakr został kalifem 8 czerwca 632 r. n.e., a zmarł 23 sierpnia 634 r. n.e. Choć jego kalifat trwał zaledwie dwa lata, dwa miesiące i piętnaście dni, jego osiągnięcia były niezwykłe. Należały do nich świetne zwycięstwo w wojnach ridda oraz udane najazdy na dwa najpotężniejsze ówczesne imperia: państwo Sasanidów i Cesarstwo Bizantyńskie.[PARAGRAPH:1]Abu Bakr wyróżniał się tym, że był pierwszym kalifem w dziejach islamu. Był też pierwszym kalifem, który wyznaczył następcę. Był jedynym kalifem w historii islamu, który w chwili śmierci zwrócił do skarbu państwa całą kwotę świadczeń pobranych przez okres sprawowania kalifatu.[PARAGRAPH:1]Był pierwszym muzułmańskim władcą, który ustanowił Bayt al-mal. Jako pierwszy muzułmański władca ustanowił pastwiska koronne. Jako pierwszy muzułmański władca ustanowił „idżtihad”. Wyróżniał się zakupem ziemi pod Al-Masjid al-Nabawi. Według sunnitów Abu Bakr przewyższał cnotą wszystkich pozostałych sahaba. Zarówno Abu Bakr, jak i Uthman ibn Affan zrezygnowali z picia wina jeszcze przed pojawieniem się islamu. Według Ibn Sirina był najwybitniejszym genealogiem Kurajszytów i najlepszym po Mahomecie interpretatorem snów wśród nich.[PARAGRAPH:1]8 sierpnia 634 r. Abu Bakr zachorował i nigdy już nie wyzdrowiał. Istnieją dwa przekazy dotyczące jego choroby. Według pierwszego 8 sierpnia 634 r. był zimnym dniem i Abu Bakr przeziębił się podczas kąpieli. Według drugiego około rok wcześniej zjadł wraz z kilkoma innymi towarzyszami, Harithem bin Kaladah i Attabem bin Usaidem, zatruty posiłek, którego skutki miały ujawnić się dopiero po roku. W poniedziałek 23 sierpnia 634 r. Abu Bakr zmarł. Modlitwę pogrzebową poprowadził Umar. Pochowano go tej samej nocy obok grobu Mahometa, w domu Aiszy niedaleko Al-Masjid al-Nabawi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_AFONSO</Tag><Polish>Alfonso I</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_AFONSO</Tag><Polish>Alfons I</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_AFONSO_PEDIA</Tag><Polish>[H1]Alfons I Henryk[\H1][NEWLINE][BOLD]Król Portugalii[\BOLD][NEWLINE][BOLD]Żył[\BOLD] 1109 - 1189[NEWLINE][PARAGRAPH:1][BOLD]Historia:[\BOLD][NEWLINE][TAB]Syn Henryka Burgundzkiego, hrabiego Portugalii, i Teresy de Leon. Początkowo władzę w imieniu małoletniego hrabiego sprawowała jego matka, jednak młody Alfons, pomimo młodego wieku, posiadał odmienne poglądy polityczne, mając zaledwie dwanaście lat stanął po stronie politycznego przeciwnika swojej matki, Arcybiskupa Bragii, za co oboje zostali wygnani z kraju. Powrócił do hrabstwa po skończeniu 14 roku życia (w średniowieczu oznaczało to wkroczenie w wiek męski), gdzie stanął na czele rebelii przeciwko swojej matce. Po pokonaniu wojsk kochanka swojej matki, Fernando Peresa de Trava w bitwie pod Sao Mamede, wygnał z kraju dotychczasową regentkę. Prowadził walki przeciwko Maurom. W czasie tych walk, po bitwie pod Ourique w 1139 koronował się na króla. Jednak Stolica Apostolska uznała jego tytuł dopiero po 40 latach starań, w 1179. Przez ten czas król budował nowe klasztory, sprowadził do Portugalii cystersów. Dla celów rekonkwisty stworzył rycerski zakon Aviz, którego pierwszym mistrzem był jego naturalny syn Piotr Alfons. W 1147 odbił z rąk Arabów Lizbonę, a podczas wojny w latach 1158-1166 prowincję Alentejo. W 1184 oddał realną władzę swojemu synowi Sancho.</Polish>
         </TEXT>
@@ -22986,7 +22986,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_ASHUR_PEDIA</Tag><Polish>[H1]Aszurbanipal[\H1][NEWLINE][BOLD]Król Asyrii[\BOLD][NEWLINE][BOLD]żył: [\BOLD] c.685 - 627 BC[NEWLINE][PARAGRAPH:2][BOLD]Pochodzenie:[\BOLD][PARAGRAPH:1]Aszurbanipal"Aszur jest twórcą syna pierworodnego"), w tradycji greckiej Sardanapal, syn Assarhaddona, był ostatnim wybitnym królem Asyrii z dynastii Sargonidów, panował w latach 669-631 p.n.e.. Mimo rozruchów wewnętrznych utrzymał państwo w granicach od Zatoki Perskiej do Morza śródziemnego. Założył wielką bibliotekę w Niniwie. W Biblii jest wspomniany w Księdze Ezdrasza (4; 10) jako Asnefar bądź Asnappar.[PARAGRAPH:1]Początek jego rządów był pomyślny, państwo przeżywało apogeum rozwoju terytorialnego i militarnego. W 667 r. p.n.e. zorganizował wyprawę na Egipt. Pokonał króla Taharkę z władającej Egiptem XXV dynastii kuszyckiej; król ten zbiegł na południe do Napaty. Wojska asyryjskie w swoim pochodzie przez kraj nad Nilem zdobyły Memfis oraz Teby, skąd wywiozły cenne łupy. Aszurbanipal rozumiał, że do władania tak odległym krajem nie wystarczą tylko namiestnicy i wojsko krwawo tłumiące bunty, dlatego spośród egipskiej arystokracji, która uznała się za jego wasali, wybrał Necho z Sais, jako swojego przedstawiciela w zdobytym kraju. Część arystokracji wywiózł do Niniwy jako zakładników. W 664 r. p.n.e. zmarł Taharka, a władzę objął jego siostrzeniec i następca, Tanutamon, który zdołał zdobyć Górny Egipt z Tebami, Dolny zaś pozostał lennem asyryjskim.[PARAGRAPH:1]Zgodnie z decyzją Asshardona, Aszurbanipal panował w Niniwie, a jego brat Szamaszszumukin rządził w Babilonie. Początkowo relacje w imperium układały się pomyślnie. Trudno jest ustalić ich wiek albo czy byli bliźniakami, jednak ambicja namiestnika Babilonii pchnęła go do przyłączenia się do antyasyryjskiej koalicji Elamu i Chaldejczyków. Aszurbanipal uderzył na Babilonię, oblegając stolicę oraz Borsippę. Po czterech latach oblężenia Babilon został zdobyty w 648 r. p.n.e., lecz na rozkaz króla miasto zostało tym razem oszczędzone. Namiestnikiem spacyfikowanej prowincji mianował Kandalanu.[PARAGRAPH:1]Pod koniec panowania Aszurbanipal oddał się zbytkowi, a nawet, jak podają greckie źródła, zniewieściał, nosząc damskie stroje. Po jego śmierci, ok. roku 630 p.n.e., władzę objęli dwaj synowie Sinsariszkun i Aszuretiliani, a po nich Aszuruballit II, co pogłębiło kryzys w imperium. Moment ten wykorzystał Nabopolassar - założyciel nowej dynastii w Babilonii. Z tym królem wiąże się postać Sardanapala z tradycji greckiej. Miał on ulec zniewieściałości i rozwiązłemu trybowi życia. Na roku 639 p.n.e. urywa się kronika asyryjska, co może świadczyć o zaniechaniu przez władcę ważniejszych wypraw wojennych i skupieniu się na konsumowaniu owoców wcześniejszych zwycięstw. Echa tej zmiany Aszurbanipala odnajdujemy właśnie w przekazach greckich..[PARAGRAPH:1]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_ASOKA</Tag><Polish>Ashoka</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_ASOKA</Tag><Polish>Aśoka</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_ASOKA_PEDIA</Tag><Polish>[H1]Asoka[\H1][NEWLINE][BOLD]Król Indii [\BOLD][NEWLINE](299 p.n.e. - 232 p.n.e.)[NEWLINE][PARAGRAPH:2][BOLD]Biografia :[\BOLD][NEWLINE][TAB]O życiu tego wielkiego władcy posiadamy dość dużo informacji. Wiadomo, że pochodził z rodu Maurjów, dynastii, której po raz pierwszy udało się zjednoczenie znacznych obszarów subkontynentu indyjskiego. Maurjowie to dynastia panująca w państwie Magadha w latach od ok. 320 do ok. 185 p.n.e. [PARAGRAPH:1] Stolicą kraju była Pataliputra (dziś Patna w stanie Bihar), w pobliżu rzeki Son i jej ujścia do Gangesu. Dziadkiem Asioki był waleczny Czandragupta, który około 320 roku p.n.e. przejął ster władzy w Maghada, królestwie nad wschodnią częścią Gangesu, a następnie w czasie udanych podbojów włączył do swego państwa tereny obecnego Pandżabu, Afganistanu i Beludźystanu. Obalił on rządy Nandów i powiększył kraj w walce z greckimi wojskami Seleukosa I Nikatora. [PARAGRAPH:1] Imperium Maurjów objęło większość subkontynentu indyjskiego, za wyjątkiem tamilskiego południa. Czandragupta był władcą surowym, a nawet okrutnym. Rządził „twardą pięścią i żelazną dyscypliną”. Ostatnie jednak dwanaście lat swego życia, być może dręczony wyrzutami sumienia, spędził w ascezie jako mnich dżinijski. Być może fakt ten w znaczący sposób wpłynął na późniejsze decyzje jego wnuka. Następcą Czandragupty był Bindusara, ojciec Asioki. [PARAGRAPH:1] Rządy jego były jeszcze bardziej despotyczne niż ojca. Nosił z tego powodu nawet przydomek Amitraghata (Rzeźnik dla wrogów). Żoną Bindusary była córka bogatego kupca z Wadisagiri. Nosiła imię Wedisamahadewi lub Śakjakumari, jako że pochodziła z tego znamienitego rodu. Ona to później, gdy jej syn był już buddystą upasaką, nakłoniła go do postawienia wielkiej stupy w rodzinnym mieście Wedisagiri. [PARAGRAPH:1] Asoka nie od razu był człowiekiem wrażliwym na krzywdy ludzi i ceniącym pokój. W młodości został wysłany przez ojca do stłumienia rebelii w Takszasili, a gdy uporał się z zadaniem, postanowił sięgnąć po władzę królewską. Przewidujący Bindusara mianował go jednak wicekrólem w odległej prowincji, Udżadżinie. Kiedy po upływie zaledwie kilku lat okazało się, że na nowo wybuchły bunty w leżącej na drugim krańcu królestwa Takszasili, a brat ambitnego księcia Susima nie potrafi ich stłumić, ponownie Bimbisara posłał Asokę do ogarniętej niepokojem prowincji. Ten zaś zdecydowanie rozprawił się z rebelią. Wkrótce potem niespodziewanie zmarł sędziwy król. Asioka pospieszył do Pataliputry, przejął władzę królewską i pierwszym jego zarządzeniem był rozkaz zgładzenia wszystkich przyrodnich braci, ewentualnych pretendentów do królewskiego tronu. Przy życiu pozostawił tylko młodszego brata Tisidżę, pochodzącego od tej samej matki. [PARAGRAPH:1] Król miał syna Mahendrę (Mahindę) urodzonego w 284 roku p.n.e. oraz córkę Sanghamittę, urodzoną w 268 roku p.n.e. Pierwsze lata panowania Asioki to okres konsolidacji władzy i kolejnych podbojów sąsiednich krain. Najkrwawszą wojnę stoczył z sąsiednim królestwem Kalinga (Orissa). Ponad sto tysięcy wrogów zostało zabitych, setki tysięcy rannych, ponad sto pięćdziesiąt tysięcy ludzi objęto deportacją w wyniku tej okrutnej wojny. Podobno wtedy Asoka poczuł lęk przed własnym okrucieństwem. [PARAGRAPH:1] Buddyzm za panowania króla Asoki był w podobnej sytuacji co chrześcijaństwo za Konstantyna. Religia ciesząca się przychylnością świeżo nawróconego władcy mogła liczyć na państwowe wsparcie, przywileje, wpleść się w strukturę władzy. Kapłani mieli jednak surowe zasady, chroniące ich misje przed materialnymi pokusami. Opracowano szczegółowe kodeksy, np. jakiego rodzaju darowizny (miski ryżu, nie więcej) może przyjąć mnich, by nie sprzeniewierzyć się ascetycznym zasadom. Tak rozpowszechniła się pokojowa religia, która nigdy nie nawracała na siłę, nie wywoływała religijnych wojen. Buddyjscy mnisi zawsze pozostawali autorytetami moralnymi. Ich etyka oparta na miłości i szacunku bliźniego oraz współczuciu, jakże podobna do chrześcijańskiej, była po prostu traktowana serio. Kluczem do zrozumienia nie tylko skomplikowanej przemiany, jaka zaszła w królu, ale i jego polityki, jest idea dharmy. Oznacza ona sprawiedliwość i prawdę. Jest przede wszystkim doktryną moralną, opierającą się na harmonii i zmierzającą do zapewnienia szczęścia wszystkim. Jej celem było uformowanie umysłów w ten sposób, by stosunki między ludźmi gwarantowały uznanie autonomii drugiego człowieka. Z czasem dharma zaczęła być rozumiana jako coś więcej i wtedy można ją utożsamiać z religią. [PARAGRAPH:1] Kolejna norma moralna, którą głosił Asioka, to ahimsa. Kładzie ona nacisk na niestosowanie przemocy zarówno fizycznej jak i umysłowej. W jednej z inskrypcji Asioka odnotowuje fakt, że niegdyś zabijano dziennie setki zwierząt, by zaopatrzyć w mięso królewskie kuchnie, a teraz ich liczbę zredukowano do kilku zaledwie sztuk. [PARAGRAPH:1] W tym czasie, kiedy w Indiach panował Asioka, w Syrii rządził Antichos II, a w Egipcie Ptolomeusz Philadelfos. Państwa grecko-baktryjskie utrzymywały się najdłużej w Afganistanie. Ich upadek nastąpił razem z upadkiem dynastii Maurjów i podbojem mahometańskim w XI wieku. Po śmierci Asioki rozpoczął się stopniowy upadek państwa. Ostatnim władcą z dynastii Maurjów był Bryhandrata. Został on zamordowany w czasie spisku przez dowódcę swoich wojsk, Puszjamitrę. Ten zaś założył nową dynastię Śungów, która rządziła stopniowo zmniejszającym się królestwem przez kolejne sto lat.</Polish>
         </TEXT>
@@ -23070,7 +23070,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_GANDHI_PEDIA</Tag><Polish>[H1]Mahatma Gandhi [\H1][NEWLINE][BOLD][\BOLD](1869 - 1948)[NEWLINE][PARAGRAPH:2][BOLD]Biografia :[\BOLD][NEWLINE][TAB]Mahatma Gandhi uważał, iż zasada ahinsy (niestosowania przemocy) nie powinna się ograniczać jedynie do biernej postawy życiowej nie wyrządzania krzywdy innym. Jego zdaniem ahinsa zobowiązuje do aktywnych form obrony życia i poczucia wartości każdej istoty żyjącej.[PARAGRAPH:1] Według filozofii Gandhiego, niezawinione "cierpienie miało poruszyć sumienia oponentów i w ten właśnie sposób doprowadzić do pożądanych zmian społecznych. Gandhi wykorzystywał tu mechanizm 'moralnego ju jitsu'. Satjagraha jest w tym rozumieniu metodą walki przez cierpienie (pokazać światu prawdę o agresorze), które staje się środkiem socjotechnicznym (którego zadaniem - przez niezawinione cierpienie odbywane z godnością - jest przekonanie wroga i opinii publicznej całego świata do swoich racji). Cierpienie przyjmowane świadomie, bez obrony i stosowania przemocy, może zmienić naszego przeciwnika. Elementy martyrologii stają się metodą walki".[PARAGRAPH:1]Gandhi uważa, iż osoba wyrzekająca się wojen z pobudek samolubnych bądź z tchórzostwa postępuje niegodnie, ponieważ nie zmniejsza przez to zła na świecie lecz wręcz przeciwnie, przez swoje tchórzostwo wzbudza jeszcze większą agresję u swojego wroga.[PARAGRAPH:1]Zasada czynnej ahinsy, jak i sztuka satjagrahy wymaga pełnego poświęcenia wraz z oddaniem własnego życia za sprawę. Tak więc od prawdziwego pacyfisty wymagana jest wielka odwaga i pełne poświęcenie sprawie, o którą walczy -&gt; Pokojowi. Nie jest bowiem sztuką wygrać z kimś kto jest słabszy, ale niewątpliwie sztuką jest walczyć z silniejszym od siebie i wygrać bez użycia przemocy.[PARAGRAPH:1]Gandhi potępia więc bierny pacyfizm, zalecając przy tym aktywną walkę psychologiczną z wrogiem, jednocześnie nie darząc go nienawiścią, lecz nienawidząc jego poczynania (patrz: Martin Luther King - agape). Jednocześnie poprzez głośną krytykę poczynań wroga i brak jakiejkolwiek przemocy w obronie przed nim - próbować przekonać go do własnych racji.[PARAGRAPH:1]Historia dowodzi jednak, że takie poczynania mają sens jedynie w przypadku, gdy przeciwnik reprezentuje pewien poziom moralny. Metod Gandhiego nie dałoby się zastosować ani w hitlerowskich Niemczech, ani w Związku Radzieckim: wszyscy stosujący satjagrahę zostaliby natychmiast zamknięci w obozach koncentracyjnych lub łagrach, a przywódcy ruchu rozstrzelani.[PARAGRAPH:1]Lecz w państwach takich jak Imperium Brytyjskie w pierwszej połowie dwudziestego wieku, czy Stany Zjednoczone na początku lat sześćdziesiątych walka metodami satjagrahy odnosiła sukces: poprzez specyficzny "terror moralny" doprowadzała do zmiany stanowiska przeciwnika, który ponadto zaczynał darzyć szacunkiem oponenta za jego odwagę i poświęcenie (patrz: walka o wyzwolenie Indii, o prawa dla ludności czarnej w USA, etc). "Gdy walczy się bez użycia broni, należy być przygotowanym na ryzyko śmierci tak samo, jakby się brało udział w wojnie". Według Gandhiego jeden naród powinien rozbroić się biorąc na siebie związane z tym ryzyko. Naród ten osiągnie poziom tak wielkiej pokojowości, że cieszyć się będzie powszechnym autorytetem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_GENGHIS_KHAN</Tag><Polish>Czyngis-Chan</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_GENGHIS_KHAN</Tag><Polish>Czyngis-chan</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_GENGHIS_KHAN_PEDIA</Tag><Polish>[H1]Czyngis-Chan [\H1][NEWLINE][BOLD]Chan Imperium Mongołów [\BOLD][NEWLINE][BOLD][\BOLD](1152/1167 - 1227)[NEWLINE][PARAGRAPH:2][BOLD]Biografia :[\BOLD][NEWLINE][TAB]władca mongolski, twórca i długoletni dowódca Wielkiej Ordy, która za jego życia podbiła cały Wielki Step, najechała prawie wszystkie kraje graniczące z Wielkim Stepem, a po jego śmierci uległa szybkiemu rozpadowi na kilka mniejszych ord, z których część przekształciła się później w państwa. Założyciel mongolskiej dynastii Yuan.[PARAGRAPH:1]Był synem Jisugej-Bagadura dowódcy jednej z wielu małych ord mongolskich. Po śmierci ojca zjednoczył wszystkie inne ordy mongolskie, tworząc dobrze zorganizowaną strukturę państwowo-wojskową znaną jako Wielka Orda. W czasie zjazdu Mongołów nad Ononem (tzw. kurułtaj) w 1206 przyjął tytuł Czyngis-chana (Wielkiego wodza Mongołów) w Europie uznany za jego imię.[PARAGRAPH:1]Jego droga do zjednoczenia Mongołów była bardzo trudna. Po śmierci ojca został wygnany razem z braćmi oraz matką. Żyli w nędznych warunkach. Pewnego razu przyłapawszy przyrodniego brata na podkradaniu jedzenia przebił mu szyję strzałą. Gdy odwiedziła go jego narzeczona z dzieciństwa wszystko się odmieniło. Zapożyczył trochę wojska od teścia, odbił własne plemię, a następnie stopniowo zdobywał całą resztę stepowych obszarów środkowej Azji.[PARAGRAPH:1]Warto wspomnieć również o wyprawie na Japonię, nieudanej tylko z powodu nieszczęśliwego wypadku. Otóż wypływająca z wybrzeży Mandżurii flota mongolska została zatopiona tuż przy brzegach Japonii przez tajfun.[PARAGRAPH:1]Przed śmiercią podzielił państwo pomiędzy czterech swoich synów. Trzeci syn Ugedej otrzymał tytuł wielkiego chana Mongolię ze stolicą Karakorum i północne Chiny. Ziemie położone w środkowej Azji na wschód od Amu-darii otrzymał Czagataj, Wschodnią Persję i północne Indie otrzymał najmłodszy Tołuj, Najstarszy syn Dżoczi zmarł przedwcześnie i jego miejsce zajął jego syn Batu-chan, któremu przypadła zachodnia Syberia od Irtyszu do Uralu.</Polish>
         </TEXT>
@@ -23134,13 +23134,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_KANGXI_PEDIA</Tag><Polish>[H1]Kangxi[\H1][NEWLINE][BOLD]Cesarz Chin[\BOLD][NEWLINE][BOLD]Żył:[\BOLD] 1654 - 1722[NEWLINE][PARAGRAPH:2][BOLD]Historia:[\BOLD][NEWLINE][TAB]Został obwołany cesarzem w wieku 7 lat po śmierci swojego ojca Shunzhi 7 lutego 1661, jednak oficjalnie intronizowany został dopiero po rozpoczęciu nowego roku księżycowego 18 lutego 1662. Rządził aż do swojej śmierci 20 grudnia 1722, będąc najdłużej panującym cesarzem w chińskiej historii (61 lat). Powszechnie uważany jest za jednego z najwybitniejszych cesarzy Chin.W 1669 pozbył się regentów i rozpoczął samodzielne rządy. W dniu objęcia rządów napisał list do matki, w którym obiecał, że będzie dbać o rozwój cesarstwa, poprawę bytu narodu i zapewnienie pokoju. Wkrótce przystąpił do realizacji złożonego przyrzeczenia, tłumiąc w następnych kilkunastu latach resztki antymandżurskiej opozycji i zdobywając dla cesarstwa nowe terytoria.W 1672 Kangxi podjął decyzję o demobilizacji armii, znajdujących się pod dowództwem rządzących na południe od rzeki Jangcy wielmożów. Reakcją na to posunięcie był wybuch w 1673 rebelii trzech lenników na czele z Wu Sangui. W 1682 Kangxi zdołał zdławić rebelię. Rok później, w 1683 stłumił ostatecznie wszystkie antymandżurskie ruchy i przeprowadził inwazję na będący bazą promingowskich sił Tajwan, przyłączając go do cesarstwa.Po zapewnieniu dynastii Qing niepodzielnego panowania w Chinach Kangxi rozpoczął działania mające na celu powstrzymanie rosyjskiej kolonizacji nad Amurem. W 1685 wybuchła wojna chińsko-rosyjska, zakończona podpisaniem 27 sierpnia 1689 traktatu nerczyńskiego, na mocy którego terytoria na północ od Amuru zostały przyłączone do Chin.Po zabezpieczeniu granicy z Rosją Kangxi skierował się na wschód, chcąc rozgromić potęgę chanatu dżungarskiego. W latach 1690-1694 wojska chińskie przeprowadziły ofensywę przeciwko wojskom chana Gałdana, wypierając Dżungarów z terytorium Mongolii. Jednocześnie na mocy traktatu zawartego z mongolskimi książętami w 1691 terytoria te zostały przyłączone do cesarstwa chińskiego jako Mongolia Zewnętrzna. W następnych latach wojska chińskie rozpoczęły podbój terytorium późniejszego Xinjiangu, zakończony ostatecznie dopiero w 1759.Kiedy w 1717 Dżungarowie najechali Tybet, Kangxi skierował tam wojska chińskie, wypierając w 1720 najeźdźców i przywracając zrzuconą przez Tybet w XIV wieku chińską zwierzchność.W ostatnim roku swojego życia Kangxi poprowadził jeszcze jedną kampanię przeciwko Dżungarom, zajmując miasto Urumczi.Kangxi należał do najlepiej wykształconych ludzi swojej epoki. Był mecenasem sztuki, sam interesował się poezją i filozofią. Był zwolennikiem lamaizmu, który starał się połączyć z konfucjanizmem. Utrzymywał bliskie stosunki z VI Dalajlamą.Za panowania Kangxi nastąpił gwałtowny rozwój literatury, wydano kilkaset wielkich zbiorów dzieł chińskich klasyków, liczne słowniki i encyklopedie oraz niezliczoną liczbę prac z różnych dziedzin nauki.Odbywał regularne podróże inspekcyjne po wszystkich zakątkach cesarstwa.Kangxi dbał o rozwój gospodarki chińskiej. W 1675 zniesiony został zakaz pozyskiwania kopalin, a w 1683 zniesiono zakaz handlu zagranicznego. Kangxi starał się poprawić położenie najbiedniejszych warstw, wprowadzając edykty regulujące sprawy podatkowe. Na skutek ogłoszenia edyktu stanowiącego, że urodzone po 1711 roku dzieci nie będą płaciły podatków, w ciągu niecałych stu lat ludność Chin wzrosła ze 150 do 400 milionów.Kangxi zmarł 20 grudnia 1720 w wieku 68 lat. Panując 61 lat, był najdłużej w historii panującym chińskim cesarzem.Po śmierci cesarza pomiędzy jego synami wybuchły walki o następstwo tronu, z których zwycięsko wyszedł Yongzheng.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_KUBLAI_KHAN</Tag><Polish>Kubilaj Chan</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_KUBLAI_KHAN</Tag><Polish>Kubilaj-chan</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_KUBLAI_KHAN_PEDIA</Tag><Polish>[H1]Kubilaj Chan [\H1][NEWLINE][BOLD]Chan Mongołów i Cesarz Chin [\BOLD][NEWLINE][BOLD][\BOLD](1215 - 1294)[NEWLINE][PARAGRAPH:2][BOLD]Biografia :[\BOLD][NEWLINE][TAB]PW 1259 roku Kubilaj został wielkim chanem mongolskim. Dzięki jego rządom imperium mongolskie znalazło się u szczytu rozwoju. Przeniósł on stolicę swego imperium z Karakorum do Chanbałyku, czyli dzisiejszego Pekinu. W roku 1271 założył mongolską dynastię Yuan. Po podbiciu Chin zakończył panowanie dynastii chińskich i w roku 1279 został cesarzem chińskim, władcą olbrzymiego imperium.[PARAGRAPH:1]Państwa sąsiadujące z cesarstwem chana Kubilaja zmuszone były uznać jego zwierzchnictwo. Nie powiodły się plany Kubilaja mające na celu podbicie Japonii i Jawy. Mimo iż był buddystą, był zainteresowany rozwijającym się chrześcijaństwem i zapraszał misjonarzy do odwiedzania Chin. Chan wspierał również rozwój rzemiosła, nauki i sztuki. Jednym z obcokrajowców, którzy odwiedzali w tym czasie jego dwór, był Marco Polo.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_LENIN_PEDIA</Tag><Polish>[H1]Włodzimierz Lenin[\H1][NEWLINE][BOLD]Przywódca Rosji Radzieckiej i Związku Socjalistycznych Republik Radzieckich[\BOLD][NEWLINE][BOLD]Żył: [\BOLD]1870 - 1924[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Rosyjski polityk, organizator i przywódca rewolucji październikowej, a następnie pierwszy przywódca Rosji Radzieckiej. Współzałożyciel i lider partii bolszewickiej. Teoretyk i ideolog komunizmu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_LEONIDAS</Tag><Polish>Leonidas</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_LEONIDAS</Tag><Polish>Leonidas I</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_LEONIDAS_PEDIA</Tag><Polish>[H1]Leonidas I[\H1][NEWLINE][BOLD]Król Sparty[\BOLD][NEWLINE][BOLD]Żył: [\BOLD] ok.521 - Sierpień 11, 480 p.n.e[NEWLINE][PARAGRAPH:2][BOLD]Historia:[\BOLD][NEWLINE][TAB]W 480 p.n.e. dowodził obroną przesmyku termopilskiego, stojąc na czele 300 Spartan i kilku tysięcy żołnierzy z innych greckich państw. Przez trzy dni odpierał ataki wielotysięcznej armii króla Persji, Kserksesa, która nie mogła w wąskim przejściu wykorzystać swojej liczebnej przewagi. W wyniku zdrady pasterza Efialtesa, wrogie oddziały zaszły od tyłu greckich żołnierzy. Leonidas odesłał wtedy wojska państw sprzymierzonych i wraz z trzystoma Spartanami, tyluż Helotami oraz siedmioma setkami Tespijczyków bronił wąwozu do końca. Poświęcenie Leonidasa i jego wojowników dało czas reszcie żołnierzy na wycofanie się.Postać Leonidasa jest symbolem bohaterstwa i mężnego poświęcenia, nawet w sytuacji bez wyjścia. W miejscu śmierci jego i jego oddziałów postawiono obelisk w kształcie lwa (tropaion) z wyrytym epigramatem autorstwa Symonidesa: Przechodniu, powiedz Sparcie, tu leżym, jej syny. Prawom jej do ostatniej posłuszni godziny. Istnieje także bardziej historyczna wersja: Przechodniu, idź i powiedz Lacedemończykom (Lacedemon, Lakonia - kraina geograficzna, w której leżała Sparta), żeśmy tu legli posłuszni ich prawom.</Polish>
         </TEXT>
@@ -23234,7 +23234,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_SURYAVARMAN_PEDIA</Tag><Polish>[H1]Surjawarman II[\H1][NEWLINE][BOLD]Król Khmerów[\BOLD][NEWLINE](1095-1150)[PARAGRAPH:2][BOLD]Biografia:[\BOLD][NEWLINE][TAB]Surjawarman II był królem królestwa Khmerów od 1113 do 1150 roku. Pokrywając większość dzisiejszej Tajlandii, Laosu i Kambodży. Na pięćdziesiąt lat przed wejściem na tron Surjawarmana, Imperium Khmerów było zniszczone przez podziały wewnętrzne i panował tam chaos. Urodzony w drugiej połowie jedenastego stulecia, Surjawarman zapowiadał się na zdolnego dowódcę, męża stanu i patrona sztuki.[PARAGRAPH:1]Po pokonaniu swoich rywali w drodze do tronu Surjawarman rozpoczął serię udanych inwazji na swoich sąsiadów i okupował teren dzisiejszej Tajlandii i Myanmaru, rozszerzając granice królestwa Khmerów. Dzięki jego wysiłkowi, imperium ponownie nawiązało kontakty z Chinami na północy i zawiązało potężny sojusz z państwem Champa na wschodzie. Razem ze swoimi sojusznikami, Surjawarman zaatakował sąsiadujące państwo Dai Viet. Gdy kolejne kampanie przeciwko Dai Viet kończyły się klęską, król Champa złamał sojusz z Khmerami. Nie przebaczając zdrady, Surwajarman najechał Champa, lecz brutalna kampania w ostateczności kosztowała przywódcę Khmerów życie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_SVEIN</Tag><Polish>Svein Widłobrody</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_SVEIN</Tag><Polish>Swen Widłobrody</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_THEODORA</Tag><Polish>Teodora</Polish>
         </TEXT>
@@ -23268,71 +23268,71 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_WU_PEDIA</Tag><Polish>[H1]Wu Zetian[\H1][NEWLINE][BOLD]Cesarzowa regentka Chin[\BOLD][NEWLINE][BOLD]Lata panowania: [\BOLD]690 - 705[NEWLINE][PARAGRAPH:2][BOLD]Rys historyczny:[\BOLD][NEWLINE][TAB]Wu Zetian (10 lutego 625–16 grudnia 705), której imię osobiste brzmiało Wu Zhao i którą w czasach dynastii Tang często określano jako Tian Hou, a później jako cesarzową małżonkę Wu, była jedyną kobietą w dziejach Chin, która przyjęła tytuł samodzielnie panującej cesarzowej. Najpierw faktycznie rządziła Chinami za pośrednictwem męża i synów w latach od 665 do 690, co nie było bez precedensu w historii Chin. Następnie zerwała jednak z wszelkimi precedensami, zakładając w 690 r. własną dynastię Zhou (przerywając panowanie dynastii Tang), i od 690 do 705 r. rządziła osobiście pod tytułem Świętej i Boskiej Panującej Cesarzowej oraz jego wariantami. Jej drogę do władzy i panowanie surowo krytykowali historycy konfucjańscy, lecz po latach 1950. zaczęto je postrzegać w innym świetle.[PARAGRAPH:1]Wu Zetian trafiła do pałacu dynastii Tang w wieku 13 lat i została konkubiną cesarza Taizonga. Nie stała się jego faworytą, a po jego śmierci w 649 r. można było oczekiwać, że resztę życia spędzi jako buddyjska mniszka, podobnie jak inne jego bezdzietne konkubiny. Jednak za sprawą mało prawdopodobnego zbiegu okoliczności cesarzowa Wang, żona i cesarzowa Gaozonga, syna i następcy Taizonga, zapragnęła kolejnej pięknej konkubiny, która odciągnęłaby względy Gaozonga od małżonki Xiao, z którą Wang prowadziła zaciekłą walkę. Wang kazała więc sprowadzić Wu z powrotem do pałacu i uczynić ją konkubiną cesarza Gaozonga. Małżonka Wu pokonała następnie zarówno cesarzową Wang, jak i małżonkę Xiao w walce o uczucia Gaozonga. Później obie rywalki zostały zabite, a Wu mianowano cesarzową. Przez całe panowanie Gaozonga stopniowo zdobywała coraz większy wpływ na rządy w cesarstwie, a pod koniec jego panowania faktycznie podejmowała większość najważniejszych decyzji. Uważano ją za bezwzględną w dążeniu do zdobycia władzy, a tradycyjni historycy sądzili, że zabiła nawet własną córkę, aby obciążyć winą cesarzową Wang, oraz własnego najstarszego syna Li Honga w walce o władzę. Później doprowadziła do usunięcia z pozycji i wygnania kolejnego syna, Li Xiana.[PARAGRAPH:1]Po śmierci cesarza Gaozonga w 683 r. cesarzowa Wu została cesarzową wdową i usunęła z tronu trzeciego syna, cesarza Zhongzonga, za okazywanie niezależności. Następnie doprowadziła do objęcia tronu przez najmłodszego syna, cesarza Ruizonga, ale rządziła nie tylko faktycznie, lecz także jawnie: przewodniczyła cesarskim zgromadzeniom i nie pozwalała Ruizongowi brać czynnego udziału w rządzeniu. W 690 r. nakłoniła go do oddania jej tronu i ustanowiła dynastię Zhou. Wczesny okres jej panowania cechował terror tajnej policji, który z biegiem lat łagodniał. Z drugiej strony nawet gardzący nią tradycyjni historycy uznawali ją za zdolną i troskliwą władczynię, a jej umiejętność dobierania zdolnych urzędników podziwiano przez pozostały okres panowania dynastii Tang oraz za kolejnych dynastii. W 705 r. została obalona w zamachu stanu, a na tron przywrócono cesarza Zhongzonga. Nadal nosiła tytuł „cesarza” aż do śmierci pod koniec tego samego roku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LEADER_ZARA_YAQOB</Tag><Polish>Zera Jaykob</Polish>
+<TEXT><Tag>TXT_KEY_LEADER_ZARA_YAQOB</Tag><Polish>Zara Yaqob</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LEADER_ZARA_YAQOB_PEDIA</Tag><Polish>[H1]Zera Jaykob[\H1][NEWLINE][BOLD]Król Etiopii[\BOLD][NEWLINE](1399-1468)[NEWLINE][PARAGRAPH:2][BOLD]Biografia:[\BOLD][PARAGRAPH:1]Zera Jaykob był Cesarzem Etiopii od 1434 do 1468 roku. Członek dynastii Salomońskiej, która wywodziła swe pochodzenie prosto od biblijnego króla Salomona. Zera Jaykob był niesamowicie pobożnym, lecz gdy trzeba również ostrym władcą.We wczesnych latach życia był umieszczony w więzieniu Amba Geshen, gdyż był potencjalnym zagrożeniem dla swojego brata Tewodrosa. Zera Jaykob uzyskał władzę monarszą dopiero w 1434 roku, po śmierci swojego brata.[PARAGRAPH:1]Jako bardzo religijny przywódca, Zera Jaykob wprowadził wiele reform i nowych praw do codziennego życiu, bazując na swojej wiarze. Boże Narodzenie było świętowane co miesiąc, łącznie z innymi festiwalami i świętami. Wszystkie trzydzieści trzy festiwale poświęcone Maryi Dziewicy były świętowane tak jakby przypadały w szabas, niezależnie w jakim dniu tygodnia wypadały.[PARAGRAPH:1]Zera Jaykob dokładnie pilnował przykazań wiary. Obywatele którzy nie przestrzegali ściśle nakazów Kościoła Chrześcijańskiego, byli skazywani na śmierć. Jeżeli jakaś osoba była oskarżona o współpracę z diabłem (lub jakimś innym nie-chrześcijańskim bożkiem ), była skazywana na śmierć. Nawet członkowie rodziny Zera Jaykoba nie byli chronieni przed tymi karami. Wielu z nich zostało skazanych na śmierć, włączając w to jego własną żonę, aby usprawiedliwić wykonywanie jego szeroko krytykowanych praw na innych obywatelach.[PARAGRAPH:1]Po spisku zorganizowanym przez jednego z jego podwładnych w początkach jego panowania, Zera Jaykob zaczął przejawiać objawy paranoi. Rozpoczął wtedy zastępowanie wszystkich wyższych urzędników, członkiniami rodziny królewskiej, którym myślał że może ufać. Cesarz umieścił swoje własne siostry, córki i siostrzenice na różnych stanowiskach rządowych. W związku z tą paranoją, królestwo Zera Jaykoba było unikalne gdyż kobiety zdominowały rządy w czasach gdy to mężczyźni tradycyjnie zajmowali się rządzeniem.[PARAGRAPH:1]Zera Jaykob wysyłał również wiele misji dyplomatycznych do Europy i Indii aby zawrzeć sojusze przeciwko islamskim imperiom Bliskiego Wschodu, oraz w celu sprowadzenia wykwalifikowanych robotników i artystów do swojego kraju.[PARAGRAPH:1]Znany głównie ze swoich drakońskich praw religijnych, Zera Jaykob był również pragmatycznym przywódcą którzy sprawnie bronił Etiopii przed wpływami zewnętrznymi. Wiele z jego dzieł religijnych, włączając w to Mashafa Berha i Mashafa Milad, wciąż są dostępne dla czytelników.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIBERATE_CITY</Tag><Polish>Wyzwól</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIBERATE_CITY_HELP</Tag><Polish>Podaruj miasto %s1_city graczowi: %s2_player</Polish>
+<TEXT><Tag>TXT_KEY_LIBERATE_CITY_HELP</Tag><Polish>Przekaż miasto %s1_city graczowi %s2_player.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_GREAT_WONDER</Tag><Polish>Ukryj cuda świata</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_NATIONAL_WONDER</Tag><Polish>Ukryj cuda narodowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_NORMAL</Tag><Polish>Ukryj normalne budynki</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_NORMAL</Tag><Polish>Ukryj zwykłe budynki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_UNHAPPINESS</Tag><Polish>Ukryj budynki które powodują niezadowolenie </Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_UNHAPPINESS</Tag><Polish>Ukryj budynki powodujące niezadowolenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_UNHEALTHINESS</Tag><Polish>Ukryj budynki które powodują chorobę</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_HIDE_UNHEALTHINESS</Tag><Polish>Ukryj budynki pogarszające zdrowotność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_BUILDABLE</Tag><Polish>Pokaż tylko budynki które możesz wybudować</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_BUILDABLE</Tag><Polish>Pokaż tylko budynki, które można zbudować</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_CITY_DEFENSE</Tag><Polish>Pokaż tylko budynki które dostarczają obronę miasta</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_CITY_DEFENSE</Tag><Polish>Pokaż tylko budynki wzmacniające obronę miasta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_CRIME</Tag><Polish>Pokaż tylko budynki mające wpływ na przestępczość</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_CULTURE</Tag><Polish>Pokaż tylko budynki które dostarczają kulturę</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_CULTURE</Tag><Polish>Pokaż tylko budynki wytwarzające kulturę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_ESPIONAGE</Tag><Polish>Pokaż tylko budynki które dostarczają szpiegostwo</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_ESPIONAGE</Tag><Polish>Pokaż tylko budynki zapewniające punkty szpiegostwa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_FLAMMABILITY</Tag><Polish>Pokaż tylko budynki mające wpływ na pożar</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_FLAMMABILITY</Tag><Polish>Pokaż tylko budynki wpływające na palność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_FOOD</Tag><Polish>Pokaż tylko budynki które dostarczają żywność</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_FOOD</Tag><Polish>Pokaż tylko budynki zapewniające żywność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_GOLD</Tag><Polish>Pokaż tylko budynki które dostarczają złoto</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_GOLD</Tag><Polish>Pokaż tylko budynki zapewniające złoto</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_HAPPINESS</Tag><Polish>Pokaż tylko budynki które dostarczają zadowolenie</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_HAPPINESS</Tag><Polish>Pokaż tylko budynki zwiększające zadowolenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_HEALTH</Tag><Polish>Pokaż tylko budynki które dostarczają zdrowie</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_HEALTH</Tag><Polish>Pokaż tylko budynki poprawiające zdrowotność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_MILITARY</Tag><Polish>Pokaż tylko budynki które dostarczają ulepszenia militarne</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_MILITARY</Tag><Polish>Pokaż tylko budynki zapewniające przewagę wojskową</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_PRODUCTION</Tag><Polish>Pokaż tylko budynki które dostarczają produkcję</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_PRODUCTION</Tag><Polish>Pokaż tylko budynki zapewniające produkcję</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_SCIENCE</Tag><Polish>Pokaż tylko budynki które dostarczają naukę</Polish>
+<TEXT><Tag>TXT_KEY_LIST_BUILDING_FILTER_SHOW_SCIENCE</Tag><Polish>Pokaż tylko budynki wspierające badania</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_BUILDING_GROUPING</Tag><Polish>Grupuje budynki według wybranych kategorii</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_BUILDING_SORTING</Tag><Polish>Sortuje budynki według wybranych kategorii</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_HIDE_LIMITED</Tag><Polish>Pokaż jednostki które można produkować bez limitu</Polish>
+<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_HIDE_LIMITED</Tag><Polish>Pokaż tylko jednostki bez limitu liczebności</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_AIR</Tag><Polish>Pokaż tylko jednostki powietrzne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_BUILDABLE</Tag><Polish>Pokaż jednostki które mogą zostać wyszkolone</Polish>
+<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_BUILDABLE</Tag><Polish>Pokaż tylko jednostki, które można wyszkolić</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_CIVILIAN</Tag><Polish>Pokaż tylko jednostki cywilne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_DEFENSE</Tag><Polish>Pokaż tylko jednostki obronne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_HEROES</Tag><Polish>Pokaż tylko jednostki bohaterów</Polish>
+<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_HEROES</Tag><Polish>Pokaż tylko bohaterów</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_LAND</Tag><Polish>Pokaż tylko jednostki lądowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_MILITARY</Tag><Polish>Pokaż tylko jednostki militarne</Polish>
+<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_MILITARY</Tag><Polish>Pokaż tylko jednostki wojskowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_MISSIONARY</Tag><Polish>Pokaż tylko jednostki misjonarzy</Polish>
+<TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_MISSIONARY</Tag><Polish>Pokaż tylko misjonarzy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LIST_UNIT_FILTER_SHOW_MOUNTED</Tag><Polish>Pokaż tylko jednostki konne</Polish>
         </TEXT>
@@ -23350,25 +23350,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOADSAVE_FILE_CANT_CREATE</Tag><Polish>Błąd tworzenia pliku: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOADSAVE_FILE_CANT_OPEN</Tag><Polish>Błąd odczytu pliku: %s1</Polish>
+<TEXT><Tag>TXT_KEY_LOADSAVE_FILE_CANT_OPEN</Tag><Polish>Błąd otwierania pliku: %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOADSAVE_FILE_NOT_EXIST</Tag><Polish>Wybrany plik nie istnieje.[NEWLINE]Wybierz odpowiedni plik.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOADSAVE_FILE_PROTECTED</Tag><Polish>Wczytywany plik z zapisem gry jest starszej wersji i prosimy zaktualizować wersję gry lub jest chroniony, aby uniemożliwić zmiany danych w twoim folderze modów.</Polish>
+<TEXT><Tag>TXT_KEY_LOADSAVE_FILE_PROTECTED</Tag><Polish>Wybrany zapis gry jest chroniony, aby zapewnić, że zasoby w folderze moda nie zostały zmienione.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOAD_ERROR</Tag><Polish>Błąd odczytu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOAD_FILE</Tag><Polish>Wczytaj plik</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOBBY_PROFILE_TAG</Tag><Polish>Imię:</Polish>
+<TEXT><Tag>TXT_KEY_LOBBY_PROFILE_TAG</Tag><Polish>Nazwa:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOCAL_SYNTHETIC_FUELS_4</Tag><Polish>Rozpoczęto produkcję paliw syntetycznych!  Miasto %s2_city generuje teraz 1 jednostkę paliwa.</Polish>
+<TEXT><Tag>TXT_KEY_LOCAL_SYNTHETIC_FUELS_4</Tag><Polish>Rozpoczęto produkcję paliw syntetycznych! Miasto %s2_city zapewnia teraz +1 jednostkę surowca: produkty naftowe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOGGING_WARNING_DESC</Tag><Polish>Gracz %d1_ID: LoggingEnabled=1.[NEWLINE]Weryfikuje w celu sprawdzenia gracza.</Polish>
+<TEXT><Tag>TXT_KEY_LOGGING_WARNING_DESC</Tag><Polish>Gracz %d1_ID ma włączone zapisywanie dziennika.[NEWLINE]Upewnij się, że możesz mu zaufać.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOGIN_ERROR_DESC</Tag><Polish>Próba logowania nie powiodła się.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOGIN_ERROR_TITLE</Tag><Polish>Logowanie przerwane</Polish>
+<TEXT><Tag>TXT_KEY_LOGIN_ERROR_TITLE</Tag><Polish>Logowanie nie powiodło się</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOGIN_IN_USE_DESC</Tag><Polish>To konto jest obecnie w użyciu.</Polish>
         </TEXT>
@@ -23378,59 +23378,59 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOGIN_REQUIRED_TITLE</Tag><Polish>Potrzebna nazwa użytkownika</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOGIN_TIMEOUT_DESC</Tag><Polish>Limit czasu logowania przekroczony. Serwer może być wyłączony</Polish>
+<TEXT><Tag>TXT_KEY_LOGIN_TIMEOUT_DESC</Tag><Polish>Przekroczono czas oczekiwania na zalogowanie. Serwer uwierzytelniania może być niedostępny.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_LOGIN_TIMEOUT_TITLE</Tag><Polish>Błąd logowania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOGSCALE</Tag><Polish>Skala logu</Polish>
+<TEXT><Tag>TXT_KEY_LOGSCALE</Tag><Polish>Skala logarytmiczna</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOSER_MERCY_RULE_HAS_BEGUN</Tag><Polish>Wynik innego gracza przekracza limit zasady litości! Przegrasz grę za %d1 tur jeśli nie ulepszysz swojego wyniku!</Polish>
+<TEXT><Tag>TXT_KEY_LOSER_MERCY_RULE_HAS_BEGUN</Tag><Polish>Wynik innego gracza przekroczył próg zasady litości! Jeśli nie poprawisz swojego wyniku, przegrasz grę (pozostałe tury: %d1).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOSER_MERCY_RULE_TURNS</Tag><Polish>Zasada litości aktywna! Przegrasz za %d1 [NUM5:ture:tury:tur]!!!</Polish>
+<TEXT><Tag>TXT_KEY_LOSER_MERCY_RULE_TURNS</Tag><Polish>Zasada litości jest aktywna! Tury pozostałe do twojej porażki: %d1!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_LOW_PLAYER_DROPPED</Tag><Polish>Najsłabszy gracz został wyrzucony z gry! Pozostań w pierwszej 5 by utrzymać się w grze!</Polish>
+<TEXT><Tag>TXT_KEY_LOW_PLAYER_DROPPED</Tag><Polish>Najsłabszy gracz został wyeliminowany! Utrzymuj się w pierwszej 5, aby pozostać w grze!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_AVAILABLE_NUKES</Tag><Polish>Dostępne Głowice Jądrowe</Polish>
+<TEXT><Tag>TXT_KEY_MAD_AVAILABLE_NUKES</Tag><Polish>Dostępne głowice jądrowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAD_CITY</Tag><Polish>Nazwa:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_CITY_OWNER</Tag><Polish>Miasto w posiadaniu:</Polish>
+<TEXT><Tag>TXT_KEY_MAD_CITY_OWNER</Tag><Polish>Właściciel miasta:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_COUNT</Tag><Polish>Zagrożenie</Polish>
+<TEXT><Tag>TXT_KEY_MAD_COUNT</Tag><Polish>Liczba zagrożeń:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAD_INCOMING_WARHEADS</Tag><Polish>NADCHODZĄCE GŁOWICE</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_LOCATE</Tag><Polish>Umiejscowione w:</Polish>
+<TEXT><Tag>TXT_KEY_MAD_LOCATE</Tag><Polish>Położenie:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAD_NUCLEARARSENAL</Tag><Polish>PODSUMOWANIE ARSENAŁU JĄDROWEGO</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_NUCLEARTHREAT</Tag><Polish>PODSUMOWANIA ZAGROŻENIA JĄDROWEGO</Polish>
+<TEXT><Tag>TXT_KEY_MAD_NUCLEARTHREAT</Tag><Polish>PODSUMOWANIE ZAGROŻENIA JĄDROWEGO</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_NUKE_WARHEAD_MANAGER</Tag><Polish>MENADŻER POCISKÓW JĄDROWYCH</Polish>
+<TEXT><Tag>TXT_KEY_MAD_NUKE_WARHEAD_MANAGER</Tag><Polish>ZARZĄDZANIE GŁOWICAMI JĄDROWYMI</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_OUTGOING_NUKES</Tag><Polish>Wychodzące Zagrożenie Nuklearne</Polish>
+<TEXT><Tag>TXT_KEY_MAD_OUTGOING_NUKES</Tag><Polish>Głowice jądrowe wyznaczone do ataku</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_OUTGOING_WARHEADS</Tag><Polish>WYCHODZĄCE GŁOWICE</Polish>
+<TEXT><Tag>TXT_KEY_MAD_OUTGOING_WARHEADS</Tag><Polish>GŁOWICE DO ATAKU</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_SCREEN_HOVER</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Ekran MAD Nukes(ALT-N)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MAD_SCREEN_HOVER</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Ekran MAD Nukes (ALT-N)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_TARGET</Tag><Polish>Celowane:</Polish>
+<TEXT><Tag>TXT_KEY_MAD_TARGET</Tag><Polish>Cel: </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_TARGETEDCITIES</Tag><Polish>CELOWANE MIASTA</Polish>
+<TEXT><Tag>TXT_KEY_MAD_TARGETEDCITIES</Tag><Polish>MIASTA WYZNACZONE JAKO CELE</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAD_THREATENED_CITIES</Tag><Polish>Zagrożone miasta:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAD_TOTAL_CITIES</Tag><Polish>Miasta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_TOTAL_NUKES</Tag><Polish>Całkowita Ilość Głowic:</Polish>
+<TEXT><Tag>TXT_KEY_MAD_TOTAL_NUKES</Tag><Polish>Łączna liczba głowic jądrowych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_TOTAL_THREAT_COUNT</Tag><Polish>Całkowite Zagrożenie;</Polish>
+<TEXT><Tag>TXT_KEY_MAD_TOTAL_THREAT_COUNT</Tag><Polish>Łączna liczba zagrożeń</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAD_UNTARGETED_CITIES</Tag><Polish>Miasta nie Wycelowane</Polish>
+<TEXT><Tag>TXT_KEY_MAD_UNTARGETED_CITIES</Tag><Polish>Miasta poza listą celów</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_CITY_DEFENSE</Tag><Polish>%F1 Obrona: %D2%%</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_CITY_GREAT_WONDERS</Tag><Polish>Wielkie cudy</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_CITY_GREAT_WONDERS</Tag><Polish>Cuda świata</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_CITY_NATIONAL_WONDERS</Tag><Polish>Cuda narodowe</Polish>
         </TEXT>
@@ -23440,17 +23440,17 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_ABOUT_THIS_BUILD</Tag><Polish>Informacje o wersji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_ADDRESS_MISSING_DESC</Tag><Polish>Musisz podać aktualny adres sieciowy.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_ADDRESS_MISSING_DESC</Tag><Polish>Musisz podać prawidłowy adres sieciowy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_ADDRESS_MISSING_TITLE</Tag><Polish>Potrzebny adres sieci</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_ADDRESS_MISSING_TITLE</Tag><Polish>Wymagany adres sieciowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_ADVANCED</Tag><Polish>ZAAWANSOWANE</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_AI</Tag><Polish>Komputer</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_ALREADY_PATCHING_DESC</Tag><Polish>Uaktualnienie gry właśnie się instaluje.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_ALREADY_PATCHING_DESC</Tag><Polish>Aktualizacja gry jest już w toku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_ALREADY_PATCHING_TITLE</Tag><Polish>Instalacja uaktualnienia już się rozpoczęła</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_ALREADY_PATCHING_TITLE</Tag><Polish>Trwa aktualizacja</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_BARBARIANS_HORDES</Tag><Polish>Hordy barbarzyńców!</Polish>
         </TEXT>
@@ -23466,7 +23466,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_BARBARIANS_ROAMING</Tag><Polish>Wałęsający się</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_BARBARIANS_SEDENTARY</Tag><Polish>Leniwi</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_BARBARIANS_SEDENTARY</Tag><Polish>Osiadli</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_BTS_MOD</Tag><Polish>Modyfikacja</Polish>
         </TEXT>
@@ -23478,11 +23478,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_BUILD_VERSION</Tag><Polish>Wersja kompilacji:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_CIVILIZATION</Tag><Polish>Wybierz Cywilizację</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_CIVILIZATION</Tag><Polish>Wybierz swoją cywilizację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_CIVILIZATION_LEADER_INFO</Tag><Polish>Informacja o Przywódcy</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_CIVILIZATION_LEADER_INFO</Tag><Polish>Informacje o przywódcy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_CIVILIZATION_UNKNOWN_LEADER_INFO</Tag><Polish>Wybór cywilizacji odbywa się w drodze losowania. Rozpoczniesz grę z technologiami i jednostkami, które są właściwe dla wylosowanej przez Ciebie cywilizacji.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_CIVILIZATION_UNKNOWN_LEADER_INFO</Tag><Polish>Cywilizacja zostanie wybrana losowo. Jej początkowe technologie i jednostki będą zależeć od wyniku losowania.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_CHOOSE_GAME_LOAD</Tag><Polish>Wybierz grę do wczytania</Polish>
         </TEXT>
@@ -23490,19 +23490,19 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_CIVILOPEDIA</Tag><Polish>Cywilopedia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_CIV_ADMINPWD_DESC</Tag><Polish>Proszę wprowadzić wymagane dla tej gry hasło administratora.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_CIV_ADMINPWD_DESC</Tag><Polish>Podaj wymagane hasło administratora tej gry.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_CIV_ADMINPWD_TITLE</Tag><Polish>HASŁO ADMINISTRATORA</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_CIV_VERSION</Tag><Polish>Wersja gry:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_CLOSED</Tag><Polish>Zamknij</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_CLOSED</Tag><Polish>Zamknięty</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_COLUMN_PITBOSS</Tag><Polish>PB</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_CONNECT</Tag><Polish>Połącz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_CREATE_A_GAME</Tag><Polish>UtwÓrz grę!</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_CREATE_A_GAME</Tag><Polish>Utwórz grę!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_CREDITS</Tag><Polish>O TWÓRCACH</Polish>
         </TEXT>
@@ -23524,21 +23524,21 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_EXAMPLE</Tag><Polish>Przykład</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_EXIT_GAME</Tag><Polish>WyjŚcie z gry</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_EXIT_GAME</Tag><Polish>Wyjście z gry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_FILETRANSFER_INPROGRESS_DESC</Tag><Polish>Proszę czekać... Przesyłanie informacji w toku.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_FILETRANSFER_INPROGRESS_DESC</Tag><Polish>Trwa przesyłanie danych gry. Proszę czekać.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_FILETRANSFER_INPROGRESS_TITLE</Tag><Polish>Transfery danych...</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_FILETRANSFER_INPROGRESS_TITLE</Tag><Polish>Przesyłanie plików...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_FORCED_DISCONNECT_DESC</Tag><Polish>Ktoś używa już tego konta</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_FORCED_DISCONNECT_DESC</Tag><Polish>Ktoś inny zalogował się na to konto.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_FORCED_DISCONNECT_INGAME</Tag><Polish>Ktoś już jest zalogowany na tym koncie. Wychodzę do menu głównego.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_FORCED_DISCONNECT_INGAME</Tag><Polish>Ktoś inny zalogował się na to konto. Powrót do menu głównego...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_FORCED_DISCONNECT_TITLE</Tag><Polish>Pogwałcenie dostępu do konta</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_FORCED_DISCONNECT_TITLE</Tag><Polish>Konflikt dostępu do konta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_GAMENAME_MISSING_DESC</Tag><Polish>Musisz podać nazwę gry.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_GAMENAME_MISSING_TITLE</Tag><Polish>Potrzebna nazwa gry</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_GAMENAME_MISSING_TITLE</Tag><Polish>Wymagana nazwa gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_GAME_LOAD_MESSAGE_LOG</Tag><Polish>Dziennik zdarzeń</Polish>
         </TEXT>
@@ -23546,7 +23546,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_GAME_PROFILE</Tag><Polish>Profil gry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_GAME_STATS_OPTION</Tag><Polish>Raport stanu gry</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_GAME_STATS_OPTION</Tag><Polish>Raportuj statystyki gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_GO_BACK</Tag><Polish>Cofnij</Polish>
         </TEXT>
@@ -23556,41 +23556,41 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_HOST</Tag><Polish>Host</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_HOST_DISCONNECT_DESC</Tag><Polish>Utracono połączenie z hostem.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_HOST_DISCONNECT_DESC</Tag><Polish>Utracono połączenie z gospodarzem gry.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_HOST_DISCONNECT_TITLE</Tag><Polish>Połączenie przerwane</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_HOST_PING</Tag><Polish>Ping hosta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_HOT_SEAT</Tag><Polish>2 Graczy</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_HOT_SEAT</Tag><Polish>Wspólny komputer</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_HUMAN</Tag><Polish>Człowiek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_INVALID_HOST_DESC</Tag><Polish>Wybrany host nie jest aktualny.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_INVALID_HOST_DESC</Tag><Polish>Wybrany gospodarz gry nie jest już dostępny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_INVALID_HOST_TITLE</Tag><Polish>Błędny host</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_INVALID_HOST_TITLE</Tag><Polish>Nieprawidłowy gospodarz gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN</Tag><Polish>Dołącz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN_FAILED</Tag><Polish>Nie udało się połączyć z hostem:</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN_FAILED</Tag><Polish>Nie udało się dołączyć do gry pod adresem: </Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN_FAILED_DESC</Tag><Polish>Nie można dołączyć do gry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN_FAILED_TITLE</Tag><Polish>Przerwane</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN_FAILED_TITLE</Tag><Polish>Nie udało się dołączyć</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_JOIN_GAME</Tag><Polish>DOŁĄCZ DO GRY</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LAUNCH</Tag><Polish>Uruchom</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LAUNCHING</Tag><Polish>Uruchamiam Cywilizację IV!</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LAUNCHING</Tag><Polish>Uruchamianie Civilization IV!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LEADERS_TITLE</Tag><Polish>PRZYWÓDCA</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LEADERS_TITLE</Tag><Polish>PRZYWÓDCY</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOADING_SAVEGAME</Tag><Polish>Wczytywanie zapisanej gry "%s1_Filename"</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_CANCEL</Tag><Polish>Anuluj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_CREATE</Tag><Polish>Stwórz</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_CREATE</Tag><Polish>Utwórz</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_FILETYPE</Tag><Polish>Typ pliku</Polish>
         </TEXT>
@@ -23598,11 +23598,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_GAME_FOLDER</Tag><Polish>Katalog</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_MODIFIED</Tag><Polish>Modyfikowany</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_MODIFIED</Tag><Polish>Zmodyfikowano</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_NEW_FOLDER</Tag><Polish>Nowy katalog</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_SELECT_FOLDER</Tag><Polish>Proszę wybrać katalog</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_SELECT_FOLDER</Tag><Polish>Wybierz katalog</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOADSAVE_SIZE</Tag><Polish>Rozmiar</Polish>
         </TEXT>
@@ -23612,39 +23612,39 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_GAME_TITLE</Tag><Polish>Wczytaj grę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_INIT_FAILED_DESC</Tag><Polish>Nie można załadować danych gry.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_INIT_FAILED_DESC</Tag><Polish>Nie udało się wczytać początkowych danych gry.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_INIT_FAILED_TITLE</Tag><Polish>ładowanie nie powiodło się.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_INIT_FAILED_TITLE</Tag><Polish>Błąd wczytywania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_MOD</Tag><Polish>Wczytaj Modyfikacje</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOAD_MOD</Tag><Polish>Wczytaj modyfikację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_LOBBY_NAME</Tag><Polish>Czat</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_LOBBY_NAME</Tag><Polish>Czat w poczekalni</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_MAP</Tag><Polish>Mapa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_MAP_SCRIPT_NOT_FOUND_DESC</Tag><Polish>Nie można zlokalizować wybranego skryptu mapy.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_MAP_SCRIPT_NOT_FOUND_DESC</Tag><Polish>Nie znaleziono pliku wybranego skryptu mapy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_MAP_SCRIPT_NOT_FOUND_TITLE</Tag><Polish>Skrypt mapy nie został znaleziony</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_MAP_SCRIPT_NOT_FOUND_TITLE</Tag><Polish>Nie znaleziono skryptu mapy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_MOD_NAME</Tag><Polish>Nazwa modyfikacji:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_MOD_RESTART</Tag><Polish>Ten scenariusz potrzebuje modyfikacji: "%s1_ModName".[NEWLINE]Gra musi zostać uruchomiona ponownie.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_MOD_RESTART</Tag><Polish>Ten scenariusz wymaga modyfikacji „%s1_ModName”.[NEWLINE]Aby ją wczytać, trzeba ponownie uruchomić grę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_MPINIT_FAILED_DESC</Tag><Polish>Nie mogę uruchomić silnika wiadomości.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_MPINIT_FAILED_DESC</Tag><Polish>Nie udało się uruchomić modułu komunikacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_MPINIT_FAILED_TITLE</Tag><Polish>Błąd</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_MULTIPLAYER</Tag><Polish>Gra wieloosobowa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_MULTIPLAYER_DIRECTIP</Tag><Polish>Direct IP</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_MULTIPLAYER_DIRECTIP</Tag><Polish>Bezpośrednie połączenie IP</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_MULTIPLAYER_INTERNET_GAMES</Tag><Polish>Gra przez internet</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_MULTIPLAYER_LAN</Tag><Polish>Gra w sieci lokalnej</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NETWORK_ADDRESS</Tag><Polish>Adres sieci</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NETWORK_ADDRESS</Tag><Polish>Adres sieciowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NET_HOST_FAILED</Tag><Polish>Hostowanie gry nie powiodło się. Proszę sprawdzić połączenia sieciowe.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NET_HOST_FAILED</Tag><Polish>Nie udało się utworzyć gry sieciowej. Sprawdź połączenia sieciowe.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NEW</Tag><Polish>Nowa</Polish>
         </TEXT>
@@ -23652,33 +23652,33 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NEW_SCENARIO</Tag><Polish>Nowy scenariusz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NONAME_MOD_RESTART</Tag><Polish>Gra musi zostać uruchomiona ponownie.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NONAME_MOD_RESTART</Tag><Polish>Aby wczytać tę modyfikację, trzeba ponownie uruchomić grę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NONE</Tag><Polish>Brak</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_READY</Tag><Polish>Niegotowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_READY_DESC</Tag><Polish>Nie można uruchomić gry dopóki wszyscy gracze nie będą gotowi.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_READY_DESC</Tag><Polish>Nie można rozpocząć gry, dopóki wszyscy gracze nie będą gotowi.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_READY_TITLE</Tag><Polish>Niegotowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_UNIQUE_DESC</Tag><Polish>%s1_leader został wybrany przez więcej niż jednego gracza. Każdy z graczy w rozgrywce anonimowej musi wybrać innego przywódcę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_UNIQUE_TITLE</Tag><Polish>Powtarzaj Imiona Przywódców</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NOT_UNIQUE_TITLE</Tag><Polish>Powtarzające się imiona przywódców</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NO_AVAILABLE_CIV_DESC</Tag><Polish>Brak dostępnych cywilizacji do wyboru.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_NO_AVAILABLE_CIV_TITLE</Tag><Polish>Brak cywilizacji!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NO_MAPS_FOUND_DESC</Tag><Polish>Skrypt nie został znaleziony!</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NO_MAPS_FOUND_DESC</Tag><Polish>Nie znaleziono żadnych skryptów map!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_NO_MAPS_FOUND_TITLE</Tag><Polish>Bład skryptu mapy</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_NO_MAPS_FOUND_TITLE</Tag><Polish>Błąd skryptu mapy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_OK</Tag><Polish>OK</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_OPEN</Tag><Polish>Otwórz</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_OPEN</Tag><Polish>Otwarty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_OPEN_REPLAY_FAILED</Tag><Polish>Bład otwarcia pliku.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_OPEN_REPLAY_FAILED</Tag><Polish>Nie udało się otworzyć pliku powtórki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_OPTIONS</Tag><Polish>Opcje</Polish>
         </TEXT>
@@ -23688,11 +23688,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_CHECK_ERROR_DESC</Tag><Polish>Wystąpił błąd podczas sprawdzania dostępności aktualizacji.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_CHECK_ERROR_TITLE</Tag><Polish>Błąd przy uaktualnieniu</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_CHECK_ERROR_TITLE</Tag><Polish>Błąd aktualizacji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_IN_PROGRESS_DESC</Tag><Polish>Nie przerywaj, dopóki proces instalacji się nie zakończy</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_IN_PROGRESS_DESC</Tag><Polish>Nie można kontynuować, dopóki instalacja aktualizacji się nie zakończy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_IN_PROGRESS_TITLE</Tag><Polish>Trwa instalacja uaktualnienia!</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_IN_PROGRESS_TITLE</Tag><Polish>Trwa instalacja aktualizacji!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PATCH_OK_DESC</Tag><Polish>W obecnej chwili nie ma żadnych nowych uaktualnień.</Polish>
         </TEXT>
@@ -23700,25 +23700,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PBEM</Tag><Polish>Gra przez e-mail</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PITBOSS_WAIT</Tag><Polish>-Czekanie na Pitboss'a</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PITBOSS_WAIT</Tag><Polish> - Oczekiwanie na serwer PitBoss</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYER</Tag><Polish>Gracz</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYERNAME_MISSING_DESC</Tag><Polish>Musisz podać nazwę gracza.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYERNAME_MISSING_TITLE</Tag><Polish>Potrzebna nazwa gracza</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYERNAME_MISSING_TITLE</Tag><Polish>Wymagana nazwa gracza</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYERS</Tag><Polish>Gracze</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYER_DETAILS_TITLE</Tag><Polish>OPCJE GRACZA</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYER_DETAILS_TITLE</Tag><Polish>DANE GRACZA</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYER_NAME</Tag><Polish>Nazwa gracza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYER_WAIT</Tag><Polish>-Czekanie na:</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAYER_WAIT</Tag><Polish> - Oczekiwanie na: </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAY_NOW</Tag><Polish>Nowa gra</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PLAY_NOW</Tag><Polish>Graj teraz!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_PROTECT_CIV</Tag><Polish>Broń swojej cywilizacji!</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_PROTECT_CIV</Tag><Polish>Zabezpiecz swoją cywilizację!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_RANDOM</Tag><Polish>Losuj</Polish>
         </TEXT>
@@ -23732,25 +23732,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_REPEAT_PASSWORD</Tag><Polish>Powtórz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_ROOM_MEMBERS_TAB</Tag><Polish>Sala uczestników</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_ROOM_MEMBERS_TAB</Tag><Polish>Uczestnicy poczekalni</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SAVE_GAME_TITLE</Tag><Polish>Zapisz grę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SAVE_VERSION</Tag><Polish>Wersja zapisu:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SCENARIO</Tag><Polish>Graj scenariusz</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SCENARIO</Tag><Polish>Rozegraj scenariusz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A</Tag><Polish>Wybierz [SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A</Tag><Polish>Wybierz[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_CIV</Tag><Polish>Wybierz Cywilizację</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_CIV</Tag><Polish>Wybierz cywilizację</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_CLIMATE</Tag><Polish>Wybierz klimat</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_DIFFICULTY</Tag><Polish>Wybierz poziom trudnoŚci</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_DIFFICULTY</Tag><Polish>Wybierz poziom trudności</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_MAP</Tag><Polish>Wybierz Mapę</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_MAP</Tag><Polish>Wybierz mapę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_SCENARIO</Tag><Polish>Wybierz Scenariusz</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_SCENARIO</Tag><Polish>Wybierz scenariusz</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_A_SEALEVEL</Tag><Polish>Wybierz poziom morza</Polish>
         </TEXT>
@@ -23760,23 +23760,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_CLIMATE_TITLE</Tag><Polish>KLIMAT</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_DIFFICULTY</Tag><Polish>Jaki jest twój poziom?</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_DIFFICULTY</Tag><Polish>Jak oceniasz swoje umiejętności?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_DIFFICULTY_TITLE</Tag><Polish>POZIOM TRUDNOŚCI</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_GAME_SPEED</Tag><Polish>Jak szybka powinna być gra?</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_GAME_SPEED</Tag><Polish>Jakie ma być tempo gry?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_GAME_SPEED_TITLE</Tag><Polish>PRĘDKOŚĆ GRY</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_GAME_SPEED_TITLE</Tag><Polish>TEMPO GRY</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_GLOBE_VIEW</Tag><Polish>Widok globalny planety</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_MAP</Tag><Polish>Wybierz twój świat</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_MAP</Tag><Polish>Wybierz swój świat</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_MAP_DESCRIPTION</Tag><Polish>Jaki świat chcesz ukształtować?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_SEALEVEL</Tag><Polish>Jak głębokie powinny być oceany?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_SEALEVEL_TITLE</Tag><Polish>POZIOM WODY</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_SEALEVEL_TITLE</Tag><Polish>POZIOM MORZA</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_WORLD_SETUP</Tag><Polish>ROZMIAR ŚWIATA</Polish>
         </TEXT>
@@ -23784,35 +23784,35 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_WORLD_SIZE_TITLE</Tag><Polish>ROZMIAR ŚWIATA</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_WORLD_WRAP</Tag><Polish>Owijaj świat</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SELECT_WORLD_WRAP</Tag><Polish>Zawijanie mapy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SERVER_STAGING_ERROR_DESC</Tag><Polish>Błąd serwera dotyczący pokoju gry.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SERVER_STAGING_ERROR_DESC</Tag><Polish>W pokoju przygotowania gry na serwerze wystąpił błąd.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SERVER_STAGING_ERROR_TITLE</Tag><Polish>Błąd pokoju gry</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SERVER_STAGING_ERROR_TITLE</Tag><Polish>Błąd pokoju przygotowania gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SETTINGS</Tag><Polish>Ustawienia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_SHORT_NICK_ERROR_DESC</Tag><Polish>Nazwa użytkownika powinna posiadać co najmniej 3 znaki.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_SHORT_NICK_ERROR_DESC</Tag><Polish>Nazwa użytkownika musi mieć co najmniej 3 znaki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SHORT_NICK_ERROR_TITLE</Tag><Polish>Błędna nazwa użytkownika</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_SINGLE_PLAYER</Tag><Polish>Gra jednoosobowa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_STAGING_NAME</Tag><Polish>Salon gier</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_STAGING_NAME</Tag><Polish>Pokój przygotowania gry</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_TUTORIAL</Tag><Polish>SAMOUCZEK</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_UNCLAIMED</Tag><Polish>Pusty</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_UNCLAIMED</Tag><Polish>Nieprzydzielony</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_UNLOAD_MOD</Tag><Polish>Wyjdź z Moda</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_UNLOAD_MOD</Tag><Polish>Wyłącz modyfikację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_UPDATES</Tag><Polish>SprawdŹ uaktualnienia</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_UPDATES</Tag><Polish>Sprawdź aktualizacje</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_VERSION_MISMATCH_ERROR_DESC</Tag><Polish>Twoja wersja gry i wersja hosta nie są takie same[NEWLINE]Nie można się dołączyć do gry</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_VERSION_MISMATCH_ERROR_DESC</Tag><Polish>Wersje kluczowych plików gry różnią się od wersji gospodarza.[NEWLINE]Nie można dołączyć do gry!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_VERSION_MISMATCH_ERROR_TITLE</Tag><Polish>Niezgodność wersji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_VERSION_MISMATCH_WARNING_DESC</Tag><Polish>Ostrzeżenie: Twoja wersja gry jest inna od wersji hosta.</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_VERSION_MISMATCH_WARNING_DESC</Tag><Polish>Ostrzeżenie: wersje naszych plików gry różnią się od wersji gospodarza.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_VERSION_MISMATCH_WARNING_TITLE</Tag><Polish>Niezgodność wersji</Polish>
         </TEXT>
@@ -23820,57 +23820,57 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_VISIT_WEBSITE</Tag><Polish>ODWIEDŹ STRONĘ INTERNETOWĄ</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_WAITING_FOR_CIVS</Tag><Polish>Poczekaj na wybranie cywilizacji przez rywali...</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_WAITING_FOR_CIVS</Tag><Polish>Oczekiwanie na wybór cywilizacji...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_WARLORS</Tag><Polish>Scenariusze "Beyond the Sword"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_WORLD_WRAP_X</Tag><Polish>Owijaj oś X</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_WORLD_WRAP_X</Tag><Polish>Zawijaj w osi X</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAIN_MENU_WORLD_WRAP_Y</Tag><Polish>Owijaj oś Y</Polish>
+<TEXT><Tag>TXT_KEY_MAIN_MENU_WORLD_WRAP_Y</Tag><Polish>Zawijaj w osi Y</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAIN_MENU_YOUR_NAME</Tag><Polish>Twoje imię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MALLWART_STRATEGY</Tag><Polish>Zbuduj Siedzibę tej korporacji by zdobyć owoce i bonusy do żywności.</Polish>
+<TEXT><Tag>TXT_KEY_MALLWART_STRATEGY</Tag><Polish>Załóż tę korporację, aby uzyskać premie związane z owocami i artykułami spożywczymi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_ALREADY_RUNNING</Tag><Polish>[COLOR_WARNING_TEXT]MapFinder jest aktualnie uruchomiony[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_ALREADY_RUNNING</Tag><Polish>[COLOR_WARNING_TEXT]MapFinder jest już uruchomiony[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_CANNOT_REGENERATE</Tag><Polish>[COLOR_WARNING_TEXT]mapFinder nie może zregenerować mapy[COLOR_REVERT][NEWLINE]Wyjdź do menu głównego, rozpocznij nową grę i spróbuj ponownie.</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_CANNOT_REGENERATE</Tag><Polish>[COLOR_WARNING_TEXT]MapFinder nie może ponownie wygenerować mapy[COLOR_REVERT][NEWLINE]Wróć do menu głównego, rozpocznij nową grę i spróbuj ponownie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_INVALID_PATH</Tag><Polish>[COLOR_NEGATIVE_TEXT]Ścieżka folderu MapFindera jest zła: %s1[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_INVALID_PATH</Tag><Polish>[COLOR_NEGATIVE_TEXT]Nieprawidłowa ścieżka programu MapFinder: %s1[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_INVALID_SAVE_PATH</Tag><Polish>[COLOR_NEGATIVE_TEXT]Zła ścieżka zapisu MapFindera: %s1[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_INVALID_SAVE_PATH</Tag><Polish>[COLOR_NEGATIVE_TEXT]Nieprawidłowa ścieżka pliku zapisu programu MapFinder: %s1[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_INVALID_SYSTEM_FILE</Tag><Polish>[COLOR_NEGATIVE_TEXT]Plik systemowy MapFindera nieznaleziony: %s1[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_INVALID_SYSTEM_FILE</Tag><Polish>[COLOR_NEGATIVE_TEXT]Nie znaleziono pliku systemowego programu MapFinder: %s1[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAPFINDER_NOT_RUNNING</Tag><Polish>[COLOR_WARNING_TEXT]MapFinder nie jest uruchomiony[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_REGENERATE_FAILED</Tag><Polish>[COLOR_WARNING_TEXT]Wystąpił błąd przy regeneracji mapy[COLOR_REVERT][NEWLINE]Wyjdź do menu głównego, rozpocznij nową grę i spróbuj ponownie.</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_REGENERATE_FAILED</Tag><Polish>[COLOR_WARNING_TEXT]MapFinder nie zdołał ponownie wygenerować mapy[COLOR_REVERT][NEWLINE]Wróć do menu głównego, rozpocznij nową grę i spróbuj ponownie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_REGNERATING</Tag><Polish>Regeneracja mapy w toku...</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_REGNERATING</Tag><Polish>Ponowne generowanie mapy...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_REQUIRES_BULL</Tag><Polish>[COLOR_NEGATIVE_TEXT]MapFinder wymaga BULL do funkcjonowania[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_REQUIRES_BULL</Tag><Polish>[COLOR_NEGATIVE_TEXT]MapFinder wymaga biblioteki BULL do działania[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_SAVING</Tag><Polish>Zapisywanie Gry...</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_SAVING</Tag><Polish>Zapisywanie gry...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_STOPPED</Tag><Polish>MapFinder jest zatrzymany</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_STOPPED</Tag><Polish>MapFinder został zatrzymany</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPFINDER_STOP_SHORTCUT</Tag><Polish>ALT + CTRL + SHIFT + G by zatrzymać</Polish>
+<TEXT><Tag>TXT_KEY_MAPFINDER_STOP_SHORTCUT</Tag><Polish>ALT + CTRL + SHIFT + G: zatrzymaj</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAPFINDER_TOTAL_MAPS</Tag><Polish>Mapy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAPFINDER_TOTAL_SAVES</Tag><Polish>Zapisy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAPSTER_STRATEGY</Tag><Polish>Mapster jest dobrym sposobem informowania Twojej ludności o Twoich sukcesach ...</Polish>
+<TEXT><Tag>TXT_KEY_MAPSTER_STRATEGY</Tag><Polish>Mapster to dobry sposób, aby informować ludność o trwałych sukcesach twojego państwa...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_BALANCED</Tag><Polish>Zbalansowane</Polish>
+<TEXT><Tag>TXT_KEY_MAP_BALANCED</Tag><Polish>Zrównoważona</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_DESC_DESERT_WAR</Tag><Polish>Druga Wojna Światowa: Kampania w północnej Afryce</Polish>
+<TEXT><Tag>TXT_KEY_MAP_DESC_DESERT_WAR</Tag><Polish>II wojna światowa: kampania w Afryce Północnej</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_DESC_EARTH1000AD</Tag><Polish>Ten scenariusz rozpoczyna się w późnym średniowieczu. Obie Ameryki są jeszcze prawie całkowicie niezamieszkane, a w Starym Świecie właśnie mają rozpocząć się krucjaty i najazdy Mongołów.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_DESC_EARTH1000AD</Tag><Polish>Scenariusz rozpoczyna się w pełnym średniowieczu. Obie Ameryki są na mapie jeszcze niemal puste, podczas gdy w Starym Świecie wkrótce rozpoczną się krucjaty i najazd Mongołów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_DESC_EARTH_ICEAGE</Tag><Polish>Jak wyglądałby świat, gdyby zaczęły rozwijać się 20000 lat wcześniej niż to miało w rzeczywistości miejsce?</Polish>
+<TEXT><Tag>TXT_KEY_MAP_DESC_EARTH_ICEAGE</Tag><Polish>Co by było, gdyby cywilizacje zaczęły się rozwijać 20000 lat temu?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_DESC_GREEK_WORLD</Tag><Polish>Ten scenariusz rozpoczyna się w 600 roku p.n.e. i daje Ci możliwość kontrolowania jednej z trzech rodzących się potęg okresu Klasyku.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_DESC_GREEK_WORLD</Tag><Polish>Scenariusz rozpoczyna się w 600 roku p.n.e. i pozwala kierować jedną z trzech wschodzących potęg antycznego świata śródziemnomorskiego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_NAME_TAG</Tag><Polish>Nazwa mapy: %s1_Name</Polish>
         </TEXT>
@@ -23888,81 +23888,81 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_5_PLOTS_WIDE</Tag><Polish>5 pól szerokości</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_AI_START</Tag><Polish>Start komputera</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_AI_START</Tag><Polish>Start SI</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ALL_IN_OLD_WORLD</Tag><Polish>Wszystko w starym świecie</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ALL_IN_OLD_WORLD</Tag><Polish>Wszyscy w Starym Świecie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARBORIA_DESCR</Tag><Polish>Obszerny pojedynczy kontynent zawierający krainę łąk i lasów, bogatą w zwierzynę.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARBORIA_DESCR</Tag><Polish>Jeden ogromny kontynent tworzy raj łąk i lasów, pełen dzikiej zwierzyny.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARCHIPELAGO</Tag><Polish>Archipelag</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARCHIPELAGO_DESCR</Tag><Polish>Morska mapa dla Cywilizacji IV. Potężna flota to konieczność!</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARCHIPELAGO_DESCR</Tag><Polish>Najbardziej morska z map Civilization IV. Potężna flota nie jest tu opcją, lecz koniecznością!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_AREAS_PER_PLAYER</Tag><Polish>Obszar na gracza</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_AREAS_PER_PLAYER</Tag><Polish>Liczba obszarów na gracza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARITITY</Tag><Polish>WilgotnoŚĆ</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ARITITY</Tag><Polish>Poziom suchości</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_BALANCED_DESCR</Tag><Polish>Okrągła pangea gwarantuje wszystkim graczom wszystkie ważne strategicznie surowce w obrębie kilku pól.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_BALANCED_DESCR</Tag><Polish>Okrągła pangea, na której każdy gracz ma zagwarantowane najważniejsze surowce strategiczne w odległości kilku pól od miejsca startu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_BIG_AND_SMALL_DESCR</Tag><Polish>Realistyczny świat z dużymi i małymi lądami generowanymi na podstawie bardzo dużej ilości czynników losowych. Większość cywilizacji rozpoczyna rozgrywkę na kontynentach. Niektóre mogą rozpocząć grę na archipelagach.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_BIG_AND_SMALL_DESCR</Tag><Polish>Realistyczny świat z dużymi i małymi lądami o bardzo losowym układzie. Większość cywilizacji rozpoczyna grę na kontynentach, a niektóre mogą trafić na archipelagi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_BOREAL_DESCR</Tag><Polish>Regionalna mapa tworząca niekończący się last podbiegunowy. Szukaj stad owiec, łosiów czy karibu. Odnajdź żyzne doliny rzek pełne soczystych kłosów zbóż, czekających na to, żeby nakarmić nimi twoją głodną ludność. </Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_BOREAL_DESCR</Tag><Polish>Mapa regionalna przedstawiająca bezkresną tajgę pokrywającą surową tundrę. Szukaj stad owiec, łosi i karibu, a także żyznych dolin rzek i odpornych upraw pszenicy, które wyżywią twój lud w tych trudnych warunkach.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_CENTER_REGION</Tag><Polish>Region środkowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_CLUSTERED</Tag><Polish>Skupione</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_COASTAL_LARGEST_CONTINENT</Tag><Polish>Przybrzeżne albo olbrzymie kontynenty</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_COASTAL_LARGEST_CONTINENT</Tag><Polish>Wybrzeże lub największy kontynent</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_CONTINENTS_DESCR</Tag><Polish>Losowo wygenerowana mapa z co najmniej dwoma kontynentami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_CONTINENTS_SIZE</Tag><Polish>WielkoŚĆ KontynentÓw</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_CONTINENTS_SIZE</Tag><Polish>Wielkość kontynentów</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_COPY</Tag><Polish>Kopiuj</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_CRAZY</Tag><Polish>Szalony</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_CREATION_METHOD</Tag><Polish>Sposób Tworzenia</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_CREATION_METHOD</Tag><Polish>Sposób tworzenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_CUSTOM_CONTINENTS_DESCR</Tag><Polish>Wybierz ilość kontynentów.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_CUSTOM_CONTINENTS_DESCR</Tag><Polish>Wybierz, ile kontynentów ma powstać.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DEFAULT</Tag><Polish>Domyślny skrypt</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DEFAULT</Tag><Polish>Domyślne ustawienie skryptu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DENSE_PEAKS</Tag><Polish>Gęste szczyty</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DENSE_PEAKS</Tag><Polish>Gęsto rozmieszczone szczyty</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_DESERT</Tag><Polish>Pustynia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DONUT</Tag><Polish>Toroidalna</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DONUT</Tag><Polish>Obwarzanek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DONUT_DESCR</Tag><Polish>Okrągły kontynent na kwadratowej mapie. Kontrolujesz typ terenu jaki się pojawi w dziurce obważanka.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_DONUT_DESCR</Tag><Polish>Okrągły kontynent na kwadratowej mapie. Wybierasz rodzaj terenu, który wypełni środek obwarzanka.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EARTH2_DESCR</Tag><Polish>Randomizator ziemi: umieszcza kontynenty, wyspy oraz większość mórz i oceanów w prawdziwych ziemskich lokacjach. Jednakże oprócz tego wszystko jest inne. W rezultacie możemy wiedzieć mniej więcej gdzie jesteśmy ale nie wiemy kto jest naszym sąsiadem. W połączeniu ze strategią charakterystyczną dla "ziemskich" map, daje to nam ciekawe możliwości taktyczne.Dla osiągnięcia jak najbardziej "ziemskiej" mapy, rekomendowane jest zaznaczenie "górskiego" klimatu oraz "normalnego" poziomu mórz. </Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EARTH2_DESCR</Tag><Polish>Losowa wersja Ziemi: kontynenty, wyspy i większość mórz znajdują się w rzeczywistych ziemskich lokalizacjach, ale poza tym wszystko jest możliwe. Możesz ogólnie rozpoznać miejsce startu, lecz nie będziesz wiedzieć nic o jego otoczeniu. Charakterystyczne dla Ziemi możliwości, takie jak wąskie przejścia na lądzie i morzu czy odizolowane wyspy, tworzą ciekawe sytuacje taktyczne. Aby mapa bardziej przypominała Ziemię, zaleca się klimat „Skalisty” i standardowy poziom mórz.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EARTH_60</Tag><Polish>60% wody</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EARTH_60</Tag><Polish>60%% wody</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EARTH_70</Tag><Polish>Ziemiopodobna (70% wody)</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EARTH_70</Tag><Polish>Ziemiopodobna (70%% wody)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EXCLUDE_METHOD</Tag><Polish>Wyklucz Metodę</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_EXCLUDE_METHOD</Tag><Polish>Wyklucz sposób tworzenia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_EXTRAS</Tag><Polish>Dodatki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_FANTASY_REALM_DESCR</Tag><Polish>Skutki eksperymentów szalonego czarodzieja. Losowo generowany i dziwaczny świat ze zmiennym klimatem, nie podlegający działaniu praw fizyki.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_FANTASY_REALM_DESCR</Tag><Polish>Owoc eksperymentów szalonego czarodzieja: losowo generowany, fantazyjny świat o skrajnie zróżnicowanym klimacie, w którym nie obowiązują prawa fizyki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_FEW_TINY_ISLANDS</Tag><Polish>Kilka malutkich wysepek</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_FOUR_CORNERS</Tag><Polish>Cztery narożniki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_FRACTAL_DESCR</Tag><Polish>Generator Fraktalny</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_FRACTAL_DESCR</Tag><Polish>Nieprzewidywalny typ mapy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_GLOBAL_HIGHLANDS_DESCR</Tag><Polish>Globalna wersja skryptu "Highlands". Mapa ta umożliwia dużą różnorodność opcji związanych z lokowaniem gór w standardowym świecie z oceanami. Mapy te są naprawdę duże!</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_GLOBAL_HIGHLANDS_DESCR</Tag><Polish>Globalna wersja mapy Highlands. Łączy liczne warianty ukształtowania gór z typowym światem otoczonym oceanami. Ten typ mapy jest wyjątkowo duży!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_GREAT_PLAINS_DESCR</Tag><Polish>Losowo wygenerowana mapa odwzorowująca region Wielkich Równin w Stanach Zjednoczonych.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_GREAT_PLAINS_DESCR</Tag><Polish>Losowo generowana mapa regionalna, luźno wzorowana na Wielkich Równinach w głębi Stanów Zjednoczonych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_HIGHLANDS_DESCR</Tag><Polish>Losowo wygenerowana mapa, odtwarza region pokryty wzgórzami i górami.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_HIGHLANDS_DESCR</Tag><Polish>Losowo generowana mapa przedstawiająca region pokryty wzgórzami i szczytami górskimi.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_HILLS</Tag><Polish>Wzgórza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_HUB_DESCR</Tag><Polish>Gracze rozpoczynają w oddzielonych od siebie regionach połączonych mostem lądowym z czaszą lodową znajdującą się w środku mapy.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_HUB_DESCR</Tag><Polish>Każdy gracz zaczyna w oddzielnym regionie. Mosty lądowe łączą te regiony z polarnym obszarem pośrodku mapy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_ICE_AGE_DESCR</Tag><Polish>Losowo wygenerowany świat, który doświadczył poważnego zlodowacenia. Poziom oceanów opadł, a jedynie w okolicy równika występują lądy nadające się do zamieszkania.</Polish>
         </TEXT>
@@ -23974,65 +23974,65 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS</Tag><Polish>Wyspy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_DESCR</Tag><Polish>Każdy gracz rozpoczyna na własnej wyspie. Mogą został dodane mniejsze lub większe niezamieszkane wyspy.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_DESCR</Tag><Polish>Każdy gracz zaczyna na własnej, losowo wygenerowanej wyspie. Mogą pojawić się również dodatkowe wyspy, duże lub małe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_MIXED_IN</Tag><Polish>Mieszane wyspy</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_MIXED_IN</Tag><Polish>Wyspy wśród kontynentów</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_SIZE</Tag><Polish>WielkoŚĆ wysp</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_SIZE</Tag><Polish>Wielkość wysp</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLAND_OVERLAP</Tag><Polish>Pokryte wyspy</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLAND_OVERLAP</Tag><Polish>Nakładanie się obszarów wysp</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLAND_REGION_SEPARATE</Tag><Polish>Oddzielne regiony wyspy</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISLAND_REGION_SEPARATE</Tag><Polish>Wyspy w oddzielnym regionie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISTHMUS_WIDTH</Tag><Polish>Szerokość cieśniny</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ISTHMUS_WIDTH</Tag><Polish>Szerokość przesmyku</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LAKES</Tag><Polish>Jeziora (30% wody)</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LAKES</Tag><Polish>Jeziora (30%% wody)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_LAKES_DESCR</Tag><Polish>Losowo wygenerowany świat bez oceanów, urozmaicony jeziorami.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_SIZE</Tag><Polish>Rozmiar lądu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_TYPE</Tag><Polish>Rodzaj lĄdu</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_TYPE</Tag><Polish>Rodzaj lądu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_LAND_SHAPE</Tag><Polish>Kształt lądu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LARGEST_CONTINENT</Tag><Polish>Olbrzymie kontynenty</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LARGEST_CONTINENT</Tag><Polish>Największy kontynent</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_LARGE_LAKES</Tag><Polish>Wielkie jeziora</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LEFT_AND_RIGHT_DESCR</Tag><Polish>2-4 kontynentów umiejscowionych odpowiednio na wschodniej i zachodniej półkuli, oddzielonych oceanem. Istnieją także małe wyspy.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LEFT_AND_RIGHT_DESCR</Tag><Polish>Od 2 do 4 kontynentów rozmieszczonych na półkulach wschodniej i zachodniej, rozdzielonych oceanem. Mogą pojawić się również mniejsze wyspy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LEFT_VS_RIGHT</Tag><Polish>Lewa przeciw prawa</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LEFT_VS_RIGHT</Tag><Polish>Lewa kontra prawa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LEFT_VS_RIGHT_BRIDGE</Tag><Polish>Strona lewa przeciwko stronie prawej połączone pustynnym mostem</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_LEFT_VS_RIGHT_BRIDGE</Tag><Polish>Lewa kontra prawa z pustynnym mostem</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_LOGICAL</Tag><Polish>Logiczny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_MANY_TINY_ISLANDS</Tag><Polish>Wiele malutkich wysepek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MASSIVE_CONTINENTS</Tag><Polish>Masywne kontynenty</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MASSIVE_CONTINENTS</Tag><Polish>Ogromne kontynenty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MAZE_DESCR</Tag><Polish>Unikatowa mapa, która generuje skomplikowaną mieszankę lądu i wody</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MAZE_DESCR</Tag><Polish>Nietypowa mapa losowo tworząca niezwykle kręty labirynt lądu i wody.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_MAZE_WIDTH</Tag><Polish>Szerokość labiryntu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_MEDITERRANEAN</Tag><Polish>Śródziemnomorski</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MEDIUM_AND_SMALL_DESCR</Tag><Polish>Realistyczny świat z wysoce losowym rozkładem lądów. Wschodnia i Zachodnia półkula rozdzielona przez ocean, jednakże może ich łączyć łańcuch wysp.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MEDIUM_AND_SMALL_DESCR</Tag><Polish>Realistyczny świat z bardzo losowym układem średnich i małych lądów. Półkule wschodnią i zachodnią dzieli ocean, choć czasem może je połączyć łańcuch wysp.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MIRROR_DESCR</Tag><Polish>Mapa lądowa, która tworzy świat, gdzie zachód stanowi odbicie lustrzane wschodu.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MIRROR_DESCR</Tag><Polish>Mapa lądowa: losowo generuje zachodnią połowę świata, a następnie dokładnie odbija ją po wschodniej stronie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MIRROR_TYPE</Tag><Polish>Rodzaj lustra</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MIRROR_TYPE</Tag><Polish>Rodzaj odbicia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MOUNTAIN_DENSITY</Tag><Polish>GęstoŚĆ gÓr</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MOUNTAIN_DENSITY</Tag><Polish>Zagęszczenie gór</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MOUNTAIN_PATTERN</Tag><Polish>Ukształtowanie gÓr</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_MOUNTAIN_PATTERN</Tag><Polish>Układ pasm górskich</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NARROW_CONTINENTS</Tag><Polish>Wąskie kontynenty</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NATURAL</Tag><Polish>Naturalny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NEAR_COAST</Tag><Polish>Bliskie wybrzeża</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NEAR_COAST</Tag><Polish>Blisko wybrzeża</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NEUTRAL_TERRITORY</Tag><Polish>Neutralne terytorium</Polish>
         </TEXT>
@@ -24042,61 +24042,61 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NO_CONDITIONS</Tag><Polish>Brak warunków</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NO_ICE</Tag><Polish>Brak lodowców</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NO_ICE</Tag><Polish>Bez lodu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NO_JUNGLES</Tag><Polish>Brak Dżungli</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NO_JUNGLES</Tag><Polish>Bez dżungli</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NO_TINY_ISLANDS</Tag><Polish>Brak małych wysepek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NUMBER_OF_CONTINENTS</Tag><Polish>Liczba kontynentÓw</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_NUMBER_OF_CONTINENTS</Tag><Polish>Liczba kontynentów</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NUMBER_OF_LARGE_ISLANDS</Tag><Polish>Liczba wielkich wysp</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_NUMBER_OF_TINY_ISLANDS</Tag><Polish>Liczba małych wysepek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_OASIS_DESCR</Tag><Polish>Pustynny obszar pośrodku mapy zawiera strategiczne surowce. Żyzna północ nie rozciąga się tak szeroko jak południe, ale posiada więcej surowców.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_OASIS_DESCR</Tag><Polish>Pustynia pośrodku mapy zawiera strategiczne surowce mineralne. Żyzna północ ma mniej lądu, ale więcej surowców niż południe.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ONE_PER_TEAM</Tag><Polish>1 na zespół</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_ONE_PER_TEAM</Tag><Polish>Jeden na drużynę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_OPPOSITE</Tag><Polish>Przeciwny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_PANGAEA</Tag><Polish>Pangea</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_PANGAEA_DESCR</Tag><Polish>Pangea: "Jedna Ziemia", pojedynczy, wielki kontynent.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_PANGAEA_DESCR</Tag><Polish>Pan-Gaia, czyli „Jedna Ziemia”: pojedynczy, ogromny kontynent.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_PEAKS</Tag><Polish>Góry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_PLAYER_START</Tag><Polish>Start gracza</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_PLAYER_START</Tag><Polish>Start graczy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_PRESSED</Tag><Polish>Zbity</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RAINFOREST_DESCR</Tag><Polish>Regionalna mapa tworząca tropikalną dżunglę. Jest ona bogata w ryż, świnie i banany aby wyżywić twoją głodną ludność.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RAINFOREST_DESCR</Tag><Polish>Mapa regionalna przedstawiająca tropikalny las deszczowy. Gęsta dżungla obfituje w ryż, świnie i banany, którymi wyżywisz swój głodny lud.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_RANDOM</Tag><Polish>Losowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_REFLECTION</Tag><Polish>Odbicie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RESOURCE_APPEARANCE</Tag><Polish>Wygląd surowców</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RESOURCE_APPEARANCE</Tag><Polish>Występowanie surowców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RIDGELINES</Tag><Polish>Pasma gór</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RIDGELINES</Tag><Polish>Pasma górskie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RING_DESCR</Tag><Polish>Każdy gracz rozpoczyna w wydzielonym regionie. Każdy z regionów posiada połączenie z dwoma sąsiadami, co skutkuje utworzeniem pierścienia otaczającego niezamieszkałe tereny polarne.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_RING_DESCR</Tag><Polish>Każdy gracz zaczyna w oddzielnym regionie. Każdy region łączy się z dwoma bezpośrednimi sąsiadami, tworząc pierścień lądu wokół odizolowanego obszaru polarnego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_RING_WIDTH</Tag><Polish>Szerokość pierścienia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_ROUND</Tag><Polish>Okrągła</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SAME_AS_AI</Tag><Polish>Podobne umiejscowienie jak dla komputera</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SAME_AS_AI</Tag><Polish>Te same zasady co dla SI</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_SCATTERED</Tag><Polish>Rozproszone</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_SEAS</Tag><Polish>Morza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SEVERAL_EXTRAS</Tag><Polish>Wiele dodatków</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SEVERAL_EXTRAS</Tag><Polish>Kilka dodatkowych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SHORELINE</Tag><Polish>Brzeg</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SHORELINE</Tag><Polish>Linia brzegowa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SHUFFLE_DESCR</Tag><Polish>Losowy skrypt mapy losowany z: Pangea, Kontynenty, Archipelag, Generator Fraktalny.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SHUFFLE_DESCR</Tag><Polish>Losowo wybiera i tworzy mapę typu Pangea, Kontynenty, Archipelag lub Fraktal.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_SMALL_CONTINENTS</Tag><Polish>Małe kontynenty</Polish>
         </TEXT>
@@ -24106,9 +24106,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_SNAKY_CONTINENTS</Tag><Polish>Wijące się kontynenty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SOLID</Tag><Polish>Stały</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SOLID</Tag><Polish>Zwarty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SPOKE_WIDTH</Tag><Polish>Szerokość promienia</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_SPOKE_WIDTH</Tag><Polish>Szerokość szprych</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_START_ANYWHERE</Tag><Polish>Start gdziekolwiek</Polish>
         </TEXT>
@@ -24116,27 +24116,27 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_START_TOGETHER</Tag><Polish>Wspólny start</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TEAM_BATTLEGROUND_DESCR</Tag><Polish>Zespoły są umieszczone na przeciwległych krańcach mapy, pomiędzy nimi rozpościera się strefa neutralna.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TEAM_BATTLEGROUND_DESCR</Tag><Polish>Drużyny rozpoczynają po przeciwnych stronach mapy, a między nimi znajduje się strefa neutralna.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TEAM_PLACEMENT</Tag><Polish>Rozmieszcz. zespołu</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TEAM_PLACEMENT</Tag><Polish>Rozmieszczenie drużyn</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TEAM_SETTING</Tag><Polish>Ustawienia zespołów</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TEAM_SETTING</Tag><Polish>Ustawienie drużyn</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_DESCR</Tag><Polish>Tworzy obszary górzyste a także upodabnia się do płyt tektonicznych dzięki temu mapa jest bardziej realistyczna i bardziej przypominająca ziemie (Obszar górzysty oraz górskie wybrzeża przypominają Andy a na terenach znajdujące się pośrodku kontynentów przypominają Himalaje)</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TECTONICS_DESCR</Tag><Polish>Tworzy pasma górskie i symuluje tektonikę płyt, dzięki czemu teren jest bardziej realistyczny i podobny do ziemskiego. Góry powstają między innymi blisko wybrzeży, jak Andy, lub między subkontynentami, jak Himalaje.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TERRA</Tag><Polish>Losowa prawdziwa ziemia</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TERRA</Tag><Polish>Losowy wariant Ziemi</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_TERRA_DESCR</Tag><Polish>Mapa Terra generuje losowo masy lądów podobne do występujących na Ziemi. Wszyscy gracze zaczynają w Starym Świecie. Te mapy są bardzo duże!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TERRA_OLD_WORLD_START</Tag><Polish>Losowa prawdziwa ziemia (Początek w Starym Świecie)</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TERRA_OLD_WORLD_START</Tag><Polish>Losowy wariant Ziemi (start w Starym Świecie)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_THIN_PEAKS</Tag><Polish>Rzadkie szczyty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TILTED_AXIS_DESCR</Tag><Polish>Światy o zakrzywionej osi planety cechują się bardziej surowymi zimami i gorącymi latami, ale ogólnie ich klimat jest podobny do zwyczajnego (standard z Civa czy z naszej Ziemi?) świata</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TILTED_AXIS_DESCR</Tag><Polish>Światy z silnie nachyloną osią obrotu, jakby obrócone na bok, mają bardziej skrajne lata i zimy. Ich ogólny klimat przypomina jednak klimat zwykłych światów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_TINY_ISLANDS</Tag><Polish>Malutkie wysepki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TOP_VS_BOTTOM</Tag><Polish>Góra przeciw dół</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_TOP_VS_BOTTOM</Tag><Polish>Góra kontra dół</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_UNPREDICTABLE</Tag><Polish>Nieprzewidywalna</Polish>
         </TEXT>
@@ -24144,15 +24144,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_VARIOUS_TINY_ISLANDS</Tag><Polish>Różne malutkie wysepki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WATER_SETTING</Tag><Polish>Rodzaj wody</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WATER_SETTING</Tag><Polish>Ustawienie wód</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WB_ALL_LAND_DESCR</Tag><Polish>Szablon z panelu budowy świata: pusta mapa tylko z polami lądowymi, podstawa do wykonania twojej własnej, lądowej mapy.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WB_ALL_LAND_DESCR</Tag><Polish>Szablon edytora świata: pusta mapa z samymi polami lądowymi, stanowiąca podstawę do tworzenia własnych map z przewagą lądu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WB_ALL_WATER_DESCR</Tag><Polish>Szablon z panelu budowy świata: pusta mapa tylko z polami oceanu, podstawa do wykonania twojej własnej mapy oceanicznej.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WB_ALL_WATER_DESCR</Tag><Polish>Szablon edytora świata: pusta mapa z samymi polami wodnymi, stanowiąca podstawę do tworzenia własnych map oceanicznych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_WET</Tag><Polish>Wilgotny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WHEEL_DESCR</Tag><Polish>Każdy gracz rozpoczyna w wydzielonym regionie, które łączą ze sobą lądowe mosty tworząc okrąg połączony wieloma promieniami ze środkiem.</Polish>
+<TEXT><Tag>TXT_KEY_MAP_SCRIPT_WHEEL_DESCR</Tag><Polish>Każdy gracz zaczyna w oddzielnym regionie. Regiony połączone mostami lądowymi tworzą pełne koło ze szprychami, zewnętrznym pierścieniem i środkiem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_SCRIPT_WIDE_CONTINENTS</Tag><Polish>Szerokie kontynenty</Polish>
         </TEXT>
@@ -24160,7 +24160,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_UPDATE_SEND</Tag><Polish>WYSYŁANIE MAPY...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAP_UPDATE_TITLE</Tag><Polish>Transfer mapy</Polish>
+<TEXT><Tag>TXT_KEY_MAP_UPDATE_TITLE</Tag><Polish>Przesyłanie mapy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_WORLD_WRAP</Tag><Polish>Zawijanie mapy</Polish>
         </TEXT>
@@ -24170,7 +24170,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MAP_WRAP_TOROID</Tag><Polish>Toroidalna</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MASTER_CONNECT_FAILURE_DESC</Tag><Polish>Próba połączenia z przeglądarką nie powiodła się.</Polish>
+<TEXT><Tag>TXT_KEY_MASTER_CONNECT_FAILURE_DESC</Tag><Polish>Nie udało się połączyć z serwerem udostępniającym listę gier.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_CONNECT_FAILURE_TITLE</Tag><Polish>Serwer niedostępny</Polish>
         </TEXT>
@@ -24178,29 +24178,29 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_CONNECT_INVALID_LOGIN_TITLE</Tag><Polish>Nieprawidłowy login</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MASTER_NAT_ERROR_DESC</Tag><Polish>Nie mogę odnaleźć gry dopóki firewall działa.</Polish>
+<TEXT><Tag>TXT_KEY_MASTER_NAT_ERROR_DESC</Tag><Polish>Nie można wyszukać gier internetowych z powodu problemów z zaporą sieciową.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_NAT_ERROR_TITLE</Tag><Polish>Serwer niedostępny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MASTER_SERVER_ERROR_DESC</Tag><Polish>Przeglądarka serwerów jest niedostępna.</Polish>
+<TEXT><Tag>TXT_KEY_MASTER_SERVER_ERROR_DESC</Tag><Polish>Serwer listy gier nie odpowiada.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_SERVER_ERROR_TITLE</Tag><Polish>Serwer niedostępny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MASTER_SOCKET_ERROR_DESC</Tag><Polish>Błąd otwarcia portu sieci. Rozłączony od przeglądarki.</Polish>
+<TEXT><Tag>TXT_KEY_MASTER_SOCKET_ERROR_DESC</Tag><Polish>Wystąpił błąd gniazda sieciowego. Połączenie z serwerem listy gier zostało przerwane.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_SOCKET_ERROR_TITLE</Tag><Polish>Błąd sieci.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MASTER_UNAVAILABLE_DESC</Tag><Polish>Przeglądarka serwera jest niedostępna.</Polish>
+<TEXT><Tag>TXT_KEY_MASTER_UNAVAILABLE_DESC</Tag><Polish>Serwer listy gier internetowych jest niedostępny.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_UNAVAILABLE_TITLE</Tag><Polish>Serwer niedostępny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MASTER_UNSPECIFIED_ERROR_DESC</Tag><Polish>Nie mogę uzyskać dostępu do przeglądarki serwerów z powodu błędu.</Polish>
+<TEXT><Tag>TXT_KEY_MASTER_UNSPECIFIED_ERROR_DESC</Tag><Polish>Nie można połączyć się z serwerem listy gier z powodu nieokreślonego problemu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MASTER_UNSPECIFIED_ERROR_TITLE</Tag><Polish>Serwer niedostępny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MAX_LATITUDE</Tag><Polish>[ICON_BULLET]Możesz zbudować na szerokości maks. %d1</Polish>
+<TEXT><Tag>TXT_KEY_MAX_LATITUDE</Tag><Polish>[COLOR_WARNING_TEXT]Maksymalna szerokość geograficzna umożliwiająca budowę: %d1 stopni[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MCDOWELLS_STRATEGY</Tag><Polish>[TAB]Zbuduj siedzibę [COLOR_BUILDING_TEXT]McDonalda[COLOR_REVERT]by utworzyć [COLOR_HIGHLIGHT_TEXT]Korporacje McDonald[COLOR_REVERT] która zużywa [COLOR_HIGHLIGHT_TEXT]Krowy[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Świnie[COLOR_REVERT],[COLOR_HIGHLIGHT_TEXT]Ziemniaki[COLOR_REVERT],[COLOR_HIGHLIGHT_TEXT]Pszenice[COLOR_REVERT] lub [COLOR_HIGHLIGHT_TEXT]Sól[COLOR_REVERT] i daje bonus do kultury każdemu miastu w którym znajduje się [COLOR_HIGHLIGHT_TEXT]Korporacja McDonald[COLOR_REVERT]. Siedziba zapewnia złoto dla każdego miasta w którym znajduje się ta korporacja.</Polish>
+<TEXT><Tag>TXT_KEY_MCDOWELLS_STRATEGY</Tag><Polish>[TAB]Zbuduj siedzibę [COLOR_BUILDING_TEXT]Big McDowells[COLOR_REVERT], aby założyć [COLOR_HIGHLIGHT_TEXT]korporację Big McDowells[COLOR_REVERT]. Zużywa ona [COLOR_HIGHLIGHT_TEXT]krowy[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]świnie[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]ziemniaki[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]pszenicę[COLOR_REVERT] lub [COLOR_HIGHLIGHT_TEXT]sól[COLOR_REVERT] i zwiększa kulturę każdego miasta, w którym działa [COLOR_HIGHLIGHT_TEXT]Big McDowells[COLOR_REVERT]. Siedziba otrzymuje złoto za każde miasto na świecie z oddziałem tej korporacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMBERS_ADD_BUDDY</Tag><Polish>Dodaj do znajomych</Polish>
         </TEXT>
@@ -24218,75 +24218,75 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_CIVIC</Tag><Polish>"Przyjąłeś naszą ulubioną doktrynę."</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_JOIN_WAR</Tag><Polish>"Przyszedłeś nam z pomocą podczas wojny."</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_JOIN_WAR</Tag><Polish>„Zgodziłeś się pomóc nam w czasie wojny”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_RELIGION</Tag><Polish>"Przyjąłeś naszą Religię Państwową."</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_RELIGION</Tag><Polish>„Przyjąłeś naszą religię państwową”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_STOP_TRADING</Tag><Polish>"Przestałeś handlować z naszym największym wrogiem."</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_ACCEPTED_STOP_TRADING</Tag><Polish>„Zgodziłeś się zaprzestać handlu z naszym najgorszym wrogiem”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_ACCEPT_DEMAND</Tag><Polish>"Oddałeś nam hołd!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_ACCEPT_DEMAND</Tag><Polish>„Przekazałeś nam daninę”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_BACKSTAB</Tag><Polish>Zdradziłeś nas!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_BACKSTAB_FRIEND</Tag><Polish>Zdradziłeś naszych przyjaciół!</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_BACKSTAB_FRIEND</Tag><Polish>Jesteś wiarołomny!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_CANCELLED_OPEN_BORDERS</Tag><Polish>"Zerwałeś porozumienie o otwarciu granic!"</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_DECLARED_WAR</Tag><Polish>"Wypowiedziałeś nam wojnę!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_DECLARED_WAR_ON_FRIEND</Tag><Polish>"Wypowiedziałeś wojnę naszym przyjaciołom!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_DECLARED_WAR_ON_FRIEND</Tag><Polish>„Wypowiedziałeś wojnę naszemu przyjacielowi!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_DENIED_CIVIC</Tag><Polish>"Odmówiłeś przyjęcia naszej ulubionej doktryny!"</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_DENIED_JOIN_WAR</Tag><Polish>"Odmówiłeś nam pomocy podczas wojny!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_DENIED_RELIGION</Tag><Polish>"Odmówiłeś przyjęcia naszej Religii Państwowej!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_DENIED_RELIGION</Tag><Polish>„Odmówiłeś przyjęcia naszej religii państwowej!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_DENIED_STOP_TRADING</Tag><Polish>"Odmówiłeś zaprzestania handlu z naszym największym wrogiem."</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_DENIED_STOP_TRADING</Tag><Polish>„Odmówiłeś zaprzestania handlu z naszym najgorszym wrogiem”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_ENSLAVED_CITIZENS</Tag><Polish>Zniewoliłeś naszych obywateli!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_EVENT_BAD_TO_US</Tag><Polish>"Przeszłe zdarzenia pokazały, że nie jesteś dla nas dobry."</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_EVENT_BAD_TO_US</Tag><Polish>„Dawne wydarzenia pokazały nam twoją złą naturę”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_EVENT_GOOD_TO_US</Tag><Polish>"Przeszłe zdarzenia udowodniły, że masz dobre serce."</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_GIVE_HELP</Tag><Polish>"Pomogłeś nam."</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_HIRED_TRADE_EMBARGO</Tag><Polish>"Doprowadziłeś do tego, że nałożono na nas embargo!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_HIRED_TRADE_EMBARGO</Tag><Polish>„Wynegocjowałeś embargo handlowe przeciwko nam!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_HIRED_WAR_ALLY</Tag><Polish>"Namówiłeś do wojny przeciwko nam inną cywilizację!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_INQUISITION</Tag><Polish>"Prześladujesz wyznawców naszej wiary!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_INQUISITION</Tag><Polish>„Prześladowałeś wyznawców naszej wiary!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_LIBERATED_CITIES</Tag><Polish>"Wyzwoliłeś nasze miasta."</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_MADE_DEMAND</Tag><Polish>"Twoje żądania są po prostu bezczelne!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_MADE_DEMAND</Tag><Polish>„Wysunąłeś bezczelne żądanie!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_MADE_DEMAND_RECENT</Tag><Polish>"Niedawno wysunąłeś bezczelne żądanie!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_MADE_PEACE</Tag><Polish>Udowodniłeś że jesteś oddany pokojowi</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_MADE_PEACE</Tag><Polish>Udowodniłeś swoje przywiązanie do pokoju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_NUKED_FRIEND</Tag><Polish>"Użyłeś wobec naszych przyjaciół broni jądrowej!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_NUKED_FRIEND</Tag><Polish>„Użyłeś broni jądrowej przeciw naszemu przyjacielowi!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_NUKED_US</Tag><Polish>"Użyłeś przeciw nam broni jądrowej!"</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_RAZED_CITY</Tag><Polish>"Zniszczyłeś jedno z naszych miast!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_RAZED_HOLY_CITY</Tag><Polish>"Zniszczyłeś Śwęte Miasto!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_RAZED_HOLY_CITY</Tag><Polish>„Zburzyłeś święte miasto!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_RECALLED_AMBASSADOR</Tag><Polish>Wycofałeś swego ambasadora!</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_RECALLED_AMBASSADOR</Tag><Polish>Odwołałeś swojego ambasadora!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_RECEIVED_TECH_FROM_ANY</Tag><Polish>"Otrzymałeś technologię od innej cywilizacji."</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_REFUSED_HELP</Tag><Polish>"Odmówiłeś nam pomocy!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_REJECTED_DEMAND</Tag><Polish>"Odmówiłeś złożenia nam hołdu!"</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_REJECTED_DEMAND</Tag><Polish>„Odmówiłeś przekazania nam daniny!”</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_SACKED_CITY</Tag><Polish>Zniewoliłeś nasze miasto!</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_SACKED_CITY</Tag><Polish>Splądrowałeś nasze miasto!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_SACKED_HOLY_CITY</Tag><Polish>Zniewoliłeś nasze święte miasto!</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_SACKED_HOLY_CITY</Tag><Polish>Splądrowałeś nasze święte miasto!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MEMORY_SAVER_ERROR</Tag><Polish>Opcja MemorySaver w twojej Kofiguracji spowodowała błąd. Wychodzę z programu.</Polish>
+<TEXT><Tag>TXT_KEY_MEMORY_SAVER_ERROR</Tag><Polish>Włączenie opcji MemorySaver w konfiguracji uniemożliwia obsługę utraty urządzenia graficznego. Zamykanie programu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MEMORY_SPY_CAUGHT</Tag><Polish>"Schwytaliśmy Twego szpiega na gorącym uczynku!"</Polish>
         </TEXT>
@@ -24304,7 +24304,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MENU_CIV_ADJ</Tag><Polish>Odmiana:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MENU_CIV_DESC</Tag><Polish>Opis:</Polish>
+<TEXT><Tag>TXT_KEY_MENU_CIV_DESC</Tag><Polish>Pełna nazwa cywilizacji:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MENU_CIV_EMAIL</Tag><Polish>Adres e-mail:</Polish>
         </TEXT>
@@ -24322,29 +24322,29 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MENU_FINAL_SETUP</Tag><Polish>PODSUMOWANIE</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MENU_LEADER_NAME</Tag><Polish>Przywódca:</Polish>
+<TEXT><Tag>TXT_KEY_MENU_LEADER_NAME</Tag><Polish>Imię przywódcy:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MENU_LEADER_TYPE</Tag><Polish>Przywódca:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MENU_MAP</Tag><Polish>Mapa:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MENU_SEALEVEL</Tag><Polish>Poziom wody:</Polish>
+<TEXT><Tag>TXT_KEY_MENU_SEALEVEL</Tag><Polish>Poziom morza:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MENU_SIZE</Tag><Polish>Rozmiar:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MENU_SPEED</Tag><Polish>Prędkość gry:</Polish>
+<TEXT><Tag>TXT_KEY_MENU_SPEED</Tag><Polish>Tempo gry:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MENU_YOUR_DETAILS</Tag><Polish>O tobie:</Polish>
+<TEXT><Tag>TXT_KEY_MENU_YOUR_DETAILS</Tag><Polish>Twoje dane:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MERCY_RULE_ABORTED</Tag><Polish>Czas zasady litości zatrzymany! Normalna gra będzie kontynuowana...</Polish>
+<TEXT><Tag>TXT_KEY_MERCY_RULE_ABORTED</Tag><Polish>Odliczanie zasady litości zostało przerwane! Gra toczy się dalej na zwykłych zasadach...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MESSAGE_INQUISITION</Tag><Polish>Inkwizytor usunął nienarodowe religie z miasta %s1_city.</Polish>
+<TEXT><Tag>TXT_KEY_MESSAGE_INQUISITION</Tag><Polish>Inkwizycja w mieście %s1_city usunęła wszystkie religie niepaństwowe, a ofiarom skonfiskowano złoto.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MESSAGE_INQUISITION_FAIL</Tag><Polish>Inwizytorowi nie udało się usunąć nienarodowych religii z miasta %s1_city.</Polish>
+<TEXT><Tag>TXT_KEY_MESSAGE_INQUISITION_FAIL</Tag><Polish>Inkwizycji w mieście %s1_city nie udało się usunąć wszystkich religii niepaństwowych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILEHIGH_STRATEGY</Tag><Polish>Najlepsza droga do zwiedzenia świata samolotem</Polish>
+<TEXT><Tag>TXT_KEY_MILEHIGH_STRATEGY</Tag><Polish>Najlepiej oglądać świat z samolotu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_CITY_GARRISON</Tag><Polish>Garnizon</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_CITY_GARRISON</Tag><Polish>Garnizon miasta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_DOMESTIC_UNITS</Tag><Polish>Jednostki narodowe</Polish>
         </TEXT>
@@ -24354,11 +24354,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_FRIENDLY_TERRITORY</Tag><Polish>Przyjazne terytorium</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_GROUP_COMBAT</Tag><Polish>Grupuj według rodzaju walki</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_GROUP_COMBAT</Tag><Polish>Grupuj według kategorii bojowej</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_GROUP_LOCATION</Tag><Polish>Grupuj według rozmieszczenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_GROUP_STACK</Tag><Polish>Grupuj w celu zgromadzenia</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_GROUP_STACK</Tag><Polish>Grupuj według zgrupowań</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_ADVISOR_HOME_TERRITORY</Tag><Polish>Własne terytorium</Polish>
         </TEXT>
@@ -24376,7 +24376,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_COMMERCE_PRODUCTION</Tag><Polish>[ICON_BULLET]+%d1%% handlu miasta zamieniane na [ICON_PRODUCTION] produkcję podczas szkolenia jednostek wojskowych</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_SITREP_DEFPACTS</Tag><Polish>Pakty Obronne</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_SITREP_DEFPACTS</Tag><Polish>Pakty obronne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_SITREP_ENEMY</Tag><Polish>Wróg</Polish>
         </TEXT>
@@ -24384,11 +24384,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_SITREP_POSSIBLE_EMBARGOS_2</Tag><Polish>Embarga</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_SITREP_THREAT_INDEX</Tag><Polish>Zagrożenie</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_SITREP_THREAT_INDEX</Tag><Polish>Wskaźnik zagrożenia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_SITREP_VASSAL</Tag><Polish>Wasal</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_SITREP_VASSALS</Tag><Polish>Wasalstwa</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_SITREP_VASSALS</Tag><Polish>Wasale</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_SITREP_WARS</Tag><Polish>Wojny</Polish>
         </TEXT>
@@ -24398,25 +24398,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_SITREP_WORST</Tag><Polish>Najgorszy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_SITUATION_REPORT</Tag><Polish>Raport</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_SITUATION_REPORT</Tag><Polish>Raport sytuacyjny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_STRATADV_KNOWN</Tag><Polish>Znane</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_STRATADV_OURS</Tag><Polish>Nasze</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_STRATADV_OUR_UNITS</Tag><Polish>Nasze Jednostki</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_STRATADV_OUR_UNITS</Tag><Polish>Nasze jednostki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_STRATADV_POSSIBLE</Tag><Polish>Możliwe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_STRATADV_RESOURCES</Tag><Polish>Surowce</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_STRATADV_THEIRS</Tag><Polish>Obce</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_STRATADV_THEIRS</Tag><Polish>Ich</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_STRATADV_THEIR_UNITS</Tag><Polish>Obce Jednostki</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_STRATADV_THEIR_UNITS</Tag><Polish>Ich jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_STRATEGIC_ADVANTAGES</Tag><Polish>Korzyści Strategiczne</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_STRATEGIC_ADVANTAGES</Tag><Polish>Przewagi strategiczne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_THREAT_INDEX_ELEVATED</Tag><Polish>Znaczące</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_THREAT_INDEX_ELEVATED</Tag><Polish>Podwyższone</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_THREAT_INDEX_GUARDED</Tag><Polish>Niskie</Polish>
         </TEXT>
@@ -24426,33 +24426,33 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MILITARY_THREAT_INDEX_SEVERE</Tag><Polish>Poważne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MILITARY_UNIT_LOCATION</Tag><Polish>Położenie Jedn.</Polish>
+<TEXT><Tag>TXT_KEY_MILITARY_UNIT_LOCATION</Tag><Polish>Rozmieszczenie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MINIMIZED_CHANGE_CIVIC</Tag><Polish>Możesz teraz przyjąć doktrynę: [COLOR_HIGHLIGHT_TEXT]%s1_Civic[COLOR_REVERT]...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MINIMIZED_CHANGE_RELIGION</Tag><Polish>Możesz przyjąć:[COLOR_HIGHLIGHT_TEXT]%s1_Religion[COLOR_REVERT] jako Religię Państwową...</Polish>
+<TEXT><Tag>TXT_KEY_MINIMIZED_CHANGE_RELIGION</Tag><Polish>Możesz teraz przyjąć religię [COLOR_HIGHLIGHT_TEXT]%s1_Religion[COLOR_REVERT] jako państwową...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION</Tag><Polish>Wybierz produkcję w mieście %s1_City...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION_BUILDING</Tag><Polish>Zbudowano: [COLOR_BUILDING_TEXT]%s1_Building[COLOR_REVERT] w mieście %s2_City...</Polish>
+<TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION_BUILDING</Tag><Polish>W mieście %s2_City ukończono budynek [COLOR_BUILDING_TEXT]%s1_Building[COLOR_REVERT]...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION_PROJECT</Tag><Polish>Stworzono: [COLOR_HIGHLIGHT_TEXT]%s1_Project[COLOR_REVERT] w mieście %s2_City...</Polish>
+<TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION_PROJECT</Tag><Polish>W mieście %s2_City ukończono projekt [COLOR_HIGHLIGHT_TEXT]%s1_Project[COLOR_REVERT]...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION_UNIT</Tag><Polish>Wytrenowano: ([COLOR_BUILDING_TEXT]%s1_Unit[COLOR_REVERT]) w mieście %s2_City...</Polish>
+<TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_PRODUCTION_UNIT</Tag><Polish>W mieście %s2_City wyszkolono jednostkę [COLOR_BUILDING_TEXT]%s1_Unit[COLOR_REVERT]...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_TECH</Tag><Polish>Wybierz technologię do zbadania...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MINIMIZED_CHOOSE_TECH_FREE</Tag><Polish>Wybierz darmową technologię...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MINOR_CIV_DISPLAY</Tag><Polish>podrzędna</Polish>
+<TEXT><Tag>TXT_KEY_MINOR_CIV_DISPLAY</Tag><Polish>pomniejsza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MIN_LATITUDE</Tag><Polish>[ICON_BULLET]Możesz zbudować na szerokości min. %d1 stopni</Polish>
+<TEXT><Tag>TXT_KEY_MIN_LATITUDE</Tag><Polish>[COLOR_WARNING_TEXT]Minimalna szerokość geograficzna umożliwiająca budowę: %d1 stopni[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ACTION_UPGRADE_IMPROVEMENTS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1_Command[COLOR_REVERT] legislacja przeszła w mie¶cie: %s2_CityName. Zwiększyła populację (+%d4) i handel (%s3)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ACTION_UPGRADE_IMPROVEMENTS</Tag><Polish>W mieście %s2_CityName przyjęto przepisy: [COLOR_HIGHLIGHT_TEXT]%s1_Command[COLOR_REVERT]. Wzrosły populacja (+%d4) i handel (%s3).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ADJUST_COMMERCE_RATE</Tag><Polish>[ICON_BULLET]Możesz dodać: %F1_CmrcIcon</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ADJUST_COMMERCE_RATE</Tag><Polish>[ICON_BULLET]Pozwala zmieniać poziom wydatków na %F1_CmrcIcon</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ADVANCED_START_PEACE_REMAINING</Tag><Polish>Pozostało %d1 tur pokoju</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ADVANCED_START_PEACE_REMAINING</Tag><Polish>Powszechny pokój - pozostałe tury: %d1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_AI</Tag><Polish>[SPACE][Komputer]</Polish>
         </TEXT>
@@ -24460,33 +24460,33 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ALARM_NOT_SET</Tag><Polish>Alarm nie jest nastawiony!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ALARM_WILL_GO_OFF</Tag><Polish>Alarm zostanie wyłączony o: %s1_TimeStr.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ALARM_WILL_GO_OFF</Tag><Polish>Alarm zadzwoni o %s1_TimeStr.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ALARM_WILL_GO_OFF_TIME_NOW</Tag><Polish>Alarm wyłączy się o: %s1_AlrmTime. Teraz jest: %s2_CurrTime.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ALARM_WILL_GO_OFF_TIME_NOW</Tag><Polish>Alarm zadzwoni o %s1_AlrmTime. Teraz jest %s2_CurrTime.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ALONG_RIVER</Tag><Polish>[SPACE]wzdłuż rzeki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ALREADY_STATE_REL</Tag><Polish>Twoja obecna religia państwowa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ALTERNATIVELY_DERIVED</Tag><Polish>[ICON_BULLET][COLOR_TECH_TEXT]%s1_TechName[COLOR_REVERT] alternatywnie wywodzące się z: %s2_AltTech</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ALTERNATIVELY_DERIVED</Tag><Polish>[ICON_BULLET]Technologię [COLOR_TECH_TEXT]%s1_TechName[COLOR_REVERT] można również poznać dzięki: %s2_AltTech</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ALT_DECLARE_WAR</Tag><Polish>			(&lt;ALT&gt;, aby wypowiedzieć wojnę)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ALT_DECLARE_WAR</Tag><Polish>(&lt;ALT&gt;, aby wypowiedzieć wojnę)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ALT_SELECT</Tag><Polish>			Naciśnij (&lt;ALT&gt;, aby zaznaczyć wszystkie jednostki)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ALT_SELECT</Tag><Polish>(&lt;ALT&gt;, aby zaznaczyć wszystkie jednostki)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_AM_MORNING</Tag><Polish>[SPACE]przed południem</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_AND_POPUP_BUTTON_NO</Tag><Polish>Nie dziękuje</Polish>
+<TEXT><Tag>TXT_KEY_MISC_AND_POPUP_BUTTON_NO</Tag><Polish>Nie, dziękuję</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_AND_POPUP_BUTTON_OPTION</Tag><Polish>Pokaż opcje</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_AND_POPUP_BUTTON_REMIND</Tag><Polish>Przypomnij mi później</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_AND_POPUP_CONTENT</Tag><Polish>Rise of Mankind: A New Dawn to totalnie konfigurowalny mod, który pozwala każdemu graczowi w sposób jaki chce. [NEWLINE] Zaleca się by nowi gracze zapoznali się z wszystkimi opcjami jakie oferuje A New Dawn.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_AND_POPUP_CONTENT</Tag><Polish>Rise of Mankind: A New Dawn to w pełni konfigurowalny mod, który pozwala każdemu dostosować grę do własnych upodobań.[NEWLINE]Nowym graczom zaleca się zapoznanie ze wszystkimi możliwościami A New Dawn.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_AND_POPUP_TITLE</Tag><Polish>Witaj w modyfikacji Rise of Mankind: A New Dawn.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ANGER_TURNS</Tag><Polish>[ICON_BULLET]%D1_Change[ICON_UNHAPPY] przez %d2_Num Tur</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ANGER_TURNS</Tag><Polish>[ICON_BULLET]%D1_Change[ICON_UNHAPPY] (tury: %d2_Num)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ANGRY_CITIZEN</Tag><Polish>Niezadowolony obywatel (odmawia pracy...)</Polish>
         </TEXT>
@@ -24500,23 +24500,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
 	</TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SAME_RELIGION</Tag><Polish>%d1_Amount: "Mamy tę samą religię państwową."</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SHARE</Tag><Polish>%D1: "Posiadasz tą samą doktrynę"</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SHARE</Tag><Polish>%D1: „Stosujesz tę samą doktrynę”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SHARE_BAD</Tag><Polish>%D1: "Konflikt Filozoficzny"</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SHARE_BAD</Tag><Polish>%D1: „Nasze poglądy są sprzeczne”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SHARE_GOOD</Tag><Polish>%D1: "Dzielimy te same filozofie"</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_CIVIC_SHARE_GOOD</Tag><Polish>%D1: „Podzielamy te same poglądy”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_DEFENSIVE_PACT</Tag><Polish>%D1: "Nasz pakt obronny umacnia naszą wspólną przyjaźń."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_DEFENSIVE_PACT</Tag><Polish>%D1: „Nasz pakt obronny dowodzi bliskiej przyjaźni”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_DIFFERENT_RELIGION</Tag><Polish>%D1: "Drażni nas, że upadłeś tak nisko, aby praktykować pogańskie herezje."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_DIFFERENT_RELIGION</Tag><Polish>%D1: „Oburza nas, że uległeś wpływom pogańskiej religii”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_EXTRA_BAD</Tag><Polish>%D1: "Ostatnie wydarzenie oddaliły od siebie nasze narody."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_EXTRA_BAD</Tag><Polish>%D1: „Dawne wydarzenia oddaliły od siebie nasze narody”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_EXTRA_GOOD</Tag><Polish>%D1: "Ostatnie wydarzenia zbliżyły do siebie nasze narody."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_EXTRA_GOOD</Tag><Polish>%D1: „Dawne wydarzenia zbliżyły do siebie nasze narody”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_FAVORITE_CIVIC</Tag><Polish>%D1: "Mądrze wybrałeś swoje doktryny."</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_FIRST_IMPRESSION</Tag><Polish>%D1: "Pierwsze wrażenie."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_FIRST_IMPRESSION</Tag><Polish>%D1: „Pierwsze wrażenie pozostaje na długo”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_FREEDOM</Tag><Polish>%D1: "Dzięki Tobie jesteśmy niepodległym krajem!"</Polish>
         </TEXT>
@@ -24524,23 +24524,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
 	</TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_LAND_TARGET</Tag><Polish>%D1: "Bliskość naszych granic wywołuje napięcia."</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_LOST_WAR</Tag><Polish>%D1: "Wojna nie jest za dobra dla nas."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_LOST_WAR</Tag><Polish>%D1: „Wojna nie układa się po naszej myśli”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_LOW_RANK</Tag><Polish>%D1: "Mniejsze narody powinny pracować razem."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_LOW_RANK</Tag><Polish>%D1: „Mniejsze narody powinny współpracować”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_OPEN_BORDERS</Tag><Polish>%D1: "Otwarte Granice bardzo zbliżyły nasze narody."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_OPEN_BORDERS</Tag><Polish>%D1: „Otwarte granice zbliżyły nasze narody”.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_PEACE</Tag><Polish>%D1: "Wiekowy pokój umacnia naszą przyjaźń."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_PEACE</Tag><Polish>%D1: „Lata pokoju umocniły nasze stosunki”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_PREJUDICE_NEGATIVE</Tag><Polish>%D1: "Jesteś ode mnie gorszy."</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_PREJUDICE_POSITIVE</Tag><Polish>%D1: "Ty i ja jesteśmy tacy sami."</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_RIVAL_DEFENSIVE_PACT</Tag><Polish>%D1: "Denerwuje nas fakt podpisania przez Ciebie paktu obronnego z naszym rywalem."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_RIVAL_DEFENSIVE_PACT</Tag><Polish>%D1: „Oburza nas, że zawarłeś pakty obronne z naszymi rywalami”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_RIVAL_TRADE</Tag><Polish>%D1: "Handlowałeś z naszymi najgorszymi wrogami!"</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_RIVAL_VASSAL</Tag><Polish>%D1: "Jesteśmy zmartwieni tym że nasi rywale stają się twoimi wasalami!"</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_RIVAL_VASSAL</Tag><Polish>%D1: „Niepokoi nas, że nasi rywale są wasalami twojego imperium!”</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_SAME_RELIGION</Tag><Polish>%D1: "Troszczymy się o naszych braci i siostry we wspólnej wierze."</Polish>
         </TEXT>
@@ -24552,7 +24552,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_WAR</Tag><Polish>%D1: "Ta wojna psuje stosunki między nami."</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_WARMONGERER_INDEX</Tag><Polish>%D1: "Jesteś zmanipulowany."</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ATTITUDE_WARMONGERER_INDEX</Tag><Polish>%D1: „Jesteś manipulantem”.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ATTITUDE_WORSE_RANK</Tag><Polish>%D1: "Czujemy się zagrożeni przez Twoją ogromną cywilizację."</Polish>
         </TEXT>
@@ -24562,25 +24562,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_BAD_HEALTH_FROM_EVENTS</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z wydarzeń</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_BASE_MAINTENANCE</Tag><Polish>%s1_MaintNum [ICON_GOLD] : Bazowe Koszty Utrzymania</Polish>
+<TEXT><Tag>TXT_KEY_MISC_BASE_MAINTENANCE</Tag><Polish>%s1_MaintNum [ICON_GOLD]: Bazowe koszty utrzymania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_BORDERS_EXPANDED</Tag><Polish>[COLOR_MAGENTA]Granice kulturowe miasta: %s1_CityName rozszerzyły się![COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_BORDERS_EXPANDED</Tag><Polish>[COLOR_MAGENTA]Granice miasta %s1_CityName rozszerzyły się![COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_BRIBE_BARBARIAN</Tag><Polish>Twoje negocjacje przekonały jednostkę barbarzyńców: %s1_UnitName do powrotu do domu.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_BRIBE_BARBARIAN</Tag><Polish>Twoje negocjacje przekonały jednostkę barbarzyńców (%s1_UnitName) do powrotu do domu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_BUILDING_BOMBARD_DEFENSE_HOVER</Tag><Polish>Odporność na bombardowanie: %d1%[ICON_DEFENSE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_BUILDING_DEFENSE_HOVER</Tag><Polish>%d1%[ICON_DEFENSE] z budynków</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_BUILDING_MAINT_FLOAT</Tag><Polish>%s1_MaintNum [ICON_GOLD] : Utrzymanie budynków</Polish>
+<TEXT><Tag>TXT_KEY_MISC_BUILDING_MAINT_FLOAT</Tag><Polish>%s1_MaintNum [ICON_GOLD]: Utrzymanie budynków</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_BUILT_IN</Tag><Polish>Zbudowany w %s1_DateStr</Polish>
+<TEXT><Tag>TXT_KEY_MISC_BUILT_IN</Tag><Polish>Zbudowano w roku %s1_DateStr</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CANNOT_CHANGE_CIVICS</Tag><Polish>Nie można zmienić doktryny</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CANNOT_CHANGE_CIVICS</Tag><Polish>Nie można zmienić doktryn</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CANNOT_CONVERT_TO</Tag><Polish>Nie można zmienić religii na: [COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CANNOT_DECLARE_WAR</Tag><Polish>[COLOR_WARNING_TEXT]Nie można wywołać wojny[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CANNOT_DECLARE_WAR</Tag><Polish>[COLOR_WARNING_TEXT]Nie można wypowiedzieć wojny![COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CAN_BUILD</Tag><Polish>[ICON_BULLET]Możesz zbudować:[SPACE]</Polish>
         </TEXT>
@@ -24594,47 +24594,47 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CAPITULATE</Tag><Polish>Kapitulacja</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CAPITULATE_AGREEMENT</Tag><Polish>%s1_vassal_name skapitulował i od tej chwili jest wasalem cywilizacji, której władcą jest: %s2_master_name</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CAPITULATE_AGREEMENT</Tag><Polish>Państwo %s1_vassal_name skapitulowało i zostało wasalem państwa %s2_master_name.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CAPTURED_CITY</Tag><Polish>Zdobyłeś miasto: %s1_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CAPTURED_CITY</Tag><Polish>Zdobyłeś miasto %s1_CityName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CENTERS_MAP</Tag><Polish>[ICON_BULLET]Centruje [LINK=CONCEPT_MAPS]mapę świata[\LINK]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CHANCE_OF_REVOLT</Tag><Polish>Szansa na rewolucje: %s1_Chance%%</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CHANCE_OF_REVOLT</Tag><Polish>Szansa buntu: %s1_Chance%%</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CHANGE_CIVICS</Tag><Polish>Zmień doktrynę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CHANGE_RESEARCH</Tag><Polish>Naciśnij, aby zmienić badania...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_CAPTURED_BY</Tag><Polish>Miasto: %s1_CityName zostało przejęte przez: %s2_CivName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_CAPTURED_BY</Tag><Polish>Miasto %s1_CityName zostało zdobyte przez cywilizację %s2_CivName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_HAS_BEEN_FOUNDED</Tag><Polish>Założono miasto: %s1_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_HAS_BEEN_FOUNDED</Tag><Polish>Założono miasto %s1_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_HAS_BEEN_RAZED_BY</Tag><Polish>Miasto: %s1_CityName zostało zniszczone przez: %s2_CivName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_HAS_BEEN_RAZED_BY</Tag><Polish>Miasto %s1_CityName zostało zburzone przez cywilizację %s2_CivName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_HAS_CONSCRIPTED</Tag><Polish>[COLOR_NEGATIVE_TEXT]Miasto nie może zaprojektować innej jednostki w tej turze[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_HAS_CONSCRIPTED</Tag><Polish>[COLOR_NEGATIVE_TEXT]Miasto nie może powołać do wojska kolejnej jednostki w tej turze[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_IS_FOUNDED</Tag><Polish>Założono miasto: %s1_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_IS_FOUNDED</Tag><Polish>Założono miasto %s1_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_LIBERATED</Tag><Polish>We wspaniałym akcie hojności, %s2_player uwolnił miasto: %s1_city, i przekazał je pod kontrolę %s3_civ_adjective.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_LIBERATED</Tag><Polish>W szlachetnym geście hojności gracz %s2_player wyzwolił miasto %s1_city, które przeszło pod kontrolę ludu %s3_civ_adjective.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CITY_NATIONALITY</Tag><Polish>Skład etniczny miasta:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_PRODUCTION_DESTROYED</Tag><Polish>Produkcja: %s1_ProdName w mieście: %s2_CityName została zniszczona!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_PRODUCTION_DESTROYED</Tag><Polish>W mieście %s2_CityName zniszczono postępy produkcji: %s1_ProdName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_RAZED_BY</Tag><Polish>Miasto: %s1_CityName zostało zniszczone przez: %s2_CivName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_RAZED_BY</Tag><Polish>Miasto %s1_CityName zostaje zburzone przez cywilizację %s2_CivName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_REVOLTED_JOINED</Tag><Polish>Miasto: %s1_CityName zbuntowało się i teraz włada nim: %s2_CivName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_REVOLTED_JOINED</Tag><Polish>Miasto %s1_CityName zbuntowało się i dołączyło do cywilizacji %s2_CivName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_REVOLTS_JOINS</Tag><Polish>Miasto: %s1_CityName buntuje się i dołącza do: %s2_CivName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_REVOLTS_JOINS</Tag><Polish>Miasto %s1_CityName buntuje się i dołącza do cywilizacji %s2_CivName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CITY_WAS_CAPTURED_BY</Tag><Polish>Miasto: %s1_CityName zostało przejęte przez: %s2_CivName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CITY_WAS_CAPTURED_BY</Tag><Polish>Miasto %s1_CityName zostało zdobyte przez cywilizację %s2_CivName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CIVIC_DEFENSE_HOVER</Tag><Polish>%d1%[ICON_DEFENSE] z doktryn</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CIV_DESTROYED</Tag><Polish>Cywilizacja %s1_CivAdj została zniszczona!!!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CLEARING_FEATURE_BONUS</Tag><Polish>Wykarczowano %s1_FeatName i dostarczono %d2_Num [ICON_PRODUCTION] miastu: %s3_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CLEARING_FEATURE_BONUS</Tag><Polish>Usunięcie elementu terenu (%s1_FeatName) zapewniło %d2_Num [ICON_PRODUCTION] miastu %s3_CityName.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CLICK_TO_CANCEL</Tag><Polish>Kliknij, aby anulować</Polish>
         </TEXT>
@@ -24648,49 +24648,49 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_COMPLETES_PROJECT</Tag><Polish>%s1_PlyrName kończy %s2_PrjctName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_COMPLETES_WONDER</Tag><Polish>Jeden z graczy (%s1_PlyrName) ukończył: %s2_BldgName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_COMPLETES_WONDER</Tag><Polish>Gracz %s1_PlyrName ukończył budowę: %s2_BldgName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CONSCRIPT_UNITS_LEFT</Tag><Polish>Możesz zaprojektować %d1 [NUM1:unit:units] w tej turze</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CONSCRIPT_UNITS_LEFT</Tag><Polish>W tej turze możesz jeszcze powołać do wojska jednostki (liczba: %d1).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CONSTRUCTED_BUILD_IN</Tag><Polish>Zbudowałeś %s1_BldgName w mieście: %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CONSTRUCTED_BUILD_IN</Tag><Polish>W mieście %s2_CityName ukończyłeś budowę: %s1_BldgName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CONSTRUCTED_BUILD_IN_LIMITED</Tag><Polish>Zbudowałeś: %s1_BldgName w mieście %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CONSTRUCTED_BUILD_IN_LIMITED</Tag><Polish>W mieście %s2_CityName ukończyłeś budowę: %s1_BldgName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CONTACT_DECAY</Tag><Polish>Straciliśmy kontakt z %s1_CivAdj!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CONTACT_DECAY</Tag><Polish>Straciliśmy kontakt z ludem %s1_CivAdj!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CONTACT_LEADER</Tag><Polish>Kontakt z: %s1_PlyrName (%s2_CivName)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CONVERT_TO_REL</Tag><Polish>Zmień na: %s1_RelName</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CONVERT_TO_REL</Tag><Polish>Przyjmij religię: %s1_RelName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_DECAY</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] zakończył biznes w %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_DECAY</Tag><Polish>Korporacja [COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] zakończyła działalność w mieście %s2_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_FAILED_TO_SPREAD</Tag><Polish>Twój %s1_UnitName nie zdołał założyć filii korporacji: %F2_RelIcon w %s3_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_FAILED_TO_SPREAD</Tag><Polish>Twojej jednostce (%s1_UnitName) nie udało się otworzyć oddziału korporacji %F2_RelIcon w mieście %s3_CityName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_FOUNDED</Tag><Polish>Koroporacja %s1_CorpName zarejestrowała działalność w mieście %s2_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_FOUNDED</Tag><Polish>Korporacja %s1_CorpName została założona w mieście %s2_CityName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CORPORATION_FOUNDED_UNKNOWN</Tag><Polish>Korporacja %s1_CorpName zarejestrowała działalność w odległym kraju!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CORPORATION_HEADQUARTER_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 za każde miasto z [COLOR_HIGHLIGHT_TEXT][LINK=literal]%s3_corporation[\LINK][COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_HOSTILE_TAKEOVER</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] została zamknięta przez wrogo nastawioną [COLOR_HIGHLIGHT_TEXT]%s2_CorpName[COLOR_REVERT] w mieście %s3_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_HOSTILE_TAKEOVER</Tag><Polish>Korporacja [COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] zakończyła działalność w mieście %s3_CityName wskutek wrogiego przejęcia przez korporację [COLOR_HIGHLIGHT_TEXT]%s2_CorpName[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CORPORATION_MAINT_FLOAT</Tag><Polish>%s1_MaintNum [ICON_GOLD]: Koszty korporacji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_SPREAD</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Korporacja %s1_CorpName[COLOR_REVERT] rozprzestrzeniła się w mieście %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_SPREAD</Tag><Polish>Korporacja [COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] rozszerzyła działalność na miasto %s2_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_SPREAD_BONUS</Tag><Polish>%s1_corporation zapewniła premię %s2_bonus dla miasta: %s3_city. Jeżeli zdobędziesz więcej surowców (%s4_bonus_list) premia powiększy się.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_SPREAD_BONUS</Tag><Polish>Korporacja %s1_corporation zapewnia miastu %s3_city premię: %s2_bonus. Zwiększysz ją, pozyskując więcej surowców: %s4_bonus_list.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CORPORATION_TRADE</Tag><Polish>%s2_Civ1 sprzedał %s1_Corp cywilizacji %s3_Civ2</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CORPORATION_TRADE</Tag><Polish>Cywilizacja %s2_Civ1 sprzedała korporację %s1_Corp cywilizacji %s3_Civ2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CREATED_PROJECT_IN</Tag><Polish>Stworzyłeś: %s1_PrjctName w mieście %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CREATED_PROJECT_IN</Tag><Polish>W mieście %s2_CityName ukończyłeś projekt: %s1_PrjctName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CREATED_PROJECT_IN_LIMITED</Tag><Polish>Stworzyłeś: %s1_PrjctName w mieście %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CREATED_PROJECT_IN_LIMITED</Tag><Polish>W mieście %s2_CityName ukończyłeś projekt: %s1_PrjctName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CTRL_SELECT</Tag><Polish>		Naciśnij (&lt;CTRL&gt;, aby zaznaczyć wszystkie jednostki typu - %s1 )</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CTRL_SELECT</Tag><Polish>(&lt;CTRL&gt;, aby zaznaczyć wszystkie jednostki typu %s1)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CTRL_SHIFT</Tag><Polish>			Naciśnij (&lt;CTRL&gt;, aby przesunąć o %d1 [NUM1:Jednostkę:Jednostki])</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CTRL_SHIFT</Tag><Polish>(&lt;CTRL&gt;: krok zmiany wartości wynosi %d1)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CTRL_TRADE</Tag><Polish>(&lt;CTRL&gt;dla wymiany dyplomatycznej)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CTRL_TRADE</Tag><Polish>(&lt;CTRL&gt;, aby otworzyć ofertę handlową)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CULTURE</Tag><Polish>Kultura: %d1_Curr/%d2_Need [ICON_CULTURE]</Polish>
         </TEXT>
@@ -24698,43 +24698,43 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CULTURE_FLOAT</Tag><Polish>Kultura: %s1_Curr/%d2_Need [ICON_CULTURE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_CULTURE_LEVEL</Tag><Polish>Miasto: %s1_CityName osiągnęło poziom kultury: %s2_LevelName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_CULTURE_LEVEL</Tag><Polish>Miasto %s1_CityName osiągnęło poziom kultury: %s2_LevelName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CULTURE_LEVEL_UNKNOWN</Tag><Polish>Nieznane miasto osiągnęło poziom kultury: %s1_LevelName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_CURRENT_DEFENSE_HOVER</Tag><Polish>Aktualna obrona: %d1%[ICON_DEFENSE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DEAL</Tag><Polish>%s1 daje: %s2 dla: %s3 za: %s4</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DEAL</Tag><Polish>%s1 przekazuje %s2 graczowi %s3 w zamian za %s4</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DEAL_NO_CANCEL</Tag><Polish>Ta umowa nie może być anulowana w przeciągu %d1 [NUM1:tury:tur]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DEAL_NO_CANCEL</Tag><Polish>Tury pozostałe do możliwości anulowania tej umowy: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DEAL_NO_CANCEL_EVER</Tag><Polish>Ta umowa nie może być anulowana.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DEAL_NO_CANCEL_EVER</Tag><Polish>Tej umowy nie można anulować.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DEAL_ONESIDED</Tag><Polish>%s1 daje: %s2 dla: %s3</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DEAL_ONESIDED</Tag><Polish>%s1 przekazuje %s2 graczowi %s3</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DEAL_ONESIDED_OURS</Tag><Polish>%s1 dla: %s2</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DEAL_ONESIDED_THEIRS</Tag><Polish>%s1 od: %s2</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DECLARED_WAR_ON_YOU</Tag><Polish>%s1_PlyrName wypowiada Ci wojnę!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DECLARED_WAR_ON_YOU</Tag><Polish>Gracz %s1_PlyrName wypowiedział ci wojnę!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DECREASE_RATE</Tag><Polish>Zmniejsz (%s1_CmrcType) o %d2_Mod%%</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DECREASE_RATE</Tag><Polish>Zmniejsz poziom wydatków (%s1_CmrcType) o %d2_Mod%%</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DEFEAT</Tag><Polish>Poniosłeś porażkę!!!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DEFENSES_IN_CITY_REDUCED_TO</Tag><Polish>%s3_player zredukował obronę w mieście: %s1_CityName do %d2_NewVal%%!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DEFENSES_IN_CITY_REDUCED_TO</Tag><Polish>Gracz %s3_player obniżył twoją obronę w mieście %s1_CityName do %d2_NewVal%%!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DEFENSE_DAMAGE_HOVER</Tag><Polish>Obrażenia oblężnicze: %d1%[ICON_DEFENSE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DEFENSE_DAMAGE_PERCENT_HOVER</Tag><Polish>Procent obrażeń oblężniczych: %d1%</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DEFENSE_DAMAGE_PERCENT_HOVER</Tag><Polish>Stopień uszkodzenia umocnień przez ostrzał: %d1%</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DEFENSIVE_PACT</Tag><Polish>Pakt obronny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DESTROYED_CITY</Tag><Polish>Zniszczyłeś miasto: %s1_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DESTROYED_CITY</Tag><Polish>Zniszczyłeś miasto %s1_CityName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DISCONNECTED</Tag><Polish>[SPACE][Rozłączony]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_DISCOVERED_LANDMARK</Tag><Polish>Odkryłeś nowy punkt!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_DISCOVERED_LANDMARK</Tag><Polish>Odkryłeś nowe charakterystyczne miejsce!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_DISCOVERED_NEW_RESOURCE</Tag><Polish>Odkryłeś źródło [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] niedaleko miasta: %s2_CityName!</Polish>
         </TEXT>
@@ -24744,13 +24744,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_EMBASSY</Tag><Polish>Ambasada</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_EMPIRE_SPLIT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1_leader wyznaczył %s3_leader jako zarządzającego zamorskimi koloniami %s2_civ[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_EMPIRE_SPLIT</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Gracz %s1_leader powierzył przywódcy %s3_leader zarząd nad zamorskimi koloniami cywilizacji %s2_civ.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENABLES</Tag><Polish>[ICON_BULLET]Dostępne[SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENABLES</Tag><Polish>[ICON_BULLET]Umożliwia[SPACE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENABLES_BRIDGE_BUILDING</Tag><Polish>[ICON_BULLET]Umożliwia budowę mostów</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENABLES_DEFENSIVE_PACTS</Tag><Polish>[ICON_BULLET]Umożliwia pakt obronny</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENABLES_DEFENSIVE_PACTS</Tag><Polish>[ICON_BULLET]Umożliwia zawieranie paktów obronnych</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENABLES_EMBASSIES</Tag><Polish>[ICON_BULLET]Umożliwia zakładanie ambasad</Polish>
         </TEXT>
@@ -24760,15 +24760,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENABLES_ON_TERRAIN</Tag><Polish>[ICON_BULLET]Umożliwia: %F1_Icon na: %s2_TerrainName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENABLES_OPEN_BORDERS</Tag><Polish>[ICON_BULLET]Umożliwia otwarcie granic</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENABLES_OPEN_BORDERS</Tag><Polish>[ICON_BULLET]Umożliwia zawieranie umów o [LINK=CONCEPT_BORDERS]otwartych granicach[\LINK]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENABLES_PERM_ALLIANCES</Tag><Polish>[ICON_BULLET]Umożliwia trwały sojusz</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENABLES_PERM_ALLIANCES</Tag><Polish>[ICON_BULLET]Umożliwia zawieranie trwałych sojuszy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENABLES_TECH_TRADING</Tag><Polish>[ICON_BULLET]Umożliwia [LINK=CONCEPT_TRADE]wymianę technologii[\LINK]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENABLES_VASSAL_STATES</Tag><Polish>[ICON_BULLET]Umożliwia wasalstwo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMYSINK_AIRBOMB4SUCCESS</Tag><Polish>Wróg ZATOPIŁ twoją jednostkę: %s1_UnitName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMYSINK_AIRBOMB4SUCCESS</Tag><Polish>Wróg ZATOPIŁ twoją jednostkę (%s1_UnitName).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB2FAIL</Tag><Polish>Wrogowi nie udało się zniszczyć budynku w mieście: %s1_CityName.</Polish>
         </TEXT>
@@ -24780,39 +24780,39 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB4FAIL</Tag><Polish>Wrogowi nie udało się zbombardować statku w mieście: %s1_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB5FAIL</Tag><Polish>Produkcja nie została uszkodzona w mieście: %s1_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB5FAIL</Tag><Polish>Produkcja w mieście %s1_CityName nie ucierpiała.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB5SUCCESS</Tag><Polish>Produkcja została uszkodzona w mieście: %s1_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB5SUCCESS</Tag><Polish>Produkcja w mieście %s1_CityName została uszkodzona.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB_POP</Tag><Polish>Wrogie bomby zabiły kilku cywilów!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMY_AIRBOMB_POP</Tag><Polish>Wrogie bomby zboczyły z celu i zabiły cywilów!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENEMY_BOMB_MISSED</Tag><Polish>Wroga jednostka: %s1_EnUName nie trafiła w cel.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMY_DEFENSES_REDUCED_TO</Tag><Polish>Twoja jednostka (%s1_UnitName) zredukował obronę w mieście: %s2_CityName do: %d3_Num%%!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMY_DEFENSES_REDUCED_TO</Tag><Polish>Twoja jednostka (%s1_UnitName) obniżyła obronę miasta %s2_CityName do %d3_Num%%!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMY_OPP_FIRE</Tag><Polish>Wroga jednostka: %s1_EnUName wykonała ogień zaporowy na twojej jednostce: %s2_UnitName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMY_OPP_FIRE</Tag><Polish>Wroga jednostka (%s1_EnUName) zyskała okazję do ostrzelania twojej jednostki (%s2_UnitName)!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ENEMY_TROOPS_SPOTTED</Tag><Polish>Niedaleko miasta: %s1_CityName zauważono wroga!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ENEMY_UNIT_WITHDRAW</Tag><Polish>Jednostka: %s1_EnUName uciekła z walki z Twoją jednostką: %s2_UnitName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ENEMY_UNIT_WITHDRAW</Tag><Polish>Wroga jednostka (%s1_EnUName) wycofała się z walki z twoją jednostką (%s2_UnitName)!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_EXIT_INTERFACE_MODE</Tag><Polish>Wyjście %s1_IMName</Polish>
+<TEXT><Tag>TXT_KEY_MISC_EXIT_INTERFACE_MODE</Tag><Polish>Opuść tryb: %s1_IMName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_EXPERIENCE</Tag><Polish>%d1 EXP</Polish>
+<TEXT><Tag>TXT_KEY_MISC_EXPERIENCE</Tag><Polish>%d1 PD</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_EXTRA_FOOD_TURNS</Tag><Polish>Dodatkowe [ICON_FOOD] od lokacji (pozostało tur: %d1)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_EXTRA_FOOD_TURNS</Tag><Polish>Dodatkowe [ICON_FOOD] z lokalizacji (pozostałe tury: %d1)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_EXTRA_HAMMERS_TURNS</Tag><Polish>Dodatkowe [ICON_PRODUCTION] od lokacji (pozostało tur: %d1)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_EXTRA_HAMMERS_TURNS</Tag><Polish>Dodatkowe [ICON_PRODUCTION] z lokalizacji (pozostałe tury: %d1)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_EXTRA_MOVES</Tag><Polish>[ICON_BULLET]%D1_Change do ruchu dla: %s2_Name</Polish>
+<TEXT><Tag>TXT_KEY_MISC_EXTRA_MOVES</Tag><Polish>[ICON_BULLET]%D1_Change dodatkowych punktów ruchu dla: %s2_Name</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_EXTRA_RANGE</Tag><Polish>[ICON_BULLET]%D1_Change do zasięgu operacyjnego lotnictwa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FEATURES</Tag><Polish>Cechy</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FEATURES</Tag><Polish>Elementy terenu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FEATURE_GROWN_NEAR_CITY</Tag><Polish>%s1_FeatName: wzrasta niedaleko miasta %s2_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FEATURE_GROWN_NEAR_CITY</Tag><Polish>W pobliżu miasta %s2_CityName pojawił się element terenu: %s1_FeatName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FEATURE_OVERGROWN_NEAR_CITY</Tag><Polish>%s1_FeatName przerósł Twój %s2_Improvement w %s3_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FEATURE_OVERGROWN_NEAR_CITY</Tag><Polish>Element terenu (%s1_FeatName) rozrósł się na twoje ulepszenie (%s2_Improvement) w pobliżu miasta %s3_CityName.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_FEAT_GOOD_HEALTH</Tag><Polish>%D1_Change[ICON_HEALTHY] za %s2_FeatName</Polish>
         </TEXT>
@@ -26696,7 +26696,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEER_CONNECT_FAILURE_DESC</Tag><Polish>Nie udało się połączyć z innym dołączającym graczem.[NEWLINE]Jego zapora sieciowa może być nieprawidłowo skonfigurowana.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEER_CONNECT_FAILURE_TITLE</Tag><Polish>Nie udało się połączenie do peer'a!</Polish>
+<TEXT><Tag>TXT_KEY_PEER_CONNECT_FAILURE_TITLE</Tag><Polish>Nie udało się połączyć z uczestnikiem gry!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEER_FAILURE_DESC</Tag><Polish>Jednemu z graczy nie powiodła się próba połączenia z Tobą i dołączenia do gry.[NEWLINE]Proszę sprawdzić czy ustawienia firewalla pozwalają na przyjmowanie połączeń dla Cywilizacji IV. </Polish>
         </TEXT>
@@ -33691,7 +33691,7 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
         </TEXT>
 <TEXT><Tag>TXT_KEY_UNITCOMBAT_STEAM_SHIPS</Tag><Polish>Statki parowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_UNITCOMBAT_SUBMARINE</Tag><Polish>Okręt Podwodny</Polish>
+<TEXT><Tag>TXT_KEY_UNITCOMBAT_SUBMARINE</Tag><Polish>Okręty podwodne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_UNITCOMBAT_TRACKED</Tag><Polish>Pojazdy gąsienicowe</Polish>
         </TEXT>
