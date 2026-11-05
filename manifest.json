@@ -1,6 +1,6 @@
 {
   "mod": "Chronicles of Mankind 1.3.3",
-  "release": "v0.1.1",
+  "release": "v0.2-work-in-progress",
   "polish_tags": 17832,
   "duplicated_source_tags": 160,
   "conflicts_resolved": {
@@ -11,14 +11,14 @@
     "TXT_KEY_CIVIC_TRIBALISM_PEDIA": "Chronicles_Civics.xml",
     "TXT_KEY_CITY_NAME_PAIUTE": "Chronicles_CITIES.xml"
   },
-  "sha256": "72db3a66c35d7b1a78dd5d692e04bb2294b214c825a96f9d18013c6a2a22fc87",
-  "windows_native_qa": "not yet tested",
-  "source_release": "com-pl-r1-20261104-native-plPL",
+  "sha256": "19df0de90640b10ea123b951e2c65c78c9e9df32ae695d84197501d507d0db04",
+  "windows_native_qa": "not tested for this revision",
+  "source_release": "com-pl-v0.1.1-native-plPL",
   "editorial_review": {
-    "date": "2026-11-05",
-    "base_version": "v0.1",
-    "changed_tags": 1843,
-    "changed_fields": 1843,
-    "source_repairs": 479
+    "base_version": "v0.1.1",
+    "status": "in_progress",
+    "changed_tags": 550,
+    "changed_fields": 550,
+    "full_review_complete": false
   }
 }
