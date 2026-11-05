@@ -20893,7 +20893,7 @@ Choć krajobraz typu Danxia jest charakterystyczny dla Chin, inne wielobarwne fo
         </TEXT>
 <TEXT><Tag>TXT_KEY_FEAT_LUXURY_CONNECTED</Tag><Polish>Gratulacje! Uzyskałeś dostęp do pierwszego surowca luksusowego ([COLOR_HIGHLIGHT_TEXT]%s1Luxury_Name[COLOR_REVERT])! Zwiększy on zadowolenie we wszystkich miastach połączonych ze stolicą, ułatwiając zarządzanie mieszkańcami.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_FEAT_NATIONAL_WONDER</Tag><Polish>Gratulacje! Ukończyłeś pierwszy cud narodowy ([COLOR_BUILDING_TEXT]%s1Building_Name[COLOR_REVERT]) w mieście %s2City_Name! Te potężne budowle pomagają specjalizować miasta. Warto planować z wyprzedzeniem: standardowy limit to sześć cudów narodowych na miasto, a w wyzwaniu jednego miasta osiem. Opcja „Cuda bez ograniczeń” znosi ten limit.</Polish>
+<TEXT><Tag>TXT_KEY_FEAT_NATIONAL_WONDER</Tag><Polish>Gratulacje! Ukończyłeś pierwszy cud narodowy ([COLOR_BUILDING_TEXT]%s1Building_Name[COLOR_REVERT]) w mieście %s2City_Name! Te potężne budowle pomagają specjalizować miasta. Warto planować z wyprzedzeniem: limit cudów narodowych zależy od poziomu kultury miasta. Opcja „Cuda bez ograniczeń” znosi ten limit.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_FEAT_TRADE_ROUTE</Tag><Polish>Gratulacje! Połączyłeś pierwsze miasto (%s1City_Name) ze stolicą. Połączone miasta dzielą się surowcami i zwiększają dochody z handlu.</Polish>
         </TEXT>
@@ -22102,7 +22102,7 @@ W londyńskim City gildie nazywa się livery companies, a ich siedziby livery ha
         </TEXT>
 <TEXT><Tag>TXT_KEY_HINT_27</Tag><Polish>Upewnij się, że miasto potrzebuje każdego wznoszonego budynku. W miastach bez dochodów z handlu czasem można pominąć bibliotekę, tak jak w mieście, któremu nie grozi walka, można zrezygnować z murów i zamku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_HINT_28</Tag><Polish>Pamiętaj o limicie cudów narodowych: standardowo możesz mieć 6 w jednym mieście, a w wyzwaniu jednego miasta 8. Zaplanuj miejsca dla przyszłych budowli, takich jak Huta Żelaza. Opcja „Cuda bez ograniczeń” znosi ten limit.</Polish>
+<TEXT><Tag>TXT_KEY_HINT_28</Tag><Polish>Pamiętaj o limicie cudów narodowych: zależy on od poziomu kultury miasta. Zaplanuj miejsca dla przyszłych budowli, takich jak Huta Żelaza. Opcja „Cuda bez ograniczeń” znosi ten limit.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_HINT_29</Tag><Polish>Gdy słabe jednostki mają pokonać silnego obrońcę, potrzebna jest przytłaczająca przewaga liczebna. Jeśli przeciwnik przeżyje walkę, zdobędzie doświadczenie i stanie się jeszcze groźniejszy!</Polish>
         </TEXT>
@@ -24818,21 +24818,21 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_FEAT_HEALTH</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za: %s2_FeatName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FIRST_DISCOVER_FOUNDS</Tag><Polish>[ICON_BULLET]Jeżeli odkryjesz pierwszy, założysz:[SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FIRST_DISCOVER_FOUNDS</Tag><Polish>[ICON_BULLET]Pierwszy odkrywca zakłada:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FIRST_DISCOVER_INCORPORATES</Tag><Polish>[ICON_BULLET]Pierwszy odkrywający zarejestruje[SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FIRST_DISCOVER_INCORPORATES</Tag><Polish>[ICON_BULLET]Pierwszy odkrywca zakłada korporację:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FIRST_TECH_CHOOSE_FREE</Tag><Polish>Twoja Cywilizacja jako pierwsza odkryła: [COLOR_TECH_TEXT]%s1_TechName[COLOR_REVERT]! Wybierz darmową technologię...</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FIRST_TECH_CHOOSE_FREE</Tag><Polish>Twoja cywilizacja jako pierwsza odkryła technologię [COLOR_TECH_TEXT]%s1_TechName[COLOR_REVERT]! Wybierz darmową technologię...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_FOOD_THRESHOLD</Tag><Polish>Żywność: %d1_Num/%d2_Threshold [ICON_FOOD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FORCED_SPECIALIST</Tag><Polish>(%d1_Num wyznaczony)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FORCED_SPECIALIST</Tag><Polish>(Wyznaczono: %d1_Num)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FOUNDED_IN</Tag><Polish>Założony w %s1_DateStr</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FOUNDED_IN</Tag><Polish>Założono w %s1_DateStr</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FREE_SPECIALIST</Tag><Polish>(Wolny specjalista)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FREE_SPECIALIST</Tag><Polish>(Darmowy specjalista)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_FREE_TRADE_ZONE</Tag><Polish>Umowa o Wolnym Handlu</Polish>
+<TEXT><Tag>TXT_KEY_MISC_FREE_TRADE_ZONE</Tag><Polish>Umowa o wolnym handlu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_FROM</Tag><Polish>z</Polish>
         </TEXT>
@@ -24842,9 +24842,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
 	</TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GENERAL_KILLED</Tag><Polish>%s1_warlord zginął podczas walki!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GIFTED_UNIT_TO_YOU</Tag><Polish>%s1_PlyrName podarował Ci jednostkę: %s2_UnitName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GIFTED_UNIT_TO_YOU</Tag><Polish>Gracz %s1_PlyrName podarował ci jednostkę: %s2_UnitName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GLOBAL_WARMING_NEAR_CITY</Tag><Polish>Efekt cieplarniany wystąpił niedaleko miasta: %s1_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GLOBAL_WARMING_NEAR_CITY</Tag><Polish>Skutki globalnego ocieplenia dotknęły okolice miasta %s1_CityName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GOLD</Tag><Polish>Złoto (%d1_Num)</Polish>
         </TEXT>
@@ -24852,17 +24852,17 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GOLD_PER_TURN</Tag><Polish>Złoto na turę (%d1_Num)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GOODWILL</Tag><Polish>Negocjacje dyplomatyczne polepszyły stosunki pomiędzy: %s1_teamname i %s2_teamname (+%d3)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GOODWILL</Tag><Polish>Negocjacje dyplomatyczne poprawiły stosunki: %s1_teamname i %s2_teamname (+%d3 do nastawienia).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_BONUSES</Tag><Polish>%D1_Change[ICON_HEALTHY] za premie</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_BONUSES</Tag><Polish>%D1_Change[ICON_HEALTHY] z surowców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_BUILDINGS</Tag><Polish>%D1_Change[ICON_HEALTHY] za budowle</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_BUILDINGS</Tag><Polish>%D1_Change[ICON_HEALTHY] z budynków</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_CIV</Tag><Polish>%D1_Change[ICON_HEALTHY] za cywilizację</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_CIVICS</Tag><Polish>%D1_Change[ICON_HEALTHY] z doktryn</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_CORPORATION</Tag><Polish>%D1_Change[ICON_HEALTHY] od Korporacji</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_CORPORATION</Tag><Polish>%D1_Change[ICON_HEALTHY] z korporacji</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_EVENTS</Tag><Polish>%D1_Change[ICON_HEALTHY] z wydarzeń</Polish>
         </TEXT>
@@ -24870,21 +24870,21 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_POWER</Tag><Polish>%D1_Change[ICON_HEALTHY] za energię elektryczną</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_PROJECT</Tag><Polish>%D1_Change[ICON_HEALTHY] z cudu narodowego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_PROJECT</Tag><Polish>%D1_Change[ICON_HEALTHY] z projektów narodowych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_WORLD_PROJECT</Tag><Polish>%D1_Change[ICON_HEALTHY] z projektu światowego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GOOD_HEALTH_FROM_WORLD_PROJECT</Tag><Polish>%D1_Change[ICON_HEALTHY] z projektów światowych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GP_BORN</Tag><Polish>Wielki Człowiek (%s1_GPName) narodził się w mieście: %s2_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GP_BORN</Tag><Polish>Wielki człowiek (%s1_GPName) narodził się w mieście %s2_CityName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_GP_BORN_FIELD</Tag><Polish>%s1_GreatPersonName wyłonił się na polu walki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GP_BORN_SOMEWHERE</Tag><Polish>Wielki Człowiek (%s1_GPName) narodził się w odległym kraju!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GP_BORN_SOMEWHERE</Tag><Polish>Wielki człowiek (%s1_GPName) narodził się w odległym kraju!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GREAT_GENERAL</Tag><Polish>Wielki Generał potrzebuje jeszcze %d1_Curr/%d2_ punktów doświadczenia</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GREAT_GENERAL</Tag><Polish>Wielki generał: %d1_Curr/%d2_Need punktów doświadczenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GREAT_GENERAL_POINTS_EXCHANGED</Tag><Polish>Mieszkańcy miasta %s1_city zbudowali %s2_building aby uhonorować twe zwycięstwa!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GREAT_GENERAL_POINTS_EXCHANGED</Tag><Polish>Mieszkańcy miasta %s1_city wznieśli budynek %s2_building, aby uczcić twoje zwycięstwa!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_GREAT_PERSON</Tag><Polish>Wielki Człowiek: %d1_Curr/%d2_Need [ICON_GREATPEOPLE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_GREAT_PERSON</Tag><Polish>Wielki człowiek: %d1_Curr/%d2_Need [ICON_GREATPEOPLE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HAPPINESS_ALL_CITIES</Tag><Polish>[ICON_BULLET]%D1_Change%F2_HappyOrUn we wszystkich miastach</Polish>
         </TEXT>
@@ -24894,13 +24894,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HEALTH_EXTRA</Tag><Polish>%D1_Change[ICON_HEALTHY] za dodatkową premię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_BONUSES</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za premie</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_BONUSES</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z surowców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_BUILDINGS</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za budowle</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_BUILDINGS</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z budynków</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_CIV</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za cywilizację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_CORPORATION</Tag><Polish>%D1_Change[ICON_UNHEALTHY] od Korporacji</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_CORPORATION</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z korporacji</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_ESPIONAGE</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za zatrutą wodę</Polish>
         </TEXT>
@@ -24912,17 +24912,17 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_POWER</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za energię elektryczną</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_PROJECT</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z cudu narodowego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_PROJECT</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z projektów narodowych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_WORLD_PROJECT</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z projektu światowego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HEALTH_FROM_WORLD_PROJECT</Tag><Polish>%D1_Change[ICON_UNHEALTHY] z projektów światowych</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_BASE_YIELD</Tag><Polish>Bazowa\wy %s1_yield_type: %d2%F3</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_BASE_YIELD</Tag><Polish>%s1_yield_type - wartość bazowa: %d2%F3</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_BONUS_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%%%F2 od bonusów</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_BONUS_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%%%F2 z surowców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_BUILDING_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 za budowle</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_BUILDING_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 z budynków</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_BASE</Tag><Polish>Baza %s1_commerce_type tempo: %d2%F3_yield_icon</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_BASE</Tag><Polish>%s1_commerce_type - bazowe tempo: %d2%F3_yield_icon</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_BASE_YIELD</Tag><Polish>-----------------------[NEWLINE]Bazowy handel: %d1%F2</Polish>
         </TEXT>
@@ -24930,13 +24930,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_FINAL_YIELD_FLOAT</Tag><Polish>-----------------------[NEWLINE]Razem %s1_commerce_type: %s2%F3</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_SUBTOTAL_YIELD_FLOAT</Tag><Polish>-----------------------[NEWLINE]Bazowo %s1_commerce_type : %s2%F3</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_SUBTOTAL_YIELD_FLOAT</Tag><Polish>-----------------------[NEWLINE]%s1_commerce_type - wartość bazowa: %s2%F3</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_TO_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 z %F3</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_TO_COMMERCE_FLOAT</Tag><Polish>[ICON_BULLET]%s1 %F2 z %F3</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_TRAIT</Tag><Polish>[ICON_BULLET]%D1%%%F2 dzięki temu, że przywódca jest: %s3_trait</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_COMMERCE_TRAIT</Tag><Polish>[ICON_BULLET]%D1%%%F2 dzięki cesze przywódcy: %s3_trait</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_COMMERE_ATTACKS</Tag><Polish>[ICON_BULLET]%D1%F2 z uwięzionych żołnierzy</Polish>
         </TEXT>
@@ -24944,25 +24944,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_EATEN_FOOD</Tag><Polish>[ICON_BULLET]%D1[ICON_EATENFOOD] za populację</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_FREE_CITY_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 za Wolny rynek</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_FREE_CITY_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 darmowego dochodu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_BASE_RATE</Tag><Polish>Bazowe tempo Wielkiego Człowieka = %D1[ICON_GREATPEOPLE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_BASE_RATE</Tag><Polish>Bazowe tempo przyrostu punktów wielkich ludzi = %D1[ICON_GREATPEOPLE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_BUILDINGS</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] za budowle</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_BUILDINGS</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] z budynków</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_CIVICS</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] za doktryny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_FINAL</Tag><Polish>Tempo Wielkiego Człowieka razem = %D1[ICON_GREATPEOPLE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_FINAL</Tag><Polish>Łączne tempo przyrostu punktów wielkich ludzi = %D1[ICON_GREATPEOPLE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_GOLDEN_AGE</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] w związku ze Złotym Wiekiem</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_GOLDEN_AGE</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] dzięki złotemu wiekowi</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_RELIGION</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] za religię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_TRAIT</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] dzięki temu, że przywódca jest: %s2_trait</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_GREATPEOPLE_TRAIT</Tag><Polish>[ICON_BULLET]%D1%%[ICON_GREATPEOPLE] dzięki cesze przywódcy: %s2_trait</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_IMPROVEMENT_COMMERCE</Tag><Polish>+%d1%c2 z ulepszeń</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_MINTED_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 z Wybitych Monet</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_MINTED_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 z wybitych monet</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_NET_FOOD_GROW</Tag><Polish>Żywność netto: %D1[ICON_FOOD]</Polish>
         </TEXT>
@@ -24972,39 +24972,39 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_NET_FOOD_STAGNATE</Tag><Polish>Żywność netto: +0[ICON_FOOD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PRODUCTION_TO_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 od ([ICON_PRODUCTION])</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PRODUCTION_TO_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 z [ICON_PRODUCTION]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PRODUCTION_TO_COMMERCE_FLOAT</Tag><Polish>[ICON_BULLET]%s1 %F2 od ([ICON_PRODUCTION])</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PRODUCTION_TO_COMMERCE_FLOAT</Tag><Polish>[ICON_BULLET]%s1 %F2 z [ICON_PRODUCTION]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_CHOPS</Tag><Polish>Ze ścięcia: %d1[ICON_PRODUCTION]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_CHOPS</Tag><Polish>Z wyrębu: %d1[ICON_PRODUCTION]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_PROD_DOMAIN</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla: %s2_domain</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_FINAL_YIELD</Tag><Polish>-----------------------[NEWLINE]Poziom produkcji: %d1[ICON_PRODUCTION]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_FINAL_YIELD</Tag><Polish>-----------------------[NEWLINE]Łączna produkcja: %d1[ICON_PRODUCTION]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_FOOD</Tag><Polish>[ICON_BULLET]%D1[ICON_PRODUCTION] za %D2[ICON_FOOD] nadwyżki</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_FOOD</Tag><Polish>[ICON_BULLET]%D1[ICON_PRODUCTION] z nadwyżki %D2[ICON_FOOD]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_PROD_MILITARY</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla jednostek wojskowych</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_PROD_MOD_BONUS</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla: %s2_unit_or_building z dostępem do: %s3_bonus</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_NATIONAL_WONDER</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla budowy Cudu Narodowego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_NATIONAL_WONDER</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] przy budowie cudu narodowego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_NEXT_OVERFLOW</Tag><Polish>[ICON_BULLET]%D1[ICON_PRODUCTION] za wyrównanie nadwyżki obecnej produkcji</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_NEXT_OVERFLOW</Tag><Polish>[ICON_BULLET]%D1[ICON_PRODUCTION] z korekty nadwyżki bieżącej produkcji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_OVERFLOW</Tag><Polish>%D1[ICON_PRODUCTION] nadwyżka z poprzedniej budowy</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_OVERFLOW</Tag><Polish>Nadwyżka z poprzedniej budowy: %d1[ICON_PRODUCTION]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_RELIGION</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] za fakt, że %s2_religion to Religia Państwowa</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_RELIGION</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dzięki religii państwowej: %s2_religion</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_SPACESHIP</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla budowy części statku kosmicznego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_SPACESHIP</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] przy budowie części statku kosmicznego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_TEAM_WONDER</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla budowy Cudu Zespołowego</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_TEAM_WONDER</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] przy budowie cudu drużynowego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_TRAIT</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla: %s2_unit_or_building dzięki temu, że Przywódca jest: %s3_trait</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_TRAIT</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla: %s2_unit_or_building, dzięki cesze przywódcy: %s3_trait</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_PROD_UNITCLASS</Tag><Polish>[ICON_BULLET]%d1%%[ICON_PRODUCTION] dla %s2</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_WONDER</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] dla budowy Cudu Świata</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_PROD_WONDER</Tag><Polish>[ICON_BULLET]%D1%%[ICON_PRODUCTION] przy budowie cudu świata</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_RELIGION_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 za religię</Polish>
         </TEXT>
@@ -25012,23 +25012,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_SLIDER_PERCENT_FLOAT</Tag><Polish>-----------------------[NEWLINE]%d1%% z %s2[ICON_COMMERCE] = %s3%F4</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_SPECIALIST_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 %s3_specialists_or_great_people</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_SPECIALIST_COMMERCE</Tag><Polish>[ICON_BULLET]%D1%F2 dzięki: %s3_specialists_or_great_people</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_SPOILED_FOOD</Tag><Polish>[ICON_BULLET]%D1[ICON_EATENFOOD] za zdrowie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_TOTAL_FOOD_CONSUMED</Tag><Polish>-----------------------[NEWLINE]Konsumowana żywność: %d1[ICON_EATENFOOD]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_TOTAL_FOOD_CONSUMED</Tag><Polish>-----------------------[NEWLINE]Łączne zużycie żywności: %d1[ICON_EATENFOOD]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_TOTAL_FOOD_PRODUCED</Tag><Polish>-----------------------[NEWLINE]Produkcja żywności (razem): %d1[ICON_FOOD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_TRAIT_YIELD_CHANGE</Tag><Polish>[NEWLINE][ICON_BULLET]%D1%F2 z cechy %s3 </Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_TRAIT_YIELD_CHANGE</Tag><Polish>[NEWLINE][ICON_BULLET]%D1%F2 dzięki cesze: %s3</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_WASTED_FOOD</Tag><Polish>[ICON_BULLET]Zmarnowano %D1[ICON_EATENFOOD]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_WORKED_TILES_YIELD</Tag><Polish>[ICON_BULLET]%D1%F2 z używanych pól</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_WORKED_TILES_YIELD</Tag><Polish>[ICON_BULLET]%D1%F2 z zagospodarowanych pól</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_YIELD_BONUS</Tag><Polish>[ICON_BULLET]%D1%%%F2 za surowce</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HELP_YIELD_BUILDINGS</Tag><Polish>[ICON_BULLET]%D1%%%F2 za budowle</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HELP_YIELD_BUILDINGS</Tag><Polish>[ICON_BULLET]%D1%%%F2 z budynków</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_YIELD_CAPITAL</Tag><Polish>[ICON_BULLET]%D1%%%F2 za stolicę</Polish>
         </TEXT>
@@ -25038,15 +25038,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HELP_YIELD_PROJECTS</Tag><Polish>[ICON_BULLET]%D1%%%F2 z projektów</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HIRED_WAR_ALLY</Tag><Polish>Złe Imperium %s1_CivAdj przekonało zdradzieckie Imperium %s2_CivAdj, by wypowiedział nam wojnę!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HIRED_WAR_ALLY</Tag><Polish>Niegodziwe imperium %s1_CivAdj przekonało zdradzieckie imperium %s2_CivAdj, by wypowiedziało nam wojnę!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HISTORICAL_INFO</Tag><Polish>Informacje historyczne o: %s1_Name</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HURRY_GOLD</Tag><Polish>[ICON_BULLET]Koszt: %d1_Num</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HURRY_GOLD</Tag><Polish>[ICON_BULLET]Koszt: %d1_Num sztuk złota</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HURRY_OVERFLOW</Tag><Polish>[ICON_BULLET]%s1 nadwyżki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_HURRY_POP</Tag><Polish>[ICON_BULLET]Koszty populacji: %d1_Num</Polish>
+<TEXT><Tag>TXT_KEY_MISC_HURRY_POP</Tag><Polish>[ICON_BULLET]Koszt w ludności: %d1_Num</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_HURRY_PROD</Tag><Polish>Przyspiesz: %s1_ProdName</Polish>
         </TEXT>
@@ -25056,47 +25056,47 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_IMPROVEMENTS</Tag><Polish>Ulepszenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_IMPROVEMENT_DEPLETED</Tag><Polish>Twoja %s1 wyczerpała surowiec!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_IMPROVEMENT_DEPLETED</Tag><Polish>Surowiec w twoim ulepszeniu (%s1) został wyczerpany!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_IMPR_GOOD_HEALTH</Tag><Polish>%D1_Change[ICON_HEALTHY] za %s2_ImpName</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_IMPR_HEALTH</Tag><Polish>%D1_Change[ICON_UNHEALTHY] za %s2_ImpName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_IMP_DESTROYED</Tag><Polish>Ulepszenie: %s1_ImpName zostało zniszczone przez %s3_civ_adjective %s2_UnitName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_IMP_DESTROYED</Tag><Polish>Ulepszenie %s1_ImpName zostało zniszczone przez grasującą jednostkę: %s3_civ_adjective %s2_UnitName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_INCREASE_RATE</Tag><Polish>Zwiększ (%s1_CmrcType) o %d2_Mod%%</Polish>
+<TEXT><Tag>TXT_KEY_MISC_INCREASE_RATE</Tag><Polish>Zwiększ udział (%s1_CmrcType) o %d2_Mod%%</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_IRRIGATION_ANYWHERE</Tag><Polish>[ICON_BULLET]Możesz budować farmy bez nawodnienia</Polish>
+<TEXT><Tag>TXT_KEY_MISC_IRRIGATION_ANYWHERE</Tag><Polish>[ICON_BULLET]Można budować [LINK=IMPROVEMENT_FARM]farmy[\LINK] bez nawodnienia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_LEADS_TO</Tag><Polish>[NEWLINE][ICON_BULLET]Prowadzi do[SPACE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_LIMITED_BORDERS</Tag><Polish>Prawo przejścia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_LOST_PROD_CONVERTED</Tag><Polish>%s1_CityName nie może przenosić więcej [ICON_PRODUCTION]. Stracone %d2_NumProduction[ICON_PRODUCTION] zostają zmienione na %d3_NumGold[ICON_GOLD]!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_LOST_PROD_CONVERTED</Tag><Polish>Miasto %s1_CityName nie może przenieść większej nadwyżki [ICON_PRODUCTION]. Utracone %d2_NumProduction[ICON_PRODUCTION] zamieniono na %d3_NumGold[ICON_GOLD]!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED</Tag><Polish>Miasto: %s1_CityName nie może pracować nad %s2_BldgName. Stracona [ICON_PRODUCTION] została zamieniona na %d3_NumGold[ICON_GOLD]!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED</Tag><Polish>Miasto %s1_CityName nie może dalej budować: %s2_BldgName. Utraconą [ICON_PRODUCTION] zamieniono na %d3_NumGold[ICON_GOLD]!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_MAINT_INFO</Tag><Polish>Utrzymanie pokazuje całkowity koszt administracji w tym mieście</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_MASTER</Tag><Polish>Pan</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_MASTER_AREA_LOSS</Tag><Polish>[NEWLINE]Terytorium Pana: %d1 %% pierwotna (Wasala %d2 %%)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_MASTER_AREA_LOSS</Tag><Polish>[NEWLINE]Terytorium pana: %d1%% pierwotnej powierzchni (wasal odzyskuje niepodległość przy %d2%%, jeśli jego siła militarna przekracza %d3%% siły pana)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_MAX_POP_HURRY</Tag><Polish>[SPACE][COLOR_WARNING_TEXT](Maksymalnie: %d1_Num)[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_MAX_SPECIALISTS</Tag><Polish>[COLOR_WARNING_TEXT]Maksymalnie: %d1_Num[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_MELTDOWN_CITY</Tag><Polish>Stopienie rdzenia nuklearnego zdarzyło się w mieście: %s1_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_MELTDOWN_CITY</Tag><Polish>W mieście %s1_CityName doszło do stopienia rdzenia reaktora jądrowego!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_MIN_CITY_POP</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga %d1 poziomu populacji[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_MISC_MIN_CITY_POP</Tag><Polish>[COLOR_WARNING_TEXT]Wymagana liczba ludności: %d1[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_MIN_CULTURE_PERCENT</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga poziomu kultury co najmniej: %d1%% i tej samej narodowości[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_MIN_CULTURE_PERCENT</Tag><Polish>[COLOR_WARNING_TEXT]Wymaga co najmniej %d1%% kultury własnej cywilizacji[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_MOVE_BUTTONS_DOWN</Tag><Polish>Przejdź na dół</Polish>
+<TEXT><Tag>TXT_KEY_MISC_MOVE_BUTTONS_DOWN</Tag><Polish>Przesuń przyciski w dół</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_MOVE_BUTTONS_UP</Tag><Polish>Przejdz na górę</Polish>
+<TEXT><Tag>TXT_KEY_MISC_MOVE_BUTTONS_UP</Tag><Polish>Przesuń przyciski w górę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NEG_GOLD_PER_TURN</Tag><Polish>[SPACE][COLOR_NEGATIVE_TEXT](%D1_Change/Turę)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NEG_GOLD_PER_TURN</Tag><Polish>[SPACE][COLOR_NEGATIVE_TEXT](%D1_Change/turę)[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_NEG_WARNING_GOLD_PER_TURN</Tag><Polish>[SPACE][COLOR_YELLOW](%D1_Change/turę)[COLOR_REVERT]</Polish>
         </TEXT>
@@ -25104,9 +25104,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_NEW_REL_DISCOVERED</Tag><Polish>Odkryto nową religię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NO_CONSCRIPT_UNITS_LEFT</Tag><Polish>[COLOR_NEGATIVE_TEXT]Nie możesz zaprojektować więcej jednostek w tej turze[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NO_CONSCRIPT_UNITS_LEFT</Tag><Polish>[COLOR_NEGATIVE_TEXT]Nie możesz powołać do wojska kolejnych jednostek w tej turze[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NO_MOUSEOVER_TEXT</Tag><Polish>***NO MOUSEOVER TEXT*** Naciśnij, aby pokazać podpowiedź.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NO_MOUSEOVER_TEXT</Tag><Polish>***BRAK PODPOWIEDZI*** Kliknij, aby otworzyć okno.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_NO_PALACE_PENALTY</Tag><Polish>Bez kary za pałac</Polish>
         </TEXT>
@@ -25116,89 +25116,89 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_NO_UNIT</Tag><Polish>Brak jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NUCLEAR_WINTER_NEAR_CITY</Tag><Polish>Alarm! Radioakywny pył zbiera się ponad %s1_CityName !</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NUCLEAR_WINTER_NEAR_CITY</Tag><Polish>Radioaktywny pył wypełnia niebo w pobliżu miasta %s1_CityName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NUKE_ENEMY_SPY</Tag><Polish>Szpieg z %s1 wywołał eksplozję nuklearną na terytorium %s2 !</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NUKE_ENEMY_SPY</Tag><Polish>Szpieg z %s1 zdetonował ładunek nuklearny na terytorium %s2!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NUKE_INTERCEPTED</Tag><Polish>%s1_PlyrName odpalił %s2_UnitName, ale została strącona przez: %s3_Plyr2Name!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NUKE_INTERCEPTED</Tag><Polish>Gracz %s1_PlyrName wystrzelił pocisk %s2_UnitName, ale gracz %s3_Plyr2Name go zestrzelił!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NUKE_LAUNCHED</Tag><Polish>%s1_PlyrName odpalił %s2_UnitName, oraz wywołał eksplozję!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NUKE_LAUNCHED</Tag><Polish>Gracz %s1_PlyrName wystrzelił pocisk %s2_UnitName, który eksplodował!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_NUKE_UNKNOWN</Tag><Polish>Wybuch nuklearny z nieznanego źródła nastąpił na terytorium %s1!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_NUM_CITIES</Tag><Polish>%D1_MaintNum[ICON_GOLD]: Liczba Miast</Polish>
+<TEXT><Tag>TXT_KEY_MISC_NUM_CITIES</Tag><Polish>%D1_MaintNum[ICON_GOLD]: Liczba miast</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_NUM_CITIES_FLOAT</Tag><Polish>%s1_MaintNum [ICON_GOLD]: Liczba miast</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_OFF_CITIZEN_AUTO</Tag><Polish>Wyłącz automatyzację obywatela</Polish>
+<TEXT><Tag>TXT_KEY_MISC_OFF_CITIZEN_AUTO</Tag><Polish>Wyłącz automatyczne przydzielanie obywateli</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_OFF_PROD_AUTO</Tag><Polish>Wyłącz produkcję automatyczną</Polish>
+<TEXT><Tag>TXT_KEY_MISC_OFF_PROD_AUTO</Tag><Polish>Wyłącz automatyczne zarządzanie produkcją</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ON_CITIZEN_AUTO</Tag><Polish>Włącz automatyzację obywatela</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ON_CITIZEN_AUTO</Tag><Polish>Włącz automatyczne przydzielanie obywateli</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_ON_HILLS</Tag><Polish>[SPACE]na wzgórzach</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_ON_PROD_AUTO</Tag><Polish>Włącz produkcję automatyczną</Polish>
+<TEXT><Tag>TXT_KEY_MISC_ON_PROD_AUTO</Tag><Polish>Włącz automatyczne zarządzanie produkcją</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_OPEN_BORDERS</Tag><Polish>Otwórz granice</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_OUR_DEAL</Tag><Polish>%s1 dla: %s2 za: %s3</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_OUT_OF_SYNC</Tag><Polish>***** BRAK SYNCHRONIZACJI! MOJA POZYCJA = %d1_Sync : MOJE OPCJE = %d2_Options *****[NEWLINE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_OUT_OF_SYNC</Tag><Polish>***** BRAK SYNCHRONIZACJI! MOJE ZIARNO SYNCHRONIZACJI = %d1_Sync : MOJE ZIARNO OPCJI = %d2_Options *****[NEWLINE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_OWNER</Tag><Polish>Właściciel</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PEACE_TREATY</Tag><Polish>Traktat pokojowy (%d1_Num Tur)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PEACE_TREATY</Tag><Polish>Traktat pokojowy (liczba tur: %d1_Num)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PEDIA_BACK</Tag><Polish>Wróć</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PEDIA_FORWARD</Tag><Polish>Naprzód</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PERMANENT_ALLIANCE</Tag><Polish>Trwały Sojusz</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PERMANENT_ALLIANCE</Tag><Polish>Trwały sojusz</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PER_CITIZEN</Tag><Polish>[SPACE]na obywatela</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PILLAGED_CITY</Tag><Polish>Niszcząc miasto %s2_CityName, splądrowałeś %d1_Num [ICON_GOLD]!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PILLAGED_CITY</Tag><Polish>Niszcząc miasto %s2_CityName, zdobyłeś %d1_Num [ICON_GOLD]!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLANS_STOLEN</Tag><Polish>Tajne informacje wyciekły w mie¶cie %s1_CityName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLANS_STOLEN</Tag><Polish>Urzędnik państwowy ujawnił poufne informacje w mieście %s1_CityName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLAYERS_SIGN_DEFENSIVE_PACT</Tag><Polish>%s1 Podpisz pakt obronny z %s2</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLAYERS_SIGN_DEFENSIVE_PACT</Tag><Polish>%s1 podpisuje pakt obronny z %s2</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PLAYER_ADOPTED_CIVIC</Tag><Polish>%s1_PlyrName przyjmuje: [COLOR_HIGHLIGHT_TEXT]%s2_CvcName[COLOR_REVERT]!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PLAYER_CONVERT_RELIGION</Tag><Polish>%s1_PlyrName zmienia religię państwową na [COLOR_HIGHLIGHT_TEXT]%s2_RelName[COLOR_REVERT]!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS</Tag><Polish>%s1_PlyrName rozpoczyna Złoty Wiek.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_BEGINS</Tag><Polish>Gracz %s1_PlyrName rozpoczyna złoty wiek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_ENDED</Tag><Polish>Jednemu z graczy zakończył się Złoty Wiek (%s1_PlyrName)!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_ENDED</Tag><Polish>Złoty wiek gracza %s1_PlyrName dobiegł końca...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_HAS_BEGUN</Tag><Polish>Jednemu z graczy rozpoczął się Złoty Wiek (%s1_PlyrName)!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLAYER_GOLDEN_AGE_HAS_BEGUN</Tag><Polish>Rozpoczął się złoty wiek gracza %s1_PlyrName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLAYER_PERMANENT_ALLIANCE</Tag><Polish>%s1_PlyrName zawiera Trwały Sojusz z: %s2_TeamName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLAYER_PERMANENT_ALLIANCE</Tag><Polish>Gracz %s1_PlyrName zawarł trwały sojusz z drużyną %s2_TeamName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PLUNDERED_GOLD_FROM_IMP</Tag><Polish>Splądrowałeś %d1_Num[ICON_GOLD] z ulepszenia: %s2_ImpName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PLUNDERED_GOLD_FROM_IMP</Tag><Polish>Zdobyłeś %d1_Num[ICON_GOLD], plądrując ulepszenie: %s2_ImpName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PM_AFTERNOON</Tag><Polish>[SPACE]po południu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_POS_ESPIONAGE_PER_TURN</Tag><Polish>[SPACE][SPACE][SPACE][ICON_ESPIONAGE]: %D1_Change</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_POS_GOLD_PER_TURN</Tag><Polish>[SPACE][COLOR_POSITIVE_TEXT](%D1_Change/Turę)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_POS_GOLD_PER_TURN</Tag><Polish>[SPACE][COLOR_POSITIVE_TEXT](%D1_Change/turę)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_POS_GOLD_PER_TURN_SCIENCE</Tag><Polish>[SPACE][COLOR_POSITIVE_TEXT](%D1_Change/Turn i[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_POS_GOLD_PER_TURN_SCIENCE</Tag><Polish>[SPACE][COLOR_POSITIVE_TEXT](%D1_Change/turę i[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_POS_GOLD_PER_TURN_TECH_DIFF</Tag><Polish>[SPACE][COLOR_POSITIVE_TEXT] (%D1_Change/tura)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_POS_GOLD_PER_TURN_TECH_DIFF</Tag><Polish>[SPACE][COLOR_POSITIVE_TEXT] %D1_Change z dyfuzji technologii)[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_POS_WARNING_GOLD_PER_TURN</Tag><Polish>[SPACE][COLOR_YELLOW](%D1_Change/turę)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_POWER_RESTORED</Tag><Polish>Energia Elektryczna w %s1 została przywrócona.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_POWER_RESTORED</Tag><Polish>Przywrócono dostawy energii elektrycznej w mieście %s1.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PROB</Tag><Polish>Prawdopodobieństwo:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_PRODUCTION_COMPLETE</Tag><Polish>Zakończono produkcję</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PROD_CONVERTED</Tag><Polish>%d1[ICON_PRODUCTION] zostały zmienione z Twojego %s2 na %s3</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PROD_CONVERTED</Tag><Polish>Przeniesiono %d1[ICON_PRODUCTION] z twojej produkcji (%s2) na: %s3</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_PROGRESS_TOWARDS_TECH</Tag><Polish>Zbliżyłeś się o %d1[ICON_RESEARCH] do zakończenia badania nad: [COLOR_TECH_TEXT]%s2_TechName[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_PROGRESS_TOWARDS_TECH</Tag><Polish>Badania nad technologią [COLOR_TECH_TEXT]%s2_TechName[COLOR_REVERT] posunęły się naprzód o %d1[ICON_RESEARCH].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_RECEIVED_GOLD</Tag><Polish>[SPACE]Otrzymałeś %d1_Num sztuk złota!</Polish>
         </TEXT>
@@ -25206,27 +25206,27 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_RELIGION_DECAY</Tag><Polish>Mieszkańcy miasta %s1_CityName zrezygnowali z religii: [COLOR_HIGHLIGHT_TEXT]%s2_ReligionName[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_RELIGION_FAILED_TO_SPREAD</Tag><Polish>Twojej jednostce: %s1_UnitName nie udało się rozszerzyć %F2_RelIcon w mieście: %s3_CityName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_RELIGION_FAILED_TO_SPREAD</Tag><Polish>Twoja jednostka (%s1_UnitName) nie zdołała rozprzestrzenić religii %F2_RelIcon w mieście %s3_CityName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_RELIGION_SPREAD</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT] rozprzestrzenia się w mieście: %s2_CityName</Polish>
+<TEXT><Tag>TXT_KEY_MISC_RELIGION_SPREAD</Tag><Polish>Religia [COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT] rozprzestrzeniła się w mieście %s2_CityName.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_RELOAD</Tag><Polish>Rozpoczęcie sesji: %d1_number</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_REL_FOUNDED</Tag><Polish>Nowa religia ([COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT]) została założona w mieście: %s2_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_REL_FOUNDED</Tag><Polish>Religia [COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT] została założona w mieście %s2_CityName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_REL_FOUNDED_MOVIE</Tag><Polish>Założyłeś %s1_religion</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_REL_FOUNDED_UNKNOWN</Tag><Polish>Nowa religia ([COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT]) została założona w odległym kraju.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_REL_FOUNDED_UNKNOWN</Tag><Polish>Religia [COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT] została założona w odległym kraju!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_REL_IS_FOUNDED</Tag><Polish>Religia (%F1_RelIcon) została założona w mieście: %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_REL_IS_FOUNDED</Tag><Polish>Religia %F1_RelIcon została założona w mieście %s2_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_REMOVE_SPECIALIST</Tag><Polish>Usuń %s1_SpclstName</Polish>
+<TEXT><Tag>TXT_KEY_MISC_REMOVE_SPECIALIST</Tag><Polish>Usuń specjalistę: %s1_SpclstName</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_RESEARCH_STRING</Tag><Polish>Badanie: %s1_TechName</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_RESOURCE_DEFENSE_HOVER</Tag><Polish>%d1%[ICON_DEFENSE] z surowców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_RESOURCE_DEPLETED</Tag><Polish>%s1 w Twoim %s2 został wyczerpany!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_RESOURCE_DEPLETED</Tag><Polish>Surowiec (%s1) w twoim ulepszeniu (%s2) został wyczerpany!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_REVEALS</Tag><Polish>[ICON_BULLET]Odsłania[SPACE]</Polish>
         </TEXT>
@@ -25244,51 +25244,51 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SAY_TO_ALL</Tag><Polish>Powiedz wszystkim:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SAY_TO_PLAYER</Tag><Polish>Powiedz do: %s1_PlyrName</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SAY_TO_PLAYER</Tag><Polish>Powiedz graczowi %s1_PlyrName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SAY_TO_TEAM</Tag><Polish>Powiedz do zespołu:[SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SAY_TO_TEAM</Tag><Polish>Powiedz drużynie:[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SEND</Tag><Polish>Wysyłanie</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SEND</Tag><Polish>Wyślij</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SET_RATE</Tag><Polish>Ustaw %s1_CmrcType na %d2_Value%%</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SET_RATE</Tag><Polish>Ustaw udział (%s1_CmrcType) na %d2_Value%%</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SHIFT_ALT_PREPARE_WAR</Tag><Polish>(&lt;SHIFT+ALT&gt; aby Wypowiedzieć Wojnę)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SHIFT_ALT_PREPARE_WAR</Tag><Polish>(&lt;SHIFT+ALT&gt;, aby przygotować się do wojny)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SHIFT_SEND_CHAT</Tag><Polish>			(&lt;SHIFT&gt;aby wysłać wiadomość</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SHIFT_SEND_CHAT</Tag><Polish>(&lt;SHIFT&gt;, aby wysłać wiadomość)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SOMEONE_CIRC_GLOBE</Tag><Polish>%s1_PlyrName udowodnił iż świat jest okrągły!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SOMEONE_CIRC_GLOBE</Tag><Polish>Gracz %s1_PlyrName udowodnił, że świat jest okrągły!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SOMEONE_CREATED_UNIT</Tag><Polish>%s1_PlyrName stworzył jednostkę: %s2_UnitName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SOMEONE_DECLARED_WAR</Tag><Polish>%s1_PlyrName wypowiada wojnę przeciwko: %s2_PlyrName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SOMEONE_DECLARED_WAR</Tag><Polish>Gracz %s1_PlyrName wypowiedział wojnę graczowi %s2_PlyrName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SOMEONE_DECLARES_WAR</Tag><Polish>%s1_PlyrName wypowiada wojnę przeciwko %s2_PlyrName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SOMEONE_DECLARES_WAR</Tag><Polish>Gracz %s1_PlyrName wypowiada wojnę graczowi %s2_PlyrName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SOMEONE_FIRST_TO_TECH</Tag><Polish>%s1_PlyrName jako pierwszy odkrywa: %s2_TechName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SOMEONE_FIRST_TO_TECH</Tag><Polish>Gracz %s1_PlyrName jako pierwszy odkrywa technologię %s2_TechName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SOMEONE_HAS_COMPLETED</Tag><Polish>Jeden z graczy (%s1_PlyrName) ukończył: %s2_PrjctName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SOMEONE_MADE_PEACE</Tag><Polish>%s1_PlyrName zawiera pokój z: %s2_PlyrName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SOMEUNIT_FORCE_PEACE</Tag><Polish>Jednostka: %s1_UnitName Imperium %s3_CivAdj wymusiła pokój z %s2_CivDesc!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SOMEUNIT_FORCE_PEACE</Tag><Polish>Jednostka %s3_CivAdj %s1_UnitName przekonała cywilizację %s2_CivDesc do podpisania traktatu pokojowego!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SPECIALIST_RELOCATION</Tag><Polish>Przeniesiono specjalistę do %s1</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SPECIALIST_RELOCATION</Tag><Polish>Przeniesiono specjalistę do miasta %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SPED_UP_BY</Tag><Polish>[NEWLINE][ICON_BULLET]Przyspieszenie przez[SPACE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SPEEDS_UP</Tag><Polish>[NEWLINE][ICON_BULLET]Przyspieszenie[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SPREAD_IRRIGATION</Tag><Polish>[ICON_BULLET][LINK=IMPROVEMENT_FARM]Farmy[\LINK] rozprowadzają [LINK=CONCEPT_IRRIGATION]Nawodnienie[\LINK]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SPREAD_IRRIGATION</Tag><Polish>[ICON_BULLET][LINK=IMPROVEMENT_FARM]Farmy[\LINK] rozprowadzają [LINK=CONCEPT_IRRIGATION]nawodnienie[\LINK]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SPY_CAUGHT_AND_KILLED</Tag><Polish>Jednostka %s1_CivAdj : %s2_UnitName została złapana i zlikwidowana!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SPY_CAUGHT_AND_KILLED</Tag><Polish>Odpowiedzialna za to jednostka (%s1_CivAdj %s2_UnitName) została schwytana i „zlikwidowana”!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SPY_DESTROYED_PRODUCTION</Tag><Polish>Twoja jednostka: %s1_UnitName zniszczyła produkcję: %s2_ProdName w mieście: %s3_CityName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SPY_DESTROYED_PRODUCTION</Tag><Polish>Twoja jednostka (%s1_UnitName) zniszczyła produkcję (%s2_ProdName) w mieście %s3_CityName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SPY_SABOTAGED</Tag><Polish>Twojej jednostce: %s1_UnitName powiódł się sabotaż w pobliżu miasta: %s2_CityName!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SPY_SABOTAGED</Tag><Polish>Twoja jednostka (%s1_UnitName) przeprowadziła sabotaż w pobliżu miasta %s2_CityName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_SPY_STOLE_PLANS</Tag><Polish>Twoja jednostka: %s1_UnitName przekupiła urzędników państwowych w mie¶cie: %s2_CityName i zdobyła tajne informacje!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_SPY_STOLE_PLANS</Tag><Polish>Twoja jednostka (%s1_UnitName) przekupiła urzędnika państwowego w mieście %s2_CityName i zdobyła informacje!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_STORM_GROWN_NEAR_CITY</Tag><Polish>Ogromny front burzowy utworzył się blisko %s1_CityName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_STORM_GROWN_NEAR_CITY</Tag><Polish>W pobliżu miasta %s1_CityName zaobserwowano gwałtowne burze!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_STRIKE</Tag><Polish>[SPACE][COLOR_NEGATIVE_TEXT]STRAJK[COLOR_REVERT]</Polish>
         </TEXT>
@@ -25298,7 +25298,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_SWITCH_TO_NORMAL</Tag><Polish>Przełącz na zwykłą prędkość</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TAXATION_ANGER</Tag><Polish>Twoi ludzie są niezadowoleni z powodu wysokich podatków! Wyszli na ulice by protestować!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TAXATION_ANGER</Tag><Polish>Twoi mieszkańcy są niezadowoleni z podwyżki podatków! Wyszli na ulice, by zaprotestować!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_TECH_REQUIRES_KNOWLEDGE_OF</Tag><Polish>[ICON_BULLET]Technologia ta wymaga poznania: %s1_Name</Polish>
         </TEXT>
@@ -25310,41 +25310,41 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_TOTAL_DEFENSE_HOVER</Tag><Polish>Bazowa obrona: %d1%[ICON_DEFENSE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TOTAL_EMPLOYED</Tag><Polish>Cała Pracująca Populacja: %d1</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TOTAL_EMPLOYED</Tag><Polish>Łączna liczba pracujących mieszkańców: %d1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TOTAL_HEALTHY</Tag><Polish>%D1_Change[ICON_HEALTHY] Poziom zdrowia</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TOTAL_HEALTHY</Tag><Polish>%d1_Num[ICON_HEALTHY] Łączne zdrowie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TOTAL_MAINT</Tag><Polish>%d1_Num[ICON_GOLD] Utrzymanie razem</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TOTAL_MAINT</Tag><Polish>%d1_Num[ICON_GOLD] Łączny koszt utrzymania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TOTAL_MAINT_FLOAT</Tag><Polish>%s1_Num [ICON_GOLD] Całkowite utrzymanie</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TOTAL_MAINT_FLOAT</Tag><Polish>%s1_Num [ICON_GOLD] Łączny koszt utrzymania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TOTAL_UNHEALTHY</Tag><Polish>%d1_Num[ICON_UNHEALTHY] Poziom choroby</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TOTAL_UNHEALTHY</Tag><Polish>%d1_Num[ICON_UNHEALTHY] Łączna niezdrowotność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_ANNOYED</Tag><Polish>Złośliwy %s1 napuścił ambasadorów %s2 na nas.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_ANNOYED</Tag><Polish>Z czystej złośliwości cywilizacja %s1 przedstawiła nam ambasadorów cywilizacji %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_CAUTIOUS</Tag><Polish>%s1 wprowadził na własną rękę ambasadorów %s2 do nas.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_CAUTIOUS</Tag><Polish>Z sobie tylko znanych powodów cywilizacja %s1 przedstawiła nam ambasadorów cywilizacji %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_FRIENDLY</Tag><Polish>Nasz dobry przyjaciel, %s1 poprosił swojego przyjaciela z %s2 by wprowadził swoich ambasadorów do nas.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_FRIENDLY</Tag><Polish>Nasi dobrzy przyjaciele z cywilizacji %s1 z własnej inicjatywy przedstawili nam uroczych ambasadorów cywilizacji %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_FURIOUS</Tag><Polish>Na złowrogim polu, %s1 napuścił grad złowrogich ambasadorów z %s2 na nas.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_FURIOUS</Tag><Polish>W ramach jakiegoś złowrogiego spisku cywilizacja %s1 przedstawiła nam podejrzanych ambasadorów, którzy twierdzą, że pochodzą z cywilizacji %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_PLEASED</Tag><Polish>Nasz przyjaciel, %s1 wprowadził życzliwych ambasadorów %s2 do nas.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADED_CONTACT_PLEASED</Tag><Polish>Nasi przyjaciele z cywilizacji %s1 przedstawili nam uroczych ambasadorów cywilizacji %s2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADED_UNIT_TO_YOU</Tag><Polish>%s1 sprzedał Tobie %s2</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADED_UNIT_TO_YOU</Tag><Polish>Gracz %s1 przekazał ci jednostkę %s2 w ramach wymiany.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_TRADE_ROUTES</Tag><Polish>[ICON_BULLET]%D1_Change szlaków handlowych na miasto</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADE_ROUTE_PLUNDER</Tag><Polish>%d3[ICON_GOLD] splądrowane przez: %s1_unit na obrzeżach miasta: %s2_city.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADE_ROUTE_PLUNDER</Tag><Polish>Jednostka %s1_unit zdobyła %d3[ICON_GOLD], plądrując okolice miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRADE_ROUTE_PLUNDERED</Tag><Polish>Twoja jednostka (%s1_unit) splądrowała na obrzeżach miasta %d3[ICON_GOLD]!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRADE_ROUTE_PLUNDERED</Tag><Polish>Twoja jednostka (%s1_unit) zdobyła %d3[ICON_GOLD], plądrując okolice miasta %s2_city!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRAINED_UNIT_IN</Tag><Polish>Wytrenowałeś jednostkę: %s1_UnitName w mieście: %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRAINED_UNIT_IN</Tag><Polish>Wyszkolono jednostkę %s1_UnitName w mieście %s2_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRAINED_UNIT_IN_LIMITED</Tag><Polish>Wytrenowałeś jednostkę: %s1_UnitName w mieście %s2_CityName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRAINED_UNIT_IN_LIMITED</Tag><Polish>Wyszkolono jednostkę %s1_UnitName w mieście %s2_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TRYING_TO_CONTACT</Tag><Polish>%s1_PlyrName próbuje się z Tobą skontaktować!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TRYING_TO_CONTACT</Tag><Polish>Gracz %s1_PlyrName próbuje się z tobą skontaktować!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TURNS_LEFT</Tag><Polish>Pozostało %d1 [NUM1:tura:tur]!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TURNS_LEFT</Tag><Polish>Pozostało tur: %d1!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_TURNS_LEFT_TO_VICTORY</Tag><Polish>Tur do zwycięstwa: %d1!</Polish>
         </TEXT>
@@ -25354,15 +25354,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_TURN_ON</Tag><Polish>Włącz[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_TURN_OR_TURNS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%d1_Num [NUM1:tura:tur][COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_TURN_OR_TURNS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Liczba tur: %d1_Num[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_UNHEALTH_EXTRA</Tag><Polish>%D1_Change[ICON_UNHEALTHY] kara</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNITS_DAMAGED</Tag><Polish>Obrońcy miasta %s1 uszkodzili Twoje jednostki!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNITS_DAMAGED</Tag><Polish>Obrona miasta %s1 uszkodziła twoje jednostki!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNITS_ON_STRIKE</Tag><Polish>Twoje Jednostki ogłosiły strajk!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNITS_ON_STRIKE</Tag><Polish>Twoje jednostki strajkują!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNIT_BUILDING_HURRY</Tag><Polish>[COLOR_WARNING_TEXT]Możesz tylko przyspieszyć produkcję jednostkom lub budowlom.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNIT_BUILDING_HURRY</Tag><Polish>[COLOR_WARNING_TEXT]Można przyspieszyć tylko produkcję jednostki lub budynku.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_UNIT_DEATH</Tag><Polish>Twoja jednostka: %s1_unit zginęła</Polish>
         </TEXT>
@@ -25370,67 +25370,67 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_UNIT_DROWNED</Tag><Polish>Twoja jednostka: %s1_unit zatonęła na morzu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNIT_SURVIVED_TRANSPORT_SINKING</Tag><Polish>[COLOR_YELLOW]Twoje %s1 uniknęły katastrofy %s2 i przybiły do brzegu![COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNIT_SURVIVED_TRANSPORT_SINKING</Tag><Polish>[COLOR_YELLOW]Twoje jednostki (%s1) wydostały się z tonącego statku %s2 i dotarły do brzegu![COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNKNOWN_CIRC_GLOBE</Tag><Polish>Odległa Cywilizacja okrążyła kulę ziemską!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNKNOWN_CIRC_GLOBE</Tag><Polish>Odległa cywilizacja opłynęła kulę ziemską!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNKNOWN_CREATED_UNIT</Tag><Polish>Jednostka: [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] została wytrenowana w odległym kraju!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNKNOWN_CREATED_UNIT</Tag><Polish>Jednostka [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] została utworzona w odległym kraju!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_UNKNOWN_FIRST_TO_TECH</Tag><Polish>Jedna z cywilizacji odkryła jako pierwsza: [COLOR_HIGHLIGHT_TEXT](%s1_TechName)[COLOR_REVERT]!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_UNKNOWN_FIRST_TO_TECH</Tag><Polish>Odległa cywilizacja jako pierwsza odkryła technologię [COLOR_HIGHLIGHT_TEXT]%s1_TechName[COLOR_REVERT]!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_UP_ONE_ROW</Tag><Polish>Jeden rząd w górę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_VASSAL</Tag><Polish>Wasalstwo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_AGREEMENT</Tag><Polish>%s1_vassal_name zgodził się zostać wasalem: %s2_master_name</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_AGREEMENT</Tag><Polish>Cywilizacja %s1_vassal_name zgodziła się zostać wasalem cywilizacji %s2_master_name.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_AREA_LOSS</Tag><Polish>[NEWLINE]Terytorium: %d1 %% Pana (wolna %d2 %%)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_AREA_LOSS</Tag><Polish>[NEWLINE]Terytorium: %d1%% pierwotnej powierzchni (niepodległość przy %d2%%)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_LAND_STATS</Tag><Polish>[NEWLINE]Ziemia: %d1 %% Pana (wolna %d2 %%)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_LAND_STATS</Tag><Polish>[NEWLINE]Terytorium: %d1%% powierzchni terytorium pana (niepodległość przy %d2%%)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_MILITARY_STATS</Tag><Polish>[NEWLINE]Wojsko: %d1%% Pana (wolny od %d2%%)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_MILITARY_STATS</Tag><Polish>[NEWLINE]Siła militarna: %d1%% siły pana (niepodległość po przekroczeniu %d2%%)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_POPULATION_STATS</Tag><Polish>[NEWLINE]Ludność: %d1 %% Pana (wolna %d2 %%)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_POPULATION_STATS</Tag><Polish>[NEWLINE]Ludność: %d1%% ludności pana (niepodległość przy %d2%%)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_REVOLT</Tag><Polish>%s1_team_vassal zrzeka się ochrony cywilizacji: %s2_team_master i znów jest niepodległym krajem. </Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_REVOLT</Tag><Polish>Cywilizacja %s1_team_vassal zrzekła się ochrony cywilizacji %s2_team_master i znów jest niepodległym krajem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_VASSAL_SHORT</Tag><Polish>Wasal</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_THEY_ARE_FREE</Tag><Polish>Cywilizacja %s1_team_name twierdzi że niedostatecznie ją chronimy. Nie są już naszym wasalem.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_THEY_ARE_FREE</Tag><Polish>Cywilizacja %s1_team_name twierdzi, że niedostatecznie ją chronisz. Nie jest już twoim wasalem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_TREATY</Tag><Polish>Wasal (%d1_Num [NUM1:tura:tury])</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_TREATY</Tag><Polish>Wasalstwo (liczba tur: %d1_Num)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_TRIBUTE</Tag><Polish>%s2_player otrzymuje %d3_gold [ICON_GOLD]/turę od %s1_player aby pokryć wydatki.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_TRIBUTE</Tag><Polish>Gracz %s1_player otrzymuje %d3_gold [ICON_GOLD]/turę od gracza %s2_player na pokrycie wydatków.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_VASSAL_YOU_ARE_FREE</Tag><Polish>%s1_team_name nie jest w stanie dłużej ciebie ochraniać Znow jesteś niepodległym krajem.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_VASSAL_YOU_ARE_FREE</Tag><Polish>Cywilizacja %s1_team_name nie jest już w stanie cię chronić. Znów jesteś niepodległym krajem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_VS</Tag><Polish>przeciw</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WAIT_MORE_TURNS</Tag><Polish>Poczekaj %d1_Num [NUM1:turę:tury]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WAIT_MORE_TURNS</Tag><Polish>Pozostało do odczekania tur: %d1_Num</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_WARNING</Tag><Polish>Ostrzeżenie!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_FAILURE</Tag><Polish>%s1 został przejęty przez wroga!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_FAILURE</Tag><Polish>Wróg zdobył twój statek %s1!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_FAILURE_GOLD_LOST</Tag><Polish>Straciliśmy %s1 złota w wyniku grabieży statku!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_FAILURE_GOLD_LOST</Tag><Polish>Utraciliśmy część złota przewożonego na pokładzie statku %s1!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS</Tag><Polish>Przejeliśmy %s1 jako zdobycz wojenną!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS</Tag><Polish>Przejęliśmy statek %s1 jako zdobycz wojenną!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS_GOLD_GAINED</Tag><Polish>Zdobyliśmy %s1 złota z grabieży statku!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WARPRIZES_SUCCESS_GOLD_GAINED</Tag><Polish>Zrabowaliśmy złoto z wrogiego statku %s1!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WAR_REPARATIONS</Tag><Polish>Znużenie Wojną</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WAR_REPARATIONS</Tag><Polish>Reparacje wojenne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WATER_WORK</Tag><Polish>[ICON_BULLET]Możesz użytkować pola wody</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WATER_WORK</Tag><Polish>[ICON_BULLET]Można wykorzystywać pola wodne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_WE_LOVE_KING_MAINT</Tag><Polish>Brak kosztów utrzymania, gdy miasto świętuje!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_WHAT_TO_RESEARCH_NEXT</Tag><Polish>Jakie badania powinniśmy teraz przeprowadzić?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WHILE_IN_ANARCHY</Tag><Polish>[SPACE]Podczas anarchii</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WHILE_IN_ANARCHY</Tag><Polish>[SPACE]podczas anarchii</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WINS_VICTORY</Tag><Polish>%s1_PlyrName wygrywa! Rodzaj Zwycięstwa: %s2_VctryName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WINS_VICTORY</Tag><Polish>Gracz %s1_PlyrName wygrywa! Rodzaj zwycięstwa: %s2_VctryName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WITH_IRRIGATION</Tag><Polish>[SPACE]z [LINK=CONCEPT_IRRIGATION]Nawodnieniem[\LINK]</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WITH_IRRIGATION</Tag><Polish>[SPACE]z [LINK=CONCEPT_IRRIGATION]nawodnieniem[\LINK]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_WONDER_COMPLETED</Tag><Polish>Jeden z graczy (%s1_PlyrName) ukończył cud: %s2_WndrName!</Polish>
         </TEXT>
@@ -25438,23 +25438,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_WONDER_DEFENSE_HOVER</Tag><Polish>%d1%[ICON_DEFENSE] z cudów</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WORK_HAS_BEGUN</Tag><Polish>[SPACE]Przywrócono produkcję nad %s1_ProdName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WORK_HAS_BEGUN</Tag><Polish>[SPACE]Rozpoczęto produkcję: %s1_ProdName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_WORK_HAS_BEGUN_LIMITED</Tag><Polish>[SPACE]Przywrócono produkcję nad %s1_ProdName.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_WORK_HAS_BEGUN_LIMITED</Tag><Polish>[SPACE]Rozpoczęto produkcję: %s1_ProdName.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_WORLD_MAP</Tag><Polish>Mapa świata</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOUR_AIR_UNIT_ABORTED</Tag><Polish>Twoja jednostka (%s2_EnUName) została zmuszona do przerwania swojej misji przez wrogie oddziały (%s1_UnitName)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOUR_AIR_UNIT_ABORTED</Tag><Polish>Twoja jednostka (%s1_UnitName) została zmuszona do przerwania misji przez wrogą jednostkę (%s2_EnUName).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOUR_AIR_UNIT_DAMAGED</Tag><Polish>Twoja jednostka %s1_UnitName została uszkodzona (%d3%%) przez wrogie oddziały (%s2_EnUName)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOUR_SPY_CAUGHT</Tag><Polish>Twoją jednostkę: %s1_UnitName porwano by ją przesłuchać!!!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOUR_SPY_CAUGHT</Tag><Polish>Twoja jednostka (%s1_UnitName) została schwytana i „zatrzymana na przesłuchanie”!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOUR_UNITS_DAMAGED_BY_FLANKING</Tag><Polish>Jednostka %s1_unit uszkodziła %d2 nasze odziały przez oskrzydlenie naszych pozycji.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOUR_UNITS_DAMAGED_BY_FLANKING</Tag><Polish>Jednostka %s1_unit oskrzydliła nasze pozycje obronne. Liczba uszkodzonych jednostek: %d2.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOUR_UNIT_DIED_BY_FLANKING</Tag><Polish>Twoja jednostka (%s1_UnitName) została zniszczona atakiem oskrzydlającym jednostki %s2_EnUName (%s3_civilization)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOUR_UNIT_PROMOTED_IN_BATTLE</Tag><Polish>Twoja jednostka %s1_unit otrzymała dodatkową promocję w walce (%s2_promotion).</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOUR_UNIT_PROMOTED_IN_BATTLE</Tag><Polish>Twoja jednostka %s1_unit otrzymała w walce awans: %s2_promotion.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOUSINK_AIRBOMB4SUCCESS</Tag><Polish>ZATOPIŁEŚ jednostkę: %s1_UnitName.</Polish>
         </TEXT>
@@ -25474,7 +25474,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_AIRBOMB5SUCCESS</Tag><Polish>Udało się uszkodzić produkcję w mieście: %s1_CityName.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_AIRBOMB_POP</Tag><Polish>Twoje bomby zabiły kilku cywilów!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_AIRBOMB_POP</Tag><Polish>Twoje bomby zboczyły z celu i zabiły cywilów!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_AIR_UNIT_HURT</Tag><Polish>Twoja jednostka (%s1_UnitName) została przechwycona przez wrogą jednostkę: %s2_EnUName! (%d3%% zniszczeń)</Polish>
         </TEXT>
@@ -25486,13 +25486,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_CAPTURED_UNIT</Tag><Polish>Przejąłeś jednostkę: %s1_UnitName</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_CIRC_GLOBE</Tag><Polish>Twoje mapy dowodzą iż świat jest okrągły. Twoje okręty otrzymują %D1_Change punkty ruchu.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_CIRC_GLOBE</Tag><Polish>Twoje mapy dowiodły, że świat jest okrągły! Twoje okręty otrzymują premię do ruchu: %D1_Change.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_DAMAGED_ENEMY_AIR</Tag><Polish>Twoja jednostka %s1_UnitName zadała obrażenia (%d3%%) jednostce %s4_owner_adjective (%s2_EnUName) </Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_DAMAGED_ENEMY_AIR</Tag><Polish>Twoja jednostka %s1_UnitName uszkodziła jednostkę %s4_owner_adjective %s2_EnUName (%d3%%).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_DAMAGED_UNITS_BY_FLANKING</Tag><Polish>Twoja jednostka (%s1_unit) dzięki oskrzydleniu pozycji uszkodziła %d2 wrogich oddziałów.</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_DAMAGED_UNITS_BY_FLANKING</Tag><Polish>Twoja jednostka (%s1_unit) oskrzydliła pozycje wroga. Liczba uszkodzonych jednostek przeciwnika: %d2.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_DECLARED_WAR_ON</Tag><Polish>Wywołujesz wojnę z: %s1_TeamName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_DECLARED_WAR_ON</Tag><Polish>Wypowiedziałeś wojnę drużynie %s1_TeamName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_DEFENSES_REDUCED_TO</Tag><Polish>Twoja obrona w mieście: %s1_CityName została zredukowana do: %d2_Num%% przez jednostkę: %s3_UnitName!</Polish>
         </TEXT>
@@ -25500,27 +25500,27 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_DISCOVERED_TECH</Tag><Polish>Odkryłeś: %s1_TechName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_GOODWILL</Tag><Polish>Twoje negocjacje dyplomatyczne polepszyły stosunki z: %s1_teamname (+%d2)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_GOODWILL</Tag><Polish>Twoje negocjacje dyplomatyczne poprawiły stosunki z drużyną %s1_teamname (+%d2 do nastawienia).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_HURT_ENEMY_AIR</Tag><Polish>Twoja jednostka (%s1_UnitName) przechwyciła wrogą jednostkę: %s2_EnUName! (%d3%% zniszczeń)</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_HURT_ENEMY_AIR</Tag><Polish>Twoja jednostka (%s1_UnitName) przechwyciła jednostkę %s4_owner_adjective %s2_EnUName! (%d3%% obrażeń)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_IMP_WAS_DESTROYED</Tag><Polish>Ulepszenie: %s1_ImpName zostało zniszczone przez jednostkę: %s2_UnitName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_IMP_WAS_DESTROYED</Tag><Polish>Ulepszenie %s1_ImpName zostało zniszczone przez jednostkę %s3_civ_adjective %s2_UnitName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_INFLICT_COL_DMG</Tag><Polish>Twoja jednostka: %s1_UnitName spowodowała masowe obrażenia! (%d2_Num [NUM6:Jednostki:Jednostek])</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_INFLICT_COL_DMG</Tag><Polish>Twoja jednostka (%s1_UnitName) zadała obrażenia uboczne! Liczba uszkodzonych jednostek: %d2_Num.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT</Tag><Polish>W czasie obrony, Twoja jednostka: %s1_UnitName zabiła: %s3_owner_adjective %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_KILLED_ENEMY_UNIT</Tag><Polish>Podczas obrony twoja jednostka (%s1_UnitName) zniszczyła jednostkę %s3_owner_adjective %s2_EnUName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_KILLED_UNIT_BY_FLANKING</Tag><Polish>Twoja jednostka (%s1_UnitName) zniszczyła dzięki atakowi oskrzydlającemu jednostkę %s2_EnUName (%s3_civilization)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_MADE_PEACE_WITH</Tag><Polish>%s1_TeamName zawiera z Tobą pokój!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_MADE_PEACE_WITH</Tag><Polish>Zawarłeś pokój z drużyną %s1_TeamName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_OPP_FIRE</Tag><Polish>Twoja jednostka: %s1_UnitName wykonała ogień zaporowy na wrogiej jednostce: %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_OPP_FIRE</Tag><Polish>Twoja jednostka (%s1_UnitName) zyskała okazję do ostrzelania wrogiej jednostki (%s2_EnUName)!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_REDUCE_CITY_DEFENSES</Tag><Polish>Twoja jednostka: %s1_UnitName zredukowała obronę miasta: %s2_CityName do: %d3_NewVal%%!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_SHOT_DOWN_ENEMY</Tag><Polish>Twoja jednostka: %s1_UnitName zabiła: %s3_owner_civ %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_SHOT_DOWN_ENEMY</Tag><Polish>Twoja jednostka (%s1_UnitName) zestrzeliła jednostkę %s3_owner_civ %s2_EnUName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_SUFFER_COL_DMG</Tag><Polish>Otrzymałeś obrażenia masowe! (%d1_Num [NUM6:Jednostka:Jednostki])</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_SUFFER_COL_DMG</Tag><Polish>Twoje jednostki doznały obrażeń ubocznych! Liczba uszkodzonych jednostek: %d1_Num.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_UNITS_UNDER_ATTACK</Tag><Polish>Twoje oddziały zostały zaatakowane przez %s1_player!</Polish>
         </TEXT>
@@ -25530,49 +25530,49 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_DESTROYED_IMP</Tag><Polish>Twoja jednostka (%s1_UnitName) zniszczyła ulepszenie: %s2_ImpName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_DIED_ATTACKING</Tag><Polish>Twoja jednostka: %s1_UnitName zginęła próbując zaatakować jednostkę:  %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_DIED_ATTACKING</Tag><Polish>Twoja jednostka (%s1_UnitName) zginęła, próbując zaatakować jednostkę %s2_EnUName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_FAIL_DESTROY_IMP</Tag><Polish>Twoja jednostka (%s1_UnitName) nie zdołała zniszczyć ulepszenia: %s2_ImpName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_SHOT_DOWN</Tag><Polish>Twoja jednostka: %s1_UnitName została zastrzelona przez jednostkę wroga: %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_SHOT_DOWN</Tag><Polish>Twoja jednostka (%s1_UnitName) została zestrzelona przez wrogą jednostkę (%s2_EnUName)!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED</Tag><Polish>Podczas obrony, Twoja jednostka: %s1_UnitName została zniszczona przez: %s3_owner_adjective %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED</Tag><Polish>Podczas obrony twoja jednostka (%s1_UnitName) została zniszczona przez jednostkę %s3_owner_adjective %s2_EnUName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_WAS_DESTROYED_UNKNOWN</Tag><Polish>Podczas obrony twoja jednostka %s1_UnitName została zniszczona przez %s2_EnUName!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_WITHDRAW</Tag><Polish>Twoja jednostka: %s1_UnitName uciekła z walki z jednostką: %s2_EnUName!</Polish>
+<TEXT><Tag>TXT_KEY_MISC_YOU_UNIT_WITHDRAW</Tag><Polish>Twoja jednostka (%s1_UnitName) wycofała się z walki z jednostką %s2_EnUName!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_ABOMBARD</Tag><Polish>Ostrzał łuczniczy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_ABOMBARD_HELP</Tag><Polish>Wybierz jednostkę łuczniczą, wybierz zdolność atak łuczniczy i wskaż jednostkę wroga do ostrzału.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_ABOMBARD_HELP</Tag><Polish>Wybierz jednostkę łuczniczą, wybierz misję ostrzału łuczniczego, a następnie wskaż wrogą jednostkę jako cel.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRBOMB</Tag><Polish>Nalot</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB1</Tag><Polish>Obrona przed bombardowaniem</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB1</Tag><Polish>Bombardowanie umocnień</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB1_HELP</Tag><Polish>Wybierz jednostkę powietrzną, która może wykonać bombardowanie, wybierz misję bombardowania umocnień, a następnie kliknij na mieście aby zredukować jego obronę lub na udoskonaleniu aby je zniszczyć.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB1_HELP</Tag><Polish>Wybierz jednostkę powietrzną zdolną do bombardowania, wybierz misję bombardowania umocnień, a następnie kliknij miasto, aby osłabić jego obronę, lub ulepszenie, aby je zniszczyć.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRBOMB2</Tag><Polish>Bombardowanie budynków</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB2_HELP</Tag><Polish>Wybierz jednostkę powietrzną, która może wykonać bombardowanie, wybierz misję bombardowania budynku, a następnie kliknij na mieście aby zniszczyć w nim jeden budynek cywilny.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB2_HELP</Tag><Polish>Wybierz jednostkę powietrzną zdolną do bombardowania, wybierz misję bombardowania budynków, a następnie kliknij miasto, aby podjąć próbę zniszczenia jednego budynku cywilnego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRBOMB3</Tag><Polish>Bombardowanie fabryk</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB3_HELP</Tag><Polish>Wybierz jednostkę powietrzną, która może wykonać bombardowanie, wybierz misję bombardowania fabryki, a następnie kliknij na mieście aby zniszczyć w nim jeden budynek produkcyjny.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB3_HELP</Tag><Polish>Wybierz jednostkę powietrzną zdolną do bombardowania, wybierz misję bombardowania produkcji, a następnie kliknij miasto, aby podjąć próbę zniszczenia jednej fabryki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRBOMB4</Tag><Polish>Bombardowanie portu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB4_HELP</Tag><Polish>Wybierz jednostkę powietrzną, która może wykonać bombardowanie, wybierz misję bombardowania portu, a następnie kliknij na mieście aby uszkodzić lub zatopić znajdujący się w nim statek.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB4_HELP</Tag><Polish>Wybierz jednostkę powietrzną zdolną do bombardowania, wybierz misję bombardowania portu, a następnie kliknij miasto, aby uszkodzić statek i spróbować go zatopić.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRBOMB5</Tag><Polish>Bombardowanie strategiczne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB5_HELP</Tag><Polish>Wybierz jednostkę powietrzną, która może wykonać bombardowanie, wybierz misję bombardowania strategicznego, a następnie kliknij na mieście aby uszkodzić jego aktualną produkcję.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRBOMB5_HELP</Tag><Polish>Wybierz jednostkę powietrzną zdolną do bombardowania, wybierz misję bombardowania strategicznego, a następnie kliknij miasto, aby zniszczyć część bieżącej produkcji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRBOMB_HELP</Tag><Polish>Niszczy fortyfikacje miejskie i ulepszenia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_AIRLIFT</Tag><Polish>Transport powietrzny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_AIRLIFT_HELP</Tag><Polish>Most powietrzny do innego miasta.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_AIRLIFT_HELP</Tag><Polish>Przenosi jednostkę transportem powietrznym do innego miasta.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_ASSASSIN</Tag><Polish>Skrytobójstwo</Polish>
         </TEXT>
@@ -25580,43 +25580,43 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
     </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_BOMBARD</Tag><Polish>Bombardowanie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BOMBARD_HELP</Tag><Polish>Niszczy fortyfikacje i odbiera premię obronną miastu.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BOMBARD_HELP</Tag><Polish>Niszczy fortyfikacje i zmniejsza premię obronną miasta.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_BRIBE</Tag><Polish>Przekup jednostkę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BRIBE_BARBARIAN</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przekup Jednostkę Barbarzyńców[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BRIBE_BARBARIAN</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przekup jednostkę barbarzyńców[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BRIBE_BARBARIAN_HELP</Tag><Polish>Przekup jednostkę barbarzyńców by wróciła do domu.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BRIBE_BARBARIAN_HELP</Tag><Polish>Przekup jednostkę barbarzyńców, aby wróciła do domu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BUILD_CITY</Tag><Polish>Zbuduj Miasto</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BUILD_CITY</Tag><Polish>Załóż miasto</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BUILD_CITY_HELP</Tag><Polish>Ten rozkaz spowoduje, że[COLOR_UNIT_TEXT] Osadnik[COLOR_REVERT] założy miasto w miejscu w którym się znajduje. Jednostka[COLOR_UNIT_TEXT] Osadnik[COLOR_REVERT] zostanie zlikwidowana.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BUILD_CITY_HELP</Tag><Polish>Ten rozkaz nakazuje [COLOR_UNIT_TEXT]osadnikowi[COLOR_REVERT] założenie miasta w miejscu, w którym się znajduje. Jednostka [COLOR_UNIT_TEXT]osadnika[COLOR_REVERT] zostaje przy tym zużyta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BUILD_IMPROVEMENT</Tag><Polish>Buduj ulepszenia</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BUILD_IMPROVEMENT</Tag><Polish>Zbuduj ulepszenie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_BUTCHER</Tag><Polish>Zabij zwierzę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_BUTCHER_HELP</Tag><Polish>Zabijanie oswojonych zwierząt, daje więcej surowców na swoim terytorium i jeszcze więcej w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_BUTCHER_HELP</Tag><Polish>Zabija schwytane zwierzę, zapewniając więcej surowców na przyjaznym terytorium i jeszcze więcej w mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY</Tag><Polish>Przejmij terytorium</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY_CIV_SUCCESS</Tag><Polish>Jednostki z %s1_civ_adjective okupują część Twojego terytorium!</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY_CIV_SUCCESS</Tag><Polish>Jednostki %s1_civ_adjective zajęły część twojego terytorium!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY_CIV_SUCCESS_NEAR</Tag><Polish>Jednostki z %s1_civ_adjective okupują część Twojego terytorium blisko miasta %s2_city</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY_CIV_SUCCESS_NEAR</Tag><Polish>Jednostki %s1_civ_adjective zajęły część twojego terytorium w pobliżu miasta %s2_city.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY_HELP</Tag><Polish>Jendostka będzie okupywać pole na którym stoi i przyłączy go do Twgo imperium. Efekty będą widoczne w następnej turze.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CLAIM_TERRITORY_HELP</Tag><Polish>Jednostka zajmie pole, na którym stoi, i przyłączy je do twojego imperium. Efekty będą widoczne w następnej turze.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_CONDUCT_TRADE_MISSION</Tag><Polish>Podejmij misję handlową</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_HELP</Tag><Polish>Ten rozkaz spowoduje że Wielki Kupiec podejmie się misji handlowej w obcym mieście. Ilość zdobytego złota zależy od wielkości miasta oraz jego odległości od stolicy</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_HELP</Tag><Polish>Wielki kupiec przeprowadza misję handlową w obcym mieście. Ilość zdobytego złota zależy od wielkości miasta i jego odległości od twojej stolicy. Wykonanie rozkazu zużywa wielkiego kupca.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_CONSTRUCT</Tag><Polish>Zbuduj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CONSTRUCT_HELP</Tag><Polish>Wielki Człowiek tworzy specjalny budynek, ten rozkaz zlikwiduje jednostkę.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CONSTRUCT_HELP</Tag><Polish>Wielki człowiek wznosi swój specjalny budynek. Wykonanie rozkazu zużywa jednostkę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CREATE_GREAT_WORK</Tag><Polish>Stwórz Wielkie Dzieło</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CREATE_GREAT_WORK</Tag><Polish>Stwórz wielkie dzieło</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP</Tag><Polish>Nakazuje wykonanie wielkiego dzieła artystycznego w danym mieście.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP</Tag><Polish>Wielki artysta tworzy wielkie dzieło w mieście, w którym się znajduje. Wykonanie rozkazu zużywa wielkiego artystę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_DECORATE</Tag><Polish>Wytwórz ozdoby</Polish>
     </TEXT>
@@ -25626,85 +25626,85 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_DISCOVER_TECH</Tag><Polish>Odkryj technologię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_DISCOVER_TECH_HELP</Tag><Polish>Wielki Człowiek pomoże w pracach naukowych, ten rozkaz zlikwiduje jednostkę.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_DISCOVER_TECH_HELP</Tag><Polish>Wielki człowiek pomaga w badaniu technologii. Wykonanie rozkazu zużywa jednostkę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_EAT</Tag><Polish>Zużyj żywność</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Tag><Polish>Zgromadź Informacje</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP</Tag><Polish>Zbieraj informacje</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP_HELP</Tag><Polish>Jednostka będzie zbierać informacje i nie obudzi się aż do maksymalnej premii szpiegostwa</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_ESPIONAGE_SLEEP_HELP</Tag><Polish>Jednostka zbiera informacje i pozostaje bezczynna, aż osiągnie maksymalną premię do szpiegostwa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_FENGAGE</Tag><Polish>Ataki myśliwców</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_FENGAGE_HELP</Tag><Polish>Wybierz jednostkę myśliwca, wybierz misję angażowania myśliwców i wybierz jednostkę wroga do zaatakowania.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_FENGAGE_HELP</Tag><Polish>Wybierz myśliwiec, wybierz misję walki myśliwskiej, a następnie wskaż wrogą jednostkę do zaatakowania.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_FORTIFY</Tag><Polish>Fortyfikuj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_FORTIFY_HELP</Tag><Polish>Rozkaz okopania się spowoduje zwiększenie obrony. Jednostka otrzymuje 5%% premii obronnej za każdą turę do maksymalnie 25%.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_FORTIFY_HELP</Tag><Polish>Jednostka okopuje się, aby lepiej odpierać ataki wroga. Za każdą turę okopywania otrzymuje 5%% premii obronnej, maksymalnie 25%%.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_GOODWILL</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Skuteczna Dyplomacja[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_GOODWILL</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Misja dobrej woli[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_GOODWILL_HELP</Tag><Polish>Rozpocznij misję dyplomatyczn± która polepszy na stałe relacje z inn± cywilizacj±. Ta misja konsumuje Wielkiego Człowieka</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_GOODWILL_HELP</Tag><Polish>Przeprowadź misję dyplomatyczną, która trwale poprawi stosunki z inną cywilizacją. Wykonanie misji zużywa wielkiego człowieka.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_GOTO</Tag><Polish>Idź do Miasta</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_GOTO</Tag><Polish>Idź do miasta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_GOTO_HELP</Tag><Polish>Wybierz miasto do którego się ma udać jednostka. Miasto nie musi znajdować się na bieżącym Viewporcie.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_GOTO_HELP</Tag><Polish>Wybierz miasto, do którego ma udać się jednostka. Miasto nie musi znajdować się w bieżącym obszarze widoku mapy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_GREAT_COMMANDER</Tag><Polish>Dowódca Polowy</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_GREAT_COMMANDER</Tag><Polish>Dowódca polowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_GREAT_COMMANDER_HELP</Tag><Polish>Zmień Wielkiego Generała w Dowódce Polowego, traci wówczas możliwość by dołączyć do miast, jednostek czy budować cuda, ale daje możliwość zdobywania doświadczenia, promocji oraz prowadzić jednostki na polu bitwy.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_GREAT_COMMANDER_HELP</Tag><Polish>Przekształca wielkiego generała w dowódcę polowego. Traci on możliwość dołączania do miast i jednostek oraz budowania cudów, ale może zdobywać doświadczenie i awanse oraz dowodzić jednostkami na polu walki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_HEAL</Tag><Polish>Fortyfikuj do wyleczenia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_HEAL_HELP</Tag><Polish>Jednostka pozostaje bezczynna do momentu osiągnięcia pełnego zdrowia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_HERD</Tag><Polish>Udomowienie Zwierzęcia</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_HERD</Tag><Polish>Utwórz stado</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_HERD_HELP</Tag><Polish>Jednostka zniknie ale w miejscu użycia pojawi się surowiec.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_HERD_HELP</Tag><Polish>Zużywa jednostkę schwytanego zwierzęcia i tworzy na wskazanym polu odpowiadający mu surowiec zwierzęcy.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_HURRY_FOOD</Tag><Polish>Przyśpiesz żywność</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_HURRY_FOOD</Tag><Polish>Dostarcz żywność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_HURRY_FOOD_HELP</Tag><Polish>Ten rozkaz zwiększy zaopatrzenie miasta w żywność. Jest to zużywane przez jednostki.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_HURRY_FOOD_HELP</Tag><Polish>Zwiększa zapasy żywności w mieście. Wykonanie rozkazu zużywa jednostkę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_HURRY_PRODUCTION</Tag><Polish>Przyspiesz produkcję</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_HURRY_PRODUCTION_HELP</Tag><Polish>Wielki Człowiek pomoże w przyspieszeniu produkcji, ten rozkaz zlikwiduje jednostkę.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_HURRY_PRODUCTION_HELP</Tag><Polish>Przyspiesza bieżącą produkcję miasta. Wykonanie rozkazu zużywa wielkiego człowieka.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_INFILTRATE</Tag><Polish>Infiltracja miasta gracza</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_INFILTRATE_HELP</Tag><Polish>Ten rozkaz spowoduje, iż szpieg dokona infiltracji obcego miasta oraz zapewni zdobycie Punktów Szpiegostwa przeciwko poszczególnych misji. Po wykonaniu rozkazu jednostka zostanie utracona.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_INFILTRATE_HELP</Tag><Polish>Szpieg infiltruje obce miasto, zapewniając ci punkty szpiegostwa przeciwko jego właścicielowi. Wykonanie rozkazu zużywa szpiega.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_INQUISITION</Tag><Polish>Dokonaj Inkwizycji</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_INQUISITION</Tag><Polish>Przeprowadź inkwizycję</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_INQUISITION_HELP</Tag><Polish>Pozwala jednostce, usunąć wszystkie niepaństwowe religie.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_INQUISITION_HELP</Tag><Polish>Pozwala jednostce usunąć wszystkie religie inne niż państwowa.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_INTERCEPT</Tag><Polish>Przechwyć</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_INTERCEPT_HELP</Tag><Polish>Nakazuje jednostkom latającym przechwytywanie samolotów podczas nadchodzącego ataku.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_INTERCEPT_HELP</Tag><Polish>Nakazuje jednostce powietrznej podejmowanie prób przechwycenia nadlatujących ataków lotniczych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_JOIN_CITY</Tag><Polish>Przyłącz miasto</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_JOIN_CITY</Tag><Polish>Dołącz do miasta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_JOIN_CITY_HELP</Tag><Polish>Nakazuje Wielkiemu Człowiekowi dołączenie do miasta jako super-specjalista, jednostka zostanie zlikwidowana.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_JOIN_CITY_HELP</Tag><Polish>Wielki człowiek dołącza do miasta jako superspecjalista. Wykonanie rozkazu zużywa jednostkę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_KILL_SPY</Tag><Polish>Wyeliminuj szpiega</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_KILL_SPY_HELP</Tag><Polish>Szpieg działający w okolicy zostanie zabity.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_KILL_SPY_HELP</Tag><Polish>Zabija szpiega na sąsiednim polu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_LEAD_TROOPS</Tag><Polish>Dowodzi oddziałami jako Wielki Generał</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_LEAD_TROOPS</Tag><Polish>Dowódź oddziałami jako wielki generał</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_MOVE_TO</Tag><Polish>Przejdź do</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_HELP</Tag><Polish>Rozkazuje udać się jednostce do wybranego pola.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_HELP</Tag><Polish>Nakazuje jednostce przejście na wskazane pole.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_SENTRY</Tag><Polish>Ruch i Warta</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_SENTRY</Tag><Polish>Ruch i warta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_SENTRY_HELP</Tag><Polish>Jednostka będzie poruszać się tak długo aż nie spotka wrogiej jednostki</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_SENTRY_HELP</Tag><Polish>Jednostka porusza się, dopóki wroga jednostka tego samego typu nie znajdzie się w jej zasięgu widzenia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_UNIT</Tag><Polish>Przejdź do jednostki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_MOVE_TO_UNIT_HELP</Tag><Polish>Rozkaz udania się do jednostki.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_NUKE</Tag><Polish>Podłóż ładunek Nuklearny</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_NUKE</Tag><Polish>Podłóż ładunek nuklearny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_NUKE_HELP</Tag><Polish>Zrzuca głowicę atomową na wybrany obszar.</Polish>
         </TEXT>
@@ -25712,7 +25712,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_PARADROP_HELP</Tag><Polish>Przerzuca wojska na wybrane miejsce. Podlega przechwytywaniu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_PATROL_TO_HELP</Tag><Polish>Wydaje rozkaz patrolowania (jednostka porusza się wyznaczoną trasą).</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_PATROL_TO_HELP</Tag><Polish>Nakazuje jednostce patrolowanie, czyli nieprzerwane powtarzanie wyznaczonej trasy.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_PERFORM_ESPIONAGE</Tag><Polish>Wykonaj misję szpiegowską</Polish>
         </TEXT>
@@ -25720,7 +25720,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_PILLAGE_CITY</Tag><Polish>Ta jednostka splądruje miasto, prawdopodobnie zmniejszając populację o 1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_PILLAGE_HELP</Tag><Polish>Jednostka zniszczyła udoskonalenie na okupowanym polu.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_PILLAGE_HELP</Tag><Polish>Jednostka niszczy ulepszenie na polu, które zajmuje.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_PLANT</Tag><Polish>Zasadź zasób</Polish>
     </TEXT>
@@ -25728,25 +25728,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_PLUNDER_HELP</Tag><Polish>Jednostka przerywa szlak handlowy tak, że żaden handel międzykontynentalny nie może przechodzić przez blokowane pole.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_POWER</Tag><Polish>Wyłącz Prąd</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_POWER</Tag><Polish>Wyłącz sieć energetyczną</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_PRETARGET_NUKE</Tag><Polish>Cel</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_PRETARGET_NUKE</Tag><Polish>Wyznacz cel ataku nuklearnego</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_PRETARGET_NUKE_HELP</Tag><Polish>Wybierz cel pocisku nuklearnego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_RBOMBARD</Tag><Polish>Bombardowanie na odległość</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_RBOMBARD_HELP</Tag><Polish>Wybierz jednostkę artyleryjską, wybierz misję ataku dystansowego a następnie kliknij na polu, które chcesz zbombardować.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_RBOMBARD_HELP</Tag><Polish>Wybierz jednostkę artyleryjską, wybierz misję bombardowania, a następnie kliknij pole, które chcesz ostrzelać.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_RECON</Tag><Polish>Zwiad</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_RECON_HELP</Tag><Polish>Odsłania mgłę wojny z wybranego obszaru na jedną turę.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_RECON_HELP</Tag><Polish>Usuwa mgłę wojny wokół wskazanego pola na jedną turę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_REVOLT</Tag><Polish>Zaoferuj Pomoc Rebelii</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_REVOLT</Tag><Polish>Wesprzyj ugrupowania rebelianckie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_ROUTE_TO</Tag><Polish>Droga do</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_ROUTE_TO_HELP</Tag><Polish>Ten rozkaz spowoduje zbudowanie trasy po najkrótszej drodze do wskazanego miejsca. Robotnik zbudzi się po wykonaniu zadania</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_ROUTE_TO_HELP</Tag><Polish>Robotnik buduje drogę lub linię kolejową do wskazanego miejsca, poruszając się najkrótszą trasą. Po wykonaniu zadania ponownie oczekuje rozkazów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SABOTAGE</Tag><Polish>Sabotaż</Polish>
         </TEXT>
@@ -25756,23 +25756,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
     </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SEAPATROL</Tag><Polish>Patrol morski</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SEAPATROL_HELP</Tag><Polish>Jednostka będzie atakować wrogie statki próbujące niszczyć ulepszenia na sąsiednich polach</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SEAPATROL_HELP</Tag><Polish>Nakazuje jednostce atakowanie wrogich statków, które próbują plądrować sąsiednie pola.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SENTRY</Tag><Polish>Warta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SENTRY_HELP</Tag><Polish>Jednostka pozostanie nieruchoma aż wroga jednostka wejdzie w jej zasięg widzenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SENTRY_LAND_UNITS</Tag><Polish>Warta (Jednostki lądowe)</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SENTRY_LAND_UNITS</Tag><Polish>Warta (jednostki lądowe)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SENTRY_LAND_UNITS_HELP</Tag><Polish>Jednostka pozostaje bezczynna, dopóki wroga jednostka lądowa nie zbliży się do zasięgu.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SENTRY_LAND_UNITS_HELP</Tag><Polish>Jednostka pozostaje bezczynna, dopóki wroga jednostka lądowa nie znajdzie się w jej zasięgu widzenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SENTRY_NAVAL_UNITS</Tag><Polish>Wartownik (Jednostki morskie)</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SENTRY_NAVAL_UNITS</Tag><Polish>Warta (jednostki morskie)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SENTRY_NAVAL_UNITS_HELP</Tag><Polish>Jednostka pozostaje bezczynna, dopóki wroga jednostka morska nie zbliży się do zasięgu.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SENTRY_NAVAL_UNITS_HELP</Tag><Polish>Jednostka pozostaje bezczynna, dopóki wroga jednostka morska nie znajdzie się w jej zasięgu widzenia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SENTRY_WHILE_HEAL</Tag><Polish>Ulecz</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SENTRY_WHILE_HEAL</Tag><Polish>Warta do wyleczenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SENTRY_WHILE_HEAL_HELP</Tag><Polish>Jednostka pozostaje bezczynna, dopóki nie osiąga pełnej siły lub jednostka wroga nie zbliży się do zasięgu.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SENTRY_WHILE_HEAL_HELP</Tag><Polish>Jednostka pozostaje bezczynna, dopóki nie odzyska pełnego zdrowia lub wroga jednostka nie znajdzie się w jej zasięgu widzenia.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SKIP</Tag><Polish>Opuść turę</Polish>
         </TEXT>
@@ -25780,23 +25780,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SLEEP</Tag><Polish>Uśpij</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SLEEP_HELP</Tag><Polish>Rozkaz spoczynku do momentu zbudzenia przez gracza.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SLEEP_HELP</Tag><Polish>Pozostawia jednostkę w spoczynku, dopóki gracz jej nie uaktywni.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_SPREAD</Tag><Polish>Rozprzestrzeniaj religię</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SPREAD_CORPORATION</Tag><Polish>Zakładanie filii</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SPREAD_CORPORATION</Tag><Polish>Załóż filię korporacji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SPREAD_CORPORATION_HELP</Tag><Polish>Ten rozkaz spowoduje utratę [COLOR_UNIT_TEXT]Przedstawiciela[COLOR_REVERT], który założy filię korporacji w tym mieście.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SPREAD_CORPORATION_HELP</Tag><Polish>Zużywa jednostkę [COLOR_UNIT_TEXT]przedstawiciela[COLOR_REVERT], aby założyć filię jego korporacji w mieście.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_SPREAD_HELP</Tag><Polish>Ten rozkaz zlikwiduje [COLOR_UNIT_TEXT]Misjonarza[COLOR_REVERT], ale spowoduje rozprzestrzenienie się religii w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_SPREAD_HELP</Tag><Polish>Zużywa jednostkę [COLOR_UNIT_TEXT]misjonarza[COLOR_REVERT], aby rozprzestrzenić jego religię w mieście.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_START_GOLDENAGE</Tag><Polish>Rozpocznij Złoty Wiek</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_START_GOLDENAGE</Tag><Polish>Rozpocznij złoty wiek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_START_GOLDENAGE_HELP</Tag><Polish>Wykonanie tego rozkazu wymaga poświęcenia jednego lub więcej "Wielkich Ludzi" (każdy innego typu) i powoduje rozpoczęcie Złotego Wieku (dodatkowe [ICON_PRODUCTION], [ICON_COMMERCE], [ICON_GREATPEOPLE], brak Anarchii).</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_START_GOLDENAGE_HELP</Tag><Polish>Zużywa jednego lub więcej wielkich ludzi różnych typów, aby rozpocząć złoty wiek (dodatkowe [ICON_PRODUCTION], [ICON_COMMERCE] i [ICON_GREATPEOPLE], brak anarchii).</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_STEAL_PLANS</Tag><Polish>Wykradnij plany</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_STEAL_PLANS_HELP</Tag><Polish>[COLOR_UNIT_TEXT]Szpieg[COLOR_REVERT] będzie próbował wykraść plany ujawniające plany innych cywilizacji.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_STEAL_PLANS_HELP</Tag><Polish>[COLOR_UNIT_TEXT]Szpieg[COLOR_REVERT] próbuje wykraść plany, które ujawnią wszystkie jednostki wskazanej cywilizacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_TOOLS</Tag><Polish>Wytwórz lepsze narzędzie</Polish>
     </TEXT>
@@ -25806,11 +25806,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MISSION_VOLLEY_HELP</Tag><Polish>Raź przeciwnika z dystansu.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_WAIT_FOR_TECH</Tag><Polish>Wybierz pożądaną Technologie</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_WAIT_FOR_TECH</Tag><Polish>Wybierz technologię do odkrycia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MISSION_WAIT_FOR_TECH_HELP</Tag><Polish>Pozwala zaznaczonej jednostce na późniejsze odkrycie technologii. Jednostka będzie usypiona dopóki technologia nie będzie możliwa do wynalezienia. Gdy już będzie możliwe odkrycie danej technologii jednostka automatycznie zostanie wykorzystana do odkrycia jej.</Polish>
+<TEXT><Tag>TXT_KEY_MISSION_WAIT_FOR_TECH_HELP</Tag><Polish>Pozwala wybrać technologię, w której badaniu ma pomóc jednostka. Jednostka pozostanie uśpiona, dopóki technologia nie stanie się dostępna do badań, a następnie zostanie zużyta do ich wsparcia.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOBBY_STRATEGY</Tag><Polish>Zbuduj siedzibę by zdobyć wszystkie bonusy do mięs.</Polish>
+<TEXT><Tag>TXT_KEY_MOBBY_STRATEGY</Tag><Polish>Załóż tę korporację, aby czerpać korzyści ze wszystkich surowców mięsnych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_ALL</Tag><Polish>Wszystkie kontakty</Polish>
         </TEXT>
@@ -25820,11 +25820,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_ALLIANCE2</Tag><Polish>Pakt</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_ALLIANCE3</Tag><Polish>nia</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_ALLIANCE3</Tag><Polish>Unia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_ALLIANCE4</Tag><Polish>Liga</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_ARABIAN_MATCH</Tag><Polish>Arabska</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_ARABIAN_MATCH</Tag><Polish>Arab</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_BLANK_OF</Tag><Polish>%s %s z %s</Polish>
         </TEXT>
@@ -25834,7 +25834,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_CHIEFDOM</Tag><Polish>Wodzostwo %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_CITY_STATE</Tag><Polish>Państwo-Miasto %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_CITY_STATE</Tag><Polish>Miasto-państwo %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_CITY_STATES</Tag><Polish>Miasta-państwa %s</Polish>
         </TEXT>
@@ -25842,7 +25842,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_CONFEDERATION_STATES</Tag><Polish>Konfederacja Stanowa %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_DUCHY</Tag><Polish>Ksieęstwo</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_DUCHY</Tag><Polish>Księstwo</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_EMPIRE</Tag><Polish>Imperium %s</Polish>
         </TEXT>
@@ -25856,17 +25856,17 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_FREE_REPUBLIC</Tag><Polish>Wolna Republika %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_FREE_STATE</Tag><Polish>Wolne Panstwo %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_FREE_STATE</Tag><Polish>Wolne państwo %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_GERMAN_MATCH</Tag><Polish>Niemiecka</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_GERMAN_MATCH</Tag><Polish>Niem</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_GREAT_KINGDOM</Tag><Polish>Wielkie %s %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_GUERILLAS</Tag><Polish>Partyzanci %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_HOLY</Tag><Polish>Świete</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_HOLY</Tag><Polish>Święte</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_HOLY_HRE_MATCH</Tag><Polish>Rzymska</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_HOLY_HRE_MATCH</Tag><Polish>Rzymsk</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_HORDE</Tag><Polish>Horda %s</Polish>
         </TEXT>
@@ -25884,7 +25884,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_OF_CITY</Tag><Polish>z %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_OTTOMAN_MATCH</Tag><Polish>Ottomańska</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_OTTOMAN_MATCH</Tag><Polish>Turk</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_PACIFIST</Tag><Polish>Pacyfistyczny</Polish>
         </TEXT>
@@ -25892,9 +25892,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_PEOPLES_REP</Tag><Polish>Republika Ludowa %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_PERSIAN_MATCH</Tag><Polish>Perska</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_PERSIAN_MATCH</Tag><Polish>Pers</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_PLAIN_CITY_STATE</Tag><Polish>Państwo-Miasto</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_PLAIN_CITY_STATE</Tag><Polish>Miasto-państwo</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_PLAIN_EMPIRE</Tag><Polish>Imperium</Polish>
         </TEXT>
@@ -25908,31 +25908,31 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_PROVISIONAL_GOV</Tag><Polish>Rząd Tymczasowy %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_QUEENDOM</Tag><Polish>Mocarstwo</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_QUEENDOM</Tag><Polish>Królestwo</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_REBELS</Tag><Polish>Rebelianci %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_REBELS_OF</Tag><Polish>%s Rebelianci miasta %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_REBELS_OF</Tag><Polish>Rebelianci %s z miasta %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_REFUGEES</Tag><Polish>Uchodzcy %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_REFUGEES</Tag><Polish>Uchodźcy %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_REICH</Tag><Polish>Rzesza</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_REPUBLIC</Tag><Polish>Republika %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_REPUBLIC_OF</Tag><Polish>Rep. %s Miasta %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_REPUBLIC_OF</Tag><Polish>Republika %s z miasta %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_REPUBLIC_OF_CITY</Tag><Polish>Republika %s z %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_REPUBLIC_OF_CITY</Tag><Polish>Republika %s z miasta %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_RUSSIAN_MATCH</Tag><Polish>Rosyjska</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_RUSSIAN_MATCH</Tag><Polish>Ros</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_SOC_REP</Tag><Polish>Socjalna Republika %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_SOC_REP</Tag><Polish>Socjalistyczna republika %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_SOVIET</Tag><Polish>Sowiecki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_SULTANATE</Tag><Polish>Sultanat</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_SULTANATE</Tag><Polish>Sułtanat</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_SUMERIAN_MATCH</Tag><Polish>Sumeryjska</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_SUMERIAN_MATCH</Tag><Polish>Sumer</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_TERRITORY</Tag><Polish>Terytorium</Polish>
         </TEXT>
@@ -25948,33 +25948,33 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_THE_REPUBLIC_OF_CITY</Tag><Polish>Republika %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_THE_WARRIORS_OF</Tag><Polish>Wojownicy Miasta %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_THE_WARRIORS_OF</Tag><Polish>Wojownicy miasta %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_TRIBE</Tag><Polish>Plemie %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_TRIBE</Tag><Polish>Plemię %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_UNION</Tag><Polish>Związek %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_DCN_UNITED_STATES</Tag><Polish>Stany Zjednoczone %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_WARRIORS_OF</Tag><Polish>%s Wojownicy Miasta %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_WARRIORS_OF</Tag><Polish>Wojownicy %s z miasta %s</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_DCN_WARRIOR_STATE</Tag><Polish>Wojowniczy Naród %s</Polish>
+<TEXT><Tag>TXT_KEY_MOD_DCN_WARRIOR_STATE</Tag><Polish>Państwo wojowników %s</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_ENEMY</Tag><Polish>Wrogie narody</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_EXPAND</Tag><Polish>Rozszerz zaznaczenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_FOLDER_TAG</Tag><Polish>Katalog z modami: %s1_Modname</Polish>
+<TEXT><Tag>TXT_KEY_MOD_FOLDER_TAG</Tag><Polish>Katalog moda: %s1_Modname</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_FRIENDLY</Tag><Polish>Przyjazne narody</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_NEUTRAL</Tag><Polish>Neutralne narody</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_PAUSE_TIMER</Tag><Polish>Pausa</Polish>
+<TEXT><Tag>TXT_KEY_MOD_PAUSE_TIMER</Tag><Polish>Włącz lub wyłącz pauzę</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_REDUCE_ON_SELECTED_LEADRES</Tag><Polish>Pokaż tylko zaznaczone narody</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_REQUIRED</Tag><Polish>Zapisany plik wymaga załadowania modu:[NEWLINE][BOLD]%s1[\BOLD][NEWLINE] Gra musi się ponownie uruchomić, dobrze?</Polish>
+<TEXT><Tag>TXT_KEY_MOD_REQUIRED</Tag><Polish>Wybrany zapis gry wymaga wczytania następującego moda:[NEWLINE][BOLD]%s1[\BOLD][NEWLINE]Gra musi zostać uruchomiona ponownie. Czy kontynuować?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_SHOW_RELATION_LINES</Tag><Polish>Pokaż kontakty (białe linie)</Polish>
         </TEXT>
@@ -25982,7 +25982,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOD_UNPAUSE</Tag><Polish>Odblokuj ekran</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOD_UNPAUSE_DESC</Tag><Polish>Utknąłeś w ekranie dyplomacji ponieważ gra jest zatrzymana. Użyj tego przycisku aby wznowić grę.</Polish>
+<TEXT><Tag>TXT_KEY_MOD_UNPAUSE_DESC</Tag><Polish>Nie możesz opuścić ekranu dyplomacji, ponieważ gra jest wstrzymana. Użyj tego przycisku, aby ją wznowić.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MONTH_APRIL</Tag><Polish>Kwiecień</Polish>
         </TEXT>
@@ -26008,23 +26008,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MONTH_SEPTEMBER</Tag><Polish>Wrzesień</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOONBEAN_STRATEGY</Tag><Polish>Zbuduj siedzibę by zdobyć bonusy ekonomiczne.</Polish>
+<TEXT><Tag>TXT_KEY_MOONBEAN_STRATEGY</Tag><Polish>Załóż tę korporację, aby uzyskać korzyści ekonomiczne.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_BONUS_NOT_AVAIL</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1 nie chce handlować %s2[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_CITY_FOUNDED</Tag><Polish>%s1_Player założył %s2_City.</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_CITY_FOUNDED</Tag><Polish>Gracz %s1_Player założył miasto %s2_City.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_CITY_FOUNDED_UNSEEN</Tag><Polish>%s1_Player założył %s2_City w odległym kraju.</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_CITY_FOUNDED_UNSEEN</Tag><Polish>Gracz %s1_Player założył miasto %s2_City w odległym kraju.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_CITY_TO_EXPAND</Tag><Polish>[COLOR_MAGENTA]Granice kulturowe miasta: %s1 są bliskie rozszerzenia.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_CITY_TO_EXPAND</Tag><Polish>[COLOR_MAGENTA]Granice miasta %s1 wkrótce się rozszerzą.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_DEFENSIVE_PACT</Tag><Polish>[COLOR_TECH_TEXT]Chce podpisać pakt obronny: %s1[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_LAND_CLOSE_TO_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoje terytorium: %d1 (%s2) jest bliskie osiągnięcia progu dominacji: %d3 (%s4)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_LAND_EXCEEDS_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoje terytorium: %d1 (%s2) osiągnęło próg dominacji: %d3 (%s4)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_LAND_EXCEEDS_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoje terytorium: %d1 (%s2) przekracza próg dominacji: %d3 (%s4)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_MAP</Tag><Polish>[COLOR_TECH_TEXT]Chce handlować mapami : %s1[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_MAP</Tag><Polish>[COLOR_TECH_TEXT]Chce handlować mapami: %s1[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_NEW_BONUS_AVAIL</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%s1 chce handlować %s2[COLOR_REVERT]</Polish>
         </TEXT>
@@ -26034,15 +26034,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_PEACE_TREATY</Tag><Polish>[COLOR_TECH_TEXT]Chce podpisać traktat pokojowy: %s1[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_PERMANENT_ALLIANCE</Tag><Polish>[COLOR_TECH_TEXT]Chce podpisać sojusz: %s1[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_PERMANENT_ALLIANCE</Tag><Polish>[COLOR_TECH_TEXT]Chce zawrzeć trwały sojusz: %s1[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_CLOSE_TO_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1 (%s2) jest bliska osiągnięcia progu dominacji: %d3 (%s4)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_EXCEEDS_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1 (%s2) osiągnęła próg dominacji: %d3 (%s4)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_EXCEEDS_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1 (%s2) przekracza próg dominacji: %d3 (%s4)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_GROWTH_CLOSE_TO_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1, wzrastając: %d2 (%s3) będzie bliska osiągnięcia progu dominacji: %d4 (%s5)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_GROWTH_CLOSE_TO_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1, po wzroście o %d2 (%s3), będzie bliska progu dominacji: %d4 (%s5)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_GROWTH_EXCEEDS_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1, wzrastając: %d2 (%s3) osiągnie próg dominacji: %d4 (%s5)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_MORECIV4LERTS_POP_GROWTH_EXCEEDS_LIMIT</Tag><Polish>[COLOR_WARNING_TEXT]Twoja populacja: %d1, po wzroście o %d2 (%s3), przekroczy próg dominacji: %d4 (%s5)[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MORECIV4LERTS_SURRENDER</Tag><Polish>[COLOR_TECH_TEXT]Chce skapitulować: %s1[COLOR_REVERT]</Polish>
         </TEXT>
@@ -26054,9 +26054,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MOVEMENT_LIMITS_REMOVE</Tag><Polish>[ICON_BULLET]Usuwa limit poruszania się dla jednostek.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOVE_FAST_PEAKS</Tag><Polish>[ICON_BULLET]Jednostki nie otrzymują kary za przechodzenie przez góry</Polish>
+<TEXT><Tag>TXT_KEY_MOVE_FAST_PEAKS</Tag><Polish>[ICON_BULLET]Jednostki nie otrzymują kary do ruchu przy przekraczaniu gór</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MOVE_FOCUS_BACK_TO</Tag><Polish>Zobacz mnie[SPACE]</Polish>
+<TEXT><Tag>TXT_KEY_MOVE_FOCUS_BACK_TO</Tag><Polish>Wróć do jednostki %s1_unitname</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_DIPLO_CANCEL_CURRENT_DEALS</Tag><Polish>Anuluj obecne umowy...</Polish>
         </TEXT>
@@ -26076,25 +26076,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_OPTION_ANONYMOUS</Tag><Polish>Anonimowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_ANONYMOUS_HELP</Tag><Polish>Prawdziwe cechy władców są ukryte</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_ANONYMOUS_HELP</Tag><Polish>Prawdziwa tożsamość wszystkich przywódców jest ukryta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_DOUBLE_CITY_ELIMINATION</Tag><Polish>Brak duplikatów miast</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_DOUBLE_CITY_ELIMINATION</Tag><Polish>Eliminacja po utracie dwóch miast</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_SHUFFLE_TEAMS</Tag><Polish>Wymieszaj Drużyny</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_SHUFFLE_TEAMS</Tag><Polish>Wymieszaj drużyny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_SHUFFLE_TEAMS_HELP</Tag><Polish>Ludzcy gracze każdej drużyny będą losowo przydzielani podczas startu gry.</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_SHUFFLE_TEAMS_HELP</Tag><Polish>Przy rozpoczęciu gry gracze ludzcy zostaną losowo przydzieleni do drużyn.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_OPTION_SIMULTANEOUS_TURNS</Tag><Polish>Jednoczesne tury</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_OPTION_SIMULTANEOUS_TURNS_HELP</Tag><Polish>Wszystkie cywilizacje wykonują tury jednocześnie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_TAKEOVER_AI</Tag><Polish>Możliwość przejęcia komputera</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_TAKEOVER_AI</Tag><Polish>Przejmowanie cywilizacji SI</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_OPTION_TAKEOVER_AI_HELP</Tag><Polish>Gracze mogą "na żywo" dołączyć do gry i przejąć cywilizację sterowaną dotąd przez komputer.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_TURN_TIMER</Tag><Polish>Licznik tur</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_TURN_TIMER</Tag><Polish>Limit czasu tury</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MP_OPTION_TURN_TIMER_HELP</Tag><Polish>Tury są ograniczone przez czas wyskalowany według rozmiaru największej cywilizacji</Polish>
+<TEXT><Tag>TXT_KEY_MP_OPTION_TURN_TIMER_HELP</Tag><Polish>Czas tury jest ograniczony i zależy od rozmiaru największej cywilizacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_RENEGOTIATE</Tag><Polish>Wiadomość systemu: rozpoczęto renegocjacje handlowe.</Polish>
         </TEXT>
@@ -26104,35 +26104,35 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_MP_THEY_NO_ACCEPT</Tag><Polish>Nie zgadzają się</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MULTIPLAYER_GAME_DETECTED</Tag><Polish>GRA MULTI WYKRYTA</Polish>
+<TEXT><Tag>TXT_KEY_MULTIPLAYER_GAME_DETECTED</Tag><Polish>WYKRYTO GRĘ WIELOOSOBOWĄ</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_MULTIPLAYER_GAME_DETECTED_DESCRIPTION</Tag><Polish>By zminimalizować problemy z synchronizacją, wszystkie akcje BULL, RevDCM oraz rewolucje zostają ustawione domyślnie i zablokowane</Polish>
+<TEXT><Tag>TXT_KEY_MULTIPLAYER_GAME_DETECTED_DESCRIPTION</Tag><Polish>Aby ograniczyć problemy z synchronizacją w grze wieloosobowej, wszystkie akcje BULL oraz opcje RevDCM i Revolution są przywracane do ustawień domyślnych i blokowane.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_MULTIPLAYER_TAB_NAME</Tag><Polish>Gra wieloosobowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NAME_CITY</Tag><Polish>Jak chcesz nazwać swoje miasto?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NANITE_DEFUSER_PYTHON</Tag><Polish>[COLOR_SELECTED_TEXT]Defuzer Nanitowy rozbraja cały arsenał jądrowy we wszystkich cywilizacjach[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_NANITE_DEFUSER_PYTHON</Tag><Polish>[COLOR_SELECTED_TEXT]Nanitowy rozbrajacz rozbraja całą broń jądrową wszystkich cywilizacji![COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NATIONAL_AUTOMATED_WORKERS_CAN_BUILD</Tag><Polish>Automatyczni Robotnicy mogą %s1</Polish>
+<TEXT><Tag>TXT_KEY_NATIONAL_AUTOMATED_WORKERS_CAN_BUILD</Tag><Polish>Zautomatyzowani robotnicy mogą %s1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NATURAL_WONDERS</Tag><Polish>Cuda natury</Polish>
 		</TEXT>
-<TEXT><Tag>TXT_KEY_NAT_CONTACT_FAILURE_DESC</Tag><Polish>Nie mogę połączyć z NAT Negotation Server.</Polish>
+<TEXT><Tag>TXT_KEY_NAT_CONTACT_FAILURE_DESC</Tag><Polish>Nie można połączyć się z serwerem negocjacji NAT.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NAT_CONTACT_FAILURE_TITLE</Tag><Polish>Serwer NAT niedostępny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NEVER_MIND</Tag><Polish>Nieważne...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NEWS_EVENT_FAMINE_2</Tag><Polish>Hojni ludzie z miasta %s2_city wspomogli organizację walczącą z głodem w zagrożonym mieście %s4_city. Pomoc humanitarna od naszego sąsiada zbliżyła nasze dwa narody.</Polish>
+<TEXT><Tag>TXT_KEY_NEWS_EVENT_FAMINE_2</Tag><Polish>Hojni mieszkańcy miasta %s2_city przekazali pomoc zagrożonym głodem mieszkańcom miasta %s4_city. Ta pomoc humanitarna zbliżyła oba narody.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NEWS_EVENT_FAMINE_3</Tag><Polish>Hojni ludzie z miasta %s2_city znacznie wspomogli organizację walczącą z głodem w zagrożonym mieście %s4_city. Bardzo hojna pomoc humanitarna od naszego sąsiada zbliżyła nasze dwa narody.</Polish>
+<TEXT><Tag>TXT_KEY_NEWS_EVENT_FAMINE_3</Tag><Polish>Hojni mieszkańcy miasta %s2_city przekazali ogromną pomoc głodującym mieszkańcom miasta %s4_city. Ta hojna pomoc humanitarna znacznie zbliżyła oba narody.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NEWS_EVENT_HORTICULTURE_3</Tag><Polish>Nakłady zrealizowane przez państwo %s1_civ_adjective, na produkcję nowej substancji leczniczej opłaciły się! Nowy przemysł wyrósł w mieście %s2_city poprawiając zdrowie mieszkańców i zwiększając nakłady na naukę.</Polish>
+<TEXT><Tag>TXT_KEY_NEWS_EVENT_HORTICULTURE_3</Tag><Polish>Inwestycje państwa %s1_civ_adjective w ogrodnictwo opłaciły się! W mieście %s2_city rozwija się nowa, niewielka gałąź przemysłu, poprawiając zdrowie mieszkańców i wspierając badania.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NEWS_EVENT_LABOR_UNIONS_1</Tag><Polish>Pracownikom; Imperium %s1_civ_adjective udało się uzyskać lepsze warunki pracy!</Polish>
+<TEXT><Tag>TXT_KEY_NEWS_EVENT_LABOR_UNIONS_1</Tag><Polish>Pracownikom w imperium %s1_civ_adjective udało się wywalczyć lepsze warunki pracy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NEWS_EVENT_LABOR_UNIONS_2</Tag><Polish>Związki w Imperium %s1_civ_adjective zostały zakazane!</Polish>
+<TEXT><Tag>TXT_KEY_NEWS_EVENT_LABOR_UNIONS_2</Tag><Polish>Związki zawodowe w imperium %s1_civ_adjective zostały zdelegalizowane!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NEW_BUILDING_MONUMENT_PEDIA</Tag><Polish>[TAB]Pomnik jest strukturą, która przypomina ludziom o ważnych wydarzeniach z życia narodu czy kraju, lub o ważnej osobistości - wielkim przywódcy na przykład. Różne kultury różnie podchodzą do budowy pomników. Tworzone są one z wielu materiałów - drewna, kamienia, lub drogocennych metali. Jednakże do naszych czasów przetrwały jedynie pomniki zrobione z kamienia: przez lata drewniane pomniki zgniły, a te zrobione z drogocennych metali zostały skradzione. </Polish>
         </TEXT>
@@ -26156,7 +26156,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_NICKNAME_INUSE_DESC</Tag><Polish>Ta nazwa użytkownika jest już zajęta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NICKNAME_INUSE_TITLE</Tag><Polish>Zły Login</Polish>
+<TEXT><Tag>TXT_KEY_NICKNAME_INUSE_TITLE</Tag><Polish>Nieprawidłowy login</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NONE</Tag><Polish>Brak</Polish>
         </TEXT>
@@ -26164,45 +26164,45 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_NORMALIZED_SCORE</Tag><Polish>Znormalizowany</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NOT_INQUISITION_CONDITIONS</Tag><Polish>[COLOR_WARNING_TEXT]Inkwizycyjne cele wymagają treningu, sprawdź doktryny[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_NOT_INQUISITION_CONDITIONS</Tag><Polish>[COLOR_WARNING_TEXT]Wyszkolenie wymaga spełnienia warunków inkwizycji. Sprawdź doktryny.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NO_BUILDING_FREE_EXPERIENCE</Tag><Polish>[ICON_BULLET][COLOR_NEGATIVE_TEXT]%D1 z %s2_building[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NO_HOLY_CITY</Tag><Polish>Nie może zostać wybudowane w Świętym Mieście</Polish>
+<TEXT><Tag>TXT_KEY_NO_HOLY_CITY</Tag><Polish>Nie można zbudować w świętym mieście</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NO_INFLATION</Tag><Polish>[ICON_BULLET]Brak Inflacji</Polish>
+<TEXT><Tag>TXT_KEY_NO_INFLATION</Tag><Polish>[ICON_BULLET]Brak inflacji</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NO_STATE_RELIGION_FREE_EXPERIENCE</Tag><Polish>[ICON_BULLET][COLOR_NEGATIVE_TEXT]%D1 z Religii Państwowej[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_NO_STATE_RELIGION_FREE_EXPERIENCE</Tag><Polish>[ICON_BULLET][COLOR_NEGATIVE_TEXT]%D1 przy religii państwowej[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_NO_TRAIN_DURING_STRIKE</Tag><Polish>[COLOR_WARNING_TEXT]Strajk!!![COLOR_REVERT]</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_NUKE_TARGET_CITY</Tag><Polish>Aktualny Cel: %s1</Polish>
+<TEXT><Tag>TXT_KEY_NUKE_TARGET_CITY</Tag><Polish>Aktualny cel: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NUKE_TARGET_FAILED</Tag><Polish>Cel Nietrafiony</Polish>
+<TEXT><Tag>TXT_KEY_NUKE_TARGET_FAILED</Tag><Polish>Wybrany cel jest już nieaktualny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NUKE_TARGET_FRIENDLY_CITY</Tag><Polish>%s1 został trafiony pociskiem nuklearnym przez %s2 !</Polish>
+<TEXT><Tag>TXT_KEY_NUKE_TARGET_FRIENDLY_CITY</Tag><Polish>Cywilizacja %s1 obrała miasto %s2 za cel ataku nuklearnego!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NUKE_TARGET_LOST</Tag><Polish>Cel Zgubiony</Polish>
+<TEXT><Tag>TXT_KEY_NUKE_TARGET_LOST</Tag><Polish>Utracono cel</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NUKE_TARGET_RESET</Tag><Polish>%s1 Cel zresetowany</Polish>
+<TEXT><Tag>TXT_KEY_NUKE_TARGET_RESET</Tag><Polish>Zresetowano cel: %s1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_NUKE_TARGET_SET_ON</Tag><Polish>%s1 wyznaczył cel na %s2</Polish>
+<TEXT><Tag>TXT_KEY_NUKE_TARGET_SET_ON</Tag><Polish>Cel jednostki %s1 ustawiono na miasto %s2</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OBSOLETE</Tag><Polish>Przestarzałe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OMENS</Tag><Polish>Omen</Polish>
+<TEXT><Tag>TXT_KEY_OMENS</Tag><Polish>Omeny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OOS_TITLE</Tag><Polish>Błąd: Out Of Sync.[NEWLINE]Proszę sprawdzić wartości: OOS (obok tabeli wyników).[NEWLINE]Gracz z odmiennymi wartościami powinien spróbować połączyć się ponownie.</Polish>
+<TEXT><Tag>TXT_KEY_OOS_TITLE</Tag><Polish>Gra utraciła synchronizację.[NEWLINE]Sprawdź wartości OOS obok tabeli wyników.[NEWLINE]Gracz z innymi wartościami powinien połączyć się ponownie, aby przywrócić synchronizację.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPENING_MENU</Tag><Polish>Menu główne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_24CLOCK</Tag><Polish>24 godzinny zegar</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_24CLOCK</Tag><Polish>Zegar 24-godzinny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_ALARMHOURS</Tag><Polish>Godziny Alarmowe</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_ALARMHOURS</Tag><Polish>Godzina budzika</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_ALARMMINUTES</Tag><Polish>Minuty alarmowe</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_ALARMMINUTES</Tag><Polish>Minuty budzika</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_ALARMON</Tag><Polish>Alarm aktywny</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_ALARMON</Tag><Polish>Budzik włączony</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_AMBIENCEVOLUME</Tag><Polish>Otoczenie</Polish>
         </TEXT>
@@ -26210,15 +26210,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_AUDIO</Tag><Polish>Dźwięk</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_BANDWIDTH_DESC</Tag><Polish>Wybierz swoje łącze internetowe</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_BANDWIDTH_DESC</Tag><Polish>Wybierz szybkość połączenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_BROADBAND_LBL</Tag><Polish>Stałe łącze (Kabel/ADSL)</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_BROADBAND_LBL</Tag><Polish>Łącze szerokopasmowe (kablowe/DSL)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_BROWSE</Tag><Polish>Przeglądaj...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_CAPTUREVOLUME</Tag><Polish>Głośńość źródła dźwięku</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_CAPTUREVOLUME</Tag><Polish>Głośność nagrywania głosu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_CAPTURE_DEVICE</Tag><Polish>Wejście dźwięku</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_CAPTURE_DEVICE</Tag><Polish>Urządzenie nagrywające głos</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_CLOCK</Tag><Polish>Zegar</Polish>
         </TEXT>
@@ -26232,7 +26232,7 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_DEFAULT_PROFILE</Tag><Polish>Profil domyślny</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_DELETED_PROFILE</Tag><Polish>%s1_Profile Profil usunięty!</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_DELETED_PROFILE</Tag><Polish>Usunięto profil %s1_Profile!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_DELETE_PROFILE</Tag><Polish>Skasuj profil</Polish>
         </TEXT>
@@ -26244,39 +26244,39 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_GRAPHICS</Tag><Polish>Grafika</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_HOURS</Tag><Polish>Godziny alarmowe:</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_HOURS</Tag><Polish>Godzina budzika:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_INPUT</Tag><Polish>Wprowadź</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_INPUT</Tag><Polish>Wejście</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_INTERFACEVOLUME</Tag><Polish>Interfejs</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_LOADED_PROFILE</Tag><Polish>%s1_Profile wczytany!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_LOAD_PROFILE_FAIL</Tag><Polish>Wczytywanie nie powiodło się, wersja profilu niezgodna z obecnymi ustawieniami systemu.</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_LOAD_PROFILE_FAIL</Tag><Polish>Wczytanie nie powiodło się. Wersja profilu może nie być zgodna z bieżącym systemem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_MASTERVOLUME</Tag><Polish>Głośność</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_MASTERVOLUME</Tag><Polish>Głośność główna</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_MINS</Tag><Polish>Minuty alarmowe:</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_MINS</Tag><Polish>Minuty budzika:</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_MODEM_LBL</Tag><Polish>Modem</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_MUSICVOLUME</Tag><Polish>Muzyka</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_NEED_TO_RESTART</Tag><Polish>Program musi zostać ponownie uruchomiony, aby nowe ustawienia przyniosły efekt</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_NEED_TO_RESTART</Tag><Polish>Aby zmiany zaczęły działać, należy ponownie uruchomić program.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_NETWORK</Tag><Polish>Sieć</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_NEW_PROFILE</Tag><Polish>Stwórz nowy profil</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_NO_CHANGE_RES</Tag><Polish>Nie możesz zmienić rozdzielczości podczas korzystania ze Samouczka.</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_NO_CHANGE_RES</Tag><Polish>Nie można zmienić rozdzielczości w trakcie samouczka.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_NO_CONTENT</Tag><Polish>Bez zawartości</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_NO_SOUND</Tag><Polish>Brak dźwięku</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_PERFORMANCE</Tag><Polish>Wykonanie</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_PERFORMANCE</Tag><Polish>Wydajność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_OPTIONS_PLAYBACK_DEVICE</Tag><Polish>Wyjście dźwięku</Polish>
+<TEXT><Tag>TXT_KEY_OPTIONS_PLAYBACK_DEVICE</Tag><Polish>Urządzenie odtwarzające głos</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_OPTIONS_QUALITY</Tag><Polish>Jakość</Polish>
         </TEXT>
@@ -27156,81 +27156,81 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLE_FILTER_LAND</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Typu[COLOR_REVERT][NEWLINE]Ukrywa jednostki lądowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_LAND_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Typu[COLOR_REVERT][NEWLINE]Pokazuje jednostki lądowe</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_LAND_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr typu[COLOR_REVERT][NEWLINE]Pokazuje jednostki lądowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_MIL</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Wojskowy[COLOR_REVERT][NEWLINE]Ukrywa jednostki wojskowe</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_MIL</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr wojskowy[COLOR_REVERT][NEWLINE]Ukrywa jednostki wojskowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_MIL_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Wojskowy[COLOR_REVERT][NEWLINE]Pokazuje jednostki wojskowe</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_MIL_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr wojskowy[COLOR_REVERT][NEWLINE]Pokazuje jednostki wojskowe</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_OWN</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Narodowości[COLOR_REVERT][NEWLINE]Ukrywa narodowe jednostki</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_OWN</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr przynależności[COLOR_REVERT][NEWLINE]Ukrywa własne jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_OWN_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Narodowości[COLOR_REVERT][NEWLINE]Pokazuje narodowe jednostki</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_OWN_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr przynależności[COLOR_REVERT][NEWLINE]Pokazuje własne jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_SEA</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Typu[COLOR_REVERT][NEWLINE]Ukrywa jednostki morskie</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_SEA</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr typu[COLOR_REVERT][NEWLINE]Ukrywa jednostki morskie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_SEA_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Typu[COLOR_REVERT][NEWLINE]Pokazuje jednostki morskie</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_SEA_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr typu[COLOR_REVERT][NEWLINE]Pokazuje jednostki morskie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_WOUNDED</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Zdrowia[COLOR_REVERT][NEWLINE]Ukrywa ranne jednostki</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_WOUNDED</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr zdrowia[COLOR_REVERT][NEWLINE]Ukrywa ranne jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_FILTER_WOUNDED_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Filtr Zdrowia[COLOR_REVERT][NEWLINE]Pokazuje ranne jednostki</Polish>
+<TEXT><Tag>TXT_KEY_PLE_FILTER_WOUNDED_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz filtr zdrowia[COLOR_REVERT][NEWLINE]Pokazuje ranne jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_GROUPS</Tag><Polish>Grupuj jednostki wg zaznaczenia</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_GROUPS</Tag><Polish>Grupuj jednostki według grup zaznaczenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_PROMO</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz na Tryb Promocji[COLOR_REVERT][NEWLINE]Pokazuje jednostki z możliwością promocji według promocji, które mogą otrzymać</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_PROMO</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz na tryb awansów[COLOR_REVERT][NEWLINE]Pokazuje jednostki, które mogą awansować, wraz z dostępnymi dla nich awansami</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_PROMO_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Tryb Promocji[COLOR_REVERT][NEWLINE]Przełącz na Tryb Standardowy</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_PROMO_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Tryb awansów[COLOR_REVERT][NEWLINE]Przełącz na tryb standardowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_STANDARD</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz na Tryb Standardowy[COLOR_REVERT][NEWLINE]Pokazuje normalne ikony jednostek wraz z rozkazami</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_STANDARD</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz na tryb standardowy[COLOR_REVERT][NEWLINE]Pokazuje zwykłe ikony jednostek i umożliwia wydawanie rozkazów</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_STANDARD_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Tryb Standardowy[COLOR_REVERT][NEWLINE]Pozwala wybrać jak jednostki są pogrupowane: wg typu lub zaznaczenia</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_STANDARD_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Tryb standardowy[COLOR_REVERT][NEWLINE]Przełącza sposób grupowania jednostek: według typu lub grup zaznaczenia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLE_GRP_UNITTYPE</Tag><Polish>Grupuj jednostki wg typu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_UPGRADE</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz na Tryb Ulepszania[COLOR_REVERT][NEWLINE]Pokazuje jednostki możliwe do ulepszenia według jednostek, którymi mogą się stać</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_UPGRADE</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz na tryb ulepszania[COLOR_REVERT][NEWLINE]Pokazuje jednostki, które można ulepszyć, wraz z jednostkami, w które mogą się przekształcić</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_GRP_UPGRADE_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Tryb Ulepszania[COLOR_REVERT][NEWLINE]Przełącz na Tryb Standardowy</Polish>
+<TEXT><Tag>TXT_KEY_PLE_GRP_UPGRADE_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Tryb ulepszania[COLOR_REVERT][NEWLINE]Przełącz na tryb standardowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_MODE_MULTILINE</Tag><Polish>Pokazuje jednostki w kilku wierszach</Polish>
+<TEXT><Tag>TXT_KEY_PLE_MODE_MULTILINE</Tag><Polish>Pokazuje przyciski jednostek w kilku wierszach</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_MODE_STACK_HORIZ</Tag><Polish>Pokazuje jednostki pogrupowane w wierszach</Polish>
+<TEXT><Tag>TXT_KEY_PLE_MODE_STACK_HORIZ</Tag><Polish>Pokazuje przyciski jednostek pogrupowane w wierszach</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_MODE_STACK_VERT</Tag><Polish>Pokazuje jednostki pogrupowane w kolumnach</Polish>
+<TEXT><Tag>TXT_KEY_PLE_MODE_STACK_VERT</Tag><Polish>Pokazuje przyciski jednostek pogrupowane w kolumnach</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_MODE_STANDARD</Tag><Polish>Pokazuje jednostki w pojedynczym wierszu</Polish>
+<TEXT><Tag>TXT_KEY_PLE_MODE_STANDARD</Tag><Polish>Pokazuje przyciski jednostek w jednym wierszu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_RESET_FILTERS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Resetuj Filtry[COLOR_REVERT][NEWLINE]Pokazuje wszystkie jednostki</Polish>
+<TEXT><Tag>TXT_KEY_PLE_RESET_FILTERS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Zresetuj filtry[COLOR_REVERT][NEWLINE]Pokazuje wszystkie jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_RESET_FILTERS_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Resetuj Filtry[COLOR_REVERT][NEWLINE]Pokazuje wszystkie jednostki</Polish>
+<TEXT><Tag>TXT_KEY_PLE_RESET_FILTERS_ON</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Zresetuj filtry[COLOR_REVERT][NEWLINE]Pokazuje wszystkie jednostki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLE_UPGRADE_HELP</Tag><Polish>(CTRL: jednostki na tym polu.[NEWLINE]ALT: wszystkie jednostki)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLE_VIEW_MODE</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz Tryb Wyświetlania[COLOR_REVERT][NEWLINE]Wybiera jak ikony jednostek są wyświetlane: pojedynczy wiersz, wiele wierszy lub pogrupowane w oddzielnych wierszach albo kolumnach</Polish>
+<TEXT><Tag>TXT_KEY_PLE_VIEW_MODE</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Przełącz tryb wyświetlania[COLOR_REVERT][NEWLINE]Wybiera sposób wyświetlania ikon jednostek: jeden wiersz, wiele wierszy lub grupy w oddzielnych wierszach albo kolumnach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_BLOCKADED</Tag><Polish>Szlak handlowy zablokowany przez wrogi okręt</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_BONUS</Tag><Polish>Premia obronna: %D1_Mod%%</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_DAMAGE</Tag><Polish>Obrażeń na turę: %d1_Amt%%</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_DAMAGE</Tag><Polish>Obrażenia na turę: %d1_Amt%%</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_DAMAGE_IS_COLD</Tag><Polish>Obrażenia Zadane na tym Polu są Obrażeniami od Zimna</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_DAMAGE_IS_COLD</Tag><Polish>Obrażenia zadawane na tym polu są obrażeniami od zimna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_FRESH_WATER</Tag><Polish>Słodka woda</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_FRESH_WATER_LAKE</Tag><Polish>Słodka woda z jeziora</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_FRESH_WATER_LAKE</Tag><Polish>Jezioro słodkowodne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_HILLS</Tag><Polish>Wzgórza/</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_HOVER_CITY_ZOC</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść na to pole ponieważ jest w zasięgu Strefy Kontroli miasta.  Przejmij miasto by móc normalnie się poruszać.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_HOVER_CITY_ZOC</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść na to pole, ponieważ znajduje się ono w strefie kontroli pobliskiego miasta. Zdobądź miasto, aby przywrócić swobodę ruchu.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_HOVER_FORT_ZOC</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść na to pole ponieważ jest w zasięgu ulepszenia Strefy Kontrolowanej. Znisz ulepszenie lub obrońców otrzymać normalny ruch.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_HOVER_FORT_ZOC</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść na to pole, ponieważ znajduje się ono w strefie kontroli pobliskiego ulepszenia terenu. Zniszcz ulepszenie lub jego obrońców, aby przywrócić swobodę ruchu.[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_HOVER_MAX_CITY_DEFENSES</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść do %s1_cityName ponieważ jest chronione przez %s2_buildingName. Wcześniej zniszcz %s3_buildingName, lub zmniejsz obronę do [COLOR_REVERT][COLOR_WARNING_TEXT]%d4%[COLOR_REVERT][COLOR_HIGHLIGHT_TEXT] by zaatakować miasto.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_HOVER_MAX_CITY_DEFENSES</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść do miasta %s1_cityName, ponieważ chroni je budowla %s2_buildingName. Aby zaatakować miasto, zniszcz obiekt %s3_buildingName lub obniż obronę miasta do [COLOR_REVERT][COLOR_WARNING_TEXT]%d4%[COLOR_REVERT][COLOR_HIGHLIGHT_TEXT].[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_HOVER_UNIT_ZOC</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść na to pole ponieważ jest w zasięgu Strefy Kontroli jednostki.  Zniszcz jednostkę by móc normalnie się poruszać.[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_HOVER_UNIT_ZOC</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]Twoje jednostki nie mogą wejść na to pole, ponieważ znajduje się ono w strefie kontroli pobliskiej jednostki. Zniszcz tę jednostkę, aby przywrócić swobodę ruchu.[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_IMPASSABLE</Tag><Polish>[COLOR_WARNING_TEXT]NIE DO PRZEBYCIA[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_IMP_UPGRADE</Tag><Polish>[SPACE](%d1_Num [NUM1:tura:tur] do: %s2_ImpName)</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_IMP_UPGRADE</Tag><Polish>[SPACE](Ulepszenie: %s2_ImpName; pozostało tur: %d1_Num)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_IRRIGATED</Tag><Polish>[SPACE](Nawodniony)</Polish>
         </TEXT>
@@ -27238,91 +27238,91 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_PEAK</Tag><Polish>Góry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_REQUIRES</Tag><Polish>,Wymaga: [COLOR_WARNING_TEXT]%s1_Name[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_REQUIRES</Tag><Polish>, wymaga: [COLOR_WARNING_TEXT]%s1_Name[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PLOT_REQUIRES_ROUTE</Tag><Polish>, wymaga drogi</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_RESEARCH</Tag><Polish>, Zbadane: [COLOR_WARNING_TEXT]%s1_Name[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_RESEARCH</Tag><Polish>, zbadaj: [COLOR_WARNING_TEXT]%s1_Name[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_TECH_TO_UPGRADE</Tag><Polish>[SPACE][COLOR_YELLOW](Wymaga %s1 do ulepszenia)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_TECH_TO_UPGRADE</Tag><Polish>[SPACE][COLOR_YELLOW](Ulepszenie wymaga zbadania technologii %s1)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PLOT_WORK_TO_UPGRADE</Tag><Polish>[SPACE](Miasto musi pracować by stać się: %s1_ImpName)</Polish>
+<TEXT><Tag>TXT_KEY_PLOT_WORK_TO_UPGRADE</Tag><Polish>[SPACE](Aby uzyskać ulepszenie %s1_ImpName, miasto musi korzystać z tego pola)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPULATION</Tag><Polish>LUDN.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_ABSTAIN</Tag><Polish>Wstrzymaj się</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ABSTAINS</Tag><Polish>%s1_VtrName wstrzymuje się (%d2_Num Wszystkich)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ABSTAINS</Tag><Polish>%s1_VtrName wstrzymuje się od głosu (łącznie: %d2_Num)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ADMIN_ALLOW_CHEATS</Tag><Polish>Dopuść narzędzia</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ADMIN_ALLOW_CHEATS</Tag><Polish>Zezwól na narzędzia debugowania</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_ADMIN_PASSWORD</Tag><Polish>Hasło admina:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ALARM_ON</Tag><Polish>Alarm</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ALARM_ON</Tag><Polish>Włącz budzik</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ALARM_OPTIONS_TITLE</Tag><Polish>Opjce Alarmu</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ALARM_OPTIONS_TITLE</Tag><Polish>Opcje budzika</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_ALARM_TITLE</Tag><Polish>Budzik</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE</Tag><Polish>Czy jesteś tego pewny?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE_ACTION</Tag><Polish>Czy jesteś pewny że chcesz: %s1_ActionName?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE_ACTION</Tag><Polish>Czy na pewno chcesz wykonać tę czynność: %s1_ActionName?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE_MOD_PITBOSS</Tag><Polish>Czy jesteś pewien/na? Możesz przypisać nowe hasło podczas następnego logowania.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE_MOD_PITBOSS</Tag><Polish>Czy na pewno? Nowe hasło możesz ustawić przy następnym logowaniu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE_MOD_PITBOSS2</Tag><Polish>Czy jesteś pewien/na? Uwaga, nie będzie możliwe przejęcie tego narodu ponownie.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ARE_YOU_SURE_MOD_PITBOSS2</Tag><Polish>Czy na pewno? Uwaga: nie będzie można ponownie przejąć kontroli nad tym narodem.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_BUILDING_DEFENSE_DEMAND</Tag><Polish>Panie, obrona miasta %s1_CityName jest bardzo słaba, co czyni je idealnym celem. Pamiętaj, że silne płoty czynią sąsiadów przyjaciółmi. Wybudowanie ([COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT]) sprawi, że nasi obywatele będą w końcu bezpieczni!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_BUILDING_DEFENSE_DEMAND</Tag><Polish>Panie, obrona miasta %s1_CityName jest bardzo słaba, co czyni nas kuszącym celem! Pamiętaj, dobry płot to dobry sąsiad. Budowa obiektu [COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT] wreszcie zapewniłaby naszym ludziom bezpieczeństwo!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_CANCEL</Tag><Polish>Anuluj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANCEL_DEAL</Tag><Polish>Jesteś pewien, że chcesz zerwać tą umowę?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANCEL_DEAL</Tag><Polish>Czy na pewno chcesz zerwać tę umowę?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_CANCEL_DEAL_NO</Tag><Polish>Hmm, być może powinniśmy to przemyśleć?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANCEL_DEAL_YES</Tag><Polish>Tak, absolutnie.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANCEL_DEAL_YES</Tag><Polish>Tak, zerwij tę umowę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_CANNOT_CANCEL_DEAL</Tag><Polish>Ta umowa nie może być teraz zerwana.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CONSTRUCT_WORK_NEXT</Tag><Polish>Nie możesz dalej budować: [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT] w mieście %s2_CityName. Jakie są teraz Twoje rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CONSTRUCT_WORK_NEXT</Tag><Polish>Nie można kontynuować budowy obiektu [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT] w mieście %s2_CityName. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CONSTRUCT_WORK_NEXT_LIMITED</Tag><Polish>Nie możesz dalej budować: [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT] w mieście %s2_CityName. Jakie są teraz Twoje rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CONSTRUCT_WORK_NEXT_LIMITED</Tag><Polish>Nie można kontynuować budowy obiektu [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT] w mieście %s2_CityName. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CREATE_WORK_NEXT</Tag><Polish>Nie możesz kontynuować budowy: [COLOR_BUILDING_TEXT]%s1_PrjtName[COLOR_REVERT] w mieście %s2_CityName. Co chcesz zbudować w zamian?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CREATE_WORK_NEXT</Tag><Polish>Nie można kontynuować projektu [COLOR_BUILDING_TEXT]%s1_PrjtName[COLOR_REVERT] w mieście %s2_CityName. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CREATE_WORK_NEXT_LIMITED</Tag><Polish>Nie możesz dalej tworzyć: [COLOR_BUILDING_TEXT]%s1_PrjtName[COLOR_REVERT] w mieście %s2_CityName. Co chcesz zrobić w zamian?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANNOT_CREATE_WORK_NEXT_LIMITED</Tag><Polish>Nie można kontynuować projektu [COLOR_BUILDING_TEXT]%s1_PrjtName[COLOR_REVERT] w mieście %s2_CityName. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANNOT_TRAIN_WORK_NEXT</Tag><Polish>Nie możesz kontynuować treningu: [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] w mieście %s2_CityName. Jakie są teraz Twoje rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANNOT_TRAIN_WORK_NEXT</Tag><Polish>Nie można kontynuować szkolenia jednostki [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] w mieście %s2_CityName. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CANNOT_TRAIN_WORK_NEXT_LIMITED</Tag><Polish>Nie możesz kontynuować produkcji: [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] w mieście %s2_CityName. Jakie są teraz Twoje rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CANNOT_TRAIN_WORK_NEXT_LIMITED</Tag><Polish>Nie można kontynuować szkolenia jednostki [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] w mieście %s2_CityName. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CHOOSE_ELECTION</Tag><Polish>Jako Sekretarz Generalny możesz wybrać rezolucję O.N.Z, aby poddać ją pod głosowanie.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CHOOSE_ELECTION</Tag><Polish>Jako sekretarz generalny możesz wybrać rezolucję ONZ, która zostanie poddana ogólnoświatowemu głosowaniu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CHOOSE_FORCE_PEACE_ENEMY_WITH</Tag><Polish>Któr± cywilizację chcesz zmusić do pokoju?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CHOOSE_FORCE_PEACE_ENEMY_WITH</Tag><Polish>Z którą cywilizacją chcesz wymusić pokój?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CHOOSE_SAVE_GAME_FORMAT</Tag><Polish>Wybierz Format Zapisu</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CHOOSE_SAVE_GAME_FORMAT</Tag><Polish>Wybierz format zapisu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_CHOOSE_TECH</Tag><Polish>Wybierz technologię...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_CITY_CAPTURE_KEEP</Tag><Polish>Zdobyłeś miasto: %s1_CityName! Czy chcesz je przejąć?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_COLONY_DEMAND</Tag><Polish>Panie, koszty naszych zamorskich posiadłości (%s1_CityName) znacznie wzrosły. Powinniśmy rozważyć przyznanie niepodległości wszystkim naszym miastom na tym kontynencie.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_COLONY_DEMAND</Tag><Polish>Panie, koszty utrzymania naszej zamorskiej posiadłości %s1_CityName rosną. Powinniśmy rozważyć przyznanie niepodległości wszystkim naszym miastom na tamtym kontynencie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CONSTRUCTED_WORK_ON_NEXT</Tag><Polish>Zbudowałeś: [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT] w mieście %s2_CityName. Co rozkażesz?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CONSTRUCTED_WORK_ON_NEXT</Tag><Polish>W mieście %s2_CityName ukończono budowę obiektu [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT]. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CONSTRUCTED_WORK_ON_NEXT_LIMITED</Tag><Polish>Zbudowałeś: [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT] w mieście %s2_CityName. Co rozkażesz?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CONSTRUCTED_WORK_ON_NEXT_LIMITED</Tag><Polish>W mieście %s2_CityName ukończono budowę obiektu [COLOR_BUILDING_TEXT]%s1_BldgName[COLOR_REVERT]. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_CONVERTING_EFFECTS</Tag><Polish>[SPACE]Zmiana religii zapewni %D1_Change%F2_HappOrUn w każdym mieście z: %F3_RelIcon</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CONVERT_RELIGION</Tag><Polish>Tak, niech się stanie!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CONVERT_RELIGION</Tag><Polish>Tak, rozpocznijcie obrzędy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CREATED_WORK_ON_NEXT</Tag><Polish>Stworzyłeś: [COLOR_HIGHLIGHT_TEXT]%s1_PrjtName[COLOR_REVERT] w mieście %s2_CityName. Jakie są teraz Twoje rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CREATED_WORK_ON_NEXT</Tag><Polish>W mieście %s2_CityName ukończono projekt [COLOR_HIGHLIGHT_TEXT]%s1_PrjtName[COLOR_REVERT]. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CREATED_WORK_ON_NEXT_LIMITED</Tag><Polish>Stworzyłeś: [COLOR_HIGHLIGHT_TEXT]%s1_PrjtName[COLOR_REVERT] w mieście %s2_CityName. Jakie są teraz Twoje rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CREATED_WORK_ON_NEXT_LIMITED</Tag><Polish>W mieście %s2_CityName ukończono projekt [COLOR_HIGHLIGHT_TEXT]%s1_PrjtName[COLOR_REVERT]. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CREATED_WORK_ON_NEXT_SPACESHIP</Tag><Polish>Miasto %s2_CityName ukończyło [COLOR_HIGHLIGHT_TEXT]%s1_PrjtName[COLOR_REVERT]. Jakie są Twoje dalsze rozkazy?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CREATED_WORK_ON_NEXT_SPACESHIP</Tag><Polish>Miasto %s2_CityName dołączyło do statku kosmicznego element [COLOR_HIGHLIGHT_TEXT]%s1_PrjtName[COLOR_REVERT]. Nad czym miasto ma teraz pracować?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_CULTURE_DEMAND</Tag><Polish>Panie, miasto: %s1_CityName nie rozwija się kulturowo. Taki rozwój pomógłby nam rozszerzyć nasze granice i strefy wpływów. Wybudowanie: ([COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT]) spowoduje szybki wzrost kultury!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_CULTURE_DEMAND</Tag><Polish>Panie, miasto %s1_CityName nie wytwarza żadnej kultury, a dzięki niej moglibyśmy rozszerzyć granice i objąć władzą większą część świata! Budowa obiektu [COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT] pozwoliłaby kulturze rozkwitnąć!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_DEAL_CANCEL</Tag><Polish>Umowa anulowana</Polish>
         </TEXT>
@@ -27330,13 +27330,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_DEMAND_EXAMINE</Tag><Polish>Poczekaj, najpierw chcę zobaczyć miasto...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_DEMAND_REFUSE</Tag><Polish>Nie. Zapomniałeś kto tu jest panem!?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_DEMAND_REFUSE</Tag><Polish>Nie ma mowy, to ja tu rządzę!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_DETAILS_EMAIL</Tag><Polish>Adres e-mail</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_DETAILS_SMTP</Tag><Polish>SMTP Serwer</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_DETAILS_SMTP</Tag><Polish>Serwer SMTP</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_DETAILS_TITLE</Tag><Polish>Twoje opcje</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_DETAILS_TITLE</Tag><Polish>Twoje dane</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_DIPLOMATIC_VOTING_FAILURE</Tag><Polish>%s1_VoteName: brak wymaganej większości (głosy: %d2; wymagane: %d3 z %d4)</Polish>
         </TEXT>
@@ -27350,25 +27350,25 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_DOES_THIS_MEAN_WAR</Tag><Polish>Czy to oznacza WOJNĘ?! (przeciw: %s1_Team)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_ASSIGN_CITY</Tag><Polish>Przekazać miasto: %s2_city (%s1_civ_adjective) dla: %s3_player (wymagane: %d4_ReqNum głosów z %d5_TotNum wszystkich głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_ASSIGN_CITY</Tag><Polish>Przekazanie miasta %s2_city (%s1_civ_adjective) graczowi %s3_player (wymagane głosy: %d4_ReqNum z %d5_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_DEFENSIVE_PACT</Tag><Polish>Podpisanie Paktu Obronnego ze wszystkimi członkami (wymaga %d1_ReqNum ze wszystkich %d2_TotNum głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_DEFENSIVE_PACT</Tag><Polish>Zawarcie paktu obronnego ze wszystkimi członkami (wymagane głosy: %d1_ReqNum z %d2_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_FORCE_NO_TRADE</Tag><Polish>Zaprzestanie handlu z %s1_player (wymagane: %d2_ReqNum głosów z %d3_TotNum wszystkich głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_FORCE_NO_TRADE</Tag><Polish>Zaprzestanie handlu z graczem %s1_player (wymagane głosy: %d2_ReqNum z %d3_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_FORCE_PEACE</Tag><Polish>Zaprzestanie wojny przeciwko: %s1_player (wymagane: %d2_ReqNum głosów z %d3_TotNum wszystkich głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_FORCE_PEACE</Tag><Polish>Zakończenie wojny przeciwko graczowi %s1_player (wymagane głosy: %d2_ReqNum z %d3_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_FORCE_WAR</Tag><Polish>Rozpoczęcie wojny przeciwko: %s1_player (wymagane: %d2_ReqNum głosów z %d3_TotNum wszystkich głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_FORCE_WAR</Tag><Polish>Wypowiedzenie wojny graczowi %s1_player (wymagane głosy: %d2_ReqNum z %d3_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_OPEN_BORDERS</Tag><Polish>Podpisanie układu o Otwarciu Granic ze wszystkimi członkami (Wymaga %d1_ReqNum z %d2_TotNum wszystkich głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_OPEN_BORDERS</Tag><Polish>Zawarcie układu o otwarciu granic ze wszystkimi członkami (wymagane głosy: %d1_ReqNum z %d2_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ELECTION_OPTION</Tag><Polish>%s1_VoteName (Potrzebne: %d2_ReqNum z %d3_TotNum wszystkich głosów)</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ELECTION_OPTION</Tag><Polish>%s1_VoteName (wymagane głosy: %d2_ReqNum z %d3_TotNum)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ENTER_LANDS_WAR</Tag><Polish>Wejście na tereny Imperium [COLOR_HIGHLIGHT_TEXT]%s1_CivAdj[COLOR_REVERT] wywoła WOJNĘ! Jesteś pewien?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ENTER_LANDS_WAR</Tag><Polish>Wejście na terytorium [COLOR_HIGHLIGHT_TEXT]%s1_CivAdj[COLOR_REVERT] wywoła WOJNĘ! Czy na pewno chcesz to zrobić?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ENTER_WB</Tag><Polish>Panel budowy świata</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ENTER_WB</Tag><Polish>Otwórz edytor świata</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_ENTER_WITH_OPEN_BORDERS</Tag><Polish>[SPACE]Możesz wkroczyć na ten teren po podpisaniu porozumienia o otwarciu granic.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_ENTER_WITH_OPEN_BORDERS</Tag><Polish>[SPACE](Możesz wkroczyć pokojowo po podpisaniu układu o otwarciu granic.)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_EXAMINE_CITY</Tag><Polish>Pokaż miasto</Polish>
         </TEXT>
@@ -27376,74 +27376,74 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_EXIT_TO_DESKTOP_CONFIRM</Tag><Polish>Czy na pewno chcesz wyjść do pulpitu?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_EXIT_TO_MAIN_MENU</Tag><Polish>Wyjście do menu</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_EXIT_TO_MAIN_MENU</Tag><Polish>Wyjście do menu głównego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_FIELD_COMMANDER_OK</Tag><Polish>Wróć na pole!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_FIELD_COMMANDER_OK</Tag><Polish>Wróć na pole bitwy!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_FIELD_COMMANDER_TUTORIAL</Tag><Polish>Gratulacje, dokonałeś promocji swojego pierwszego Dowódcy Polowego! Dowódca Polowy jest cenny podczas bitwy, trzymaj go w zasięgu jednej jednostki od twoich sił(za linią frontu). Dowódca Polowy będzie wspierał twoje jednostki wojskowe w bitwach. Podczas każdej bitwy w której Dowódca Polowy bierze udział pobiera jeden punkt kontroli(zaczyna z 5). Po zakończeniu tury, punkty kontroli są uzupełniane. Kiedy Dowódca Polowy zużyje wszystkie swoje punkty kontrolne nie będzie w stanie wspierać następnych bitew. Za każdą bitwę w której uczestniczy Dowódca Polowy zyskuje punkty doświadczenia. Doświadczenie może być wydane na promocje tak jak w przypadku standardowych jednostek.
-Powodzenia z twoim nowym Dowódcą!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_FIELD_COMMANDER_TUTORIAL</Tag><Polish>Gratulacje, awansowałeś swojego pierwszego dowódcę polowego! Dowódcy polowi są cenni na polu bitwy. Trzymaj ich w odległości najwyżej 1 pola od swoich wojsk (i za linią frontu!). Dowódca polowy wspiera twoje jednostki w walce. Każda bitwa, w której uczestniczy, zużywa 1 punkt kontroli (początkowo ma ich 5). Po zakończeniu tury punkty kontroli są odnawiane. Gdy dowódca polowy zużyje je wszystkie, nie może już wspierać kolejnych bitew. Za każdą bitwę, w której uczestniczy, otrzymuje punkty doświadczenia. Można je wykorzystać do zdobywania awansów, tak jak w przypadku zwykłych jednostek.
+Powodzenia z nowym dowódcą!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_FIELD_COMMANDER_TUTORIAL_HEADER</Tag><Polish>Awansowany pierwszego Dowódca Polowy</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_FIELD_COMMANDER_TUTORIAL_HEADER</Tag><Polish>Awans pierwszego dowódcy polowego</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_FIRST_REVOLUTION</Tag><Polish>Możesz przejrzeć zakładkę doktryny. Nowe opcje zostały udostępnione.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_FIRST_REVOLUTION</Tag><Polish>Warto przyjrzeć się dostępnym doktrynom.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_FLIPPED_CITY_KEEP</Tag><Polish>Lud miasta: %s1_CityName pragnie dołączyć do twojego wielkiego imperium. Czy przyjmiesz ich?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_FLIPPED_CITY_KEEP</Tag><Polish>Mieszkańcy miasta %s1_CityName pragną dołączyć do naszego wspaniałego imperium! Czy ich przyjmiemy?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_GAME_DETAILS</Tag><Polish>Szczegóły gry</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_GOLD_CITY_CAPTURE</Tag><Polish>W czasie plądrowania miasta: %s2_CityName, zdobyłeś %d1_Num [ICON_GOLD] sztuk złota. Czy chcesz przejąć miasto?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_GOLD_CITY_CAPTURE</Tag><Polish>Zdobycie miasta %s2_CityName przyniosło ci %d1_Num [ICON_GOLD] łupów! Czy chcesz zatrzymać miasto?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_GOLD_DEMAND</Tag><Polish>Panie, miasto: %s1_CityName dostarcza do skarbca znaczną część dochodów. Powinniśmy rozważyć wybudowanie: [COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT], co pozwoli nam na ich zwielokrotnienie!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_GOLD_DEMAND</Tag><Polish>Panie, miasto %s1_CityName przynosi naszemu skarbcowi mnóstwo złota! Warto rozważyć budowę obiektu [COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT], aby zwiększyć te dochody i uczynić nas wszystkich bardzo, bardzo bogatymi!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_GOTO_CITY</Tag><Polish>Idź do Miasta</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_GOTO_CITY</Tag><Polish>Idź do miasta</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_HOURS</Tag><Polish>Godziny</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_INSTALL</Tag><Polish>Instaluj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_INVADED_CITY</Tag><Polish>Wrogie jednostki odkryły tajne przejście w %s1! Omijają fortyfikację, atakują obywateli oraz rannych żołnierzy! Jeśli nie wyślemy posiłków do %s2 na pewno zostanie zrównane z ziemią!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_INVADED_CITY</Tag><Polish>Wrogie wojska odkryły tajne wejście w naszym obiekcie %s1! Ominęły fortyfikacje i atakują bezbronnych mieszkańców oraz rannych żołnierzy! Jeśli natychmiast nie wyślemy posiłków, miasto %s2 z pewnością zostanie zrównane z ziemią!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_INVASION</Tag><Polish>Panie, Wrogie wojska najechały %s1!!!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_INVASION</Tag><Polish>Panie, wrogie wojska najechały %s1!!!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_KEEP_CAPTURED_CITY</Tag><Polish>Tak! Ustanowimy nowego Gubernatora...</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_KEEP_CAPTURED_CITY</Tag><Polish>Tak! Powołajcie nowego gubernatora...</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_KEEP_FLIPPED_CITY</Tag><Polish>Tak! powołaj nowego gubernatora...</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_KEEP_FLIPPED_CITY</Tag><Polish>Tak! Powołajcie nowego gubernatora...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_KICKED</Tag><Polish>Zostałeś wyrzucony z gry! Powrót do menu...</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_LIBERATION_DEMAND</Tag><Polish>Panie, obywatele miasta %s1_CityName domagają się przyłączenia do imperium %s2_civ. Nasza zgoda sprawi, że polepszą się nasze stosunki z ich przywódcą (%s3_player).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_LIKE_TO_CONVERT</Tag><Polish>[SPACE]Czy chcesz przyjąć tą nową wiarę jako państwową?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_LIKE_TO_CONVERT</Tag><Polish>[SPACE]Czy chcesz przyjąć tę nową wiarę?</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_LOAD_GAME</Tag><Polish>Wczytaj grę</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_MAINTENANCE_DEMAND</Tag><Polish>Panie utrzymanie miasta: %s1_CityName jest dla nas wielkim ciężarem finansowym. Wybudowanie: ([COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT]) byłoby prawdziwie mądrym posunięciem!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_MAINTENANCE_DEMAND</Tag><Polish>Panie, wskutek rozrostu naszego imperium utrzymanie miasta %s1_CityName kosztuje nas bardzo wiele! Budowa obiektu [COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT] byłaby doprawdy rozsądnym posunięciem!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_MINS</Tag><Polish>Minuty</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_MISSIONARY_DEMAND</Tag><Polish>Panie, nasze Imperium ciągle się rozrasta. Dobrze byłoby poszerzyć wpływy naszej Religii Państwowej, którą jest ([COLOR_HIGHLIGHT_TEXT]%s1_Religion[COLOR_REVERT]). Jeżeli w mieście %s3_CityName powstanie [COLOR_UNIT_TEXT]%s2_UnitName[COLOR_REVERT], to rozprzestrzenimy naszą wiarę i zwiększymy zadowolenie obywateli.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_MISSIONARY_DEMAND</Tag><Polish>Panie, wraz z rozwojem naszego imperium warto szerzyć religię państwową: [COLOR_HIGHLIGHT_TEXT]%s1_Religion[COLOR_REVERT]! Wyszkolenie jednostki [COLOR_UNIT_TEXT]%s2_UnitName[COLOR_REVERT] w mieście %s3_CityName pomogłoby rozprzestrzenić wiarę w pozostałych miastach i zwiększyć zadowolenie ich mieszkańców.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_MODIFIER_RECALCULATION</Tag><Polish>Czy mam przeliczyć ponownie modyfikatory?</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_MODIFIER_RECALCULATION</Tag><Polish>Czy przeliczyć modyfikatory ponownie?</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_MODIFIER_RECALCULATION_BODY</Tag><Polish>Folder Assets lub plik DLL zostały zmienione po tym jak zapisany został plik save. Rekalkulacja modyfikatorów pozwoli wprowadzić zmiany w budynkach, wydarzeniach, doktrynach i innych przechowywanych zmiennych dla miast i graczy. Jest to rekomendowane lecz dalej w wersji beta. Zawsze możesz manualnie to wywołać kombinacją klawiszy: Ctrl-Shift-T.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_MODIFIER_RECALCULATION_BODY</Tag><Polish>Zawartość katalogu Assets lub plik DLL zmieniły się od utworzenia tego zapisu gry. Ponowne przeliczenie modyfikatorów uwzględni zmiany dotyczące budynków, wydarzeń, doktryn i podobnych elementów w łącznych wartościach zapisanych dla miast i graczy. Jest to zalecane, ale funkcja nadal pozostaje w wersji beta. Możesz ją też uruchomić ręcznie skrótem Ctrl-Shift-T.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_MOD_NO_BUT_EXIT</Tag><Polish>Nie, ale wróć do głównego menu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_MOD_YES_KI</Tag><Polish>Tak, ustaw to na AI.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_MOD_YES_KI</Tag><Polish>Tak, przekaż sterowanie narodem SI.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_NEW_CIVIC</Tag><Polish>Twój naród może przyjąć nową doktrynę: [COLOR_HIGHLIGHT_TEXT]%s1_CivicName[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_NEW_GAME_SAVE_FORMAT</Tag><Polish>Maksymalna Kompatybilność</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_NEW_GAME_SAVE_FORMAT</Tag><Polish>Maksymalna zgodność</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_NO</Tag><Polish>Nie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_NON_FATAL_FORMAT_LOAD_ERROR</Tag><Polish>Nie-krytyczne ostrzeżenie wczytywania</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_NON_FATAL_FORMAT_LOAD_ERROR</Tag><Polish>Ostrzeżenie podczas wczytywania (błąd niekrytyczny)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_NO_CONVERSION</Tag><Polish>Nie, to tylko zabobony.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_OLD_GAME_SAVE_FORMAT</Tag><Polish>Oryginalny BTS</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_OLD_WAYS_BEST</Tag><Polish>Nie, tak jak teraz jest dobrze.</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_OLD_WAYS_BEST</Tag><Polish>Nie, stare zwyczaje są najlepsze.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_OPTIONS</Tag><Polish>Opcje</Polish>
         </TEXT>
@@ -27451,21 +27451,21 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_POPE_ELECTION</Tag><Polish>Jako rezydent Pałacu Apostolskiego możesz wybierać, które rezolucje zostaną poddane pod głosowanie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_RAZE_AND_FORTIFY_CAPTURED_CITY</Tag><Polish>Zburz i Ufortyfikuj Ruiny (koszt %d1 [ICON_GOLD])</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_RAZE_AND_FORTIFY_CAPTURED_CITY</Tag><Polish>Zburz miasto i ufortyfikuj ruiny (koszt: %d1 [ICON_GOLD])</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_RAZE_CAPTURED_CITY</Tag><Polish>Nie! Zrównajcie je z ziemią!</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED</Tag><Polish>%s1_ProdName (%d2_NumTurns) [COLOR_HIGHLIGHT_TEXT]Zalecane: (%s3_AdvsrName)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED</Tag><Polish>%s1_ProdName (%d2_NumTurns) [COLOR_HIGHLIGHT_TEXT]Zalecane (%s3_AdvsrName)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED_NO_ADV</Tag><Polish>%s1_ProdName (%d2_NumTurns) [COLOR_HIGHLIGHT_TEXT]Zalecane:[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED_NO_ADV</Tag><Polish>%s1_ProdName (%d2_NumTurns) [COLOR_HIGHLIGHT_TEXT]Zalecane[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED_NO_ADV_OR_TURNS</Tag><Polish>%s1_WorkName [COLOR_HIGHLIGHT_TEXT]Zalecane:[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED_NO_ADV_OR_TURNS</Tag><Polish>%s1_WorkName [COLOR_HIGHLIGHT_TEXT]Zalecane[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED_ONLY_ADV</Tag><Polish>[SPACE][COLOR_HIGHLIGHT_TEXT]Zalecane: (%s1_AdvsrName)[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_RECOMMENDED_ONLY_ADV</Tag><Polish>[SPACE][COLOR_HIGHLIGHT_TEXT]Zalecane (%s1_AdvsrName)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_REGENERATE_MAP</Tag><Polish>Regeneruj mapę</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_REGENERATE_MAP</Tag><Polish>Wygeneruj mapę ponownie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_POPUP_RELIGION_SPREAD</Tag><Polish>Religia ([COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT]) rozprzestrzenia się po twoim kraju!</Polish>
+<TEXT><Tag>TXT_KEY_POPUP_RELIGION_SPREAD</Tag><Polish>W twoim kraju rozprzestrzeniła się religia [COLOR_HIGHLIGHT_TEXT]%s1_RelName[COLOR_REVERT]!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_POPUP_RESEARCH_DEMAND</Tag><Polish>Panie, miasto: %s1_CityName jest wielkim centrum naukowym i akademickim. Wybudowanie: [COLOR_BUILDING_TEXT]%s2_BldgName[COLOR_REVERT] wykorzysta ten fakt i jeszcze zwiększy tempo naszych badań naukowych!</Polish>
         </TEXT>
@@ -27981,19 +27981,19 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_DRILL4</Tag><Polish>Musztra IV</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ELECTROMAGNETIC_ARMOR1</Tag><Polish>Pancerz Elektromagnetyczny I</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ELECTROMAGNETIC_ARMOR1</Tag><Polish>Pancerz elektromagnetyczny I</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ELECTROMAGNETIC_ARMOR2</Tag><Polish>Pancerz Elektromagnetyczny II</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ELECTROMAGNETIC_ARMOR2</Tag><Polish>Pancerz elektromagnetyczny II</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ELECTROMAGNETIC_ARMOR3</Tag><Polish>Pancerz Elektromagnetyczny III</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ELECTROMAGNETIC_ARMOR3</Tag><Polish>Pancerz elektromagnetyczny III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ENEMY_LANDS_TEXT</Tag><Polish>Zniszczeń/Turę na wrogim terytorium</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ENEMY_LANDS_TEXT</Tag><Polish>Obrażenia na turę na wrogim terytorium</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_ENEMY_ROADS_TEXT</Tag><Polish>[ICON_BULLET]Może używać dróg wroga</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ESCAPE1</Tag><Polish>Mistrz Ucieczki I</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ESCAPE1</Tag><Polish>Mistrz ucieczki I</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ESCAPE2</Tag><Polish>Mistrz Ucieczki II</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ESCAPE2</Tag><Polish>Mistrz ucieczki II</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_ESCAPE_TEXT_SPY</Tag><Polish>[ICON_BULLET]+%d1_percent%% do szansy na ucieczkę</Polish>
         </TEXT>
@@ -28011,27 +28011,27 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FANATIC</Tag><Polish>Fanatyk</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FASTER_EXPERIENCE_TEXT</Tag><Polish>[ICON_BULLET]o %D1_percent%% większe doświadczenie podczas walki</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FASTER_EXPERIENCE_TEXT</Tag><Polish>[ICON_BULLET]%D1_percent%% do doświadczenia zdobywanego w walce</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIELD1</Tag><Polish>Walka Równinna I</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIELD1</Tag><Polish>Walka na równinach I</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIELD2</Tag><Polish>Walka Równinna II</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIELD2</Tag><Polish>Walka na równinach II</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIELD3</Tag><Polish>Walka Równinna III</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIELD3</Tag><Polish>Walka na równinach III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIREARMS1</Tag><Polish>Broń Palna I</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIREARMS1</Tag><Polish>Broń palna I</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIREARMS2</Tag><Polish>Broń Palna II</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIREARMS2</Tag><Polish>Broń palna II</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIREARMS3</Tag><Polish>Broń Palna III</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIREARMS3</Tag><Polish>Broń palna III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKES_CHANCE_TEXT</Tag><Polish>[ICON_BULLET]%D1_Change szansy na Pierwsze Uderzenie</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKES_CHANCE_TEXT</Tag><Polish>[ICON_BULLET]Szanse na pierwsze uderzenie: %D1_Change</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKES_TEXT</Tag><Polish>[ICON_BULLET]%D1_Change pierwsze uderzenia</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKES_TEXT</Tag><Polish>[ICON_BULLET]Pierwsze uderzenia: %D1_Change</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKE_CHANCE_TEXT</Tag><Polish>[ICON_BULLET]%d1_Num dodatkowa szansa na pierwsze uderzenie</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKE_CHANCE_TEXT</Tag><Polish>[ICON_BULLET]Dodatkowe szanse na pierwsze uderzenie: %d1_Num</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKE_TEXT</Tag><Polish>[ICON_BULLET]%d1_Num dodatkowe pierwsze uderzenie</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FIRST_STRIKE_TEXT</Tag><Polish>[ICON_BULLET]Dodatkowe pierwsze uderzenia: %d1_Num</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FLANKING1</Tag><Polish>Oskrzydlanie I</Polish>
         </TEXT>
@@ -28039,7 +28039,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FLANKING3</Tag><Polish>Oskrzydlanie III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FLOWER_WAR</Tag><Polish>Kwietne Wojny</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FLOWER_WAR</Tag><Polish>Wojny kwietne</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FORMATION</Tag><Polish>Formacja I</Polish>
         </TEXT>
@@ -28047,9 +28047,9 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FORMATION3</Tag><Polish>Formacja III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FRIENDLY_LANDS_TEXT</Tag><Polish>Zniszczeń/Turę na przyjaznym terytorium</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FRIENDLY_LANDS_TEXT</Tag><Polish>Obrażenia na turę na przyjaznym terytorium</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FUEL_TANK</Tag><Polish>Dodatkowy Zbiornik Paliwa</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FUEL_TANK</Tag><Polish>Dodatkowy zbiornik paliwa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FURY1</Tag><Polish>Furia I</Polish>
         </TEXT>
@@ -28057,25 +28057,25 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_FURY3</Tag><Polish>Furia III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FUSION_POWER_SOURCE</Tag><Polish>Fuzyjne Źródło Zasilania</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FUSION_POWER_SOURCE</Tag><Polish>Fuzyjne źródło zasilania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_FUZZY_LOGIC</Tag><Polish>Logika Rozmyta</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_FUZZY_LOGIC</Tag><Polish>Logika rozmyta</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GARRISON1</Tag><Polish>Miejski Garnizon I</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GARRISON1</Tag><Polish>Garnizon miejski I</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GARRISON2</Tag><Polish>Miejski Garnizon II</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GARRISON2</Tag><Polish>Garnizon miejski II</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GARRISON3</Tag><Polish>Miejski Garnizon III</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GARRISON3</Tag><Polish>Garnizon miejski III</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_GENTLEMEN</Tag><Polish>Dżentelmen</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GLOBAL_AWERENESS</Tag><Polish>Globalna Świadomość</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GLOBAL_AWERENESS</Tag><Polish>Globalna świadomość</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GPS</Tag><Polish>System Globalnego Namierzania</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GPS</Tag><Polish>Globalny system pozycjonowania</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GRAPE_SHOT</Tag><Polish>Szrapnel</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GRAPE_SHOT</Tag><Polish>Kartacze</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_GREAT_GENERAL</Tag><Polish>Dowodzona przez Generała</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_GREAT_GENERAL</Tag><Polish>Dowodzona przez generała</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_GREEKFIRE</Tag><Polish>Ogień grecki</Polish>
         </TEXT>
@@ -28091,7 +28091,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_GUERILLA3</Tag><Polish>Góral III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_HEAL</Tag><Polish>Zdrowie</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_HEAL</Tag><Polish>Leczenie</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_HEALS_ADJACENT_TEXT</Tag><Polish>[ICON_BULLET]Przyspiesza leczenie jednostek na sąsiednich polach o %d1_Heals%%[SPACE]</Polish>
         </TEXT>
@@ -28099,13 +28099,13 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_HEALS_SAME_TEXT</Tag><Polish>[ICON_BULLET]Przyspiesza leczenie jednostek na tym samym polu o %d1_Amount%%[SPACE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_HEAT_SEEKING</Tag><Polish>Namierzanie Ciepła</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_HEAT_SEEKING</Tag><Polish>Naprowadzanie na podczerwień</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_HERMIT</Tag><Polish>Pustelnik</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_HEROIC</Tag><Polish>Heroiczność</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_HILLS_DEFENSE_TEXT</Tag><Polish>[ICON_BULLET]%D1_Bonus%% do obrony wzgórz</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_HILLS_DEFENSE_TEXT</Tag><Polish>[ICON_BULLET]%D1_Bonus%% do obrony na wzgórzach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_HILLS_MOVE_TEXT</Tag><Polish>[ICON_BULLET]Podwaja ruch na wzgórzach</Polish>
         </TEXT>
@@ -28117,11 +28117,11 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_HUNTER3</Tag><Polish>Łowca III</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_IGNORE_TERRAIN_DAMAGE</Tag><Polish>[ICON_BULLET]Pozwala na bezpieczną podróż %s1 bez otrzymywania obrażeń</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_IGNORE_TERRAIN_DAMAGE</Tag><Polish>[ICON_BULLET]Pozwala bezpiecznie przemierzać teren %s1 bez otrzymywania obrażeń</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_IMMUNE_FIRST_STRIKES_TEXT</Tag><Polish>[ICON_BULLET]Odporny na pierwsze uderzenia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_IMPROVED_RADAR</Tag><Polish>Udoskonalony Radar</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_IMPROVED_RADAR</Tag><Polish>Udoskonalony radar</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_IMPROVISE1</Tag><Polish>Improwizacja I</Polish>
         </TEXT>
@@ -28141,9 +28141,9 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_INITIATIVE4</Tag><Polish>Inicjatywa IV</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_INSTIGATE2_TEXT_SPY</Tag><Polish>[ICON_BULLET]+%d1_percent%% do misji wspierania buntów</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_INSTIGATE2_TEXT_SPY</Tag><Polish>[ICON_BULLET]%d1_percent%% premii do buntów w miastach wywoływanych przez misje</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_INSTIGATE_TEXT_SPY</Tag><Polish>[ICON_BULLET]+%d1_percent%% do misji wzbudzania niezadowolenia</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_INSTIGATE_TEXT_SPY</Tag><Polish>[ICON_BULLET]%d1_percent%% premii do niepokojów wywoływanych przez misje</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_INSTIGATOR1</Tag><Polish>Prowokator I</Polish>
         </TEXT>
@@ -28155,7 +28155,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_INTERCEPTION</Tag><Polish>Przechwytywanie I</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_INTERCEPTION1</Tag><Polish>Przechwycanie I</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_INTERCEPTION1</Tag><Polish>Przechwytywanie I</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_INTERCEPTION2</Tag><Polish>Przechwytywanie II</Polish>
         </TEXT>
@@ -28165,7 +28165,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_INTERCEPT_TEXT_SPY_COUNTER</Tag><Polish>[ICON_BULLET]+%d1_percent%% do misji kontrwywiadu</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_JUMP_SETS</Tag><Polish>JetPack</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_JUMP_SETS</Tag><Polish>Plecaki odrzutowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_KAMIKAZE</Tag><Polish>Kamikadze</Polish>
         </TEXT>
@@ -28179,7 +28179,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_LAND_WARRIOR3</Tag><Polish>Piechota III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_LASER_GUIDANCE</Tag><Polish>System Laserowego Naprowadzania</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_LASER_GUIDANCE</Tag><Polish>Naprowadzanie laserowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_LEADERSHIP</Tag><Polish>Przywództwo</Polish>
         </TEXT>
@@ -28191,7 +28191,7 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_LOOTER</Tag><Polish>Grabieżca</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_LOW_ALTITUDE</Tag><Polish>Manewrowanie na Małych Wysokościach</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_LOW_ALTITUDE</Tag><Polish>Manewrowanie na małych wysokościach</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_LOYALTY</Tag><Polish>Lojalny</Polish>
         </TEXT>
@@ -28203,11 +28203,11 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_MANUEVERING2</Tag><Polish>Manewrowanie II</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_MANUEVERING3</Tag><Polish>Manewrowanie II</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_MANUEVERING3</Tag><Polish>Manewrowanie III</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_MARCH</Tag><Polish>Marsz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_MARTIAL_ARTS</Tag><Polish>Sztuka Wojskowa</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_MARTIAL_ARTS</Tag><Polish>Sztuki walki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_MEDIC1</Tag><Polish>Medyk I</Polish>
         </TEXT>
@@ -28235,9 +28235,9 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_MOUNTAINEER</Tag><Polish>Alpinista</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_MOVE_DISCOUNT_TEXT</Tag><Polish>[ICON_BULLET]%D1_Discount do kosztów ruchu</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_MOVE_DISCOUNT_TEXT</Tag><Polish>[ICON_BULLET]%D1_Discount do kosztu ruchu w terenie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_MOVE_TEXT</Tag><Polish>[ICON_BULLET]Zmiana zasięgu ruchu %D1_Change</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_MOVE_TEXT</Tag><Polish>[ICON_BULLET]Zmiana zasięgu ruchu: %D1_Change</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_MUJAHID</Tag><Polish>Mudżahedin</Polish>
         </TEXT>
@@ -28277,17 +28277,17 @@ Powodzenia z twoim nowym Dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_NAVIGATION3</Tag><Polish>Nawigacja III</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_NEUTRAL_LANDS_TEXT</Tag><Polish>Zniszczeń/Turę na neutralnym terenie</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_NEUTRAL_LANDS_TEXT</Tag><Polish>Obrażenia na turę na neutralnym terytorium</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_OFFENSIVE_PROTOCOLS1</Tag><Polish>Protokoły Ofensywne 1.0</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_OFFENSIVE_PROTOCOLS1</Tag><Polish>Protokoły ofensywne 1.0</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_OFFENSIVE_PROTOCOLS2</Tag><Polish>Protokoły Ofensywne 2.0</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_OFFENSIVE_PROTOCOLS2</Tag><Polish>Protokoły ofensywne 2.0</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_OFFENSIVE_PROTOCOLS3</Tag><Polish>Protokoły Ofensywne 3.0</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_OFFENSIVE_PROTOCOLS3</Tag><Polish>Protokoły ofensywne 3.0</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_OLYMPIC</Tag><Polish>Potomek bogów olimpijskich</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_PROMOTION_ONSLAUGHT_TEXT</Tag><Polish>[ICON_BULLET]Jednostka będzie atakować póki nie otrzyma obrażeń</Polish>
+<TEXT><Tag>TXT_KEY_PROMOTION_ONSLAUGHT_TEXT</Tag><Polish>[ICON_BULLET]Pozwala jednostce atakować, dopóki nie otrzyma obrażeń</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROMOTION_OPERATIONS1</Tag><Polish>Operacje I</Polish>
         </TEXT>
@@ -33346,7 +33346,7 @@ Inne wyjaśnienie wskazuje na potrzebę zarządzania przedsięwzięciami infrast
         </TEXT>
 <TEXT><Tag>TXT_KEY_TRADE_VASSAL_STRING</Tag><Polish>Państwo wasalne</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TRADE_VASSAL_TREATY_STRING</Tag><Polish>Wasal (%d1_Num [NUM1:tura:tury])</Polish>
+<TEXT><Tag>TXT_KEY_TRADE_VASSAL_TREATY_STRING</Tag><Polish>Wasalstwo (liczba tur: %d1_Num)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TRADE_WAR_REPARATIONS</Tag><Polish>Reparacje wojenne rekompensują straty spowodowane wojną. To kosztowny sposób naprawienia stosunków między dawnymi wrogami.</Polish>
         </TEXT>
