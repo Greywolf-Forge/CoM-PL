@@ -2,8 +2,8 @@
 
 Gałąź robocza po wydaniu 0.1.1, nie ukończone wydanie 0.2.
 
-Zmieniono 1655 pól Polish. Ukończono bezpośredni przegląd bloków jednostek i dyplomacji, pierwszych pięciu partii interfejsu oraz jednej partii budynków. Łączne pokrycie obu projektów: 2942 z 17613 unikalnych tekstów. Pozostałe bloki nadal wymagają korekty.
+Zmieniono 2252 pól Polish. Bezpośrednio sprawdzono 3741/17613 unikalnych tekstów w obu projektach. Przeczytane partie: buildings-010, diplomacy-001..017, interface-001..015, units-001..030. Następna partia: interface-016.
 
-15/15 testów statycznych i integracyjnych PASS; nie wykonano nowego testu w uruchomionej grze ani natywnego testu Windows.
+17/17 testów statycznych i integracyjnych PASS. Nie wykonano nowego testu gry ani natywnego Windows.
 
-This is work in progress after 0.1.1, not a completed 0.2 release. The unit and diplomacy blocks, the first five interface batches and one building batch have been directly reviewed. Overall linguistic coverage is 2942/17613 unique texts across both projects. Static and integration tests passed (15/15 per project). No new runtime or native Windows test has been performed.
+This is work in progress after 0.1.1, not a completed 0.2 release. Direct linguistic review covers 3741/17613 unique texts across both projects. 17/17 static and integration tests passed for this project. No new runtime or native Windows test has been performed.
