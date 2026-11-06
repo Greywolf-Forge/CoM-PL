@@ -11,14 +11,14 @@
     "TXT_KEY_CIVIC_TRIBALISM_PEDIA": "Chronicles_Civics.xml",
     "TXT_KEY_CITY_NAME_PAIUTE": "Chronicles_CITIES.xml"
   },
-  "sha256": "c08526af59ccb96b4d4b5edc24f7739b0a7dbba1df8c47f48cd18c7e413a36c3",
+  "sha256": "0b5becb718a909b98e023d60f7567a4cbe2f2283dd24636fdace07bd0b9bb10c",
   "windows_native_qa": "not tested for this revision",
   "source_release": "com-pl-v0.1.1-native-plPL",
   "editorial_review": {
     "base_version": "v0.1.1",
     "status": "in_progress",
-    "changed_tags": 8376,
-    "changed_fields": 8376,
+    "changed_tags": 8482,
+    "changed_fields": 8482,
     "full_review_complete": false
   }
 }
