@@ -9607,7 +9607,7 @@ Współcześnie muzą nazywa się również osobę inspirującą artystę, muzyk
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_MYTH_SKY</Tag><Polish>Mit Przestworzy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_MYTH_SKY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Mit o niebie[COLOR_REVERT] zapewnia niewielką ilość handlu i nauki. Można go stworzyć w mieście położonym w pobliżu szczytu i nie można go łączyć z innymi mitami.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_MYTH_SKY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Mit Przestworzy[COLOR_REVERT] zapewnia niewielką premię do przychodów z handlu i badań naukowych. Można go stworzyć w mieście położonym w pobliżu szczytu i nie można go łączyć z innymi mitami.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_MYTH_STRATEGY</Tag><Polish>Mit to opowieść wyjaśniająca zjawisko przyrodnicze, legendę historyczną albo zwyczaj.</Polish>
     </TEXT>
@@ -9623,19 +9623,19 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
 
 25 listopada 2010 roku rząd Indii przyjął ustawę o odtworzeniu dawnej uczelni. Następnie powstał nowy Uniwersytet Nalanda, któremu nadano status „międzynarodowej uczelni o znaczeniu narodowym”.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER</Tag><Polish>Neutralizator nanitów</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER</Tag><Polish>Nanitowy rozbrajacz</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER_HELP</Tag><Polish>[ICON_BULLET]Rozbraja wszystkie arsenały wszystkich cywilizacji (jednorazowy efekt)</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER_HELP</Tag><Polish>[ICON_BULLET]Rozbraja całą broń jądrową wszystkich cywilizacji (jednorazowy efekt)</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER_PEDIA</Tag><Polish>[TAB]Neutralizator nanitów po prostu wyłącza nanity, które nie są już używane.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER_STRATEGY</Tag><Polish>[SPACE]Rozbrajacz nanitowy rozbraja całą broń jądrową wszystkich graczy, zwiększa obronę we wszystkich miastach i zmniejsza zmęczenie wojną u wrogów.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANITE_DEFUSER_STRATEGY</Tag><Polish>[SPACE]Ukończenie Nanitowego rozbrajacza rozbraja całą broń jądrową wszystkich graczy. Budynek zwiększa obronę wszystkich twoich miast oraz znużenie wojną u wrogów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NANITE_LAB</Tag><Polish>Laboratorium Nanitów</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANITE_LAB_STRATEGY</Tag><Polish>[SPACE]Laboratorium nanitowe produkuje nanoboty wymagane do budowy nanofabryki i chmur nanitów.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANITE_LAB_STRATEGY</Tag><Polish>[SPACE]Laboratorium Nanitów produkuje nanoboty, których wymagają nanofabryka i mgła użytkowa.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANITE_POPULATION</Tag><Polish>Wytwórnia Nano Mgły</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANITE_POPULATION</Tag><Polish>Mgła użytkowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NANITE_POPULATION_PEDIA</Tag><Polish>[TAB]Mgła Nanobotów jest zbiorem małych robotów. Pomysł roju nanobotów było szczegółowo opisany już w 1964 roku przez Stanisława Lema w powieści Invincible, i w kilku ostatnich powieści science fiction, takich jak Prey (2002), napisana przez Michaela Crichtona. Kiedy samodzielnego rozmnażanie się jest traktowana jako dodatkowa funkcja tych urządzeń, z możliwością utraty kontroli roju jest w oparciu o post-apokaliptycznym sytuacjach.</Polish>
     </TEXT>
@@ -9647,35 +9647,35 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NANOFACTORY_STRATEGY</Tag><Polish>Nanofabryka zwiększa produkcję miasta.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANO_RESEARCH_DEPARTMENT</Tag><Polish>Instutut Rozwoju Nanotechnologii </Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANO_RESEARCH_DEPARTMENT</Tag><Polish>Instytut Rozwoju Nanotechnologii</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NANO_RESEARCH_DEPARTMENT_STRATEGY</Tag><Polish>[SPACE]Wydział Badań Nanotechnologicznych zwiększa ilość nauki w mieście i produkuje nanorurki.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NANO_RESEARCH_DEPARTMENT_STRATEGY</Tag><Polish>[SPACE]Instytut Rozwoju Nanotechnologii zwiększa liczbę punktów badań naukowych w mieście i produkuje nanorurki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_EPIC</Tag><Polish>Epopeja Narodowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_PEDIA</Tag><Polish>[TAB]Epopeja to poemat heroiczny upamiętniający życie i czyny herosa, albo grupy herosów. Klasycznym przykładem epopei jest "Iliada" oraz "Odyseja" Homera. [PARAGRAPH:1]Epopeja narodowa upamiętnia dokonania całego kraju. Jedną z najwcześniejszych epopei narodowych jest "Szahnama" (Księga Królów), dzieło perskiej literatury klasycznej napisane ok. 1000 r. n.e. Szahnama jest kroniką dziejów Persji od czasów mitologicznej prehistorii, aż do panowania króla Khosrau II (590-628). Dzieło zawiera ponad 60,000 dwuwierszy i z jego lektury wciąż cieszyć się mogą współcześni czytelnicy. [PARAGRAPH:1]Całkiem możliwe, że era epopei narodowych dobiegła końca i w przyszłości podobne dzieła zostaną wyparte przez filmy telewizyjne. Odbyłoby się to z wielką szkodą dla miłośników książki i reszty ludzi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Epopeja Narodowa[COLOR_REVERT] zwiększa tempo narodzin [COLOR_HIGHLIGHT_TEXT]Wielkich Ludzi[COLOR_REVERT], w twoich miastach, a szczególnie [COLOR_UNIT_TEXT]Wielkich Artystów[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_EPIC_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Epopeja Narodowa[COLOR_REVERT] znacznie zwiększa tempo narodzin [COLOR_HIGHLIGHT_TEXT]Wielkich Ludzi[COLOR_REVERT] w mieście, w którym powstała, szczególnie [COLOR_UNIT_TEXT]Wielkich Artystów[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_MINT</Tag><Polish>Mennica Narodowa</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_MINT_HELP</Tag><Polish>Jeśli mennica jest przejęta przez wroga, mogą splądrować 10 krotnie więcej niż normalnie.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_MINT_HELP</Tag><Polish>Jeśli wróg zdobędzie miasto z Mennicą Narodową, otrzyma 10 razy więcej łupów niż zwykle.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_MINT_PEDIA</Tag><Polish>Mennica to zakład zajmujący się produkcją (biciem) monet, medali oraz stempli. Pojęcie mennicy jest z reguły utożsamiane z pojęciem mennicy państwowej mającej monopol na bicie monet obiegowych i medali oraz odznaczeń państwowych.W zależności od formy ustrojowej państwa można też mówić o mennicy królewskiej lub książęcej.Pierwsze znane dziś mennice powstały w VII w. p.n.e. w Azji Mniejszej.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_MINT_STRATEGY</Tag><Polish>Buduj mennice jeśli chcesz mieć dostęp do rzadkich metali</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_MINT_STRATEGY</Tag><Polish>Buduj Mennicę Narodową, gdy masz dostęp do wielu rzadkich metali.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_PARK</Tag><Polish>Park Narodowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_PARK_PEDIA</Tag><Polish>[TAB]Park narodowy to obszar powołany celem ochrony występującej tam przyrody ożywionej (rzadziej np. cech krajobrazu, także kulturowego), na którym prawnie ograniczona jest możliwość prowadzenia działalności gospodarczej, osiedlania się itd.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_PARK_STRATEGY</Tag><Polish>Wybuduj [COLOR_BUILDING_TEXT]Park Narodowy[COLOR_REVERT] jeżeli chcesz wyeliminować punkty choroby w mieście. Zapewnia on również jednego darmowego specjalistę za każdy [COLOR_HIGHLIGHT_TEXT]Rezerwat Przyrody[COLOR_REVERT] znajdujący się w obszarze miasta oraz zwiększa szansę narodzin [COLOR_UNIT_TEXT]Wielkiego Naukowca[COLOR_REVERT] w twoim mieście.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_PARK_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Park Narodowy[COLOR_REVERT] zwiększa zdrowotność i zadowolenie proporcjonalnie do liczby ludności miasta. Zapewnia też jednego darmowego specjalistę za każdy [COLOR_HIGHLIGHT_TEXT]rezerwat przyrody[COLOR_REVERT] w jego zasięgu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_REDOUBT</Tag><Polish>Reduta Narodowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_REDOUBT_PEDIA</Tag><Polish>Państwa od zawsze budowały twierdze i stałe umocnienia z myślą o ewentualnym ostatnim oporze podczas wojny. Zapewniają one jedno silnie strzeżone i ufortyfikowane miejsce, do którego przywódcy wojskowi i polityczni mogą się wycofać z nadzieją utworzenia punktu oporu zbyt trudnego do zdobycia.[PARAGRAPH:2]Jeden z najsłynniejszych przykładów koncepcji reduty narodowej pochodzi z Niemiec ze schyłku II wojny światowej. Niemieckie audycje radiowe mówiły o reducie ukrytej w Alpach Bawarskich, a znaczną część alianckich planów poświęcono neutralizacji tej nieistniejącej reduty zamiast próbom wyprzedzenia Sowietów w wyścigu do Berlina.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_REDOUBT_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Reduta narodowa[COLOR_REVERT] znacznie zwiększa obronę miasta, w którym ją zbudowano, także przed atakami z powietrza i szpiegostwem. Zapewnia też awans [COLOR_HIGHLIGHT_TEXT]Niewykrywalność I[COLOR_REVERT] jednostkom zbudowanym w tym mieście.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_REDOUBT_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Reduta narodowa[COLOR_REVERT] znacznie zwiększa obronę miasta, w którym ją zbudowano, także przed atakami z powietrza i szpiegostwem. Zapewnia też awans [COLOR_HIGHLIGHT_TEXT]Niewidzialność I[COLOR_REVERT] jednostkom szkolonym w tym mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SECURITY</Tag><Polish>Biuro Bezpieczeństwa</Polish>
         </TEXT>
@@ -9683,17 +9683,17 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SECURITY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Biuro Bezpieczeństwa[COLOR_REVERT] zwiększy koszt działania wrogich szpiegów w twoim mieście.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SHIELD</Tag><Polish>Tarcza Anty-Rakietowa</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SHIELD</Tag><Polish>Tarcza narodowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SHIELD_PEDIA</Tag><Polish>[TAB]Tarcza antyrakietowa składa się z osłon nad wszystkimi miastami państwa, a nie z jednej wielkiej tarczy. Chroni przed atakami nuklearnymi i konwencjonalnymi.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SHIELD_STRATEGY</Tag><Polish>[SPACE]Tarcza narodowa zapewnia wszystkim twoim miastom zaawansowaną osłonę i ulepsza wszystkie baterie przeciwrakietowe, arkologie i osłony arkologii do zaawansowanej osłony.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_SHIELD_STRATEGY</Tag><Polish>[SPACE]Tarcza narodowa zapewnia darmową tarczę arkologiczną we wszystkich twoich miastach. Zastępuje ona baterie przeciwrakietowe i arkologie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_TV_STATION</Tag><Polish>Sieć Nadawcza</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_TV_STATION_PEDIA</Tag><Polish>[TAB]Telewizja (TV) to dziedzina telekomunikacji przekazująca ruchomy obraz oraz dźwięk na odległość. W jednym miejscu za pomocą kamery telewizyjnej i mikrofonu rejestruje się sygnał, który następnie jest transmitowany do dowolnego miejsca w zasięgu transmisji. Sygnał odbierany jest przez odbiornik telewizyjny i przetwarzany na obraz oraz dźwięk.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_WONDERS_PER_CITY</Tag><Polish>[COLOR_WARNING_TEXT]Można zbudować tylko %d1_Num cuda narodowe w jednym mieście[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_WONDERS_PER_CITY</Tag><Polish>[COLOR_WARNING_TEXT]Limit cudów narodowych w jednym mieście: %d1_Num[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIONAL_WONDER_ALLOWED</Tag><Polish>[ICON_BULLET]Cud narodowy (dozwolonych: %d1_Num)</Polish>
         </TEXT>
@@ -9703,13 +9703,13 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NATIVE_AMERICA_TOTEM_PEDIA</Tag><Polish>[TAB]Totemy używane do celów sakralnych to czuringa - rzeźbione kawałki drewna lub kamienia przywiązywane do kity z włosów ludzi lub zwierząt. Podczas ceremonii kręcono czuringa w powietrzu, tak że wywoływały one charakterystyczny warkot. Czuringa to największy materialny wyraz sacrum w społecznościach Australii - to, obok rzeczownika, jest również przymiotnik oznaczający: święty. Czuringa jest tabu dla zwykłych ludzi, ma cechy lecznicze, dodaje odwagi i wytrwałości, a u wrogów powoduje strach. Utrata czuringi powoduje klęskę całego klanu. Wg. Spencera i Gillena czuringa to siedziba duszy przodka. Odmianą totemu Czuringa jest nurtunja - pionowy stojak zrobiony z jednej albo kilku włóczni, albo Waninga, występujący tylko u południowych Aruntów, Urabunnów i Loritjów - pionowo zakopana włócznia przecięta jedną lub dwiema poprzeczkami, co nadaje jej wygląd krzyża. Czuringa, Nurtunja i Waninga zawdzięczają swoją świętość wyłącznie emblematowi totemu nań naniesionemu.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NATIVE_AMERICA_TOTEM_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Totem[COLOR_REVERT] (u Indian zastępuje [COLOR_BUILDING_TEXT]Pomnik[COLOR_REVERT]) zapewnia jednostkom łuczniczym dodatkową premię trzech Punktów Doświadczenia obok premii za kulturę.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NATIVE_AMERICA_TOTEM_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Totem[COLOR_REVERT], odpowiednik [COLOR_BUILDING_TEXT]menhiru[COLOR_REVERT] u rdzennych Amerykanów, zapewnia premię do kultury i trzy dodatkowe punkty doświadczenia nowym jednostkom łuczniczym.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NAVAL_ACADEMY</Tag><Polish>Akademia Morska</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NAVAL_ACADEMY_PEDIA</Tag><Polish>[TAB]A naval academy is a place where naval recruits are trained to pilot ships, fire a ship's guns and operate a ship's machinery.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NAVAL_ACADEMY_STRATEGY</Tag><Polish>Akademia Marynarki Wojennej zapewnia doświadczenie oraz awans [COLOR_HIGHLIGHT_TEXT]Nawigacja I[COLOR_REVERT] nowym okrętom.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NAVAL_ACADEMY_STRATEGY</Tag><Polish>Akademia Morska zapewnia nowym okrętom doświadczenie oraz awans [COLOR_HIGHLIGHT_TEXT]Nawigacja I[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NAVAL_YARD</Tag><Polish>Stocznia Marynarki Wojennej</Polish>
         </TEXT>
@@ -9723,19 +9723,19 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NETHERLANDS_DIKE_PEDIA</Tag><Polish>[TAB]Groble to wały z ziemi i kamieni, używane do zatrzymania wody. Często budowane jako zabezpieczenie przed powodziami, groble są znakiem rozpoznawczym Holandii, gdzie znaczące obszary kraju znajdują się pod poziomem morza. W Holandii groble są niezbędne dla przetrwania kraju i ochrony przed zalaniem, mądrze stosowane mogą być elementem strategii obronnej. Podczas oblężenia Leiden w połowie Wojny Osiemdziesięcioletniej, holenderski przywódca Wilhelm Orański rozkazał zamknąć groble dookoła miasta, co poskutkowało zalaniem pozycji oblegających miasto Hiszpanów.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NETHERLANDS_DIKE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Grobla[COLOR_REVERT], zastępuje [COLOR_BUILDING_TEXT]Wały Przeciwpowodziowe[COLOR_REVERT] w miastach holenderskich. Oprócz premii do produkcji za pola z dostępem do rzeki, zapewnia podobną premię wszystkim polom wody. </Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NETHERLANDS_DIKE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Grobla[COLOR_REVERT], holenderski odpowiednik [COLOR_BUILDING_TEXT]wału przeciwpowodziowego[COLOR_REVERT], zwiększa produkcję z użytkowanych przez miasto pól nadrzecznych i wodnych.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NETWORK_NODE</Tag><Polish>Węzeł Sieci Komunikacyjnej</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NEUSCHWANSTEIN_PEDIA</Tag><Polish>Neuschwanstein, Nowy łabędzi Kamień, XIX-wieczny zamek neoromańsko-pseudomauretańsko-neogotycki położony w Bawarii, nad przełomem rzeki Pollak w Alpach Bawarsko-Tyrolskich, na pograniczu Niemiec i Austrii, dwa kilometry od Hohenschwangau.Jego fundatorem był król Ludwik II Bawarski. Pierwsze prace nad budową Neuschwanstein rozpoczęły się 5 września 1869 roku od zbudowania bramy wjazdowej. Następnie wzniesiono część mieszkalną w skład której wchodziły pomieszczenia dla kobiet, wejście boczne i liczne wieże. Na szczególną uwagę zasługują niezwykle dopieszczone przez młodego króla wnętrza. Każda komnata została starannie dopracowana przez malarzy historycznych z całego kraju. Z całego pałacu można wyróżnić Salę Tronową, Sypialnię Króla oraz Salę Śpiewaków. Pierwsza z wymienionych komnat jest niemal w całości wypełniona złotem, podłogę zdobi mozaika. Niestety tron z kości słoniowej, który miał stanąć na podeście nigdy nie trafił do zamku.Sypialnia królewska, w której Ludwik uwielbiał czytać i modlić się została urządzona w stylu neogotyckim. Ściany komnaty zdobione freskami przedstawiającymi jak żyli legendarni Tristan i Izolda. Uwagę w pokoju zwraca wielkie łoże ze zdobieniami na szczycie baldachimu w kształcie katedry. W Sali Śpiewaków odbywały się liczne koncerty muzyki wagnerowskiej. Freski zdobiące salę ukazują życie legendarnego Parsifala. Jest to największa z komnat w całym zamku. Król nie wpuszczał do zamku całego dworu. Jedynie nieliczni wybrańcy mogli podziwiać bizantyjski przepych rezydencji. Astronomiczna suma pieniędzy przeznaczona na budowę zamku oraz dziwne zwyczaje króla na tyle bulwersowały rząd, że postanowił on obalić niewygodnego władcę. 9 czerwca 1886 rząd dojrzał do decyzji o pozbyciu się króla udowadniając mu chorobę psychiczną. Ludwik przebywał w swej sypialni w Neuschwanstein, kiedy do komnaty weszła straż i komisja lekarzy oraz psychologów. Pojmali władcę i kazali podpisać akt abdykacji. W trzy dni po całym zdarzeniu ciało Ludwika II znaleziono w jeziorze Starnberg (wtedy noszącym jeszcze nazwę Würmsee) niedaleko zamku Berg, w którym go umieszczono.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NEUSCHWANSTEIN_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Neuschwanstein[COLOR_REVERT] Rozpoczyna złoty wiek i daje Ci +1 do zadowolenia we wszystkich miastach.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NEUSCHWANSTEIN_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Neuschwanstein[COLOR_REVERT] wydłuża złote ery i przyspiesza narodziny wielkich ludzi w twojej drużynie. Zapewnia także +1 do zadowolenia w miastach drużyny na tym samym kontynencie.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NEWTONS_UNIVERSITY</Tag><Polish>Uczelnia Newtona</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NEWTONS_UNIVERSITY_PEDIA</Tag><Polish>[TAB]Jako pierwszy wykazał, że te same prawa rządzą ruchem ciał na Ziemi jak i ruchem ciał niebieskich. Jego dociekania doprowadziły do rewolucji naukowej i przyjęcia teorii heliocentryzmu. Podał matematyczne uzasadnienie dla praw Keplera i rozszerzył je udowadniając, że orbity (w większości komety) są nie tylko eliptyczne, ale mogą być też hiperboliczne i paraboliczne. Głosił, że światło ma naturę korpuskularną, czyli że składa się z cząstek. Był pierwszym, który zdał sobie sprawę, że widmo barw obserwowane podczas padania białego światła na pryzmat jest cechą padającego światła, a nie pryzmatu, jak głosił 400 lat wcześniej Roger Bacon.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NEWTONS_UNIVERSITY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Uniwersytet Newtona[COLOR_REVERT] znacznie zwiększa ilość nauki w mieście, w którym go zbudowano. Nie można go zbudować w tym samym mieście co Obserwatorium Kopernika lub Warsztat Leonarda.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NEWTONS_UNIVERSITY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Uczelnia Newtona[COLOR_REVERT] znacznie zwiększa liczbę punktów badań naukowych w mieście, w którym powstała. Nie można jej wznieść w mieście, w którym działa Obserwatorium Kopernika lub Pracownia Leonarda.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NHL</Tag><Polish>Narodowa Liga Sportowa</Polish>
         </TEXT>
@@ -9747,17 +9747,17 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NOTRE_DAME_PEDIA</Tag><Polish>[TAB]Notre Dame to potężna katedra stojąca na wyspie Cite, na Sekwanie w Paryżu. Zbudowana w miejscu starego kościoła, który z kolei powstał na rzymskiej świątyni Jowisza, jest wspaniałym przykładem gotyckiej architektury i jedną z najwspanialszych budowli w ogóle. Prace nad katedrą rozpoczęto w 1163 roku i potrwały one prawie dwa wieki. [PARAGRAPH:2]Notre Dame to ogromny gmach złożony z kwadratowych wież, arkad i wysokich iglic. Z zewnątrz ozdobiona jest delikatnymi łukami i posągami świętych i królów. Linię dachu udekorowano figurami gargulców. Wnętrze katedry jest wąskie i długie z kolumnami po obu stronach, podtrzymującymi pięknie wyniesione galerie. Cudowne witraże wpuszczają do środka łagodne światło, które pada na główny ołtarz z wspaniałą rzeźbą Dziewicy Maryi, patronki kościoła, trzymającej w ramionach dzieciątko Jezus.  [PARAGRAPH:2] Katedra doświadczyła w swej historii wiele okresów zaniedbań. Podczas Rewolucji Francuskiej, wiele zabytkowych skarbów zostało ukradzionych, a sam budynek użytkowano jako magazyn. Na początku wieku XIX znajdowała się w tak opłakanym stanie, że miejscy planiści zastanawiali się nad jej całkowitą rozbiórką. Dlatego Wiktor Hugo napisał "Dzwonnika z Notre Dame", aby zwrócić uwagę na jej nieszczęsny los. W 1871 r. podczas krótkiego okresu Paryskiej Komuny, Notre Dame była bliska spalenia. [PARAGRAPH:2] Szczęśliwie katedra wyszła z tych wszystkich opresji obronną ręką i jest teraz w większej części odnowiona i przywrócona do dawnej świetności. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NOTRE_DAME_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Katedra Notre Dame[COLOR_REVERT] zwiększa zadowolenie we wszystkich miastach na kontynencie. Zwiększa również prawdopodobieństwo pojawienia się w mieście [COLOR_UNIT_TEXT]Wielkiego Artysty[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NOTRE_DAME_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Katedra Notre Dame[COLOR_REVERT] zwiększa zadowolenie w miastach twojej drużyny na tym samym kontynencie. Zwiększa również szansę narodzin [COLOR_UNIT_TEXT]Wielkiego Artysty[COLOR_REVERT] w mieście, w którym powstała.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NOT_REQUIRED_TO_BUILD</Tag><Polish>[COLOR_WARNING_TEXT]Nie można zbudować w tym samym mieście co[SPACE][COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NO_ANARCHY</Tag><Polish>[ICON_BULLET]Brak anarchii[NEWLINE][ICON_BULLET]chwilowe czekanie podczas zmiany doktryn lub religii państwowej</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NO_ANARCHY</Tag><Polish>[ICON_BULLET]Brak anarchii[NEWLINE][ICON_BULLET]Minimalny odstęp między zmianami doktryn lub religii państwowej</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NO_ENTRY</Tag><Polish>[ICON_BULLET]Jednostki wroga nie będą mogły zaatakować miasta dopóki obrona nie spadnie do poziomu %d1%</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NO_ENTRY</Tag><Polish>[ICON_BULLET]Jednostki wroga nie będą mogły zaatakować miasta, dopóki obrona nie spadnie do poziomu %d1%</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NO_MAINT_NUM_CITIES</Tag><Polish>[ICON_BULLET]Brak kosztów utrzymania za ilość miast</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NO_MAINT_NUM_CITIES</Tag><Polish>[ICON_BULLET]Brak kosztów utrzymania wynikających z liczby miast</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NO_MAINT_NUM_CITIES_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do kosztów utrzymania za ilość miast</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NO_MAINT_NUM_CITIES_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do kosztów utrzymania wynikających z liczby miast</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NO_POWER</Tag><Polish>[ICON_BULLET]Dostępne tylko w przypadku braku źródła zasilania dla całego kontynentu</Polish>
         </TEXT>
@@ -9771,45 +9771,45 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NUCLEAR_PLANT_PEDIA</Tag><Polish>[TAB]Elektrownie nuklearne wykorzystują materiały promieniotwórcze i proces rozszczepiania jądra atomowego, do wytworzenia ciepła i pary potrzebnych do zasilania generatorów produkujących energię elektryczną. Ponieważ elektrownie nuklearne nie powodują zanieczyszczenia powietrza jakie towarzyszy spalaniu węgla i ropy naftowej, uważa się je za użyteczne, alternatywne źródło energii. Jednak toksyczne odpady reakcji atomowych są problemem samym w sobie. Nie znaleziono dotąd bezpiecznej metody neutralizacji radioaktywnych odpadów, a niestabilność procesu rozszczepiania jąder atomowych może prowadzić do topnienia rdzenia reaktora atomowego, jeśli reakcja nie jest należycie kontrolowana. Z powyższych przyczyn przyszłość energii atomowej jest niepewna.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NUCLEAR_PLANT_STRATEGY</Tag><Polish>Z dostępem do złóż [COLOR_HIGHLIGHT_TEXT]uranu[COLOR_REVERT], [COLOR_BUILDING_TEXT]Elektrownie Nuklearne[COLOR_REVERT] dostarczają energię do [COLOR_BUILDING_TEXT]Fabryk[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NUCLEAR_PLANT_STRATEGY</Tag><Polish>Przy dostępie do [COLOR_HIGHLIGHT_TEXT]uranu[COLOR_REVERT] [COLOR_BUILDING_TEXT]elektrownie nuklearne[COLOR_REVERT] dostarczają energię [COLOR_BUILDING_TEXT]fabrykom[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NUKE_DAMAGE_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do zniszczeń w wyniku użycia pocisków jądrowych</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NUKE_DAMAGE_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do zniszczeń powodowanych przez [LINK=CONCEPT_NUKES]broń jądrową[\LINK]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NUKE_EXPLOSION_CHANCE</Tag><Polish>[ICON_BULLET]Mała szansa na samoistny wybuch</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NUKE_EXPLOSION_CHANCE</Tag><Polish>[ICON_BULLET]Niewielkie ryzyko katastrofy jądrowej</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NUM_PER_CITY</Tag><Polish>[COLOR_WARNING_TEXT]Można zbudować tylko %d1_Num budynków w jednym mieście[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NUM_PER_CITY</Tag><Polish>[COLOR_WARNING_TEXT]Limit budynków w jednym mieście: %d1_Num[COLOR_REVERT]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NUM_TURNS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%d1_Num tur[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NWS</Tag><Polish>Narodowy Serwis Pogodowy</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NWS</Tag><Polish>Narodowa Służba Meteorologiczna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NWS_HELP</Tag><Polish>[ICON_BULLET]Zapobiega losowym wydarzeniom pogodowym</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_NWS_PEDIA</Tag><Polish>Narodowa Służba Pogodowa (NWS) jest jedną z sześciu agencji naukowych tworzących Narodową Administrację Oceaniczną i Atmosferyczną (NOAA) rządu Stanów Zjednoczonych. Jej zadaniem jest dostarczanie „prognoz i ostrzeżeń pogodowych, hydrologicznych oraz klimatycznych dla Stanów Zjednoczonych, ich terytoriów, przyległych wód i obszarów oceanicznych w celu ochrony życia i mienia oraz wspierania gospodarki narodowej”. Realizuje to za pośrednictwem sieci ośrodków krajowych i regionalnych oraz 122 lokalnych biur prognoz pogody (WFO).</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_NWS_STRATEGY</Tag><Polish>Narodowa Służba Meteorologiczna organizuje wszystkie prognozy i modele pogody dla wszystkich pozostałych miast. Zapewni wszystkim istniejącym i nowym jednostkom możliwość wykorzystywania prognoz pogody do poprawy swoich zdolności bojowych, co daje znaczną przewagę w każdej wojnie.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_NWS_STRATEGY</Tag><Polish>Narodowa Służba Meteorologiczna opracowuje prognozy i modele pogody. Zapobiega niekorzystnym losowym wydarzeniom pogodowym i zapewnia awans Zasięg I nowym myśliwcom i bombowcom powstającym w mieście, w którym ją zbudowano.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OBELISK</Tag><Polish>Obelisk</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OBELISK_PEDIA</Tag><Polish>[TAB]Obelisk jest obiektem, która przypomina ludziom o ważnym wydarzeniu na tym obszarze, lub o bardzo ważnej osobie która kiedyś żyła, takich jak sławni generałowie, którzy brodzili we krwi.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OBELISK_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Obeliski[COLOR_REVERT] dają niewielki wzrost kultury, są dobrym sposobem na poszerzanie granic miast we wczesnych fazach rozgrywki.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OBELISK_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Obeliski[COLOR_REVERT] zapewniają niewielki przyrost kultury i są dobrym sposobem na poszerzanie granic miast we wczesnych fazach rozgrywki.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OBSERVATORY</Tag><Polish>Obserwatorium</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OBSERVATORY_PEDIA</Tag><Polish>[TAB]Obserwatorium to miejsce, które pozwala studiować gwiazdy, zazwyczaj przy pomocy teleskopu. Pierwsze obserwatoria były to przeważnie zwykłe budynki z wygodnie umieszczonymi oknami bądź wysokimi platformami; dzisiaj posiadają one specjalne, obracane dachy z wnęką na wielki teleskop. Dzięki możliwości obracania dachu można prowadzić obserwację wybranej części nieba. [PARAGRAPH:1]Położenie obserwatorium determinuje jego możliwości. Smog i inne zanieczyszczenia ograniczają widoczność, obserwacje są utrudnione, kiedy w pobliżu znajdują się inne źródła światła; z tego powodu większość dzisiejszych obserwatoriów buduje się poza obszarami miejskimi. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OBSERVATORY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Obserwatorium[COLOR_REVERT] zwiększa odkrycia naukowe w mieście. Jest również niezbędne do budowy [COLOR_BUILDING_TEXT]Laboratorium[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OBSERVATORY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Obserwatorium[COLOR_REVERT] zwiększa tempo badań naukowych w mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OBSOLETE_EXCEPT</Tag><Polish>[SPACE][COLOR_WARNING_TEXT](z wyjątkiem premii obronnej)[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OBSOLETE_WITH</Tag><Polish>[COLOR_WARNING_TEXT]Przestarzałe z: %s1_TechName[COLOR_REVERT]</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OBSOLETE_WITH</Tag><Polish>[COLOR_WARNING_TEXT]Staje się przestarzałe po odkryciu: [LINK=literal]%s1_TechName[\LINK][COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OCCUPATION_TIME</Tag><Polish>[ICON_BULLET]Mieszkańcy będą się buntować wobec wrogich zdobywców %d1% dłużej</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OCCUPATION_TIME</Tag><Polish>[ICON_BULLET]Mieszkańcy będą się buntować przeciw wrogim zdobywcom o %d1% dłużej</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OHEL_PEDIA</Tag><Polish>Ohel, w liczbie mnogiej ohelim, dosłownie „namiot”, to budowla otaczająca żydowski grób i podkreślająca znaczenie zmarłego. Ohele wznosi się nad grobami niektórych rebe chasydzkich, wybitnych rabinów, cadyków, ważnych przywódców społeczności i postaci biblijnych. Zwykle jest to niewielki murowany budynek, w którym odwiedzający mogą się modlić, rozmyślać i zapalać świece ku czci zmarłego.</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OIL_PLANT</Tag><Polish>Elektrownia Olejowa</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OIL_PLANT</Tag><Polish>Elektrownia naftowa</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OIL_PLANT_PEDIA</Tag><Polish>[TAB]Brak opisu w Cywilopedii</Polish>
         </TEXT>
@@ -9827,13 +9827,13 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OLYMPIC_GAMES_PEDIA</Tag><Polish>[TAB]Igrzyska olimpijskie to najstarsza międzynarodowa impreza sportowa organizowana co 4 lata w różnych krajach, pod hasłem szlachetnego współzawodnictwa i braterstwa wszystkich narodów Międzynarodowego Komitetu Olimpijskiego. Pierwsze igrzyska olimpijskie odbywały się w Olimpii w Grecji i były rozgrywane co cztery lata. Pierwsze udokumentowane igrzyska odbyły się w roku 776 p.n.e. Na czas igrzysk olimpijskich zaprzestawano wojen. Podczas trwania jakichś konfliktów ogłaszano "święty rozejm" i wojny wstrzymywane były na 2 miesiące. Przez pięć dni trwały igrzyska, a reszta była przeznaczona na wyruszenie i powrót z igrzysk przez widzów i zawodników. Pierwszym etapem uroczystości, jeszcze przed rozpoczęciem igrzysk było złożenie przysięgi przed posągiem Zeusa. Mięso dzika cięto na kawałki, rozsypywano albo rozkładano przed posągiem i każdy z uczestników, wraz z ojcem i swymi braćmi składał przysięgę, że nie dopuści się żadnego oszustwa na zawodach, co potwierdzali drugą przysięgą, w której mówili, że ściśle przykładali się do ćwiczeń przez poprzednie 46 miesięcy. Oficjalnie otrzymywało się nagrodę w postaci wieńca z gałązek oliwnych, lecz nagradzany był tylko zwycięzca. Zawodnik, który wygrał igrzyska, stawał się sławny i otrzymywał tytuł olimpionika. W jego rodzinnym mieście stawiano pomniki na jego cześć i pisano wiersze. W murze miasta wygranego zawodnika robiono dziurę, przez którą wchodził zwycięzca witany przez mieszkańców. Oznaczało to, że miasto nikogo już się nie obawia, ponieważ ma takiego obrońcę. Zwycięzca otrzymywał również nagrody materialne, ale nie dawane oficjalnie. Z czasem, oprócz wieńca z gałązek oliwnych, otrzymywano pieniądze i przedmioty wartościowe. Sławę zdobywało całe miasto, a nie tylko wygrany. Kary olimpijskie były bardzo surowe. Zawodnik, który dopuścił się oszustwa, zmuszony był postawić pomnik Zeusowi, na którym wyryto jego imię i nazwisko oraz występek, którego się dopuścił. Najpopularniejszym z oszustów jest Ateńczyk Kalliopos, który przekupił swoich niedoszłych przeciwników. Cała sprawa wyszła na jaw. Ateńczyk i inni musieli postawić pomniki dla Zeusa. Ateńczycy przestali brać udział w igrzyskach, bóg Delficki powiedział, że dopóki nie zaczną ponownie brać udziału, dopóty nie da im przepowiedni. Najstarszą dyscypliną starożytnych Igrzysk był bieg krótki na dystansie jednego stadionu. Początkowo długość tego biegu nie była wyraźnie określona, dopiero od 6 Igrzysk dystans ustalono na 600 stóp, to jest 192,67 m. W konkurencji tej wymagano od zawodników nienagannej postawy i odpowiedniego układu ciała w czasie biegu. Zwracano uwagę przede wszystkim na długi krok, silną pracę ramion wysuniętych do przodu i lekko pochylony tułów. Kolejną olimpijską dyscypliną był diaulos - bieg średni, który rozegrano go po raz pierwszy na 14 Igrzyskach. Diaulos równał się dystansowi dwóch stadionów (385,34 m). Zawodnik pokonywał linię mety i wracał do punktu startu tą samą bieżnią. Na piętnastych z kolei Igrzyskach wprowadzono nową konkurencję - dolichos, czyli bieg długi. Rozgrywano go prawdopodobnie na długości 24 stadionów. Za pierwszego zwycięzcę uznaje się Akantosa ze Sparty. Inny Spartanin, Ladas, w czasie 85 Igrzysk zwyciężył, jednak po pokonaniu mety padł na ziemię i skonał. Na 18 igrzyskach do nieustannie poszerzanego zestawu konkurencji dołączono zapasy. Walki w tej dyscyplinie były jednak bardziej zbliżone formą do współczesnego wrestlingu aniżeli znanych nam zapasów w stylu wolnym czy klasycznym. Dozwolone było podstawianie nogi, wyłamywanie palców a nawet szarpanie za nos czy wargi. Zwycięstwo osiągano po trzykrotnym powaleniu przeciwnika na ziemię. Nie obowiązywał podział na kategorie wiekowe czy wagowe. Dopiero w późniejszym czasie wyróżniono także zapasy chłopców. Od 18 Igrzysk rozgrywano pentathlon - pięciobój. W jego skład wchodziły: rzut oszczepem (wykonanym z drewna świerkowego bądź jesionu o długości w granicach ludzkiego wzrostu), rzut dyskiem (dyskobole stali na specjalnym podeście zwanym balbis, skąd oddawali rzuty), skok w dal, bieg na dystansie jednego stadionu i zapasy. W czasie Igrzysk 23 Olimpiady pojawiła się walka na pięści, która z czasem stała się najbardziej krwawym widowiskiem zawodów. Poddający się unosił rękę i palec wskazujący ku górze lub uderzał zawodnika w bark. Na ten znak przerywano walkę. Na 25 Igrzyskach wprowadzono wyścigi rydwanów powożonych przez właścicieli zaprzęgów. W tej konkurencji startowali tylko najbardziej zamożni, gdyż utrzymanie koni było niezwykle kosztowne. Dopiero wiele lat później pojawiły się wyścigi biedniejszych, np. wozów zaprzężonych w muły. Do programu 33 Olimpiady, ku uciesze widowni, dołączono pankration, skrzyżowanie zapasów i walki na pięści. Zawodnicy mieli prawo stosować wszystkie chwyty i uderzenia, wyłamywać palce, ręce, stopy, gryźć, wykłuwać palcami oczy czy łamać nosy. Zwycięstwo osiągano przez poddanie się przeciwnika. Od 65 Igrzysk w 520 r. p.n.e. rozgrywano hoplites, czyli bieg w uzbrojeniu. Początkowo biegano z pełnym ekwipunkiem wojskowym, w hełmie, z włócznią, tarczą i w nagolennikach. Później stopniowo ograniczano uzbrojenie, rezygnując kolejno z nagolenników, włóczni, hełmu, by wreszcie bieg odbywał się z samą tylko tarczą. Pokonywano odległość równą dwóm stadionom. Najczęściej to właśnie hoplites był ostatnią dyscypliną Igrzysk. W późniejszych latach dodawano kolejne konkurencje, wśród nich zawody poetów i trębaczy.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OLYMPIC_GAMES_STRATEGY</Tag><Polish>Igrzyska Olimpijskie zapewniają darmową arenę we wszystkich miastach oraz zwiększają kulturę i zadowolenie w mieście, w którym je zbudowano.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OLYMPIC_GAMES_STRATEGY</Tag><Polish>Igrzyska Olimpijskie zapewniają darmowe areny we wszystkich miastach twojej drużyny oraz zwiększają kulturę i całkowicie usuwają niezadowolenie w mieście, w którym je zbudowano.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OMNIFACTORY</Tag><Polish>Omnifabryka</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OMNIFACTORY_PEDIA</Tag><Polish>Omnifabryka to zrobotyzowany zakład zdolny wytwarzać niemal wszystko. Dzięki nanobotom i replikatorom tworzy podzespoły oraz gotowe produkty, budując je od poziomu atomowego.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OMNIFACTORY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Omnifabryka[COLOR_REVERT] to budynek ustroju [COLOR_HIGHLIGHT_TEXT]Gospodarka postniedoboru[COLOR_REVERT]. Zastępuje niemal wszystkie wcześniejsze budynki produkcyjne i zapewnia dodatkowe jednostki wielu wytwarzanych zasobów.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OMNIFACTORY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Omnifabryka[COLOR_REVERT] zastępuje wiele wcześniejszych budynków produkcyjnych i zapewnia dodatkowe jednostki wielu wytwarzanych zasobów.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OPERA_HOUSE</Tag><Polish>Opera</Polish>
         </TEXT>
@@ -9845,7 +9845,7 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_ORACLE_PEDIA</Tag><Polish>[TAB]W starożytnej kulturze greckiej wyrocznią mógł być kapłan lub kapłanka, przez których przemawiali bogowie w odpowiedzi na zadane pytania. Wyrocznia interpretowała sny, postępowanie osób znajdujących się w transie i fizyczne znaki znalezione we wnętrznościach zwierząt. Najsłynniejsza wyrocznia znajdowała się w świątyni Apollina w Delfach położonej na zboczu Parnasu. Grecy, Rzymianie i inne ludy przez stulecia konsultowały z wyrocznią sprawy polityczne i państwowe. Kapłanka zwana Pytią za opłatą przewidywała przyszłość. Jej wygłaszane w transie proroctwa słynęły z wieloznaczności.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_ORACLE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wyrocznia[COLOR_REVERT] zapewnia budującemu jedną darmową technologię, zwiększa również prawdopodobieństwo pojawienia się w mieście [COLOR_UNIT_TEXT]Wielkiego Artysty[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_ORACLE_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Wyrocznia[COLOR_REVERT] zapewnia budującemu jedną darmową technologię i zwiększa szansę na narodziny [COLOR_UNIT_TEXT]Wielkiego Proroka[COLOR_REVERT] w tym mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_ORBITAL_FACTORY</Tag><Polish>Fabryka Orbitalna</Polish>
         </TEXT>
@@ -9857,13 +9857,13 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_ORBITAL_HOTEL_PEDIA</Tag><Polish>[TAB]Hotel orbitalny pozwala kosmicznym turystom spędzić noc w kosmosie, jeśli chcą wrócić do atmosfery dopiero jutro albo po prostu potrzebują odpoczynku.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_ORBITAL_HOTEL_STRATEGY</Tag><Polish>[SPACE]Hotel orbitalny zwiększa zadowolenie i dochody z handlu we wszystkich Twoich miastach. Zapewnia też dodatkowe dochody z handlu i kulturę w mieście, w którym został zbudowany.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_ORBITAL_HOTEL_STRATEGY</Tag><Polish>[SPACE]Hotel orbitalny zwiększa dochody w złocie we wszystkich twoich miastach oraz zadowolenie zapewniane przez bazy kosmiczne i gwiezdne. W mieście, w którym go zbudowano, zapewnia dodatkowe złoto i kulturę oraz zadowolenie zależne od wydatków na kulturę.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OTTOMAN_HAMMAM</Tag><Polish>Hammam</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OTTOMAN_HAMMAM_PEDIA</Tag><Polish>Czystość była niezwykle ważna dla kultury Osmańskiej. Przed powstaniem nowoczesnej sieci kanalizacyjnej, Ottomani konstruowali w ich najważniejszych miastach społeczne łaźnie "hammamy". We wcześniejszych latach wiele z nich było przyłączone do meczetów - rytualne ośrodki higieny odgrywały dużą role w religii osmańskiej. W późniejszym okresie budowano je jako oddzielne budynki a nawet ogromne kompleksy budowlane z wieloma łaźniami. Osmańskie hammamy były wzorowane na ich rzymskich i bizantyjskich wzorcach, składały się z trzech głównych pomieszczeń: "gorącego" pokoju, z pokoju o umiarkowanej temperaturze oraz z "chłodnego" pokoju. Do hammamu mogli uczęszczać zarówno kobiety jak i mężczyźni lecz ich kąpiele odbywały się osobno.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OTTOMAN_HAMMAM_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Hammam[COLOR_REVERT], osmański odpowiednik [COLOR_BUILDING_TEXT]Akweduktu[COLOR_REVERT], podnosi poziom zdrowia i zadowolenia w mieście. Wybuduj [COLOR_BUILDING_TEXT]Hammam[COLOR_REVERT] jeśli chcesz by twoje miasto rozrastało się, lub jeśli jego ludność zaczyna się o niego upominać.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OTTOMAN_HAMMAM_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Hammam[COLOR_REVERT], osmański odpowiednik [COLOR_BUILDING_TEXT]akweduktu[COLOR_REVERT], podnosi poziom zdrowia i zadowolenia w mieście. Zbuduj [COLOR_BUILDING_TEXT]hammam[COLOR_REVERT], jeśli chcesz rozwijać miasto lub gdy jego mieszkańcy zaczynają się go domagać.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OUTPOST</Tag><Polish>Strażnica</Polish>
 	</TEXT>
@@ -9873,21 +9873,21 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OXFORD_UNIVERSITY_PEDIA</Tag><Polish>[TAB]Uniwersytet Oksfordzki jest najstarszym anglojęzycznym uniwersytetem w świecie i zalicza się do najbardziej cenionych. Dokładna data założenia nie jest znana, ale uczeni wierzą, że stało się to około 1100 r. n.e. [PARAGRAPH:1]Na Oksford składa się 39 kolegiów i siedem "stałych sal prywatnych" (są to organizacje religijne). Każdy mieści się w oddzielnym budynku zazwyczaj zbudowanym na planie kwadratu z wewnętrznym dziedzińcem. Kolegia składają się z sali głównej, kaplicy, biblioteki, baru, sal wspólnych, sal zajęć oraz pokoi dla około 300 studentów. Zbudowane w roku 1250 Balliol i Merton należą do najstarszych. [PARAGRAPH:1] Przez większą część swego istnienia Oksford należał do największych uniwersytetów świata i tak zostało do dzisiaj. Wiele słynnych ludzi przemierzało jego sale, m.in. czterech angielskich i osiem zagranicznych królów, ponad 50 prezydentów i premierów (włączając w to prezydenta Stanów Zjednoczonych Williama Clintona), 47 zdobywców nagrody Nobla oraz jeden papież. </Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_OXFORD_UNIVERSITY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Uniwersytet Oksfordzki[COLOR_REVERT] znacznie zwiększa produkcję naukową w mieście. Pozwala również na wyznaczenie 3 obywateli jako naukowców oraz zwiększa prawdopodobieństwo narodzenia się w mieście [COLOR_UNIT_TEXT]Wielkiego Naukowca[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_OXFORD_UNIVERSITY_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Uniwersytet Oksfordzki[COLOR_REVERT] znacznie zwiększa tempo badań naukowych w mieście. Pozwala również zatrudnić 3 naukowców oraz zwiększa szansę na narodziny [COLOR_UNIT_TEXT]Wielkiego Naukowca[COLOR_REVERT] w tym mieście.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_OYSTER_WORLD_RESTAURANT</Tag><Polish>Restauracja Oyster World</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PAINTER</Tag><Polish>Warsztat Malarza</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PAINTER</Tag><Polish>Pracownia malarza</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PAINTER_PEDIA</Tag><Polish>Malarstwo od wieków służy utrwalaniu wyglądu osób, scen i innych tematów. W renesansie poczyniono wielkie postępy w realizmie oraz szczegółowości, przedstawiając różne tematy możliwie najwierniej. Rozwój fotografii doprowadził do zróżnicowania malarstwa portretowego, ponieważ aparat mógł konkurować z prostymi portretami.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PAINTER_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Warsztat malarza[COLOR_REVERT] zapewnia niewielką ilość złota i kultury oraz miejsce dla jednego specjalisty artysty.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PAINTER_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Pracownia malarza[COLOR_REVERT] zapewnia niewielką ilość złota i kultury oraz miejsce dla jednego artysty.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PALACE</Tag><Polish>Pałac</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PALACE_PEDIA</Tag><Polish>[TAB]Gdy społeczności zaczęły organizować się w miasta, rządy stały się bardziej złożone i sformalizowane. Początkowo władca miasta tworzył siedzibę główną, z której zarządzał miastem. Najczęściej siedziby władców były zarazem ich domem mieszkalnym. W bogatych miastach często przekształcały się one w olbrzymie pałace. Bogato zdobione i imponujące siedziby władców były źródłem dumy obywateli i wzmagały aurę potęgi otaczającej władcę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PALACE_STRATEGY</Tag><Polish>Miasto w którym znajduje się [COLOR_BUILDING_TEXT]Pałac[COLOR_REVERT] jest stolicą twojej cywilizacji. Miasta znajdujące się blisko stolicy mają obniżone koszty utrzymania. [COLOR_BUILDING_TEXT]Pałac[COLOR_REVERT] generuje kulturę oraz niewielką ilość dochodów z handlu.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PALACE_STRATEGY</Tag><Polish>Miasto, w którym znajduje się [COLOR_BUILDING_TEXT]Pałac[COLOR_REVERT], jest stolicą twojej cywilizacji. Miasta położone blisko stolicy mają obniżone koszty utrzymania. [COLOR_BUILDING_TEXT]Pałac[COLOR_REVERT] zapewnia kulturę oraz niewielkie dochody z handlu.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PALISADE</Tag><Polish>Palisada</Polish>
         </TEXT>
@@ -9897,7 +9897,7 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PANTEON_HELP</Tag><Polish>[ICON_BULLET][COLOR_CYAN]Panteon[COLOR_REVERT]</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PAPERMILL</Tag><Polish>Wytwórnia Papieru</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PAPERMILL</Tag><Polish>Papiernia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PAPERMILL_PEDIA</Tag><Polish>Papiernie to zakłady wytwarzające papier z włókien roślinnych pozyskiwanych z tkanin lub drewna. Najsprawniejsze papiernie rozwinęły się pod koniec 13. wieku i wykorzystywały wodę do napędzania maszyn. Składały się z dwóch głównych części: zakładu przetwarzającego surowiec roślinny na masę papierniczą oraz właściwej papierni, w której z masy tej powstawał papier. To przygotowywanie masy odpowiadało za większość zapachów i hałasu kojarzonych z papierniami.</Polish>
     </TEXT>
@@ -9915,7 +9915,7 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PARK_ARCOLOGY_PEDIA</Tag><Polish>[TAB]W obliczu wzrostu liczby ludności ekotopie uznały, że również muszą budować arkologie, lecz starannie dbały o to, aby nie szkodzić środowisku. Ich arkologie projektowano jako całkowicie samowystarczalne i niewytwarzające zanieczyszczeń, co wymagało od mieszkańców uprawiania własnej żywności, szycia własnych ubrań i pozyskiwania własnej energii ze źródeł naturalnych.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PARK_ARCOLOGY_STRATEGY</Tag><Polish>Dodaje kulturę, redukuje złoto, i eliminuje chorobę z budynków.  Wymaga doktryny Raj.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PARK_ARCOLOGY_STRATEGY</Tag><Polish>Zapewnia niewielką premię do kultury, zmniejsza dochody w złocie i usuwa niezdrowotność wynikającą z liczby ludności. Wymaga utrzymywania ustroju Raj.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PARTHENON</Tag><Polish>Partenon</Polish>
         </TEXT>
@@ -9927,7 +9927,7 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PAVED_ROADS_PEDIA</Tag><Polish>[TAB]Nawierzchnia drogowa to trwała warstwa materiału ułożona na terenie przeznaczonym do ruchu pojazdów lub pieszych, takim jak droga czy chodnik. Dawniej powszechnie stosowano otoczaki i kostkę granitową, lecz w większości zastąpiły je asfalt i beton. Na nawierzchni często umieszcza się oznakowanie kierujące ruchem. Na drogach i ciągach pieszych o niewielkim obciążeniu zaczyna się również stosować rozwiązania przepuszczające wodę.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PAVED_ROADS_STRATEGY</Tag><Polish>Zwiększa ilość szlaków handlowych o 1 w mieście oraz zwiększa dochód ze szlaków.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PAVED_ROADS_STRATEGY</Tag><Polish>Zwiększa liczbę szlaków handlowych w mieście o 1 oraz dochody z tych szlaków.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PEACE_MOVEMENT</Tag><Polish>Ruch pokojowy</Polish>
         </TEXT>
@@ -9939,7 +9939,7 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
 	</TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PENTAGON_PEDIA</Tag><Polish>[TAB]Pentagon jest największym istniejącym kompleksem biurowym. Jego budowa zakończyła się po zaledwie 16 miesiącach, 15 stycznia 1943 roku, w szczytowym momencie II Wojny Światowej. Warta 83 miliony dolarów inwestycja, liczy sobie blisko 600 tysięcy metrów kwadratowych, czyli około trzy razy więcej niż Sears Tower w Chicago (drugi co do wielkości kompleks biurowy świata). Początkowo Pentagon należał do wojsk lądowych, by z czasem stać się centrum dowodzenia wszystkich formacji wojskowych Stanów Zjednoczonych.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PENTAGON_STRATEGY</Tag><Polish>Raz wybudowany [COLOR_BUILDING_TEXT]Pentagon[COLOR_REVERT] daje wszystkim twoim jednostkom dodatkowe dwa punkty doświadczenia i zwiększa szanse na wygenerowanie [COLOR_UNIT_TEXT]Wielkiego Szpiega[COLOR_REVERT] w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PENTAGON_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Pentagon[COLOR_REVERT] zapewnia nowo szkolonym jednostkom w miastach twojej drużyny dwa dodatkowe punkty doświadczenia i zwiększa szansę na narodziny [COLOR_UNIT_TEXT]Wielkiego Szpiega[COLOR_REVERT] w mieście, w którym go zbudowano.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PEN_PEDIA</Tag><Polish>Zagroda dla zwierząt może przybierać różne formy i mieścić jedno zwierzę lub wiele sztuk. Konstrukcja oraz nazewnictwo zależą od regionu świata, przeznaczenia, gatunku hodowanych zwierząt, dostępnych materiałów i miejscowej tradycji. Grodzenie w tym znaczeniu polega na zamykaniu zwierząt na wydzielonym, ogrodzonym terenie.</Polish>
 	</TEXT>
@@ -9959,15 +9959,15 @@ Nalandę niszczono trzy razy, lecz odbudowano tylko dwukrotnie. Około 1200 roku
     </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PERSIAN_SATRAP_STRATEGY</Tag><Polish>[COLOR_BUILDING_TEXT]Satrapa[COLOR_REVERT] to perski odpowiednik [COLOR_BUILDING_TEXT]sądu[COLOR_REVERT]. Nie tylko zmniejsza koszty utrzymania miasta, ale też zwiększa zadowolenie, pozwalając stworzyć większe i bardziej wydajne imperium.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PERSONAL_RAPID_TRAIN</Tag><Polish>Szybki Pociąg Osobowy</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PERSONAL_RAPID_TRAIN</Tag><Polish>Indywidualny szybki transport szynowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PERSONAL_RAPID_TRAIN_PEDIA</Tag><Polish>[TAB]Szybki pociąg osobowy dociera do wyznaczonych przystanków bez opóźnień powodowanych natężeniem ruchu. Automatyzacja ruchu ogranicza takie opóźnienia, ale nie usuwa ich całkowicie.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PERSONAL_RAPID_TRAIN_STRATEGY</Tag><Polish>Indywidualny szybki transport szynowy zwiększa zdrowotność i zadowolenie w mieście.</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PERSONAL_RAPID_TRAIN_STRATEGY</Tag><Polish>Indywidualny szybki transport szynowy zapewnia jednego darmowego specjalistę za każde przypisane do miasta pole z wioską, miasteczkiem, przedmieściem, wioską rybacką, miasteczkiem rybackim lub podwodnym miasteczkiem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PER_CITY_WITH</Tag><Polish>[SPACE]na miasto z: %F1_RelIcon</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_BUILDING_PER_LEVEL</Tag><Polish>[ICON_BULLET]+1%F1_HappyOrUn na %d2_Percent%% %F3_CommIcon</Polish>
+<TEXT><Tag>TXT_KEY_BUILDING_PER_LEVEL</Tag><Polish>[ICON_BULLET]+1%F1_HappyOrUn za każde %d2_Percent%% przychodów z handlu przeznaczone na %F3_CommIcon</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_BUILDING_PER_SPECIALIST_ALL_CITIES</Tag><Polish>[SPACE]na Specjalistę we wszystkich miastach</Polish>
         </TEXT>
@@ -14457,7 +14457,7 @@ Czasem stosuje się węższą definicję tradycji ustnej. Socjologowie mogą pod
     </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PAGANISM</Tag><Polish>Pogaństwo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_CIVIC_PAGANISM_PEDIA</Tag><Polish>[TAB]Pogaństwo określa religie, które wierzą raczej w świętość wszelkich rzeczy otaczających człowieka - skał, drzew, zwierząt, chmur itp., niż świętość określonych postaci czy idei. [PARAGRAPH:2]Poganie starają się żyć w zgodzie z naturą, która ich otacza.Nie próbują oni zjednać sobie odległego bóstwa, bądź ich całej hierarchii, które miałyby kontrolować jego przeznaczenie. Dla pogan bogowie są zawsze dookoła niego, w zasięgu wzroku. </Polish>
+<TEXT><Tag>TXT_KEY_CIVIC_PAGANISM_PEDIA</Tag><Polish>[TAB]W tym ujęciu pogaństwo oznacza religie uznające świętość wszystkiego, co otacza człowieka: skał, drzew, zwierząt, chmur i innych rzeczy, zamiast konkretnych idei lub istot. Poganie wierzą w wielu bogów, którzy są wszędzie wokół nich i sprawiają, że słońce zachodzi, chleb wyrasta, a polowanie się udaje. [PARAGRAPH:2]Poganin stara się żyć w harmonii z otaczającą go naturą. Nie próbuje zjednać sobie odległego bóstwa ani hierarchii bóstw kierujących jego losem. Dla poganina bogowie są zawsze wokół niego, każdego dnia w zasięgu wzroku.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PAGANISM_STRATEGY</Tag><Polish>Najbardziej prymitywna doktryna religijna; zmniejsza znużenie wojną.</Polish>
         </TEXT>
@@ -14465,7 +14465,7 @@ Czasem stosuje się węższą definicję tradycji ustnej. Socjologowie mogą pod
 	</TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PALACE_ECONOMY_PEDIA</Tag><Polish>Gospodarka pałacowa, zwana też gospodarką redystrybucyjną, jest systemem, w którym znaczna część bogactwa trafia pod kontrolę scentralizowanej administracji, czyli pałacu, a następnie jest rozdzielana wśród ludności. Mieszkańcy mogą mieć własne źródła dochodu, ale w dużym stopniu zależą od dóbr przydzielanych przez pałac.
 
-Idea systemu redystrybucyjnego jest co najmniej tak stara jak pojęcie faraona, którego nazwa oznacza „wielki dom” i odnosi się do królewskiego pałacu. Znacznie później Nowy Testament opisywał wczesne wspólnoty chrześcijańskie oddające cały majątek patriarsze, który zwracał ich członkom to, czego potrzebowali do życia. Ponieważ nie istniał tu pałac w dosłownym znaczeniu, system przypominał równie dawną gospodarkę darów. Antropolodzy odnotowali wiele podobnych rozwiązań: od plemion wspólnie zaspokajających podstawowe potrzeby po złożone cywilizacje, takie jak Inkowie, którzy przydzielali poszczególnym wsiom określone dziedziny produkcji. Istotą systemu jest planowanie wytwórczości przez centralną administrację, wyznaczanie grup ludności do jej prowadzenia, gromadzenie powstałych dóbr i usług, a następnie rozdzielanie ich wśród producentów.
+Idea systemu redystrybucyjnego jest co najmniej tak stara jak pojęcie faraona, którego nazwa oznacza „wielki dom” i odnosi się do królewskiego pałacu. Znacznie później Nowy Testament opisywał wczesną wspólnotę chrześcijańską, której członkowie składali u stóp apostołów pieniądze ze sprzedaży posiadłości, a następnie rozdzielano je według potrzeb. Ponieważ nie istniał tu pałac w dosłownym znaczeniu, system przypominał równie dawną gospodarkę darów. Antropolodzy odnotowali wiele podobnych rozwiązań: od plemion wspólnie zaspokajających podstawowe potrzeby po złożone cywilizacje, takie jak Inkowie, którzy przydzielali poszczególnym wsiom określone dziedziny produkcji. Istotą systemu jest planowanie wytwórczości przez centralną administrację, wyznaczanie grup ludności do jej prowadzenia, gromadzenie powstałych dóbr i usług, a następnie rozdzielanie ich wśród producentów.
 
 Gospodarka pałacowa stanowi szczególny rodzaj redystrybucji, w którym działalność gospodarcza cywilizacji odbywa się na terenie centralnych zespołów administracyjnych lub w ich pobliżu, przy pałacach monarchów absolutnych. Administracja dostarcza producentom środki potrzebne do wytwarzania kolejnych dóbr i usług, uznawanych za własność władcy. Zazwyczaj nie jest to przedsięwzięcie altruistyczne. Pałac interesuje przede wszystkim tworzenie majątku, którym król może swobodnie rozporządzać. Część przeznacza się na handel i wymianę z zyskiem, a część inwestuje w nowe ośrodki, warsztaty, wojny traktowane jako przedsięwzięcia przynoszące dochód, korzystne sojusze, floty i panowanie na morzu.</Polish>
 	</TEXT>
@@ -14473,13 +14473,13 @@ Gospodarka pałacowa stanowi szczególny rodzaj redystrybucji, w którym działa
 	</TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PARADISE</Tag><Polish>Raj</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_CIVIC_PARADISE_PEDIA</Tag><Polish>Raj jest rządami, które skupiają powrót do natury, utrzymując technologię.  Użycie wysokich technologii jest wskazane, by zmniejszyć skażenie i utrzymać wysoki standard życia.  Raj jest podatny na wojnę, bierz to pod uwagę bo to największy wróg środowiska.</Polish>
+<TEXT><Tag>TXT_KEY_CIVIC_PARADISE_PEDIA</Tag><Polish>Doktryna Raju łączy dążenie do powrotu do natury z zachowaniem osiągnięć techniki. Zaawansowane technologie służą ograniczaniu zanieczyszczeń przy utrzymaniu wysokiego poziomu życia. Takie społeczeństwo jest szczególnie wrażliwe na wojnę, którą uznaje za największe zagrożenie dla środowiska.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PARADISE_STRATEGY</Tag><Polish>Raj oznacza brak tradycyjnych chorób, pracy i potrzeb oraz doskonałą harmonię między człowiekiem a jego środowiskiem.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PARLIAMENT</Tag><Polish>Parlament</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_CIVIC_PARLIAMENT_PEDIA</Tag><Polish>Parlament - w państwach o demokratycznych systemach władzy, jest to najwyższy organ przedstawicielski, a jednocześnie zasadniczy organ władzy ustawodawczej. Parlament - w myśl Monteskiuszowskiej teorii podziału władzy - jest jednym z trzech pionów władzy państwowej i w żaden sposób nie jest ważniejszy od dwóch pozostałych. W systemach parlamentarno-gabinetowych (np. Polska) parlament jest najwyższym organem władzy państwowej. Z kolei w państwach realnego socjalizmu, parlamenty w mniejszym lub większym zakresie były kontrolowane przez partie komunistyczne. Pozycja parlamentu na przestrzeni dziejów zmieniała się. Wraz z przechodzeniem z monarchii przez monarchię konstytucyjną do parlamentarnej zauważany był wzrost roli parlamentu. Jednak w pierwszej połowie XX wieku dostrzegane jest osłabianie organu przedstawicielskiego na rzecz władzy wykonawczej.</Polish>
+<TEXT><Tag>TXT_KEY_CIVIC_PARLIAMENT_PEDIA</Tag><Polish>Parlament jest organem ustawodawczym, szczególnie charakterystycznym dla państw, których system rządów opiera się na modelu westminsterskim, wzorowanym na Wielkiej Brytanii. Nazwa wywodzi się z francuskiego parlement, pochodzącego od parler, czyli mówić. Parlement oznaczał rozmowę, a następnie spotkanie, podczas którego ją prowadzono. Współczesne znaczenie zyskał, gdy zaczęto tak nazywać instytucję skupiającą ludzi zbierających się w celu omawiania spraw państwowych. [PARAGRAPH:2]Początki nowoczesnej koncepcji rządu kierowanego przez premiera wiążą się z Królestwem Wielkiej Brytanii (1707-1801) oraz rozwijającym się w podobnym okresie systemem parlamentarnym szwedzkiej epoki wolności (1719-1772). [PARAGRAPH:2]Teoretycznie władza należała do monarchy, który przewodniczył gabinetowi i wybierał ministrów. Za Jerzego I, który słabo znał angielski i rzadko uczestniczył w posiedzeniach gabinetu, rosło znaczenie ministrów oraz ich nieformalnego przywódcy, czyli dosłownie „pierwszego ministra”. Stopniowa demokratyzacja parlamentu i rozszerzanie praw wyborczych zwiększały jego rolę w kontrolowaniu rządu i wpływ na to, komu król mógł powierzyć jego utworzenie. W XIX wieku, między innymi po wielkiej reformie wyborczej z 1832 roku, parlament coraz silniej wpływał na obsadę stanowiska premiera i skład rządu.[PARAGRAPH:2]Inne kraje stopniowo przyjmowały rozwiązanie nazwane modelem westminsterskim. Władza wykonawcza odpowiadała w nim przed parlamentem, lecz wykonywała w imieniu głowy państwa uprawnienia formalnie jej przysługujące. Stąd określenia takie jak „rząd Jej Królewskiej Mości” czy „rząd Jego Ekscelencji”. System ten szczególnie rozpowszechnił się w dawnych dominiach brytyjskich, dla wielu z których konstytucje uchwalał parlament brytyjski. Przykładami są Australia, Nowa Zelandia, Kanada, Wolne Państwo Irlandzkie i Związek Południowej Afryki. Ich parlamenty często jednak ewoluowały lub były reformowane, odchodząc od brytyjskiego wzoru: australijski Senat bardziej przypomina Senat Stanów Zjednoczonych niż brytyjską Izbę Lordów, a Nowa Zelandia nie ma izby wyższej.[PARAGRAPH:2]W starożytnych Indiach, w okresie cywilizacji wedyjskiej, wspominano o dwóch zgromadzeniach królestw indoaryjskich przypominających parlament: Sabha i Samiti. Za czasów Buddy wiele państw miało nawet postać republik plemiennych zwanych sangha. Historycy interpretują Sabhę jako zgromadzenie wybranej grupy wpływowych mężczyzn klanu, które wraz z królem zajmowało się bieżącymi sprawami. Samiti wydaje się zgromadzeniem wszystkich męskich członków królestwa, zbierającym się prawdopodobnie tylko w celu zatwierdzenia lub wyboru nowego króla. Te w znacznej mierze demokratyczne instytucje ograniczały absolutyzm monarchy i miały święty status. Wedy, najświętsze pisma hinduizmu i jedne z najstarszych zabytków literatury indoeuropejskiej, nazywają je córkami bóstwa Pradżapati. Instytucje te słabły jednak wraz z powiększaniem się republik i przechodzeniem od wybieralnego przywództwa do dziedzicznej monarchii absolutnej. W późniejszej literaturze Sabha i Samiti są już rzadko wspominane, choć lokalne zgromadzenia wiejskie działały również w kolejnych epokach. Nowoczesne instytucje parlamentarne rozwijały się następnie w okresie brytyjskim, a ich dalsza ewolucja doprowadziła do powstania współczesnego demokratycznego parlamentu Indii, którego obie izby nadal mają w nazwie słowo Sabha.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PARLIAMENT_STRATEGY</Tag><Polish>Brak strategii do tej doktryny</Polish>
         </TEXT>
@@ -14492,9 +14492,9 @@ Właściwe koczownictwo: współzależność na poziomie całego regionu, zwykle
 Pasterze pozostają związani z określonym obszarem, przemieszczając stada między stałymi pastwiskami wiosennymi, letnimi, jesiennymi i zimowymi albo między pastwiskami pory suchej i deszczowej. Koczownicy zmieniają miejsce pobytu w zależności od dostępnych zasobów.
 
 Początki
-Pasterstwo koczownicze przypuszczalnie rozwinęło się jako część opisanej przez Andrew Sherratta rewolucji produktów wtórnych. Wczesne kultury neolitu przedceramicznego, które traktowały zwierzęta głównie jako żywy zapas mięsa, zaczęły wykorzystywać także mleko i jego przetwory, wełnę i inne włosie, skóry, nawóz służący jako opał i użyźniacz oraz siłę pociągową.
-Pierwsze koczownicze społeczeństwo pasterskie rozwinęło się w południowym Lewancie między 8500 a 6500 rokiem p.n.e. W okresie postępującego wysychania klimatu kultury neolitu przedceramicznego B na Synaju zostały zastąpione przez koczowniczą kulturę pasterską używającą naczyń ceramicznych. Wydaje się, że powstała ona wskutek połączenia miejscowych tradycji z nowo przybyłą z Egiptu ludnością mezolityczną kultury harifijskiej, która przystosowała wędrowny tryb życia łowców do hodowli zwierząt.
-Taki sposób życia szybko przekształcił się w to, co Juris Zarins nazwał okołoarabskim koczowniczym kompleksem pasterskim. Być może wiązał się również z pojawieniem się języków semickich na starożytnym Bliskim Wschodzie. Podobnie szybkie rozprzestrzenianie pasterstwa koczowniczego następowało później wraz z kulturą grobów jamowych, związaną z hodowcami koni i bydła na stepach eurazjatyckich, oraz podczas ekspansji Mongołów w późnym średniowieczu.</Polish>
+Rozwój pasterstwa koczowniczego wiązano z coraz szerszym wykorzystywaniem zwierząt gospodarskich. Andrew Sherratt nazwał późniejszą intensyfikację pozyskiwania mleka, wełny i siły pociągowej rewolucją produktów wtórnych. Nie chodziło już tylko o mięso i skóry otrzymywane po uboju, lecz także o mleko i jego przetwory, wełnę i inne włosie, nawóz służący jako opał i użyźniacz oraz siłę pociągową.
+W południowym Lewancie rozwój rolnictwa i hodowli postępował w neolicie przedceramicznym B, przypadającym w przybliżeniu na okres między 8500 a 6500 rokiem p.n.e. Jedna z hipotez wiąże późniejsze powstanie koczowniczych kultur pasterskich używających ceramiki z postępującym wysychaniem klimatu i kontaktami społeczności neolitu przedceramicznego B na Synaju z mezolitycznymi łowcami kultury harifijskiej, powiązanej z Egiptem. W tym ujęciu wędrowny tryb życia łowców został przystosowany do hodowli zwierząt.
+Taki sposób życia wiązano z tym, co Juris Zarins nazwał okołoarabskim koczowniczym kompleksem pasterskim. Być może miał on również związek z pojawieniem się języków semickich na starożytnym Bliskim Wschodzie. Podobnie szybkie rozprzestrzenianie pasterstwa koczowniczego następowało później wraz z kulturą grobów jamowych, związaną z hodowcami koni i bydła na stepach eurazjatyckich, oraz podczas ekspansji Mongołów w późnym średniowieczu.</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PASTORAL_STRATEGY</Tag><Polish>Koczowniczy pasterze przemieszczają się między pastwiskami. Dobry wybór, gdy brakuje żyznych ziem.</Polish>
 	</TEXT>
@@ -14508,14 +14508,14 @@ Taki sposób życia szybko przekształcił się w to, co Juris Zarins nazwał ok
 	</TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PATRICIAN</Tag><Polish>Patrycjusze</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_CIVIC_PATRICIAN_PEDIA</Tag><Polish>Patrycjusze to uprzywilejowana, wyższa warstwa społeczna, która pojawiła się w okresie republiki, w starożytnym Rzymie. Posiadali pełne prawa polityczne (do pewnego momentu) i wyłączność na obejmowanie urzędów. Wywodzili się oni z zamożnych rodzin. Początkowo prawdopodobnie potomkowie arystokracji rodowej, która we wczesnym okresie państwa (okres królewski i wczesnej republiki) cieszyła się pełnią praw politycznych.</Polish>
+<TEXT><Tag>TXT_KEY_CIVIC_PATRICIAN_PEDIA</Tag><Polish>Określenie patrycjusze pierwotnie odnosiło się do grupy elitarnych obywateli starożytnego Rzymu, obejmującej zarówno członków rodów z urodzenia, jak i osoby adoptowane. W późnym Cesarstwie Rzymskim patrycjusz stał się wysokim tytułem honorowym nadawanym dostojnikom, a po upadku Cesarstwa Zachodniorzymskiego godność ta przetrwała w Cesarstwie Bizantyjskim. W średniowieczu patrycjat ponownie oznaczał formalnie określone grupy elitarnych rodzin mieszczańskich w wielu włoskich republikach, takich jak Wenecja i Genua. Później patrycjusz stał się mniej precyzyjnym określeniem arystokraty lub przedstawiciela elity mieszczańskiej w różnych krajach. [PARAGRAPH:2]Patrycjusze cieszyli się szczególnym statusem wśród obywateli Rzymu. Rozwiązania ustrojowe sprzyjały zamożnym obywatelom, wśród których odgrywali oni ważną rolę. Komicja centurialne (Comitia Centuriata), jedno z głównych zgromadzeń ustawodawczych, dzieliły się na 193 głosujące centurie. W pierwotnym systemie centurie jazdy i pierwszej klasy majątkowej miały łącznie 98 głosów. Wystarczało to do uzyskania większości, mimo że reprezentowały mniejszą liczbę obywateli niż pozostałe grupy. Jeśli te najbogatsze grupy działały zgodnie, mogły przesądzić o wyniku głosowania. Plebejusze stopniowo zdobywali dostęp do urzędów, ale patrycjusze przez długi czas zachowywali silną pozycję polityczną. [PARAGRAPH:2]Na początku republiki wiele najważniejszych godności kapłańskich było zastrzeżonych dla patrycjuszy. Uzasadniano to ich szczególną więzią z rzymskimi bogami i prawem do odprawiania świętych obrzędów oraz odczytywania auspicjów. Miało to konsekwencje polityczne, gdyż na początku roku lub przed wyprawą wojenną rzymscy urzędnicy zwykli zasięgać rady bogów. Liwiusz opisuje dopuszczenie plebejuszy do kolegiów pontyfików i augurów w 300 r. p.n.e., kiedy kolegium augurów zwiększyło liczbę członków z czterech do dziewięciu. Dostęp do godności religijnych stopniowo się poszerzał. U schyłku republiki część urzędów nadal była jednak zastrzeżona dla patrycjuszy: należały do nich posługi saliów i flaminów większych oraz urząd rex sacrorum. [PARAGRAPH:2]Podział na patrycjuszy i plebejuszy w starożytnym Rzymie opierał się na przynależności rodowej. Choć współcześni autorzy często przedstawiają patrycjuszy jako bogate i potężne rodziny, które zapewniły sobie władzę nad mniej uprzywilejowanymi rodzinami plebejskimi, większość historyków uważa to za nadmierne uproszczenie. Wraz z rozszerzaniem praw obywatelskich plebejuszy w środkowym i późnym okresie republiki wiele rodzin plebejskich zdobyło bogactwo i władzę, podczas gdy część tradycyjnych rodów patrycjuszowskich popadła w biedę i zapomnienie.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PATRICIAN_STRATEGY</Tag><Polish>Grupa elitarnych rodów i arystokratów rządząca w radzie zorganizowanej na wzór republikański.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PENAL</Tag><Polish>Praca więźniów</Polish>
 	</TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PENAL_PEDIA</Tag><Polish>Praca więźniów może być lekka lub ciężka, zależnie od warunków. Kary tego rodzaju obejmowały przymusową służbę, roboty karne i pozbawienie wolności połączone z ciężką pracą. Pojęcie dotyczy kilku powiązanych sytuacji: pracy jako kary, wykorzystywania więziennictwa do pozyskiwania siły roboczej oraz zapewniania osadzonym zajęcia. Każdy z tych modeli może obejmować więźniów politycznych, religijnych, wojennych lub innych, a także skazanych za przestępstwa pospolite.
-Pracę więźniów na dużą skalę organizowano w obozach pracy, gospodarstwach więziennych, koloniach karnych, wojskowych oddziałach karnych, podczas deportacji oraz na statkach więziennych.
+Pracę więźniów na dużą skalę organizowano w obozach pracy, gospodarstwach więziennych, koloniach karnych, wojskowych oddziałach karnych, w systemach deportacji skazańców oraz na statkach więziennych.
 
 Kara a produkcja
 Praca karna, zwana też pracą więźniów lub ciężkimi robotami, jest formą pracy przymusowej stosowanej dawniej i obecnie jako dodatkowa kara, poza samym uwięzieniem. Może mieć charakter wytwórczy, na przykład przemysłowy, albo polegać na celowo bezsensownych czynnościach, traktowanych jako prymitywna terapia zajęciowa, kara lub fizyczna udręka.
@@ -14526,7 +14526,7 @@ W wiktoriańskich więzieniach skazańców często zmuszano do napędzania koło
 	</TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PERSONALITY_CULT</Tag><Polish>Kult Jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_CIVIC_PERSONALITY_CULT_PEDIA</Tag><Polish>Kult jednostki polega na kreowaniu wyidealizowanego, niekiedy wręcz boskiego wizerunku człowieka za pomocą propagandy i mediów. Przywódców od dawna otaczano czcią, a niektórych ubóstwiano za życia lub po śmierci; inni powoływali się na boskie prawo królów. Rozwój racjonalizmu i świeckości utrudnił podtrzymywanie takich przekonań. Nowoczesna propaganda umożliwiła jednak władcom, zwłaszcza w państwach totalitarnych, wpływanie na swój wizerunek na niespotykaną wcześniej skalę. Niektóre kulty jednostki zaczęły przypominać religie.</Polish>
+<TEXT><Tag>TXT_KEY_CIVIC_PERSONALITY_CULT_PEDIA</Tag><Polish>Kult jednostki polega na kreowaniu wyidealizowanego, niekiedy wręcz boskiego wizerunku człowieka za pomocą propagandy i mediów. Przywódców od dawna otaczano czcią, a niektórych ubóstwiano za życia lub po śmierci; inni powoływali się na boskie prawo królów. Rozwój racjonalizmu i świeckości utrudnił podtrzymywanie takich przekonań. Nowoczesna propaganda umożliwiła jednak władcom, zwłaszcza w państwach totalitarnych, kształtowanie własnego wizerunku nowymi metodami. Kulty te często były tak silne, że praktycznie stawały się religiami.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_CIVIC_PERSONALITY_CULT_STRATEGY</Tag><Polish>Kult jednostki ma przedstawiać przywódcę jako wyidealizowany symbol narodu.</Polish>
         </TEXT>
@@ -27663,7 +27663,7 @@ Powodzenia z nowym dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_NO_NUKES</Tag><Polish>[COLOR_WARNING_TEXT][LINK=CONCEPT_NUKES]Broń jądrowa[\LINK] jest zakazana[COLOR_REVERT]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROJECT_NUM_CITIES_MAINT_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do kosztów utrzymania za ilość miast</Polish>
+<TEXT><Tag>TXT_KEY_PROJECT_NUM_CITIES_MAINT_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do kosztów utrzymania wynikających z liczby miast</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_NUM_TURNS</Tag><Polish>[COLOR_HIGHLIGHT_TEXT]%d1_Num tur[COLOR_REVERT]</Polish>
         </TEXT>
@@ -31548,15 +31548,15 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_INDUSTRIALISM_QUOTE</Tag><Polish>"Istnieje jedna zasada dla przemysłowca: wytwarzać towary możliwie najlepszej jakości, najniższym z możliwych kosztem, płacąc możliwie najwyższe pensje." - Henryk Ford</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_INDUSTRIALISM_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Uprzemysłowienie[COLOR_REVERT] ujawnia zasoby [COLOR_HIGHLIGHT_TEXT]boksytu[COLOR_REVERT] i pozwala budować [COLOR_BUILDING_TEXT]fabryki aluminium[COLOR_REVERT], produkujące [COLOR_HIGHLIGHT_TEXT]aluminium[COLOR_REVERT]. Jest też wymagane do budowy [COLOR_UNIT_TEXT]krążowników liniowych[COLOR_REVERT], [COLOR_UNIT_TEXT]drednotów[COLOR_REVERT] i cudu świata [COLOR_BUILDING_TEXT]Prawa Wyborcze Kobiet[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_INDUSTRIALISM_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Uprzemysłowienie[COLOR_REVERT] ujawnia zasoby [COLOR_HIGHLIGHT_TEXT]boksytu[COLOR_REVERT] i pozwala budować [COLOR_BUILDING_TEXT]fabryki aluminium[COLOR_REVERT], produkujące [COLOR_HIGHLIGHT_TEXT]aluminium[COLOR_REVERT]. Jest też wymagane do budowy [COLOR_UNIT_TEXT]krążowników liniowych[COLOR_REVERT], [COLOR_UNIT_TEXT]drednotów[COLOR_REVERT] i cudu świata [COLOR_BUILDING_TEXT]Równouprawnienie[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_INTERSTELLAR_TRAVEL</Tag><Polish>Podróż Międzygwiezdna</Polish>
+<TEXT><Tag>TXT_KEY_TECH_INTERSTELLAR_TRAVEL</Tag><Polish>Podróż międzygwiezdna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_INTERSTELLAR_TRAVEL_PEDIA</Tag><Polish>[TAB]Lot międzygwiezdny to lot statku kosmicznego w przestrzeni międzygwiazdowej, zwłaszcza z Układu Słonecznego (z Ziemi) w okolice innych gwiazd niż Słońce. Warunkiem koniecznym do zrealizowania lotu międzygwiezdnego z Ziemi jest nadanie pojazdowi kosmicznemu trzeciej prędkości kosmicznej (przy starcie z Ziemi jest to minimum 16,7 km/s) i skierowanie go na trajektorię ucieczkową z Układu Słonecznego.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_INTERSTELLAR_TRAVEL_QUOTE</Tag><Polish>[SPACE]„Kosmos, ostateczna granica...” - Star Trek</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_INTERSTELLAR_TRAVEL_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Podróż międzygwiezdna[COLOR_REVERT] pozwala zbudować [COLOR_PROJECT_TEXT]silnik manewrowy statku kosmicznego[COLOR_REVERT] oraz [COLOR_BUILDING_TEXT]bazę gwiezdną[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_INTERSTELLAR_TRAVEL_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Podróż międzygwiezdna[COLOR_REVERT] pozwala zbudować [COLOR_PROJECT_TEXT]silniki manewrowe statku kosmicznego[COLOR_REVERT] oraz [COLOR_BUILDING_TEXT]bazę gwiezdną[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_INVISIBILITY</Tag><Polish>Niewidzialność</Polish>
         </TEXT>
@@ -31564,25 +31564,25 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_INVISIBILITY_QUOTE</Tag><Polish>„Kto niczego nie widzi w oddali, nie ma prawa twierdzić, że niczego tam nie ma.” - autor nieznany</Polish>
      </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_INVISIBILITY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Niewidzialność[COLOR_REVERT] pozwala tworzyć jednostki [COLOR_UNIT_TEXT]piechoty specjalnej[COLOR_REVERT], [COLOR_UNIT_TEXT]niszczyciele fuzyjne[COLOR_REVERT] i [COLOR_UNIT_TEXT]transportowce fuzyjne[COLOR_REVERT]. Pierwsza cywilizacja, która odkryje [COLOR_TECH_TEXT]niewidzialność[COLOR_REVERT], otrzymuje bezpłatnie [COLOR_UNIT_TEXT]wielkiego szpiega[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_INVISIBILITY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Niewidzialność[COLOR_REVERT] wraz z [COLOR_TECH_TEXT]Syntezą termojądrową[COLOR_REVERT] pozwala budować [COLOR_UNIT_TEXT]niszczyciele fuzyjne[COLOR_REVERT]. Pierwsza cywilizacja, która odkryje [COLOR_TECH_TEXT]niewidzialność[COLOR_REVERT], otrzymuje bezpłatnie [COLOR_UNIT_TEXT]wielkiego szpiega[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_IRON_WORKING</Tag><Polish>Obróbka Żelaza</Polish>
+<TEXT><Tag>TXT_KEY_TECH_IRON_WORKING</Tag><Polish>Obróbka żelaza</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_IRON_WORKING_PEDIA</Tag><Polish>[TAB]Najstarsze zdobienia z żelaza pochodzą z 4000 roku p.n.e., jednak broń czy narzędzia wykonane z tego metalu nie były wówczas znane. Do takich celów stosowano znacznie bardziej popularny brąz. Co prawda "Epoka żelaza" rozpoczęła się około 1000 roku p.n.e., to jednak żelazo zastąpiło brąz w różnych miejscach o różnym czasie.[PARAGRAPH:2] Żelazo jest znacznie bardziej rozpowszechnione niż miedź czy cyna (składniki brązu), jednak rzadko kiedy występuje w postaci czystej, na ogół tworząc związki z innymi pierwiastkami i minerałami. Aby żelazo wykorzystać, należało je odłączyć od innych składników rudy. Jak tylko wynaleziono techniki pozwalające ją przetapiać, obróbka żelaza stała się niezwykle popularna. Materiał ten był dużo twardszy, bardziej odporny na korozję i dało się go lepiej ostrzyć. Żelazo stało się jednym z najważniejszych metali w historii cywilizacji. Dziś wykorzystuje się go przy produkcji stali.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_IRON_WORKING_QUOTE</Tag><Polish>"Kuj żelazo póki gorące." - Publiusz Syriusz</Polish>
+<TEXT><Tag>TXT_KEY_TECH_IRON_WORKING_QUOTE</Tag><Polish>„Kuj żelazo, póki gorące.” - Publiliusz Syrus</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_IRON_WORKING_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Obróbka żelaza[COLOR_REVERT] ujawnia zasoby [COLOR_HIGHLIGHT_TEXT]żelaza[COLOR_REVERT] i pozwala szkolić [COLOR_UNIT_TEXT]lekkich mieczników[COLOR_REVERT]. Umożliwia też robotnikom [COLOR_HIGHLIGHT_TEXT]wycinanie dżungli[COLOR_REVERT] i odblokowuje awans [COLOR_HIGHLIGHT_TEXT]Marsz[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_ISLAM_QUOTE</Tag><Polish>"Bóg jest jeden i jedyny, a jego wszechmoc i panowanie niepodzielne." - Koran</Polish>
+<TEXT><Tag>TXT_KEY_TECH_ISLAM_QUOTE</Tag><Polish>„Allah, Jeden i Jedyny; Allah, Wieczny, Absolutny; nie zrodził ani nie został zrodzony; i nie ma nikogo Jemu równego.” - Koran 112:1-4</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION</Tag><Polish>Napęd Odrzutowy</Polish>
+<TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION</Tag><Polish>Napęd odrzutowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION_PEDIA</Tag><Polish>[TAB]Silnik odrzutowy to silnik działający na zasadzie wyrzucania z dużą prędkością strumienia gazów, co wywołuje siłę ciągu w przeciwną stronę na podstawie trzeciego prawa dynamiki Newtona. Potocznie przez silnik odrzutowy rozumie się najczęściej silniki turboodrzutowe i turbowentylatorowe. Podstawą teoretyczną pracy silnika odrzutowego jako silnika cieplnego jest obieg Braytona-Joule'a.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION_QUOTE</Tag><Polish>[SPACE]"Kiedyś ludzie mówili, że prędkość dźwięku jest nieosiągalna, kto wie co będzie za kilka lat." - Andrzej Koman</Polish>
+<TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION_QUOTE</Tag><Polish>[SPACE]„Wyzwaniem było precyzyjne dostrojenie napędu odrzutowego.” - Junichiro Kawaguchi</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Napęd odrzutowy[COLOR_REVERT] pozwala produkować [COLOR_UNIT_TEXT]P59[COLOR_REVERT] i budować [COLOR_UNIT_TEXT]lotniskowce[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_JET_PROPULSION_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Napęd odrzutowy[COLOR_REVERT] pozwala produkować [COLOR_UNIT_TEXT]myśliwce odrzutowe[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_JUDAISM_QUOTE</Tag><Polish>„Przyjmę was za mój lud i będę waszym Bogiem”. Księga Wyjścia 6,7</Polish>
 	</TEXT>
@@ -31591,13 +31591,13 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
 <TEXT><Tag>TXT_KEY_TECH_JURIS_PRUDENCE_PEDIA</Tag><Polish>[TAB]Prawoznawstwo, inaczej jurysprudencja (w piśmiennictwie określana też jako doktryna prawa lub nauka prawa) jest jedną z nauk społecznych, zajmującą się prawem. Jest to obszerna dziedzina wiedzy o tworzeniu i funkcjonowaniu prawa oraz jego stosowaniu. Nazwa „jurysprudencja” wywodzi się od łacińskiego słowa iurisprudentia (ius,iuris - prawo; prudentia - wiedza), bywa niekiedy stosowana w węższym zakresie w odniesieniu do orzecznictwa sądowego.</Polish>
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_JURIS_PRUDENCE_QUOTE</Tag><Polish>„Kto chce założyć państwo i nadać mu prawa, musi zacząć od założenia, że wszyscy ludzie są źli i gotowi ujawnić swoją nikczemną naturę, gdy tylko nadarzy się okazja.”
-- Niccolò Machiavelli</Polish>
+- Niccolo Machiavelli</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_JURIS_PRUDENCE_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Prawoznawstwo[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]sądy okręgowe[COLOR_REVERT] i cud narodowy [COLOR_BUILDING_TEXT]Sąd Najwyższy[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_JURIS_PRUDENCE_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Prawoznawstwo[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]sądy okręgowe[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_KEMETISM_QUOTE</Tag><Polish>W wierzeniach egipskich ludzka dusza istnieje również po śmierci ciała. W celu zachowania tożsamości w istnieniu po śmierci, ciało było balsamowane i mumifikowane. Ciała były tymczasowo umieszczane w trzcinowych trumnach w bardzo gorącym piasku, co szybko wysuszało zwłoki i zapobiegało rozkładowi. Później następował pogrzeb. W późniejszych czasach zaczęły powstawać drewniane groby, rytuały i reguły pochówku były rozbudowywane, komplikował się sposób mumifikacji. Balsamowanie zostało wynalezione w okresie Czwartej Dynastii. Usuwano wszystkie miękkie tkanki, a powstałe miejsca wypełniano natronem.</Polish>
+<TEXT><Tag>TXT_KEY_TECH_KEMETISM_QUOTE</Tag><Polish>Niech słońce na niebie będzie ci przychylne; niech sprawi, aby dwaj panowie byli ci przychylni.[NEWLINE]Niech noc będzie ci przychylna; niech dwie panie będą ci przychylne.[NEWLINE]Formuła 44 z Tekstów Piramid</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_TECH_KNOWLEDGE_MANAGEMENT</Tag><Polish>Zarządzanie Wiedzą</Polish>
+<TEXT><Tag>TXT_KEY_TECH_KNOWLEDGE_MANAGEMENT</Tag><Polish>Zarządzanie wiedzą</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_KNOWLEDGE_MANAGEMENT_PEDIA</Tag><Polish>[TAB]Zarządzanie wiedzą - to zespół sformalizowanych sposobów gromadzenia i wykorzystywania wiedzy formalnej oraz wiedzy cichej uczestników organizacji (np. pracowników firmy). Zarządzanie wiedzą, to próba jak najlepszego wykorzystania wiedzy, która jest dostępna w organizacji, tworzenie nowej wiedzy oraz zwiększanie jej zrozumienia. </Polish>
     </TEXT>
@@ -31609,9 +31609,9 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LABOR_UNION_PEDIA</Tag><Polish>[TAB]Związek zawodowy - masowa organizacja społeczna zrzeszająca na zasadzie dobrowolności ludzi pracy najemnej. Podstawowym zadaniem związków zawodowych jest obrona interesów pracowników i działanie na rzecz poprawy ich sytuacji ekonomicznej i społecznej. Związki próbują więc przeciwdziałać zwolnieniom, kontrolują przestrzeganie kodeksu pracy przez pracodawców, zabiegają o wyższe pensje i lepsze warunki pracy dla pracowników. Często prowadzą również działalność samopomocową (np. fundusze strajkowe), edukacyjną (np. kursy przekwalifikowujące) i oświatową (np. kampanie informacyjne o prawach przysługujących pracownikom).Związki zawodowe nie muszą się kierować dobrem firmy w której pracują przez co czasem firma z powodu negatywnych działań może upaść lub ponieść dotkliwe straty zarówno finansowe ale też wizerunkowe. Związki zawodowe powstały w Wielkiej Brytanii w roku 1824.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_LABOR_UNION_QUOTE</Tag><Polish>[SPACE]„Wszystko, co służy pracy, służy narodowi. Wszystko, co jej szkodzi, jest zdradą. Kto mówi, że ufa Ameryce, lecz boi się świata pracy, jest głupcem. Nie ma Ameryki bez pracy, a wyzyskiwanie jednego oznacza okradanie drugiego.” - Abraham Lincoln</Polish>
+<TEXT><Tag>TXT_KEY_TECH_LABOR_UNION_QUOTE</Tag><Polish>[SPACE]„Wszystko, co służy ludziom pracy, służy narodowi. Wszystko, co im szkodzi, jest zdradą. Kto mówi, że ufa Ameryce, lecz boi się ludzi pracy, jest głupcem. Nie ma Ameryki bez pracy, a wyzyskiwanie pracowników oznacza okradanie kraju.” - Abraham Lincoln</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_LABOR_UNION_STRATEGY</Tag><Polish>Technologia [COLOR_TECH_TEXT]Związki zawodowe[COLOR_REVERT] pozwala zbudować cud narodowy [COLOR_BUILDING_TEXT]Związki zawodowe[COLOR_REVERT] i udostępnia doktrynę [COLOR_HIGHLIGHT_TEXT]Socjalna opieka zdrowotna[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_LABOR_UNION_STRATEGY</Tag><Polish>Technologia [COLOR_TECH_TEXT]Związki zawodowe[COLOR_REVERT] pozwala zbudować cud narodowy [COLOR_BUILDING_TEXT]Związki zawodowe[COLOR_REVERT] i udostępnia doktrynę [COLOR_HIGHLIGHT_TEXT]Publiczna opieka zdrowotna[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LASER</Tag><Polish>Laser</Polish>
         </TEXT>
@@ -31627,7 +31627,7 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LEADERSHIP_QUOTE</Tag><Polish>[SPACE]„Wojny można toczyć bronią, ale wygrywają je ludzie. Zwycięstwo przynosi duch tych, którzy podążają za dowódcą, i tego, który ich prowadzi.” - George S. Patton</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_LEADERSHIP_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Przywództwo[COLOR_REVERT] pozwala ulepszać [COLOR_BUILDING_TEXT]koszary[COLOR_REVERT] do [COLOR_BUILDING_TEXT]garnizonów[COLOR_REVERT]. Pierwsza cywilizacja, która odkryje tę technologię, otrzymuje bezpłatnie [COLOR_UNIT_TEXT]wielkiego generała[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_LEADERSHIP_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Dowodzenie[COLOR_REVERT] pozwala ulepszać [COLOR_BUILDING_TEXT]koszary[COLOR_REVERT] do [COLOR_BUILDING_TEXT]garnizonów[COLOR_REVERT]. Pierwsza cywilizacja, która odkryje tę technologię, otrzymuje bezpłatnie [COLOR_UNIT_TEXT]wielkiego generała[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LIBERALISM</Tag><Polish>Liberalizm</Polish>
         </TEXT>
@@ -31643,15 +31643,15 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LITERATURE_QUOTE</Tag><Polish>"Niektóre książki powinno się smakować, inne połykać, a kilka z nich przeżuć i przetrawić." - Sir Franciszek Bacon</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_LITERATURE_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Literatura[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]biblioteki[COLOR_REVERT] oraz ukończyć [COLOR_BUILDING_TEXT]Epopeję Heroiczną[COLOR_REVERT], [COLOR_BUILDING_TEXT]Epopeję Narodową[COLOR_REVERT] i [COLOR_BUILDING_TEXT]Wielką Bibliotekę[COLOR_REVERT]. Pierwsza cywilizacja, która odkryje tę technologię, zakłada [COLOR_HIGHLIGHT_TEXT]hinduizm[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_LITERATURE_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Literatura[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]biblioteki[COLOR_REVERT] oraz ukończyć [COLOR_BUILDING_TEXT]Epopeję Heroiczną[COLOR_REVERT], [COLOR_BUILDING_TEXT]Epopeję Narodową[COLOR_REVERT] i [COLOR_BUILDING_TEXT]Wielką Bibliotekę[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LOGISTICS</Tag><Polish>Logistyka</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_LOGISTICS_PEDIA</Tag><Polish>[TAB]Logistyka jest terminem opisującym proces planowania, realizowania i kontrolowania sprawnego i efektywnego ekonomicznie przepływu surowców, materiałów, wyrobów gotowych oraz odpowiedniej informacji z punktu pochodzenia do punktu konsumpcji w celu zaspokojenia wymagań klienta[1]. Działania logistyczne mogą obejmować (choć nie muszą się do nich ograniczać): obsługę klienta, prognozowanie popytu, przepływ informacji, kontrolę zapasów, czynności manipulacyjne, realizowanie zamówień, czynności reparacyjne i zaopatrywanie w części, lokalizację zakładów produkcyjnych i składów, procesy zaopatrzeniowe, pakowanie, obsługę zwrotów, gospodarowanie odpadami, transport i składowanie.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_LOGISTICS_QUOTE</Tag><Polish>[SPACE]"Amatorzy omawiają taktykę, dyletanci omawiają strategię, a profesjonaliści omawiają logistykę." - General Omar Bradley</Polish>
+<TEXT><Tag>TXT_KEY_TECH_LOGISTICS_QUOTE</Tag><Polish>[SPACE]"Amatorzy omawiają taktykę, dyletanci omawiają strategię, a profesjonaliści omawiają logistykę." - generał Omar Bradley</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_LOGISTICS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Logistyka[COLOR_REVERT] zapewnia +1 szlak handlowy w każdym mieście. Pozwala budować [COLOR_BUILDING_TEXT]porty międzynarodowe[COLOR_REVERT], [COLOR_BUILDING_TEXT]bazy wojskowe[COLOR_REVERT] i cud [COLOR_BUILDING_TEXT]Pentagon[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_LOGISTICS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Logistyka[COLOR_REVERT] pozwala budować [COLOR_BUILDING_TEXT]porty międzynarodowe[COLOR_REVERT], [COLOR_BUILDING_TEXT]bazy wojskowe[COLOR_REVERT] i cud [COLOR_BUILDING_TEXT]Pentagon[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MACHINERY</Tag><Polish>Mechanizacja</Polish>
         </TEXT>
@@ -31659,17 +31659,17 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MACHINERY_QUOTE</Tag><Polish>"Bóg z maszyny." - Menander</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MACHINERY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Mechanizacja[COLOR_REVERT] pozwala robotnikom budować [COLOR_HIGHLIGHT_TEXT]tartaki[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]młyny wodne[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]wiatraki[COLOR_REVERT] i [COLOR_HIGHLIGHT_TEXT]warsztaty[COLOR_REVERT]. Umożliwia też budowę [COLOR_BUILDING_TEXT]piekarni[COLOR_REVERT] oraz [COLOR_BUILDING_TEXT]żurawi kołowrotowych[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MACHINERY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Mechanizacja[COLOR_REVERT] pozwala robotnikom budować [COLOR_HIGHLIGHT_TEXT]tartaki[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]młyny wodne[COLOR_REVERT] i [COLOR_HIGHLIGHT_TEXT]wiatraki[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MACHINE_LEARNING_QUOTE</Tag><Polish>[SPACE]„Ludzie obawiają się, że komputery staną się zbyt mądre i przejmą świat. Tymczasem prawdziwy problem polega na tym, że są zbyt głupie, a świat już przejęły.” - Pedro Domingos</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS</Tag><Polish>Narzędzia Mechaniczne</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS</Tag><Polish>Obrabiarki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS_PEDIA</Tag><Polish>[TAB]Obrabiarka to maszyna do mechanicznej obróbki przedmiotów w celu nadania im określonych kształtów, wymiarów i wykończenia powierzchni. Obróbka realizowana jest za pomocą narzędzi.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS_QUOTE</Tag><Polish>[SPACE]„Każdy wynalazek mechaniczny jest źródłem irytacji. Ludzkość charakteryzuje się głęboką i odwieczną nieufnością wobec maszyn. Psychologowie nazywają to instynktowną reakcją życia na pseudożycie.” - Anonim</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS_QUOTE</Tag><Polish>[SPACE]„Gdy maszyna zaczyna działać bez pomocy człowieka, pora oddać ją na złom, niezależnie od tego, czy jest fabryką, czy rządem.” - Alexander Chase</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Narzędzia mechaniczne[COLOR_REVERT] pozwalają budować [COLOR_BUILDING_TEXT]wytwórnie konserw[COLOR_REVERT] i [COLOR_BUILDING_TEXT]suche doki[COLOR_REVERT] oraz zwiększają produkcję żywności na [COLOR_HIGHLIGHT_TEXT]farmach[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MACHINE_TOOLS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Obrabiarki[COLOR_REVERT] pozwalają budować [COLOR_BUILDING_TEXT]wytwórnie konserw[COLOR_REVERT] i [COLOR_BUILDING_TEXT]suche doki[COLOR_REVERT] oraz zwiększają produkcję żywności na [COLOR_HIGHLIGHT_TEXT]farmach[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MAD</Tag><Polish>Wzajemnie zagwarantowane zniszczenie</Polish>
 	</TEXT>
@@ -31691,33 +31691,33 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MARXISM_QUOTE</Tag><Polish>[SPACE]„Dwóch obywateli Związku Radzieckiego idzie ulicą. Jeden pyta: «Czy naprawdę osiągnęliśmy już pełny komunizm? To właśnie to? Mamy już pełny komunizm?». Drugi odpowiada: «Ależ skąd, będzie jeszcze dużo gorzej».” - Ronald Reagan żartuje z komunizmu</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MARXISM_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Socjalizm[COLOR_REVERT] pozwala budować w miastach [COLOR_BUILDING_TEXT]komisariaty policji[COLOR_REVERT] i udostępnia doktrynę [COLOR_BUILDING_TEXT]Marksizm[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MARXISM_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Socjalizm[COLOR_REVERT] udostępnia doktrynę [COLOR_HIGHLIGHT_TEXT]Proletariat[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MASONRY</Tag><Polish>Murarstwo</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MASONRY_PEDIA</Tag><Polish>[TAB]Pierwsze siedziby starożytnych kultur plemiennych budowano z materiałów, które były powszechnie dostępne i łatwe w obróbce, jak cegły z gliny i błota. Kiedy ludy te zaczęły porzucać nomadyczny tryb życia, zakładając tym samym pierwsze miasta, pojawiła się potrzeba wznoszenia bardziej trwałych budynków. Aby ją zaspokoić, wynaleziono murarstwo.[PARAGRAPH:2]Najstarsze kamienne budynki wznoszono z poukładanych na sobie kamieni. Z czasem rzemieślnicy zaczęli nadawać im regularne formy, ułatwiając w ten sposób dopasowywanie do siebie budulca. Nie korzystano wówczas z zaprawy murarskiej; waga kamieni zapewniała konstrukcji stabilność. Bez znajomości jakiejkolwiek odmiany cementu, a także zasad architektury, nie można było jednak wznieść niczego więcej jak prostych budynków obronnych. Jednakowoż dokonania ówczesnych rzemieślników były bardzo imponujące, a niektóre z nich, jak na przykład egipskie piramidy, przetrwały do dziś.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASONRY_QUOTE</Tag><Polish>"To od swoich wrogów, a nie przyjaciół, miasta uczą się lekcji budowania wysokich murów." - Arystofanes</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASONRY_QUOTE</Tag><Polish>„To od wrogów, a nie przyjaciół, miasta uczą się budować wysokie mury.” - Arystofanes</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASONRY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Murarstwo[COLOR_REVERT] pozwala robotnikom zakładać [COLOR_HIGHLIGHT_TEXT]kamieniołomy[COLOR_REVERT] i ujawnia zasoby [COLOR_HIGHLIGHT_TEXT]marmuru[COLOR_REVERT]. Umożliwia też budowę [COLOR_BUILDING_TEXT]murów[COLOR_REVERT] oraz [COLOR_BUILDING_TEXT]cmentarzy[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]obrzędami pogrzebowymi[COLOR_REVERT]). Jest wymagane do wzniesienia cudów: [COLOR_BUILDING_TEXT]Sfinksa[COLOR_REVERT], [COLOR_BUILDING_TEXT]Piramid[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]obrzędami pogrzebowymi[COLOR_REVERT]), [COLOR_BUILDING_TEXT]Chichen Itza[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]poświęceniem[COLOR_REVERT]), [COLOR_BUILDING_TEXT]Wielkiej Latarni Morskiej[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]żeglugą morską[COLOR_REVERT]) i [COLOR_BUILDING_TEXT]Labiryntu[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]hodowlą zwierząt[COLOR_REVERT]).</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASONRY_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Murarstwo[COLOR_REVERT] pozwala robotnikom zakładać [COLOR_HIGHLIGHT_TEXT]kamieniołomy[COLOR_REVERT] i ujawnia zasoby [COLOR_HIGHLIGHT_TEXT]marmuru[COLOR_REVERT]. Umożliwia też budowę [COLOR_BUILDING_TEXT]murów[COLOR_REVERT]. Jest wymagane do wzniesienia cudów: [COLOR_BUILDING_TEXT]Sfinksa[COLOR_REVERT], [COLOR_BUILDING_TEXT]Piramid[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]obrzędami pogrzebowymi[COLOR_REVERT]), [COLOR_BUILDING_TEXT]Chichen Itza[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]retoryką[COLOR_REVERT]), [COLOR_BUILDING_TEXT]Wielkiej Latarni Morskiej[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]żeglugą morską[COLOR_REVERT]) i [COLOR_BUILDING_TEXT]Labiryntu w Knossos[COLOR_REVERT] (wraz z [COLOR_TECH_TEXT]hodowlą zwierząt[COLOR_REVERT]).</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA</Tag><Polish>Media Masowe</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA</Tag><Polish>Media masowe</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA_PEDIA</Tag><Polish>[TAB]Opinia publiczna głównie kształtowana jest przez media. Media, szczególnie w masowym wydaniu (Mass Media), określają formy przekazywania opinii dużej ilości ludzi. Druk umożliwił pierwsze formy takich mediów - gazety; później do tych form dołączyły takie wynalazki jak radio, kino, telewizja i internet.[PARAGRAPH:2]Media masowe mogą być niesamowicie skutecznym środkiem kształtowania opinii publicznej, zarówno w sprawach neutralnych, jak moda, ale także preferencji politycznych danego społeczeństwa. W wielu miejscach i czasach, z tego właśnie powodu, media były kontrolowane przez państwo. W Stanach Zjednoczonych natomiast, praktycznie większość mediów jest w rękach prywatnych. Internet jest nowym unikalnym środkiem przekazu, bardzo trudnym do kontroli, gdyż praktycznie jego twórcą i właścicielem jest każdy kto ma do niego dostęp. [PARAGRAPH:2]Podczas II Wojny Światowej, walczące narody wykorzystywały prasę, radio i kino, w swoich kampaniach propagandowych, aby przedstawiać postępy w wojnie (ze swojego punktu widzenia) Przywódcy jak Adolf Hitler, Winston Churchill czy Franklin Roosevelt, byli doskonałymi mówcami, a ich słowa - przekazywane przez media, zmieniły świat na zawsze.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA_QUOTE</Tag><Polish>"Jedyna gorsza rzecz niż być obgadywanym, to nie być obgadywanym." - Oscar Wilde</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA_QUOTE</Tag><Polish>„Jedyną rzeczą gorszą od tego, że o tobie mówią, jest to, że o tobie nie mówią.” - Oscar Wilde</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Media masowe[COLOR_REVERT] pozwalają utworzyć cuda narodowe [COLOR_BUILDING_TEXT]Narodowa Liga Sportowa[COLOR_REVERT] i [COLOR_BUILDING_TEXT]Narodowa Stacja Telewizyjna[COLOR_REVERT] oraz cud świata [COLOR_BUILDING_TEXT]Światowa Sieć Medialna[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASS_MEDIA_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Media masowe[COLOR_REVERT] pozwalają utworzyć cuda narodowe [COLOR_BUILDING_TEXT]Narodowa Liga Sportowa[COLOR_REVERT] i [COLOR_BUILDING_TEXT]Sieć nadawcza[COLOR_REVERT] oraz cud świata [COLOR_BUILDING_TEXT]Światowa Sieć Medialna[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT</Tag><Polish>Transport Masowy</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT</Tag><Polish>Transport zbiorowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT_PEDIA</Tag><Polish>[TAB]Transport miejski to sfera działalności gospodarczej polegającej na wykonywaniu usług przewozowych na terenie miasta oraz obszarach podmiejskich. Problematyka transportu miejskiego dotyka w głównej mierze zagadnień transportu pasażerskiego, więc termin ten bywa stosowany zamiennie z terminem komunikacja miejska[1]. Ze względu na wykorzystywane środki transportu wyróżnić można miejski transport szynowy, miejski transport drogowy, miejski transport wodny.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT_QUOTE</Tag><Polish>[SPACE]"Jedyny sposób, jaki odkryłem, aby zdążyć na pociąg, to spóźnić się na poprzedni." - Gilbert Keith Chesterton</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT_QUOTE</Tag><Polish>[SPACE]„Oprócz środków na autostrady i drogi potrzebujemy więcej pieniędzy na transport zbiorowy, międzymiastową kolej pasażerską i kolej towarową. Przed nami jeszcze długa droga do uzupełnienia braków w finansowaniu.” - Bill Lipinski</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Transport masowy[COLOR_REVERT] pozwala miastom uruchamiać [COLOR_BUILDING_TEXT]transport publiczny[COLOR_REVERT], a robotnikom budować [COLOR_HIGHLIGHT_TEXT]autostrady[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MASS_TRANSIT_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Transport zbiorowy[COLOR_REVERT] pozwala miastom uruchamiać [COLOR_BUILDING_TEXT]transport publiczny[COLOR_REVERT], a robotnikom budować [COLOR_HIGHLIGHT_TEXT]autostrady[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MATCHLOCK</Tag><Polish>Zamek Lontowy</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MATCHLOCK</Tag><Polish>Zamek lontowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MATCHLOCK_PEDIA</Tag><Polish>[TAB]Zamek lontowy to zamek ręcznej broni palnej odprzodowej, w którym zapalenie prochu następuje od palącego się lontu. Lont zamocowany był w uchwycie, który po naciśnięciu dźwigni (spustu) opadał na panewkę, powodując zapalenie się podsypanego tam prochu, a następnie poprzez zapał, odpalenie prochu w lufie. Zamek lontowy był pierwszym typem zamka do broni palnej, powstał w połowie XV wieku i używany był do początku XVII wieku. Wcześniej, odpalanie broni było wykonywane za pomocą lontu przystawianego ręcznie; zamek lontowy automatyzował tą czynność, pozwalając na wycelowanie broni. Był prosty w konstrukcji, posiadał jednak niedogodności, jak konieczność wcześniejszego zapalenia lontu oraz wrażliwość na złą pogodę. Jedynie częściowo został wyparty przez zamek kołowy, a ostatecznie wyparty przez zamek skałkowy. Zamek lontowy posiadał m.in. muszkiet. W Europie zamki lontowe stosowane były wyłącznie w broni długiej. W Japonii konstruowano również pistolety z tym zamkiem. Broni z zamkiem lontowym używano tam do połowy XIX w.</Polish>
     </TEXT>
@@ -31729,13 +31729,13 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MATHEMATICS_PEDIA</Tag><Polish>[TAB]Prehistoryczna arytmetyka była matematyką ilościową. Służyła bowiem handlowcom do zapisywania miar i wag. Z czasem na jej podstawie starożytne cywilizacje zaczęły formułować dużo bardziej złożone teorie. Około 1800 p.n.e. Egipcjanie znali już ułamki i proste działania arytmetyczne. Opracowali też wzory na pole powierzchni i pojemność. Podali wreszcie stałą ułatwiającą obliczenie pola powierzchni koła, niezwykle bliską współczesnemu "pi". Około V wieku p.n.e., greccy matematycy rozwinęli wiedzę o algebrze i geometrii. W tym samym czasie matematykę zaczęto stosować w innych naukach, między innymi w astronomii i mechanice. Wśród najciekawszych dowodów wykorzystania wiedzy matematycznej przy budowie broni znajduje się wyrzutnia miotająca, zwana potocznie katapultą.</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MATHEMATICS_QUOTE</Tag><Polish>"Jeżeli w innych dyscyplinach nauki dojdziemy do pewności bez zawahania się i prawdy bez błędu, to znaczy, że jesteśmy w miejscu powstania podwalin matematyki." - Roger Bacon</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MATHEMATICS_QUOTE</Tag><Polish>„Jeśli w innych naukach mamy dojść do pewności bez wątpliwości i prawdy bez błędu, powinniśmy oprzeć fundamenty wiedzy na matematyce.” - Roger Bacon</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MATHEMATICS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Matematyka[COLOR_REVERT] pozwala robotnikom budować [COLOR_HIGHLIGHT_TEXT]forty[COLOR_REVERT] i zwiększa ilość produkcji uzyskiwanej z wyrębu. Umożliwia budowę [COLOR_BUILDING_TEXT]panteonów[COLOR_REVERT] oraz [COLOR_BUILDING_TEXT]Wielkiego Muru[COLOR_REVERT].</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MATHEMATICS_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Matematyka[COLOR_REVERT] pozwala robotnikom budować [COLOR_HIGHLIGHT_TEXT]forty[COLOR_REVERT] i zwiększa ilość produkcji uzyskiwanej z wyrębu. Umożliwia budowę [COLOR_BUILDING_TEXT]Wielkiego Muru[COLOR_REVERT].</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MECHANICS_PEDIA</Tag><Polish>[TAB]Mechanika bada ruch ciał fizycznych pod wpływem sił i przemieszczeń. Mechanika klasyczna opisuje przede wszystkim obiekty w skali makroskopowej poruszające się znacznie wolniej niż światło. Arystoteles stworzył swój system fizyki w IV wieku p.n.e., a Archimedes odkrył zasadę wyporu około 260 roku p.n.e. Późniejsze odkrycia doprowadziły do rozwoju mechaniki newtonowskiej w XVII wieku i mechaniki kwantowej w XX wieku.</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_MECHANIZED_WARFARE</Tag><Polish>Wojna Zmechanizowana</Polish>
+<TEXT><Tag>TXT_KEY_TECH_MECHANIZED_WARFARE</Tag><Polish>Wojna zmechanizowana</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_MECHANIZED_WARFARE_PEDIA</Tag><Polish>[TAB]Wojna mechaniczna nie była pomysłem niemieckich sztabowców, ale właśnie oni zastosowali ją na dużą skalę. Szybko jednak przerosła ona możliwości niemieckiego przemysłu. Do sprawnego zaopatrywania armii zabrakło Niemcom samochodów i paliwa. W 1940 roku niemieckie wojska miały 120 tys. samochodów ciężarowych, we Francji zdobyły drugie tyle francuskich i brytyjskich. </Polish>
     </TEXT>
@@ -32087,9 +32087,9 @@ Kapłani wojownicy często pojawiali się podczas pierwszego powstania serbskieg
     </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_NUCLEAR_POWER_STRATEGY</Tag><Polish>[COLOR_TECH_TEXT]Energia atomowa[COLOR_REVERT] pozwala budować [COLOR_UNIT_TEXT]superlotniskowce[COLOR_REVERT], [COLOR_UNIT_TEXT]myśliwskie okręty podwodne[COLOR_REVERT], [COLOR_UNIT_TEXT]balistyczne okręty podwodne[COLOR_REVERT] i [COLOR_BUILDING_TEXT]elektrownie nuklearne[COLOR_REVERT].</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_NUM_CITIES_MAINT</Tag><Polish>[ICON_BULLET]Brak kosztów utrzymania za ilość miast</Polish>
+<TEXT><Tag>TXT_KEY_TECH_NUM_CITIES_MAINT</Tag><Polish>[ICON_BULLET]Brak kosztów utrzymania wynikających z liczby miast</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_TECH_NUM_CITIES_MAINT_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do kosztów utrzymania za ilość miast</Polish>
+<TEXT><Tag>TXT_KEY_TECH_NUM_CITIES_MAINT_MOD</Tag><Polish>[ICON_BULLET]%D1_Mod%% do kosztów utrzymania wynikających z liczby miast</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_TECH_NUM_TURNS</Tag><Polish>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]%d1_Num Tur[COLOR_REVERT]</Polish>
         </TEXT>
