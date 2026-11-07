@@ -26597,17 +26597,17 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_TECH</Tag><Polish>Technologie</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_TERRAIN</Tag><Polish>Rodzaje Terenu</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_TERRAIN</Tag><Polish>Rodzaje terenu</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_UNIT</Tag><Polish>Jednostki</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_COMBAT</Tag><Polish>Kategorie jednostek</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_UPGRADES</Tag><Polish>Ulepszenia jedn.</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_UPGRADES</Tag><Polish>Modernizacje jednostek</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_COST</Tag><Polish>Koszt: %d1_Num</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_DOGPILE</Tag><Polish>Wojna Totalna: [BOLD]%d1%%[\BOLD]</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_DOGPILE</Tag><Polish>Dołączenie do wojny: [BOLD]%d1[\BOLD]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_EFFECTS</Tag><Polish>Efekty</Polish>
         </TEXT>
@@ -26615,13 +26615,13 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
     </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_FAV_CIVIC</Tag><Polish>Ulubiona doktryna</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag><Polish>Ulubione doktryny i religie</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag><Polish>Ulubiona doktryna i religia</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_FLAT_TRAVEL</Tag><Polish>[ICON_BULLET]Jednostki pokonują %d1 pól na turę</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_FULL_WAR</Tag><Polish>Pełna Wojna: [BOLD]%d1[\BOLD] (%d2%% Stosunek Bliski, %d3%% Stosunek Daleki, %d4%% Sąsiadujące)[NEWLINE]</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_FULL_WAR</Tag><Polish>Wojna totalna: [BOLD]%d1[\BOLD] (stosunek sił: blisko %d2%%, daleko %d3%%; sąsiednie pola: %d4%%)[NEWLINE]</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_GREAT_PEOPLE</Tag><Polish>Wielki Człowiek: %D1</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_GREAT_PEOPLE</Tag><Polish>Punkty wielkich ludzi: %D1</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_HAPPY</Tag><Polish>Zadowolenie: %D1</Polish>
         </TEXT>
@@ -26631,15 +26631,15 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_HISTORY</Tag><Polish>Historia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_IMPROVEMENT_AIR_DEFENSE</Tag><Polish>%% Obrona Przeciwlotnicza</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_IMPROVEMENT_AIR_DEFENSE</Tag><Polish> pkt obrony przed bombardowaniem</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_IMPROVEMENT_BUILD_OUTSIDE_BORDERS</Tag><Polish>Może zostać zbudowany wewnątrz granic kulturowych</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_IMPROVEMENT_BUILD_OUTSIDE_BORDERS</Tag><Polish>Można budować poza granicami kulturowymi</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_IRRIGATED_YIELD</Tag><Polish>%s1: %D2%F3 (z [LINK=CONCEPT_IRRIGATION]Nawodnieniem[\LINK])</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_IRRIGATED_YIELD</Tag><Polish>%s1: %D2%F3 (z [LINK=CONCEPT_IRRIGATION]nawodnieniem[\LINK])</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_LEADS_TO</Tag><Polish>Prowadzi do</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_LIMITED_WAR</Tag><Polish>Limitowana Wojna: [BOLD]%d1[\BOLD] (%d2%% Stosunek sił)[NEWLINE]</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_LIMITED_WAR</Tag><Polish>Wojna ograniczona: [BOLD]%d1[\BOLD] (stosunek sił: %d2%%)[NEWLINE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_MOVEMENT</Tag><Polish>Ruch: %d1_Num</Polish>
         </TEXT>
@@ -26647,23 +26647,23 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_NATURAL_WONDERS</Tag><Polish>Cuda natury</Polish>
 	</TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_NO_HISTORY</Tag><Polish>[TAB]Brak dostępnej historii</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_NO_HISTORY</Tag><Polish>[TAB]Brak dostępnego opisu historycznego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_PROMOTION_UNITS</Tag><Polish>Dostępne dla</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_QUOTE</Tag><Polish>Wpis</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_QUOTE</Tag><Polish>Cytat</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_RANGE</Tag><Polish>Zasięg: %d1_Num</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_REQUIRES</Tag><Polish>Wymaga:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_RIVER_YIELD</Tag><Polish>%s1: %D2%F3 (Przy rzece)</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_RIVER_YIELD</Tag><Polish>%s1: %D2%F3 (przy rzece)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_ROUTE_YIELD</Tag><Polish>%s1: %D2%F3 (z [LINK=CONCEPT_MOVEMENT]%s4[\LINK])</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_ROUTE_YIELD</Tag><Polish>%s1: %D2%F3 (szlak: [LINK=CONCEPT_MOVEMENT]%s4[\LINK])</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_SCREEN_BACK</Tag><Polish>Wróć</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_SCREEN_CONTENTS</Tag><Polish>Treść</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_SCREEN_CONTENTS</Tag><Polish>Spis treści</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_SCREEN_EXIT</Tag><Polish>Wyjdź</Polish>
         </TEXT>
@@ -26671,11 +26671,11 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_SCREEN_INDEX</Tag><Polish>Indeks</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_SCREEN_TOP</Tag><Polish>Indeks</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_SCREEN_TOP</Tag><Polish>Strona główna</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_SLOW_TRAVEL</Tag><Polish>[ICON_BULLET]Ruch zużywa 1 [ICON_MOVES] na pole</Polish>
     </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_SPECIAL_ABILITIES</Tag><Polish>Specjalne możliwości</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_SPECIAL_ABILITIES</Tag><Polish>Specjalne zdolności</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_STATS</Tag><Polish>Charakter</Polish>
         </TEXT>
@@ -26685,9 +26685,9 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_TEAM_PROJECT</Tag><Polish>Projekt zespołowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_TEAM_WONDER</Tag><Polish>Cud zespołowy</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_TEAM_WONDER</Tag><Polish>Cud drużynowy</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_TECH_YIELD</Tag><Polish>%s1: %D2%F3 (z [LINK=literal]%s4[\LINK])</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_TECH_YIELD</Tag><Polish>%s1: %D2%F3 (technologia: [LINK=literal]%s4[\LINK])</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_TRAITS</Tag><Polish>Cechy</Polish>
         </TEXT>
@@ -26697,27 +26697,27 @@ Przedmieścia zaczęły powstawać na wielką skalę w XIX i XX wieku dzięki ro
     </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_UNHAPPY</Tag><Polish>Niezadowolenie: %D1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_UNHEALTHY</Tag><Polish>Choroba: %D1</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_UNHEALTHY</Tag><Polish>Niezdrowotność: %D1</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_UNITS_ENABLED</Tag><Polish>Jednostki dostępne</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_UNITS_ENABLED</Tag><Polish>Dostępne jednostki</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_UNIT_CAN_BE_CAPTURED</Tag><Polish>[NEWLINE][ICON_BULLET]Może zostać przejęty</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_UNIT_CAN_BE_CAPTURED</Tag><Polish>[NEWLINE][ICON_BULLET]Jednostkę można przejąć</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_UNIT_DRAFTABLE</Tag><Polish>[NEWLINE][ICON_BULLET]Może zostać zwerbowany gdy są spełnione wymagania</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_UNIT_DRAFTABLE</Tag><Polish>[NEWLINE][ICON_BULLET]Jednostkę można powołać do wojska po spełnieniu wymagań</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_UNIT_IGNORES_BUILDING_DEFENSE</Tag><Polish>[NEWLINE][ICON_BULLET]Ignoruje Obronę Budynku</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_UNIT_IGNORES_BUILDING_DEFENSE</Tag><Polish>[NEWLINE][ICON_BULLET]Ignoruje obronę budynków</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_UPGRADES_TO</Tag><Polish>Modernizacja do:</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_WONDER</Tag><Polish>Ukończenie Cudu: [BOLD]%d1%%[\BOLD] Szans[NEWLINE]</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_WONDER</Tag><Polish>Skłonność do budowy cudów: [BOLD]%d1[\BOLD][NEWLINE]</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_WONDER_INSTANCES</Tag><Polish>(dozwolonych: %d1)</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_WORLD_PROJECT</Tag><Polish>Projekt Światowy</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_WORLD_PROJECT</Tag><Polish>Projekt światowy</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEDIA_WORLD_WONDER</Tag><Polish>Cud świata</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PEDIA_YIELDS</Tag><Polish>Pola</Polish>
+<TEXT><Tag>TXT_KEY_PEDIA_YIELDS</Tag><Polish>Korzyści</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PEER_CONNECT_FAILURE_DESC</Tag><Polish>Nie udało się połączyć z innym dołączającym graczem.[NEWLINE]Jego zapora sieciowa może być nieprawidłowo skonfigurowana.</Polish>
         </TEXT>
@@ -27596,7 +27596,7 @@ Powodzenia z nowym dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_APOLLO_PROGRAM</Tag><Polish>Program Apollo</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROJECT_APOLLO_PROGRAM_PEDIA</Tag><Polish>[TAB]Program Apollo to ambitny projekt wyniesienia człowieka na Księżyc. Narodził się on w późnych latach pięćdziesiątych, w głowach amerykańskich oficjeli zaniepokojonych prowadzeniem ZSRR w wyścigu kosmicznym. W 1961 r. prezydent J.F.Kennedy ogłosił na połączonym zebraniu Kongresu: "Wierzę, że zanim upłynie dekada, naród ten powinien poświęcić się osiągnięciu tego celu, aby człowiek wylądował na Księżycu i powrócił bezpiecznie na Ziemię."[PARAGRAPH:1]Są wątpliwości czy sam prezydent wierzył w sens projektu; niektórzy twierdzą, że miał poważne wątpliwości dotyczące kosztów i osiągalności oraz że jego wystąpienie publiczne miało na celu jedynie podniesienie na duchu Amerykanów w obliczu zagrożenia sowieckiego. Ale wyobraźnia Amerykanów została rozpalona i prace posuwały się w szybkim tempie. [PARAGRAPH:1] Zarządzający Programem Apollo mieli do pokonania wiele trudności natury naukowej i technicznej. Podróż dzieliła się na wiele odrębnych etapów: opuszczenie Ziemi, podróż na Księżyc, lądowanie a później droga powrotna i ponowne lądowanie. To wymagało statku o różnorodnych zdolnościach, który musiał być jednocześnie dostatecznie lekki, aby go wynieść na orbitę przy pomocy ówcześnie dostępnych rakiet (problem był podobny do próby wymyślenia pojazdu, będącego skrzyżowaniem łodzi podwodnej, łazika i samolotu, który mógłby być holowany przez Volkswagena Garbusa). [PARAGRAPH:1]Fakt, że Program Apollo zakończył się sukcesem i człowiek stanął na Księżycu w 1969 roku, jest świadectwem geniuszu, odwagi i wytrwałości ludzi, którzy brali w nim udział. </Polish>
+<TEXT><Tag>TXT_KEY_PROJECT_APOLLO_PROGRAM_PEDIA</Tag><Polish>[TAB]Program Apollo był ambitnym przedsięwzięciem, którego celem było wysłanie człowieka na Księżyc i sprowadzenie go bezpiecznie na Ziemię. Wyrósł z planów amerykańskich lotów załogowych rozwijanych pod koniec lat pięćdziesiątych oraz z niepokoju wywołanego przewagą Związku Radzieckiego w wyścigu kosmicznym. Nazwę programu ogłoszono w 1960 r. Rok później, 25 maja 1961 r., prezydent John F. Kennedy powiedział przed połączonymi izbami Kongresu: „Uważam, że nasz naród powinien zobowiązać się do osiągnięcia przed końcem tej dekady celu, jakim jest lądowanie człowieka na Księżycu i jego bezpieczny powrót na Ziemię”.[PARAGRAPH:1]Motywacje Kennedy'ego oraz jego stosunek do kosztów i wykonalności przedsięwzięcia były przedmiotem dyskusji. Cel miał wyraźny wymiar polityczny: pozwalał odpowiedzieć na radzieckie sukcesy i odbudować wiarę Amerykanów we własne możliwości. Polityczny cel łączył się z rzeczywistym programem badawczym i technicznym. Projekt rozpalił wyobraźnię społeczeństwa, a prace nabrały wielkiego rozmachu.[PARAGRAPH:1]Zespoły programu Apollo musiały rozwiązać ogromną liczbę problemów naukowych i technicznych. Podróż obejmowała wiele odrębnych etapów: start z Ziemi, lot ku Księżycowi, zejście na jego powierzchnię, powrót na orbitę księżycową, lot z powrotem ku Ziemi i lądowanie. Potrzebny był system statków i rakiet zdolny wykonać wszystkie te zadania, a przy tym na tyle lekki, by dało się go wynieść w przestrzeń kosmiczną. Obrazowo przypominało to próbę zbudowania skrzyżowania łodzi podwodnej, pojazdu terenowego i samolotu, które można by holować volkswagenem garbusem.[PARAGRAPH:1]Powodzenie programu i pierwsze kroki człowieka na Księżycu w 1969 r. pozostają świadectwem pomysłowości, odwagi i wytrwałości kobiet i mężczyzn, którzy nad nim pracowali.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_APOLLO_PROGRAM_STRATEGY</Tag><Polish>Jest wymagany do budowy jakiejkolwiek części statku kosmicznego.</Polish>
         </TEXT>
@@ -27610,7 +27610,7 @@ Powodzenia z nowym dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_EDEN</Tag><Polish>Projekt Eden</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROJECT_EDEN_PEDIA</Tag><Polish>[ICON_BULLET]Ulepsza cały teren w granicach kulturowych o jeden poziom[NEWLINE][NEWLINE][NEWLINE][TAB]Projekt Eden jest to ogród botaniczny w Wielkiej Brytanii, w hrabstwie Kornwalia, położony 3 km od St Austell, największego miasta hrabstwa, stworzony w wyeksploatowanym wyrobisku kaolinu. Zgromadzono tu 18 tysięcy gatunków roślin z kilku stref klimatycznych świata. Obiekt odwiedza corocznie 1,2 mln osób[NEWLINE][NEWLINE][TAB]W Civ, pomysł jest krokiem dalej jako globalna próba, by ulepszyć planetę. Kiedy ukończysz projekt cały teren w granicach kulturowych ulepszy się o jeden poziom. Ulepszenie terenu przebiega tak:[NEWLINE][NEWLINE]Pustynia - Równina - łąka[NEWLINE][NEWLINE]Lód - Tundra - łąka[NEWLINE][NEWLINE]Ocean - Wybrzeże</Polish>
+<TEXT><Tag>TXT_KEY_PROJECT_EDEN_PEDIA</Tag><Polish>[ICON_BULLET]Zmienia teren w rozległym obszarze wokół miasta, także poza własnymi granicami[NEWLINE][NEWLINE][NEWLINE][TAB]Eden Project to ogród botaniczny i rozległy kompleks szklarni w pobliżu St Austell w angielskiej Kornwalii, urządzony w dawnym wyrobisku kaolinu. Pod połączonymi kopułami zgromadzono rośliny z różnych części świata, odtwarzając warunki odmiennych biomów. Konstrukcję tworzą setki elementów, przeważnie sześciokątnych, a także pięciokątnych, wypełnionych przezroczystymi poduszkami z wytrzymałej folii ETFE. Jeden z głównych biomów mieści roślinność wilgotnych tropików, drugi odtwarza ciepły klimat śródziemnomorski. Kompleks jest także miejscem edukacji przyrodniczej i celem licznych odwiedzin.[NEWLINE][NEWLINE][TAB]W grze idea ta została rozwinięta w projekt przekształcania środowiska. Po jego ukończeniu zmiany obejmują obszar o szerokości i wysokości 100 pól wokół miasta, które ukończyło projekt. W tej wersji modu działanie nie jest ograniczone granicami kulturowymi ani przynależnością pól do twojej drużyny: może objąć także ziemie neutralne i cudze. Poszczególne przekształcenia to:[NEWLINE][NEWLINE]Pustynia - równiny; równiny i bagna - łąka. Łąki bez istniejących cech terenu mogą zostać zalesione, jeśli nie blokuje tego ulepszenie.[NEWLINE][NEWLINE]Śnieg - tundra; tundra - równiny.[NEWLINE][NEWLINE]Ocean i wybrzeże pozostają bez zmian.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_EDEN_STRATEGY</Tag><Polish>Ukończony [COLOR_BUILDING_TEXT]Projekt Eden[COLOR_REVERT] ulepsza cały teren w Twoich granicach kulturowych o 1 poziom.</Polish>
         </TEXT>
@@ -27620,13 +27620,13 @@ Powodzenia z nowym dowódcą!</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_ENCYCLOPEDIE</Tag><Polish>Encyklopedia</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROJECT_ENCYCLOPEDIE_PEDIA</Tag><Polish>[TAB]Encyklopedia to kompendium ludzkiej wiedzy zapisane w formie zbioru haseł (słów kluczowych) z wyjaśnieniem ich znaczenia. Hasła są ułożone w pewnym logicznym porządku, zazwyczaj alfabetycznym, dzięki czemu możliwe jest szybkie odnalezienie właściwej informacji. Encyklopedia może być powszechna, tj. starająca się ująć całą ludzką wiedzę (taka jak np. Wielka encyklopedia powszechna PWN), lub może być encyklopedią specjalistyczną z danej dziedziny (np. Encyklopedia Odkryć i Wynalazków PWN). Obecnie największą wirtualną encyklopedią jest Wikipedia.</Polish>
+<TEXT><Tag>TXT_KEY_PROJECT_ENCYCLOPEDIE_PEDIA</Tag><Polish>[TAB]Encyklopedia to uporządkowane kompendium wiedzy, zwykle podzielone na hasła, których układ ułatwia odnajdywanie informacji. Może mieć charakter ogólny, jak Wielka encyklopedia powszechna PWN, albo dotyczyć jednej dziedziny, jak Encyklopedia odkryć i wynalazków PWN. Znanym przykładem encyklopedii internetowej jest Wikipedia. Pragnienie zebrania całej ludzkiej wiedzy w jednym dziele towarzyszyło uczonym od stuleci. Już autorzy starożytni, wśród nich Arystoteles, podejmowali w swoich pismach bardzo szeroki zakres zagadnień. Jednym z najważniejszych dawnych kompendiów była Historia naturalna Pliniusza Starszego z I w. n.e. Dzieło obejmowało 37 ksiąg opisujących świat przyrody i ludzką działalność; przez znaczną część średniowiecza było kopiowane i wykorzystywane w Europie Zachodniej.[PARAGRAPH:1]W chrześcijańskiej tradycji łacińskiej ważną rolę odegrały Institutiones Kasjodora, powstałe około połowy VI w. i poświęcone kształceniu w naukach religijnych oraz świeckich. Korzystał z nich Izydor z Sewilli, autor Etymologii, nad którymi pracował do śmierci w 636 r. i które należą do najbardziej wpływowych kompendiów wczesnego średniowiecza. W Bizancjum patriarcha Focjusz stworzył w IX w. Bibliotekę, zbiór streszczeń i ocen przeczytanych dzieł, cenny dzięki rozległości zainteresowań autora. W XIII w. popularność zdobyło De proprietatibus rerum Bartłomieja Anglika, opracowane około 1240 r. Jeszcze większy rozmach miało Speculum maius Wincentego z Beauvais, rozwijane w połowie tego stulecia. To dzieło, liczące ponad 3 miliony słów, obejmowało przyrodę, historię oraz nauki i sztuki.[PARAGRAPH:1]Rozległe kompendia powstawały również w średniowiecznym świecie islamu. Bracia Czystości, tradycyjnie wiązani z Basrą, stworzyli zbiór rozpraw obejmujący wiele dziedzin wiedzy. Jego dokładne datowanie i autorstwo pozostają przedmiotem sporów; często łączy się go z IX i X w., zamiast przypisywać mu jedną pewną datę. Do ważnych osiągnięć należały również obszerne pisma medyczne Ar-Raziego, liczne rozprawy filozoficzne i naukowe Al-Kindiego oraz Kanon medycyny Ibn Siny, znanego w Europie jako Awicenna. Ten ostatni przez stulecia służył jako podstawowe dzieło medyczne. Nie były to jednak książki jednego rodzaju: część stanowiła syntezy wiedzy, inne zbiory obserwacji lub rozprawy dotyczące konkretnych zagadnień.[PARAGRAPH:1]Rozwijano także piśmiennictwo historyczne i geograficzne. At-Tabari napisał Historię proroków i królów; rozległe dzieła pozostawili również Al-Masudi, Ibn Rusta i Ibn al-Asir. Ibn Chaldun w Mukaddimie analizował społeczne uwarunkowania dziejów i przestrzegał przed bezkrytycznym przyjmowaniem przekazów. Zalecał sprawdzanie, czy opisywane zdarzenia są wiarygodne w świetle wiedzy o społeczeństwie i jego możliwościach. Badanie źródeł miało w kulturze islamu także związek z isnadem, czyli wskazywaniem łańcucha osób przekazujących daną relację. Dotyczyło to zarówno tradycji ustnej, jak i utrwalonej na piśmie, a nie wyłącznie dokumentów. Te różnorodne praktyki gromadzenia, porównywania i oceny wiadomości współtworzyły historię piśmiennictwa naukowego i encyklopedycznego.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_ENCYCLOPEDIE_STRATEGY</Tag><Polish>Zapewnia technologie znane co najmniej 5 innym, napotkanym zespołom cywilizacji.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_FIRST_CLONED_MAMMAL</Tag><Polish>Pierwszy sklonowany ssak</Polish>
         </TEXT>
-<TEXT><Tag>TXT_KEY_PROJECT_FIRST_CLONED_MAMMAL_PEDIA</Tag><Polish>[TAB]Klonowanie to w potocznym rozumieniu proces tworzenia idealnej kopii z oryginału. W biologii mianem klonu określa się organizmy mające identyczny lub prawie identyczny materiał genetyczny. Klonami są więc organizmy powstałe w procesie rozmnażania wegetatywnego, takie jak kolonie bakterii, jednokomórkowców, odrośla i rozmnóżki roślin etc. Termin klonowanie jest używany w kilku znaczeniach: Klonowanie to proces tworzenia organizmów mających taką samą informację genetyczną jak dawca. Szczególnym przypadkiem jest twinning, czyli powstawanie lub otrzymywanie bliźniąt monozygotycznych, gdzie nie można wyróżnić dawcy. Klonowanie organizmów oznacza procedurę otrzymywania organizmów o takiej samej informacji genetycznej, z reguły poprzez procedurę transferu jądra z komórki somatycznej do komórki jajowej pozbawionej uprzednio jądra. W przypadku klonowania roślin stosuje się procedurę odróżnicowania komórek dawcy do komórek merystematycznych. Klonowanie genów - w genetyce i biologii molekularnej proces wyosobniania genu. Polega na łączeniu fragmentów materiału genetycznego z wektorem molekularnym i ich namnażaniu w innym organizmie. Otrzymuje się w ten sposób wiele kopii tego samego genu. Termin klonowanie genów odnosi się też do identyfikacji genów poprzez wykorzystanie procedury klonowania genów. Jeśli pojedynczy fragment genomu jest przenoszony z jednego wektora do drugiego, taki proces określa się mianem subklonowania. Opanowano obecnie metody klonowania wielu gatunków roślin i zwierząt. W przypadku zwierząt zazwyczaj stosuje się technikę polegającą na przeniesieniu jądra komórki somatycznej pobranej z klonowanego osobnika, do komórki jajowej pozbawionej jądra. Proces ten tworzy funkcjonalną zygotę. Zygota ta może, jeśli się jej na to pozwoli, rozwinąć w żywego osobnika. Dawca komórki jajowej z reguły pochodzi z tego samego gatunku. Transfer jądra do komórki jajowej innego gatunku rzadko jest skuteczny. Klony otrzymane w procesie transferu jądrowego nie są w 100% genetycznie identyczne z dawcami. W trakcie tego procesu wymienia się bowiem tylko materiał genetyczny zawarty w jądrze komórkowym pozostawiając DNA mitochondrialny biorcy. Mitochondrialne DNA ma jednak minimalny wkład w dziedziczenie cech genetycznych.</Polish>
+<TEXT><Tag>TXT_KEY_PROJECT_FIRST_CLONED_MAMMAL_PEDIA</Tag><Polish>[TAB]Dolly, owca domowa urodzona 5 lipca 1996 r., była pierwszym ssakiem sklonowanym z komórki somatycznej dorosłego zwierzęcia. Powstała dzięki transferowi jądra komórkowego w doświadczeniach zespołu Iana Wilmuta, Keitha Campbella i ich współpracowników z Instytutu Roslin pod Edynburgiem w Szkocji. Jądro pochodziło z komórki gruczołu mlekowego dorosłej owcy. Dolly żyła sześć lat, do 14 lutego 2003 r., i zdobyła światowy rozgłos; Scientific American nazwał ją „najsłynniejszą owcą świata”. Nie była pierwszym sklonowanym zwierzęciem ani pierwszym sklonowanym ssakiem. Wcześniejsze doświadczenia z transferem jąder obejmowały m.in. płazy w 1952 r., a badania Tonga Dizhou i współpracowników nad transferem jąder u ryb opublikowano w 1963 r. Przełom w przypadku Dolly polegał na wykorzystaniu wyspecjalizowanej komórki dorosłego osobnika.[PARAGRAPH:2]Narodziny Dolly pokazały, że materiał genetyczny w jądrze takiej komórki zachowuje zdolność kierowania rozwojem całego organizmu. Środowisko komórki jajowej może przeprogramować sposób wykorzystywania tej informacji: zmienia się aktywność genów, nie ich podstawowa sekwencja. Proces nie zawsze przebiega prawidłowo, a zarodki uzyskane przez transfer jąder często rozwijają się nieprawidłowo. W serii 277 prób Dolly była jedynym zwierzęciem, które przeżyło do dorosłości. Mała wydajność nie umniejszała znaczenia doświadczenia dla biologii rozwoju. W 2007 r. Wilmut uznał, że trudności tej techniki mogą ograniczać jej przydatność w badaniach nad ludzkimi komórkami, i skierował uwagę ku indukowanym pluripotentnym komórkom macierzystym, uzyskiwanym przez przeprogramowanie komórek bez użycia komórki jajowej.[PARAGRAPH:2]Słowo „klonowanie” ma kilka znaczeń. W biologii klon to organizmy lub komórki o identycznym bądź niemal identycznym materiale genetycznym, pochodzące od wspólnego przodka przez rozmnażanie bezpłciowe. Tak powstają m.in. potomne komórki bakterii i innych organizmów jednokomórkowych oraz rośliny rozmnażane wegetatywnie, np. przez odrośla i rozmnóżki. Blisko spokrewnionym zjawiskiem jest powstawanie bliźniąt jednojajowych przez rozdzielenie wczesnego zarodka: żadne z bliźniąt nie jest dawcą dla drugiego. Klonowanie roślin może wykorzystywać kultury tkanek, w których komórki odzyskują zdolność do podziałów i odtworzenia całej rośliny.[PARAGRAPH:2]W biologii molekularnej klonowanie DNA polega na uzyskiwaniu wielu kopii wybranego fragmentu, np. genu. Fragment łączy się z wektorem i namnaża w komórkach gospodarza. Metoda może pomagać w wyodrębnianiu i identyfikowaniu genów, lecz samo klonowanie oznacza powielanie wybranego materiału. Przeniesienie fragmentu DNA z jednego wektora do drugiego nazywa się subklonowaniem.[PARAGRAPH:2]Przy klonowaniu zwierząt przez transfer jądra przenosi się jądro komórki somatycznej do komórki jajowej, z której usunięto własne jądro. Po pobudzeniu do podziałów może ona rozwinąć się w zarodek, a następnie w nowy organizm. Nie jest to zygota powstała w wyniku zapłodnienia. Komórka jajowa zwykle pochodzi od osobnika tego samego gatunku; transfer międzygatunkowy wiąże się z dodatkowymi trudnościami. Uzyskany klon nie jest w 100% genetycznie identyczny z dawcą jądra, ponieważ mitochondria i ich DNA pochodzą zasadniczo z komórki jajowej. Mitochondrialne DNA stanowi niewielką część całego materiału genetycznego, ale pełni ważne funkcje i nie można uznać jego znaczenia dla dziedziczonych cech za znikome.</Polish>
         </TEXT>
 <TEXT><Tag>TXT_KEY_PROJECT_FIRST_CLONED_MAMMAL_STRATEGY</Tag><Polish>Umożliwia wszystkim graczom budowę zbiorników klonowania.</Polish>
         </TEXT>
