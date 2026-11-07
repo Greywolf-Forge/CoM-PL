@@ -2,8 +2,8 @@
 
 Gałąź robocza po wydaniu 0.1.1, nie ukończone wydanie 0.2.
 
-Zmieniono 9797 pól Polish. Bezpośrednio sprawdzono 17391/17613 unikalnych tekstów w obu projektach. Przeczytane partie: articles-001..071, articles-078..083, articles-111..112, articles-190..191, buildings-001..083, civics-001..026, diplomacy-001..017, interface-001..114, source-repair-001..003, technology-001..051, units-001..030. Następna partia: articles-072.
+Zmieniono 9799 pól Polish. Bezpośrednio sprawdzono 17393/17613 unikalnych tekstów w obu projektach. Przeczytane partie: articles-001..072, articles-078..083, articles-111..114, articles-190..191, buildings-001..083, civics-001..026, diplomacy-001..017, interface-001..114, source-repair-001..003, technology-001..051, units-001..030. Następna partia: articles-073.
 
 44/44 testów statycznych i integracyjnych PASS. Nie wykonano nowego testu gry ani natywnego Windows.
 
-This is work in progress after 0.1.1, not a completed 0.2 release. Direct linguistic review covers 17391/17613 unique texts across both projects. 44/44 static and integration tests passed for this project. No new runtime or native Windows test has been performed.
+This is work in progress after 0.1.1, not a completed 0.2 release. Direct linguistic review covers 17393/17613 unique texts across both projects. 44/44 static and integration tests passed for this project. No new runtime or native Windows test has been performed.
