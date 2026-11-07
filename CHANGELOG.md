@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.2 (2026-11-07)
+
+### Polski
+
+Pełna korekta redakcyjna polskiego tłumaczenia. Poprawki w **9 973 wpisach** względem wersji 0.1.1.
+
+- Sprawdzone komunikaty interfejsu, dyplomacja, Cywilopedia oraz opisy jednostek, budynków, ustrojów i technologii.
+- Poprawione błędy znaczenia, składnia, odmiana, terminologia i brakujące szczegóły źródłowe.
+- Ukończone pełne poradniki strategiczne, w tym gospodarka, badania, budynki i jednostki unikatowe oraz poradnik WoundedKnighta. Zachowano przykłady, autorskie uwagi i humor.
+- Mechanika i rachunki w poradnikach zweryfikowane według właściwych historycznych wersji SDK/XML. Błędy oryginału oraz uzasadnione zmiany liczb i znaczników mają odrębne rozstrzygnięcia.
+- Zachowane klucze Tag, pola gramatyczne i format nakładki. Publiczny XML zawiera wyłącznie Tag i Polish, bez zmiany danych rozgrywki ani pozostałych języków.
+
+Wspólny przegląd **RoM-PL i CoM-PL** objął **17 613 / 17 613 grup tekstów**, **34 174 / 34 174 pól Polish** i **515 / 515 stron przeglądu**. Każdy tekst ma pełny odczyt źródła, poprzedniego tłumaczenia i wersji końcowej oraz niezależną recenzję.
+
+Dla tego projektu: **46/46 testów statycznych i integracyjnych PASS**, zero nierozstrzygniętych różnic liczb i znaczników. Wersji 0.2 nie testowano w uruchomionej grze ani na natywnym Windows 10/11.
+
+### English
+
+Complete editorial review of the Polish translation. Corrected **9,973 entries** compared with version 0.1.1.
+
+- Reviewed interface messages, diplomacy, Civilopedia, and unit, building, civic and technology descriptions.
+- Corrected mistranslations, grammar, terminology and missing source details.
+- Completed the full strategy guides, including economy, research, unique buildings and units, and the WoundedKnight guide. Preserved examples, personal remarks and humor.
+- Checked mechanics and calculations in the guides against the appropriate historical SDK/XML versions. Original-source errors and justified numeric or token changes have individual recorded decisions.
+- Preserved Tag keys, grammar fields and the overlay format. The public XML contains only Tag and Polish, without changing gameplay data or other languages.
+
+The combined **RoM-PL and CoM-PL** review covered **17,613 / 17,613 text groups**, **34,174 / 34,174 Polish fields** and **515 / 515 review pages**. Every text has a complete reading of the source, previous translation and final version, plus an independent review.
+
+For this project: **46/46 static and integration tests passed**, with zero unresolved numeric or runtime-token differences. Version 0.2 has not been tested in a running game or on native Windows 10/11.
+
 ## 0.1.1 (2026-11-05)
 
 ### Polski
