@@ -1,11 +1,23 @@
-# v0.3 candidate — English corrections
-
-- 7 source-bound English records in the first independently reviewed batch.
-- Exact v0.2 Polish preserved; safe installation into a separate mod copy.
-- English/Polish exchange files moved out of active Assets because duplicate Tags do not merge languages.
-- 19 new tests PASS; final runtime and release gates pending.
-
 # Changelog
+
+## 0.3 (2026-11-07)
+
+### English
+
+- 123 confirmed English correction groups in 18 source records: 53 mechanics, 25 arithmetic, 7 factual, 18 version-specific and 20 language groups. 187 exact replacement rules affect 201 literal occurrences.
+- Targeted audit of 25 English Tags; six optional editorial suggestions remain deferred. Historical article context, author voice and complete text are retained.
+- Exact published v0.2 Polish retained, including grammar and duplicate-occurrence handling.
+- Source- and DLL-bound installer creates a new independent mod copy. Runtime text keeps original filenames; separate English/Polish ZZZ records are maintainer exchange files outside active Assets.
+- Comment-aware field matching preserves commented XML. Three explicitly approved formatting repairs are bound by exact ordered-token hashes; printf parameters, icons, colours and links remain protected.
+- 70/70 automated tests pass, plus final full-copy installation and English/Polish Wine/Xvfb loading. Polish glyphs verified with original-theme Arial fallback in pl-PL/ACP1250. Native Windows and campaigns are not covered.
+- CoM source encoding is normalized from declared ISO-8859-1 to UTF-8 where required, preserving decoded field values; existing accent-display improvements are recorded separately from logical English corrections.
+
+### Polski
+
+- 123 grupy korekt English, 18 wpisów i 201 poprawianych wystąpień; zachowane kompletne teksty oraz kontekst historycznych wersji.
+- Polish zgodny bajt w bajt z v0.2. Nowa instalacja tworzy osobną kopię moda i weryfikuje SHA źródeł oraz DLL.
+- Rzeczywiste testy loadera zastąpiły założenie o priorytecie nazwy ZZZ. Oddzielne pliki językowe służą autorom, a instalator aktualizuje teksty pod oryginalnymi nazwami.
+- 70/70 testów PASS, instalacja pełnej kopii i testy obu języków na izolowanym Wine/Xvfb. Szczegóły i ograniczenia w dokumentacji QA.
 
 ## 0.2 (2026-11-07)
 

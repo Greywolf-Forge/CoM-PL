@@ -1,0 +1,2441 @@
+{
+  "schema": 1,
+  "project": "CoM-PL",
+  "status": "PASS",
+  "scope": "Text localization, loader behavior, source protection and installation; not a campaign or native Windows certification.",
+  "automated_tests": {
+    "project": "CoM-PL",
+    "started_utc": "2026-11-07T14:11:14.403426+00:00",
+    "suites": [
+      {
+        "suite": "english_v03",
+        "exit_code": 0,
+        "tests": 24,
+        "seconds": 12.282,
+        "log": "$PROJECTS/CoM-PL/var/reports/english-v03/tests-final-english_v03.log"
+      },
+      {
+        "suite": "v02_baseline",
+        "exit_code": 0,
+        "tests": 46,
+        "seconds": 11.883,
+        "log": "$PROJECTS/CoM-PL/var/reports/english-v03/tests-final-v02_baseline.log"
+      }
+    ],
+    "status": "PASS",
+    "finished_utc": "2026-11-07T14:11:38.569031+00:00"
+  },
+  "frozen_inputs_and_text_outputs": {
+    "project": "CoM-PL",
+    "catalogue_sha256": "e90c2af4fa1a87bab60512a656d1bdb7ad4639ecd8f1e24469e11b623c42016a",
+    "installer_sha256": "319abfc950fd7baaf60ba441340989cfc1309c03033be91d83d16ad8cf922e42",
+    "polish_sha256": "6c21df085d42a6f432b777a1961b5705c1aa9c8fb65023d520d1f7cbe58a05f6",
+    "english_sha256": "504a1eca8f80005ad9def6b628c9749d870178906369f0e6e698927f5a253067",
+    "files": {
+      "ACTIONS.xml": "1d86e10602ef1f3b85ab9f3654b3a400890223be1927e040d0e91b7c6d8d6cb4",
+      "BUILDINGS.xml": "d7f2782c790ae614b9a4dc069d3f86f8a8c2cddfd364cf2485e7f3d3db14428f",
+      "BUILDINGS_PEDIA.xml": "6643795bebf12ca14cc7961972154bf7c44031709fb21123d927b5aa553fa4e2",
+      "BUILDINGS_STRATEGY.xml": "a0040047a7da6e4324c4f7f28b960b39ba7d73c0ccda18c96958e0f83621a3ef",
+      "CITIES.xml": "b8ec6fdfd6bd5036e5b1e66440fd97fd4ffed7d3efa3d6466d84e129cb2a49a1",
+      "CIVICS.xml": "6d4f979bf6d68142d7b5d28b0be603d9b8f490ff1c956b7229be1eb46fc17281",
+      "CIVICS_PEDIA.xml": "9ac59f8448d0336ed6762e9639d4b966cf3a814eb14c6a4c33c47b6947a73441",
+      "CIVILIZATIONS.xml": "f1b7f24c555bd0c99162c277077051a274e5ff07d88818a1ad84b9450f5a4e83",
+      "CIVILIZATIONS_PEDIA.xml": "562df7532050aae3e5d69c6ed7e8cdeb74608a191e225f6d2710af20842ad777",
+      "COMBAT.xml": "bedb304cc3bc4e4b4e57bd85625730a7433c428862b072a699a8234d35a0c936",
+      "CONCEPTS.xml": "72ed41bfe4be24c89f7aadf83e10b9fa8fffc9e2323311983c90c6a22cb06597",
+      "CONCEPTS_PEDIA.xml": "1e79bc862745a897d4f669d81e95e92cbabb72435be01b36eb54381051ed471f",
+      "CORPORATIONS.xml": "d653040d3a017a0e600f0929f8093ee391660b238b5ff78006e3f920c5291eb6",
+      "CORPORATIONS_PEDIA.xml": "c3994702bb2341159ac5bff310ece7c4d7aa42d34e139e8270447a83a2578439",
+      "Chronicles_Bonus.xml": "5bfd5df29d4c303bd2f884e6b5139434f1e66b23c1ac9f06cc7de527c56740e6",
+      "Chronicles_Buildings.xml": "ce8fd8d2414f16a38e612b1dcdb35adc281db33a4e5250c045af79501fff4f35",
+      "Chronicles_CITIES.xml": "9404f6e34ab6cc6565fa3df93bdabd9f66d7d36a5a84382856475896989d6982",
+      "Chronicles_CIVILIZATIONS.xml": "b70d14ea429c5c3a97c245281b90ed13642ce6b1f2467434785beaf4f1293bfd",
+      "Chronicles_Civics.xml": "2dc3d9796a902a4489100049b61c8cd0b47d7d3712128861e01ad4b7df35c788",
+      "Chronicles_GreatPeople.xml": "9574bd0a5558fbb460ba05e0857634a113a0930ce6bdf5fc8eabee18fd72ecb7",
+      "Chronicles_Improvements.xml": "ef0cb4ae57ba5a3038279e0922fa78c19cc767d5bf135adaa89303b4d6237b5b",
+      "Chronicles_Other.xml": "38783cf6baeaac393b6b9f8a2a7e36c4226b92e69bd6b2e0c84966b4707c81bf",
+      "Chronicles_Promotions.xml": "426185bcd518dd253b4956200fdeeff139adb4be5d955924d091cfa520725601",
+      "Chronicles_Techs.xml": "7225bfe248f82db0906af2d364b99ef47f0ec2c5b849109554f000cb7ed612dc",
+      "Chronicles_Terrain.xml": "79ff4a641e8457c2e7279a7f907bcdd0ff956d224fd7d2e8fed9d616d8328a18",
+      "Chronicles_Units.xml": "fbf9966b217e06c063eaf98f7612887791e82940f69ad182d70dde455968dd9d",
+      "DIPLOMACY.xml": "1512dd4e0c8ba72950f2145dc45a10eeb0c2c3915f21077f24063f21afa64bb2",
+      "ESPIONAGE.xml": "c011fa7524d46781261710691cbdfce08b205087bd0b26bc6689002faeb514a8",
+      "EVENTS.xml": "00f5502fc9176cfde677798d216b334e57a349b5ee915bdb3b68a049b39a8880",
+      "GREAT_PERSONS.xml": "99102725f15a7375ca2275ecd3123e39d14fd3c88a5877d22d0318d748be46c0",
+      "IMPROVEMENTS.xml": "b4aea8194cffda4a5048457a228bb35de6fd2250bce665cf44c54634b2f2083d",
+      "IMPROVEMENTS_PEDIA.xml": "f821e57a1894b8999418ee493626c338a774198e0388a2e5a0800cd34bce252e",
+      "INTERFACE.xml": "07e75426deb4182242c6f95c7ed22ad0b51a1fef62f484ace10cfea251e6bb6a",
+      "Inthegrave_GameText.xml": "4e30c5953087c74f93645e33c5280f17cd0f14dc49a7413e7882cbad683716be",
+      "LEADERS.xml": "cb0330a7239b7de863a79b4e4bdadaf0ece67edb3a641e7b064ffdf3524da10f",
+      "LEADERS_PEDIA.xml": "f5f6767dd2e554a18c709536ae176b289e8080584f6d20a9b8015596521dfde1",
+      "MAP_SCRIPTS.xml": "49077a444644b4b921a2a94d6494a3804d55974c2d91f0968509732dc0243ce6",
+      "MISC.xml": "828f6ea9101a2142d3c0492e2020ef3402e86cf1f418a76f86970594ecee4be1",
+      "MISC_PEDIA.xml": "99bfbcd0808114f83a412927de447407f002588dea235b0f61d817f7ea994d24",
+      "MISSIONS.xml": "d1421afe231c8a9fd6904970c7af12c805cb6d260da8e8dbe486796d23b915d4",
+      "NaturalWonders.xml": "ab2f75151915b4faab660dcba07a4a7074bfb1c50f4dddc2ece3e317a8e65437",
+      "PROJECTS.xml": "cb70e8ccb30eccd6bffbfcd695a9f38d66e8f4431c1d9729f0825c36a517f770",
+      "PROJECTS_PEDIA.xml": "a93b244310c5ff2a3328bc94b3e286bdc97122a916c2b8559159550fd906a709",
+      "PROJECTS_STRATEGY.xml": "0f962b7656e2514b0ca7aedda0ff6b7a784d5c45a93b12c4dfb99b780207e9fc",
+      "PROMOTIONS.xml": "93a66d19f5832535fb2beff3396aabc13ddecca7af9e17631ed09b07d14fef2b",
+      "RELIGIONS.xml": "cd3c06e4a88c465c6d32a5af4534ebecd484a9667c8ccb0ba51710edb9876f3a",
+      "RELIGIONS_PEDIA.xml": "775c64055f34ad21b5b0d5dd443de8894a6e15f6ec7549703aac3150156378f5",
+      "RESSOURCES.xml": "3193c43ab6197ec60acbddf84ea96dbe2ea6b6c85c803bdbd34abe71e189ac6a",
+      "RESSOURCES_PEDIA.xml": "aa8cf00c0a9fa301ed2f5e5cddaf7423c1c0720bb560f396d3fe5362dc4dbd52",
+      "REVOLUTIONS.xml": "4f2827edaf694ec893dd419c8c551a04fc658fa663a130844fbb531f1056c362",
+      "STRATEGIES.xml": "23eeb9c1ce54d6f0576f82ba452aa893c86090478baed2359fb380641f85c26d",
+      "STRATEGIES_PEDIA.xml": "a1db29d0a371d11e533230f09bea2e45832f66bbda59ffe1781bc1e22712c9f8",
+      "TECHNOLOGIES.xml": "cad939c20936339f89b81ea46273282d442541702c1aefcb490be3aac4019c78",
+      "TECHNOLOGIES_PEDIA.xml": "28d67c4b15c3a4b78c13c96206f3bae7e656cce86bed82c2c7d88f7d6005b148",
+      "TECHNOLOGIES_STRATEGY.xml": "0f55ba0a145cb295ccf507e06520d190644ab058dfc51b92a14587bd14fdfed1",
+      "UNITS.xml": "d558bd499372c99ee76916737e9b891e3b46819de38cfd6dd74bc8dae0197b1d",
+      "UNITS_PEDIA.xml": "8e35da5a1cb2de0fe2744064dd3cca2845ef683fc839c19d56c4ec24a4c2970e",
+      "UNITS_STRATEGY.xml": "324e1d6bcfb9f4c7756e3cf9133dfd173f929110e0fb4252c26a08ce87260587"
+    },
+    "output_set_sha256": "867f0f681eb0221eb9520f5a30e53e486927785838eb951d234c57cf97d6ae25",
+    "source_files": {
+      "ACTIONS.xml": "fb419aa00ea74a4a7081a60d323a6bf7f3af52c9a403023953a202673fa70c5a",
+      "BUILDINGS.xml": "ecc35f55783ee0c3b382fc57a9b6a90b8ab3bae332dbcde3b1976cbc574de94f",
+      "BUILDINGS_PEDIA.xml": "940dddd2f34adc6fbad5d24cc381ef86e5bb94a293db68a45a3414bf48e07661",
+      "BUILDINGS_STRATEGY.xml": "2a27d43f67bf31bcea43d68a584910b1a1cd357a078e2c3d2d122335e8e150e0",
+      "CITIES.xml": "967f689537de227aa168df45292bdad2ceb6248cda987a7cc1346ae5209c7625",
+      "CIVICS.xml": "32d8080295f9544c721e966f6f4e3cf7c03600c7827d4a53fe0f26cf3e640496",
+      "CIVICS_PEDIA.xml": "f85573446ea85a2ffa4d8a029eb604423f53191101fc1628685393aa0ac537ff",
+      "CIVILIZATIONS.xml": "413e809ca387c411d379b72d527dd8cfd401d5671791e94e412c607dc94fbe94",
+      "CIVILIZATIONS_PEDIA.xml": "6da59167dba3f6ccd9a981bdad3b09e36c88ae6610f280d0f6197776e1ac39d8",
+      "COMBAT.xml": "72c6fac6bea7909a4a0e453200bf777c5d48462064422eb310b9bb7aad3e2778",
+      "CONCEPTS.xml": "bd18d32e47df65ec495573263753ca77f096540544eef0e21665f46922e52858",
+      "CONCEPTS_PEDIA.xml": "8848875a591ab2a541fe76c56b6b8694b5f061dcb25c8d5b4b78980889d6bbca",
+      "CORPORATIONS.xml": "218eba724f76c96520b869ad273ecf92ba6d70e495eb0e3c7ac1e7a7268a183a",
+      "CORPORATIONS_PEDIA.xml": "2446020cf868e0231e3978649aab41622435a56f550e048ce5c197d7a2704f0a",
+      "Chronicles_Bonus.xml": "a8974e973d6583984ea6185a11f8c9ad14a0910b751c58cae47aea4d572e44f0",
+      "Chronicles_Buildings.xml": "d79b8ec17e6f37ef0db8de994606fc2244c39b586b19043bd962b5479a14b30e",
+      "Chronicles_CITIES.xml": "00064402958625f8a7f1d19e2603e65c504ce36d8ab8f341933eb7eefe408f76",
+      "Chronicles_CIVILIZATIONS.xml": "e25dc23a6ac55c532412f95f3452571719539fe4326f436c8ce31d00afc6347b",
+      "Chronicles_Civics.xml": "32a6297c6da05a4cb762514f393128b0c3f9ede4346aa2e90b4a3e0c1094c9d4",
+      "Chronicles_GreatPeople.xml": "6d62a5f3717dc0936bee9e55c3a2ee7a262442bbf806a3c4c79ca45cb3464021",
+      "Chronicles_Improvements.xml": "0600abf099aefdb9efe1269a776da51f4d056941d902da8b5293393bf28e8fe3",
+      "Chronicles_Other.xml": "4633607f603477bdd44d6fb97a4adfc50e46323da60dfd72dcc3dc1194d3d6bc",
+      "Chronicles_Promotions.xml": "efbb26d346ca6569a0af11ad5da6be8d1a411ae7437f6fe043e1b4df32109caa",
+      "Chronicles_Techs.xml": "0afc4f9ad31d55575cfd268ea3c31d9f98d189a7556c97fe46e37d85e1c40672",
+      "Chronicles_Terrain.xml": "a2d5a61f7ac8ac5ae13d6999fd3713b0425780d7007c981e71bcb3ba34d21a35",
+      "Chronicles_Units.xml": "716204c4248b77cb2f3bee73e2f436e01178105affc619d92b21004ff34c4517",
+      "DIPLOMACY.xml": "44148c49c8e5a49a03457bbc1468df4aa868b1534c44b9bcfdc3b33d36f53d52",
+      "ESPIONAGE.xml": "933bad88c2f7d1523edd7eab6d5f50055e4c9bfc174a45fffad722beb1f3502c",
+      "EVENTS.xml": "eafa624c5c72162f0b5755c63cda953000ff5657586cb38823fab2627255e1f4",
+      "GREAT_PERSONS.xml": "c679640a13ca35fc153420c83b2fbffdc4bb2889e5dd34fc6bf0d082bdbe7a4a",
+      "IMPROVEMENTS.xml": "624ff59a342b78d8c9caaf7ee41a86b3113a92659d879f93b680d8dc756add2c",
+      "IMPROVEMENTS_PEDIA.xml": "c6cd4d71f338390aaa048e6b5d531f22a3ac51f81ce1c12c90067e8e0942edf4",
+      "INTERFACE.xml": "b69d1a960219b7945d6ee42239c922b999b8efbd778a3bbd28d9f85ecebd5919",
+      "Inthegrave_GameText.xml": "0234e5e9588945b8ed23b5e82e4a8a1c0e667f30913057e8a45b5b7ff610e0dc",
+      "LEADERS.xml": "7687819aa23d6369e60bfa21e1fa6ae1c8787dc264f0caf89dca5d80b069ea0e",
+      "LEADERS_PEDIA.xml": "1633f30d50506d2dcf473de2b21d9b69d799307b5ec4e38bf09df2a2b69f2142",
+      "MAP_SCRIPTS.xml": "81c39c8162f273cc60a0e5aa3d448afc9f817dfc317a1f2eedbd3065e9d3078a",
+      "MISC.xml": "be0336826a950a658ec7615888fe516e01c38952f92ea11dbc44879a7097251a",
+      "MISC_PEDIA.xml": "ccdb4fe1835c669ec5eeb4bac5f3949701a35370cc3a27e78794b9bb0042a255",
+      "MISSIONS.xml": "c6e53b7743c1a1d0ae503f32b570f53fea353263bf9f40766cdf52f178a3ea06",
+      "NaturalWonders.xml": "2e843388c3757a337440f7440e3861e7ea26f4b273e0eaf1905016e51eadee14",
+      "PROJECTS.xml": "c25f79ea833d5e9d1d879a6a18b544fda3dca7e80124f909986227a3b5ac6dad",
+      "PROJECTS_PEDIA.xml": "9da715fa83b1e92d8ec1b2c89bfc669719b7a103a4ba150d56d2acaf8d83e0ca",
+      "PROJECTS_STRATEGY.xml": "87cab22fc9d1e3bc11d782aaffe8e14ca47b93726a2bc5bb71c9217f8c615a51",
+      "PROMOTIONS.xml": "d28b70469236eb0aab0b5083ddab0a184aeaa0c1772e7b2b2137e0fc6b512597",
+      "RELIGIONS.xml": "76ef8ef6cd0c5dc31bc50e7aa6168920caadb4c6114d8f7825f22afc0e657d9f",
+      "RELIGIONS_PEDIA.xml": "74d35ba73ea156a7436fca597b82a97d5074d57906c945b01c780a6818c4ec7e",
+      "RESSOURCES.xml": "7156ee5a47b1538f14cd5ab9e845bafcfbbf8dfac79598f51c6aaff675a040d8",
+      "RESSOURCES_PEDIA.xml": "ccb1bae434885cf4bed751e175918f536aeb1d051a7e48ddb42e06183f69536c",
+      "REVOLUTIONS.xml": "30cd88bf22f8d55ba200eff2ffc9fc260117dd855704d881cc39635e53413837",
+      "STRATEGIES.xml": "8bdca3666bd26becc9ff639a160510cf8f1005c1395c93872288fd8c14777eb3",
+      "STRATEGIES_PEDIA.xml": "106af7011c4c836654e3a352b3c9a271ba139f092fe4b1dd2c4cb1a2a6056867",
+      "TECHNOLOGIES.xml": "70cfa184817df9c38ba83e79574fdce980285f1d36720f517b45e7d159ae0fb7",
+      "TECHNOLOGIES_PEDIA.xml": "88dd41e0b3ab4b21d2c2f0a3796be90ae5e4af39400d089e9587401c9a32c8e0",
+      "TECHNOLOGIES_STRATEGY.xml": "7dfbb35e02935e1fb7af3f4405a9ab0199984637b37ee740ff8d6565171a3170",
+      "UNITS.xml": "cfd72b488392319e47d6447bdd61fa338c52584470790206e597e8c582c100fd",
+      "UNITS_PEDIA.xml": "6389b999585f20e5eaccf894bc17fd374ed7193d237dfda3c7054eb02b9be34f",
+      "UNITS_STRATEGY.xml": "765ee6c6b56cbd249b39991ea40376beb3f4f1d78a131ebca0ceb86d6135a350"
+    },
+    "legacy_overlay_removed_in_copy": [],
+    "independent_native_semantics_equal": 58,
+    "created_seconds": 8.623
+  },
+  "final_installation": {
+    "status": "PASS",
+    "package": "$WORKTREES/CoM-PL-public-english-v03",
+    "installer_sha256": "319abfc950fd7baaf60ba441340989cfc1309c03033be91d83d16ad8cf922e42",
+    "catalogue_sha256": "e90c2af4fa1a87bab60512a656d1bdb7ad4639ecd8f1e24469e11b623c42016a",
+    "freeze_sha256": "654cb5ab6cf3c6e9ab1efd775c096933da0b802607cf7ceca19482a2095fcf7d",
+    "tests_report_sha256": "1245f7297d90af49030a1d6d9c6c400412d0eedc99799c0ef9b3dd6f1ba7fa2a",
+    "tests": 70,
+    "source": "Civ4/Beyond the Sword/Mods/Chronicles of Mankind",
+    "destination": "$PROJECTS/RoM-PL/var/build/english-v03-loader/game/Civ4/Beyond the Sword/Mods/Chronicles of Mankind - Greywolf Forge",
+    "expected_output_set_sha256": "867f0f681eb0221eb9520f5a30e53e486927785838eb951d234c57cf97d6ae25",
+    "actual_output_files": {
+      "ACTIONS.xml": "1d86e10602ef1f3b85ab9f3654b3a400890223be1927e040d0e91b7c6d8d6cb4",
+      "BUILDINGS.xml": "d7f2782c790ae614b9a4dc069d3f86f8a8c2cddfd364cf2485e7f3d3db14428f",
+      "BUILDINGS_PEDIA.xml": "6643795bebf12ca14cc7961972154bf7c44031709fb21123d927b5aa553fa4e2",
+      "BUILDINGS_STRATEGY.xml": "a0040047a7da6e4324c4f7f28b960b39ba7d73c0ccda18c96958e0f83621a3ef",
+      "CITIES.xml": "b8ec6fdfd6bd5036e5b1e66440fd97fd4ffed7d3efa3d6466d84e129cb2a49a1",
+      "CIVICS.xml": "6d4f979bf6d68142d7b5d28b0be603d9b8f490ff1c956b7229be1eb46fc17281",
+      "CIVICS_PEDIA.xml": "9ac59f8448d0336ed6762e9639d4b966cf3a814eb14c6a4c33c47b6947a73441",
+      "CIVILIZATIONS.xml": "f1b7f24c555bd0c99162c277077051a274e5ff07d88818a1ad84b9450f5a4e83",
+      "CIVILIZATIONS_PEDIA.xml": "562df7532050aae3e5d69c6ed7e8cdeb74608a191e225f6d2710af20842ad777",
+      "COMBAT.xml": "bedb304cc3bc4e4b4e57bd85625730a7433c428862b072a699a8234d35a0c936",
+      "CONCEPTS.xml": "72ed41bfe4be24c89f7aadf83e10b9fa8fffc9e2323311983c90c6a22cb06597",
+      "CONCEPTS_PEDIA.xml": "1e79bc862745a897d4f669d81e95e92cbabb72435be01b36eb54381051ed471f",
+      "CORPORATIONS.xml": "d653040d3a017a0e600f0929f8093ee391660b238b5ff78006e3f920c5291eb6",
+      "CORPORATIONS_PEDIA.xml": "c3994702bb2341159ac5bff310ece7c4d7aa42d34e139e8270447a83a2578439",
+      "Chronicles_Bonus.xml": "5bfd5df29d4c303bd2f884e6b5139434f1e66b23c1ac9f06cc7de527c56740e6",
+      "Chronicles_Buildings.xml": "ce8fd8d2414f16a38e612b1dcdb35adc281db33a4e5250c045af79501fff4f35",
+      "Chronicles_CITIES.xml": "9404f6e34ab6cc6565fa3df93bdabd9f66d7d36a5a84382856475896989d6982",
+      "Chronicles_CIVILIZATIONS.xml": "b70d14ea429c5c3a97c245281b90ed13642ce6b1f2467434785beaf4f1293bfd",
+      "Chronicles_Civics.xml": "2dc3d9796a902a4489100049b61c8cd0b47d7d3712128861e01ad4b7df35c788",
+      "Chronicles_GreatPeople.xml": "9574bd0a5558fbb460ba05e0857634a113a0930ce6bdf5fc8eabee18fd72ecb7",
+      "Chronicles_Improvements.xml": "ef0cb4ae57ba5a3038279e0922fa78c19cc767d5bf135adaa89303b4d6237b5b",
+      "Chronicles_Other.xml": "38783cf6baeaac393b6b9f8a2a7e36c4226b92e69bd6b2e0c84966b4707c81bf",
+      "Chronicles_Promotions.xml": "426185bcd518dd253b4956200fdeeff139adb4be5d955924d091cfa520725601",
+      "Chronicles_Techs.xml": "7225bfe248f82db0906af2d364b99ef47f0ec2c5b849109554f000cb7ed612dc",
+      "Chronicles_Terrain.xml": "79ff4a641e8457c2e7279a7f907bcdd0ff956d224fd7d2e8fed9d616d8328a18",
+      "Chronicles_Units.xml": "fbf9966b217e06c063eaf98f7612887791e82940f69ad182d70dde455968dd9d",
+      "DIPLOMACY.xml": "1512dd4e0c8ba72950f2145dc45a10eeb0c2c3915f21077f24063f21afa64bb2",
+      "ESPIONAGE.xml": "c011fa7524d46781261710691cbdfce08b205087bd0b26bc6689002faeb514a8",
+      "EVENTS.xml": "00f5502fc9176cfde677798d216b334e57a349b5ee915bdb3b68a049b39a8880",
+      "GREAT_PERSONS.xml": "99102725f15a7375ca2275ecd3123e39d14fd3c88a5877d22d0318d748be46c0",
+      "IMPROVEMENTS.xml": "b4aea8194cffda4a5048457a228bb35de6fd2250bce665cf44c54634b2f2083d",
+      "IMPROVEMENTS_PEDIA.xml": "f821e57a1894b8999418ee493626c338a774198e0388a2e5a0800cd34bce252e",
+      "INTERFACE.xml": "07e75426deb4182242c6f95c7ed22ad0b51a1fef62f484ace10cfea251e6bb6a",
+      "Inthegrave_GameText.xml": "4e30c5953087c74f93645e33c5280f17cd0f14dc49a7413e7882cbad683716be",
+      "LEADERS.xml": "cb0330a7239b7de863a79b4e4bdadaf0ece67edb3a641e7b064ffdf3524da10f",
+      "LEADERS_PEDIA.xml": "f5f6767dd2e554a18c709536ae176b289e8080584f6d20a9b8015596521dfde1",
+      "MAP_SCRIPTS.xml": "49077a444644b4b921a2a94d6494a3804d55974c2d91f0968509732dc0243ce6",
+      "MISC.xml": "828f6ea9101a2142d3c0492e2020ef3402e86cf1f418a76f86970594ecee4be1",
+      "MISC_PEDIA.xml": "99bfbcd0808114f83a412927de447407f002588dea235b0f61d817f7ea994d24",
+      "MISSIONS.xml": "d1421afe231c8a9fd6904970c7af12c805cb6d260da8e8dbe486796d23b915d4",
+      "NaturalWonders.xml": "ab2f75151915b4faab660dcba07a4a7074bfb1c50f4dddc2ece3e317a8e65437",
+      "PROJECTS.xml": "cb70e8ccb30eccd6bffbfcd695a9f38d66e8f4431c1d9729f0825c36a517f770",
+      "PROJECTS_PEDIA.xml": "a93b244310c5ff2a3328bc94b3e286bdc97122a916c2b8559159550fd906a709",
+      "PROJECTS_STRATEGY.xml": "0f962b7656e2514b0ca7aedda0ff6b7a784d5c45a93b12c4dfb99b780207e9fc",
+      "PROMOTIONS.xml": "93a66d19f5832535fb2beff3396aabc13ddecca7af9e17631ed09b07d14fef2b",
+      "RELIGIONS.xml": "cd3c06e4a88c465c6d32a5af4534ebecd484a9667c8ccb0ba51710edb9876f3a",
+      "RELIGIONS_PEDIA.xml": "775c64055f34ad21b5b0d5dd443de8894a6e15f6ec7549703aac3150156378f5",
+      "RESSOURCES.xml": "3193c43ab6197ec60acbddf84ea96dbe2ea6b6c85c803bdbd34abe71e189ac6a",
+      "RESSOURCES_PEDIA.xml": "aa8cf00c0a9fa301ed2f5e5cddaf7423c1c0720bb560f396d3fe5362dc4dbd52",
+      "REVOLUTIONS.xml": "4f2827edaf694ec893dd419c8c551a04fc658fa663a130844fbb531f1056c362",
+      "STRATEGIES.xml": "23eeb9c1ce54d6f0576f82ba452aa893c86090478baed2359fb380641f85c26d",
+      "STRATEGIES_PEDIA.xml": "a1db29d0a371d11e533230f09bea2e45832f66bbda59ffe1781bc1e22712c9f8",
+      "TECHNOLOGIES.xml": "cad939c20936339f89b81ea46273282d442541702c1aefcb490be3aac4019c78",
+      "TECHNOLOGIES_PEDIA.xml": "28d67c4b15c3a4b78c13c96206f3bae7e656cce86bed82c2c7d88f7d6005b148",
+      "TECHNOLOGIES_STRATEGY.xml": "0f55ba0a145cb295ccf507e06520d190644ab058dfc51b92a14587bd14fdfed1",
+      "UNITS.xml": "d558bd499372c99ee76916737e9b891e3b46819de38cfd6dd74bc8dae0197b1d",
+      "UNITS_PEDIA.xml": "8e35da5a1cb2de0fe2744064dd3cca2845ef683fc839c19d56c4ec24a4c2970e",
+      "UNITS_STRATEGY.xml": "324e1d6bcfb9f4c7756e3cf9133dfd173f929110e0fb4252c26a08ce87260587"
+    },
+    "output_matches_frozen_files": true,
+    "source_before": {
+      "Assets/XML/Text/ACTIONS.xml": "fb419aa00ea74a4a7081a60d323a6bf7f3af52c9a403023953a202673fa70c5a",
+      "Assets/XML/Text/BUILDINGS.xml": "ecc35f55783ee0c3b382fc57a9b6a90b8ab3bae332dbcde3b1976cbc574de94f",
+      "Assets/XML/Text/BUILDINGS_PEDIA.xml": "940dddd2f34adc6fbad5d24cc381ef86e5bb94a293db68a45a3414bf48e07661",
+      "Assets/XML/Text/BUILDINGS_STRATEGY.xml": "2a27d43f67bf31bcea43d68a584910b1a1cd357a078e2c3d2d122335e8e150e0",
+      "Assets/XML/Text/CITIES.xml": "967f689537de227aa168df45292bdad2ceb6248cda987a7cc1346ae5209c7625",
+      "Assets/XML/Text/CIVICS.xml": "32d8080295f9544c721e966f6f4e3cf7c03600c7827d4a53fe0f26cf3e640496",
+      "Assets/XML/Text/CIVICS_PEDIA.xml": "f85573446ea85a2ffa4d8a029eb604423f53191101fc1628685393aa0ac537ff",
+      "Assets/XML/Text/CIVILIZATIONS.xml": "413e809ca387c411d379b72d527dd8cfd401d5671791e94e412c607dc94fbe94",
+      "Assets/XML/Text/CIVILIZATIONS_PEDIA.xml": "6da59167dba3f6ccd9a981bdad3b09e36c88ae6610f280d0f6197776e1ac39d8",
+      "Assets/XML/Text/COMBAT.xml": "72c6fac6bea7909a4a0e453200bf777c5d48462064422eb310b9bb7aad3e2778",
+      "Assets/XML/Text/CONCEPTS.xml": "bd18d32e47df65ec495573263753ca77f096540544eef0e21665f46922e52858",
+      "Assets/XML/Text/CONCEPTS_PEDIA.xml": "8848875a591ab2a541fe76c56b6b8694b5f061dcb25c8d5b4b78980889d6bbca",
+      "Assets/XML/Text/CORPORATIONS.xml": "218eba724f76c96520b869ad273ecf92ba6d70e495eb0e3c7ac1e7a7268a183a",
+      "Assets/XML/Text/CORPORATIONS_PEDIA.xml": "2446020cf868e0231e3978649aab41622435a56f550e048ce5c197d7a2704f0a",
+      "Assets/XML/Text/Chronicles_Bonus.xml": "a8974e973d6583984ea6185a11f8c9ad14a0910b751c58cae47aea4d572e44f0",
+      "Assets/XML/Text/Chronicles_Buildings.xml": "d79b8ec17e6f37ef0db8de994606fc2244c39b586b19043bd962b5479a14b30e",
+      "Assets/XML/Text/Chronicles_CITIES.xml": "00064402958625f8a7f1d19e2603e65c504ce36d8ab8f341933eb7eefe408f76",
+      "Assets/XML/Text/Chronicles_CIVILIZATIONS.xml": "e25dc23a6ac55c532412f95f3452571719539fe4326f436c8ce31d00afc6347b",
+      "Assets/XML/Text/Chronicles_Civics.xml": "32a6297c6da05a4cb762514f393128b0c3f9ede4346aa2e90b4a3e0c1094c9d4",
+      "Assets/XML/Text/Chronicles_GreatPeople.xml": "6d62a5f3717dc0936bee9e55c3a2ee7a262442bbf806a3c4c79ca45cb3464021",
+      "Assets/XML/Text/Chronicles_Improvements.xml": "0600abf099aefdb9efe1269a776da51f4d056941d902da8b5293393bf28e8fe3",
+      "Assets/XML/Text/Chronicles_Other.xml": "4633607f603477bdd44d6fb97a4adfc50e46323da60dfd72dcc3dc1194d3d6bc",
+      "Assets/XML/Text/Chronicles_Promotions.xml": "efbb26d346ca6569a0af11ad5da6be8d1a411ae7437f6fe043e1b4df32109caa",
+      "Assets/XML/Text/Chronicles_Techs.xml": "0afc4f9ad31d55575cfd268ea3c31d9f98d189a7556c97fe46e37d85e1c40672",
+      "Assets/XML/Text/Chronicles_Terrain.xml": "a2d5a61f7ac8ac5ae13d6999fd3713b0425780d7007c981e71bcb3ba34d21a35",
+      "Assets/XML/Text/Chronicles_Units.xml": "716204c4248b77cb2f3bee73e2f436e01178105affc619d92b21004ff34c4517",
+      "Assets/XML/Text/DIPLOMACY.xml": "44148c49c8e5a49a03457bbc1468df4aa868b1534c44b9bcfdc3b33d36f53d52",
+      "Assets/XML/Text/ESPIONAGE.xml": "933bad88c2f7d1523edd7eab6d5f50055e4c9bfc174a45fffad722beb1f3502c",
+      "Assets/XML/Text/EVENTS.xml": "eafa624c5c72162f0b5755c63cda953000ff5657586cb38823fab2627255e1f4",
+      "Assets/XML/Text/GREAT_PERSONS.xml": "c679640a13ca35fc153420c83b2fbffdc4bb2889e5dd34fc6bf0d082bdbe7a4a",
+      "Assets/XML/Text/IMPROVEMENTS.xml": "624ff59a342b78d8c9caaf7ee41a86b3113a92659d879f93b680d8dc756add2c",
+      "Assets/XML/Text/IMPROVEMENTS_PEDIA.xml": "c6cd4d71f338390aaa048e6b5d531f22a3ac51f81ce1c12c90067e8e0942edf4",
+      "Assets/XML/Text/INTERFACE.xml": "b69d1a960219b7945d6ee42239c922b999b8efbd778a3bbd28d9f85ecebd5919",
+      "Assets/XML/Text/Inthegrave_GameText.xml": "0234e5e9588945b8ed23b5e82e4a8a1c0e667f30913057e8a45b5b7ff610e0dc",
+      "Assets/XML/Text/LEADERS.xml": "7687819aa23d6369e60bfa21e1fa6ae1c8787dc264f0caf89dca5d80b069ea0e",
+      "Assets/XML/Text/LEADERS_PEDIA.xml": "1633f30d50506d2dcf473de2b21d9b69d799307b5ec4e38bf09df2a2b69f2142",
+      "Assets/XML/Text/MAP_SCRIPTS.xml": "81c39c8162f273cc60a0e5aa3d448afc9f817dfc317a1f2eedbd3065e9d3078a",
+      "Assets/XML/Text/MISC.xml": "be0336826a950a658ec7615888fe516e01c38952f92ea11dbc44879a7097251a",
+      "Assets/XML/Text/MISC_PEDIA.xml": "ccdb4fe1835c669ec5eeb4bac5f3949701a35370cc3a27e78794b9bb0042a255",
+      "Assets/XML/Text/MISSIONS.xml": "c6e53b7743c1a1d0ae503f32b570f53fea353263bf9f40766cdf52f178a3ea06",
+      "Assets/XML/Text/NaturalWonders.xml": "2e843388c3757a337440f7440e3861e7ea26f4b273e0eaf1905016e51eadee14",
+      "Assets/XML/Text/PROJECTS.xml": "c25f79ea833d5e9d1d879a6a18b544fda3dca7e80124f909986227a3b5ac6dad",
+      "Assets/XML/Text/PROJECTS_PEDIA.xml": "9da715fa83b1e92d8ec1b2c89bfc669719b7a103a4ba150d56d2acaf8d83e0ca",
+      "Assets/XML/Text/PROJECTS_STRATEGY.xml": "87cab22fc9d1e3bc11d782aaffe8e14ca47b93726a2bc5bb71c9217f8c615a51",
+      "Assets/XML/Text/PROMOTIONS.xml": "d28b70469236eb0aab0b5083ddab0a184aeaa0c1772e7b2b2137e0fc6b512597",
+      "Assets/XML/Text/RELIGIONS.xml": "76ef8ef6cd0c5dc31bc50e7aa6168920caadb4c6114d8f7825f22afc0e657d9f",
+      "Assets/XML/Text/RELIGIONS_PEDIA.xml": "74d35ba73ea156a7436fca597b82a97d5074d57906c945b01c780a6818c4ec7e",
+      "Assets/XML/Text/RESSOURCES.xml": "7156ee5a47b1538f14cd5ab9e845bafcfbbf8dfac79598f51c6aaff675a040d8",
+      "Assets/XML/Text/RESSOURCES_PEDIA.xml": "ccb1bae434885cf4bed751e175918f536aeb1d051a7e48ddb42e06183f69536c",
+      "Assets/XML/Text/REVOLUTIONS.xml": "30cd88bf22f8d55ba200eff2ffc9fc260117dd855704d881cc39635e53413837",
+      "Assets/XML/Text/STRATEGIES.xml": "8bdca3666bd26becc9ff639a160510cf8f1005c1395c93872288fd8c14777eb3",
+      "Assets/XML/Text/STRATEGIES_PEDIA.xml": "106af7011c4c836654e3a352b3c9a271ba139f092fe4b1dd2c4cb1a2a6056867",
+      "Assets/XML/Text/TECHNOLOGIES.xml": "70cfa184817df9c38ba83e79574fdce980285f1d36720f517b45e7d159ae0fb7",
+      "Assets/XML/Text/TECHNOLOGIES_PEDIA.xml": "88dd41e0b3ab4b21d2c2f0a3796be90ae5e4af39400d089e9587401c9a32c8e0",
+      "Assets/XML/Text/TECHNOLOGIES_STRATEGY.xml": "7dfbb35e02935e1fb7af3f4405a9ab0199984637b37ee740ff8d6565171a3170",
+      "Assets/XML/Text/UNITS.xml": "cfd72b488392319e47d6447bdd61fa338c52584470790206e597e8c582c100fd",
+      "Assets/XML/Text/UNITS_PEDIA.xml": "6389b999585f20e5eaccf894bc17fd374ed7193d237dfda3c7054eb02b9be34f",
+      "Assets/XML/Text/UNITS_STRATEGY.xml": "765ee6c6b56cbd249b39991ea40376beb3f4f1d78a131ebca0ceb86d6135a350",
+      "Assets/CvGameCoreDLL.dll": "6a6d239dce3d07d6833777976e3a278075833a6d58bcf0d55cd878aba68e19f7",
+      "Assets/Modules/Interface/Resource/Themes/Civ4/Civ4Theme_Common.thm": "776adb8cfbf716c852152cfa0a3bfb9df78cad8143cefe4243fc835ed0332177"
+    },
+    "source_after": {
+      "Assets/XML/Text/ACTIONS.xml": "fb419aa00ea74a4a7081a60d323a6bf7f3af52c9a403023953a202673fa70c5a",
+      "Assets/XML/Text/BUILDINGS.xml": "ecc35f55783ee0c3b382fc57a9b6a90b8ab3bae332dbcde3b1976cbc574de94f",
+      "Assets/XML/Text/BUILDINGS_PEDIA.xml": "940dddd2f34adc6fbad5d24cc381ef86e5bb94a293db68a45a3414bf48e07661",
+      "Assets/XML/Text/BUILDINGS_STRATEGY.xml": "2a27d43f67bf31bcea43d68a584910b1a1cd357a078e2c3d2d122335e8e150e0",
+      "Assets/XML/Text/CITIES.xml": "967f689537de227aa168df45292bdad2ceb6248cda987a7cc1346ae5209c7625",
+      "Assets/XML/Text/CIVICS.xml": "32d8080295f9544c721e966f6f4e3cf7c03600c7827d4a53fe0f26cf3e640496",
+      "Assets/XML/Text/CIVICS_PEDIA.xml": "f85573446ea85a2ffa4d8a029eb604423f53191101fc1628685393aa0ac537ff",
+      "Assets/XML/Text/CIVILIZATIONS.xml": "413e809ca387c411d379b72d527dd8cfd401d5671791e94e412c607dc94fbe94",
+      "Assets/XML/Text/CIVILIZATIONS_PEDIA.xml": "6da59167dba3f6ccd9a981bdad3b09e36c88ae6610f280d0f6197776e1ac39d8",
+      "Assets/XML/Text/COMBAT.xml": "72c6fac6bea7909a4a0e453200bf777c5d48462064422eb310b9bb7aad3e2778",
+      "Assets/XML/Text/CONCEPTS.xml": "bd18d32e47df65ec495573263753ca77f096540544eef0e21665f46922e52858",
+      "Assets/XML/Text/CONCEPTS_PEDIA.xml": "8848875a591ab2a541fe76c56b6b8694b5f061dcb25c8d5b4b78980889d6bbca",
+      "Assets/XML/Text/CORPORATIONS.xml": "218eba724f76c96520b869ad273ecf92ba6d70e495eb0e3c7ac1e7a7268a183a",
+      "Assets/XML/Text/CORPORATIONS_PEDIA.xml": "2446020cf868e0231e3978649aab41622435a56f550e048ce5c197d7a2704f0a",
+      "Assets/XML/Text/Chronicles_Bonus.xml": "a8974e973d6583984ea6185a11f8c9ad14a0910b751c58cae47aea4d572e44f0",
+      "Assets/XML/Text/Chronicles_Buildings.xml": "d79b8ec17e6f37ef0db8de994606fc2244c39b586b19043bd962b5479a14b30e",
+      "Assets/XML/Text/Chronicles_CITIES.xml": "00064402958625f8a7f1d19e2603e65c504ce36d8ab8f341933eb7eefe408f76",
+      "Assets/XML/Text/Chronicles_CIVILIZATIONS.xml": "e25dc23a6ac55c532412f95f3452571719539fe4326f436c8ce31d00afc6347b",
+      "Assets/XML/Text/Chronicles_Civics.xml": "32a6297c6da05a4cb762514f393128b0c3f9ede4346aa2e90b4a3e0c1094c9d4",
+      "Assets/XML/Text/Chronicles_GreatPeople.xml": "6d62a5f3717dc0936bee9e55c3a2ee7a262442bbf806a3c4c79ca45cb3464021",
+      "Assets/XML/Text/Chronicles_Improvements.xml": "0600abf099aefdb9efe1269a776da51f4d056941d902da8b5293393bf28e8fe3",
+      "Assets/XML/Text/Chronicles_Other.xml": "4633607f603477bdd44d6fb97a4adfc50e46323da60dfd72dcc3dc1194d3d6bc",
+      "Assets/XML/Text/Chronicles_Promotions.xml": "efbb26d346ca6569a0af11ad5da6be8d1a411ae7437f6fe043e1b4df32109caa",
+      "Assets/XML/Text/Chronicles_Techs.xml": "0afc4f9ad31d55575cfd268ea3c31d9f98d189a7556c97fe46e37d85e1c40672",
+      "Assets/XML/Text/Chronicles_Terrain.xml": "a2d5a61f7ac8ac5ae13d6999fd3713b0425780d7007c981e71bcb3ba34d21a35",
+      "Assets/XML/Text/Chronicles_Units.xml": "716204c4248b77cb2f3bee73e2f436e01178105affc619d92b21004ff34c4517",
+      "Assets/XML/Text/DIPLOMACY.xml": "44148c49c8e5a49a03457bbc1468df4aa868b1534c44b9bcfdc3b33d36f53d52",
+      "Assets/XML/Text/ESPIONAGE.xml": "933bad88c2f7d1523edd7eab6d5f50055e4c9bfc174a45fffad722beb1f3502c",
+      "Assets/XML/Text/EVENTS.xml": "eafa624c5c72162f0b5755c63cda953000ff5657586cb38823fab2627255e1f4",
+      "Assets/XML/Text/GREAT_PERSONS.xml": "c679640a13ca35fc153420c83b2fbffdc4bb2889e5dd34fc6bf0d082bdbe7a4a",
+      "Assets/XML/Text/IMPROVEMENTS.xml": "624ff59a342b78d8c9caaf7ee41a86b3113a92659d879f93b680d8dc756add2c",
+      "Assets/XML/Text/IMPROVEMENTS_PEDIA.xml": "c6cd4d71f338390aaa048e6b5d531f22a3ac51f81ce1c12c90067e8e0942edf4",
+      "Assets/XML/Text/INTERFACE.xml": "b69d1a960219b7945d6ee42239c922b999b8efbd778a3bbd28d9f85ecebd5919",
+      "Assets/XML/Text/Inthegrave_GameText.xml": "0234e5e9588945b8ed23b5e82e4a8a1c0e667f30913057e8a45b5b7ff610e0dc",
+      "Assets/XML/Text/LEADERS.xml": "7687819aa23d6369e60bfa21e1fa6ae1c8787dc264f0caf89dca5d80b069ea0e",
+      "Assets/XML/Text/LEADERS_PEDIA.xml": "1633f30d50506d2dcf473de2b21d9b69d799307b5ec4e38bf09df2a2b69f2142",
+      "Assets/XML/Text/MAP_SCRIPTS.xml": "81c39c8162f273cc60a0e5aa3d448afc9f817dfc317a1f2eedbd3065e9d3078a",
+      "Assets/XML/Text/MISC.xml": "be0336826a950a658ec7615888fe516e01c38952f92ea11dbc44879a7097251a",
+      "Assets/XML/Text/MISC_PEDIA.xml": "ccdb4fe1835c669ec5eeb4bac5f3949701a35370cc3a27e78794b9bb0042a255",
+      "Assets/XML/Text/MISSIONS.xml": "c6e53b7743c1a1d0ae503f32b570f53fea353263bf9f40766cdf52f178a3ea06",
+      "Assets/XML/Text/NaturalWonders.xml": "2e843388c3757a337440f7440e3861e7ea26f4b273e0eaf1905016e51eadee14",
+      "Assets/XML/Text/PROJECTS.xml": "c25f79ea833d5e9d1d879a6a18b544fda3dca7e80124f909986227a3b5ac6dad",
+      "Assets/XML/Text/PROJECTS_PEDIA.xml": "9da715fa83b1e92d8ec1b2c89bfc669719b7a103a4ba150d56d2acaf8d83e0ca",
+      "Assets/XML/Text/PROJECTS_STRATEGY.xml": "87cab22fc9d1e3bc11d782aaffe8e14ca47b93726a2bc5bb71c9217f8c615a51",
+      "Assets/XML/Text/PROMOTIONS.xml": "d28b70469236eb0aab0b5083ddab0a184aeaa0c1772e7b2b2137e0fc6b512597",
+      "Assets/XML/Text/RELIGIONS.xml": "76ef8ef6cd0c5dc31bc50e7aa6168920caadb4c6114d8f7825f22afc0e657d9f",
+      "Assets/XML/Text/RELIGIONS_PEDIA.xml": "74d35ba73ea156a7436fca597b82a97d5074d57906c945b01c780a6818c4ec7e",
+      "Assets/XML/Text/RESSOURCES.xml": "7156ee5a47b1538f14cd5ab9e845bafcfbbf8dfac79598f51c6aaff675a040d8",
+      "Assets/XML/Text/RESSOURCES_PEDIA.xml": "ccb1bae434885cf4bed751e175918f536aeb1d051a7e48ddb42e06183f69536c",
+      "Assets/XML/Text/REVOLUTIONS.xml": "30cd88bf22f8d55ba200eff2ffc9fc260117dd855704d881cc39635e53413837",
+      "Assets/XML/Text/STRATEGIES.xml": "8bdca3666bd26becc9ff639a160510cf8f1005c1395c93872288fd8c14777eb3",
+      "Assets/XML/Text/STRATEGIES_PEDIA.xml": "106af7011c4c836654e3a352b3c9a271ba139f092fe4b1dd2c4cb1a2a6056867",
+      "Assets/XML/Text/TECHNOLOGIES.xml": "70cfa184817df9c38ba83e79574fdce980285f1d36720f517b45e7d159ae0fb7",
+      "Assets/XML/Text/TECHNOLOGIES_PEDIA.xml": "88dd41e0b3ab4b21d2c2f0a3796be90ae5e4af39400d089e9587401c9a32c8e0",
+      "Assets/XML/Text/TECHNOLOGIES_STRATEGY.xml": "7dfbb35e02935e1fb7af3f4405a9ab0199984637b37ee740ff8d6565171a3170",
+      "Assets/XML/Text/UNITS.xml": "cfd72b488392319e47d6447bdd61fa338c52584470790206e597e8c582c100fd",
+      "Assets/XML/Text/UNITS_PEDIA.xml": "6389b999585f20e5eaccf894bc17fd374ed7193d237dfda3c7054eb02b9be34f",
+      "Assets/XML/Text/UNITS_STRATEGY.xml": "765ee6c6b56cbd249b39991ea40376beb3f4f1d78a131ebca0ceb86d6135a350",
+      "Assets/CvGameCoreDLL.dll": "6a6d239dce3d07d6833777976e3a278075833a6d58bcf0d55cd878aba68e19f7",
+      "Assets/Modules/Interface/Resource/Themes/Civ4/Civ4Theme_Common.thm": "776adb8cfbf716c852152cfa0a3bfb9df78cad8143cefe4243fc835ed0332177"
+    },
+    "source_unchanged": true,
+    "marker_sha256": "8d09dc4608e22e72634706fe5d236ab725dda75a1c291d416703714ac1ea8f1c",
+    "install_log": "$PROJECTS/RoM-PL/var/reports/english-v03-loader/com-final-install.log"
+  },
+  "runtime": {
+    "status": "PASS",
+    "created_utc": "2026-11-07T14:30:24.470106+00:00",
+    "scope": "Final frozen installer -> fresh isolated copies -> real Civ4 BTS main-menu startup and text lookup in English 0 and Polish 7",
+    "inputs": {
+      "RoM-PL": {
+        "package_file_sha256": {
+          "install.py": "319abfc950fd7baaf60ba441340989cfc1309c03033be91d83d16ad8cf922e42",
+          "manifest.json": "6e0daf2c5e1e22a984ee8dbeb44a3f5f975cf9c5b7c8cf7cd7067d81ecffc5f5",
+          "patches/english-corrections-v0.3.json": "da6a04af05cc6489dbc26a71f1508f1332f7e9570b9490fbae1c99fe71fbb22b",
+          "upstream/ZZZ_GreywolfForge_Polish.xml": "e80a39628b915e44527aa3bc3cfd6bf16e76fd3b1b0b66720220231dd25e26d2",
+          "upstream/ZZZ_GreywolfForge_English.xml": "207e6df448cf515c239e2299b10955070886bb865122280fc944e163ca53e84e"
+        },
+        "output_set_sha256": "34a31e938baa1cea08c5e71442fc4bda86fe0fccaa41b20e5fe4f496f0cee626",
+        "output_files": {
+          "ACTIONS.xml": "810ec0ce15d339b2f66f849c4281517965fd44249b900cbdd25e6e16da4cfcb9",
+          "BUILDINGS.xml": "af4ff4602cfb88323439cba8c37c9c6133a48d722dba21be17a223906f0e5f67",
+          "BUILDINGS_PEDIA.xml": "d538b52144797aa41c21d9757acb9c0a2f4adff7339932be6e67329a2ce7d8f9",
+          "BUILDINGS_STRATEGY.xml": "330399e7ce4ddde1af4cdf4c244e11d81d263ca2ec5395bb57c0469313251231",
+          "CITIES.xml": "f75a29df03fd09802dca342432c7a35392b17f5fb5ee24568784ae57b1a4fd6e",
+          "CIVICS.xml": "25a637f05a18fa50d939678ed1b5be7fc0cdb4ca921b526cc249536e2b507989",
+          "CIVICS_PEDIA.xml": "f753634d47453e20b1ca41c03c77dd625d09df1f1754a757a0fa583d2459432f",
+          "CIVILIZATIONS.xml": "eb84cecc7794893e126f0951c78815a4ca08027f25ca93278e4099315a8f5070",
+          "CIVILIZATIONS_PEDIA.xml": "86664537e9b42cb2cc077ad349719c1c33e61a20b3e440cf8c43ad95acd4491f",
+          "COMBAT.xml": "688fe5d038e447a8583abcfb6afb571413c91de4b33979b8eb80e879dcd66d1d",
+          "CONCEPTS.xml": "07a0dac48422e3ac319fd1a4ce89cd37bc5b077d983fa7e21b3cc7e8b4b1548b",
+          "CONCEPTS_PEDIA.xml": "6efff8c95dec786c0c94f02eea8c2e3d98eb7574c2260c6e867733b37b98dc05",
+          "CORPORATIONS.xml": "8ff03833f2958c9b8792638c8c0376be00163c92d45351d8c75f0dc92ab1873c",
+          "CORPORATIONS_PEDIA.xml": "b23cf2156e4f4b710a59954895df51e28db7f650ed67b14b5e4f2a992b1c44ac",
+          "DIPLOMACY.xml": "12d3d5a55c330a3437963072511e6fcdeaca2dc2c70b7afe4526ceacd7f9f2dc",
+          "ESPIONAGE.xml": "8827a149364d638d8556961872ff3ff158eb7ca521daa8d23c86da28c0b1bcfd",
+          "EVENTS.xml": "20631a82d6ed90571dcaae0cfcf6eb1bd8660d2f6941e1990cfff3417e8522bf",
+          "GREAT_PERSONS.xml": "99102725f15a7375ca2275ecd3123e39d14fd3c88a5877d22d0318d748be46c0",
+          "IMPROVEMENTS.xml": "88c4698205cedc5ba10dfe623e9a2e1c3eafd486a6e98f09a25ec6b2f0402f83",
+          "IMPROVEMENTS_PEDIA.xml": "f821e57a1894b8999418ee493626c338a774198e0388a2e5a0800cd34bce252e",
+          "INTERFACE.xml": "2daa452bae1ff0473ab6839fe6f1d9f97fb68dc051003e422d244e36bb9f7eee",
+          "LEADERS.xml": "2690749aa60a77da357d77e75c878eace1d35bb77e492ddcbab1c916aaedb4c1",
+          "LEADERS_PEDIA.xml": "f5f6767dd2e554a18c709536ae176b289e8080584f6d20a9b8015596521dfde1",
+          "MAP_SCRIPTS.xml": "49077a444644b4b921a2a94d6494a3804d55974c2d91f0968509732dc0243ce6",
+          "MISC.xml": "920a9cd9540df2e1d0e1d67e6f5a3ff242b6523d6cc20165d71afc6494851efd",
+          "MISC_PEDIA.xml": "8f878af222b02ce7b46283652d152cbb6464b88fed805c6740c2df9fd9f66384",
+          "MISSIONS.xml": "c6177dd1e6ecefdfc2778670c1230a8d171f00598d4ab06b9a9b056282268ba0",
+          "PROJECTS.xml": "998f553c3dd6acc8e01b7190a89400273e95f45b4bcacc199bc8f2c8fbbefda3",
+          "PROJECTS_PEDIA.xml": "3262d91b99b268063dc245924a01b74dd4ccaecb3448d1c85572cde76fb3304f",
+          "PROJECTS_STRATEGY.xml": "b3f6985b8492409e9702a7cb5f211cfbf5de072efa1d6710e1c26ca0f13ff2ad",
+          "PROMOTIONS.xml": "f6d6eeae3e7cf7abe4604768a3ac60442b62a36915d5b344264fe8b40329d300",
+          "RELIGIONS.xml": "ce255d5aa0f5f28867a924d59768c25214ecd8288487528132228c87432a0dfc",
+          "RELIGIONS_PEDIA.xml": "331c0112f31b332141a482e3a901060050c83f39df152e73773f56b340bd6f8d",
+          "RESSOURCES.xml": "29e491140290ff2c981dd932d61c30e4f19fcef9926a2fbc5db1e3f5f731bfd7",
+          "RESSOURCES_PEDIA.xml": "db8e320d2a620075a3a018d8773cab6d5c70abe9c538ffc173abd3152b748a80",
+          "REVOLUTIONS.xml": "ff241df8e2aa8dcd9483a7fb38fa997b474483a30d8f605ce381c921593da9dc",
+          "STRATEGIES.xml": "03188e1b8e9ece545bee4ff25327dcca97465af0e724d06b46d161d31567fd25",
+          "STRATEGIES_PEDIA.xml": "3e513d01e79de7e1608a9b73e979ffaebb8383a7b7c8b28d570f5c60a4446e69",
+          "TECHNOLOGIES.xml": "3ab75a799f979c788f56129ca598cba305037649eac7569a521fe2febda15815",
+          "TECHNOLOGIES_PEDIA.xml": "28d67c4b15c3a4b78c13c96206f3bae7e656cce86bed82c2c7d88f7d6005b148",
+          "TECHNOLOGIES_STRATEGY.xml": "d3329b4978616a8e535a972d100df3fe5dbfaa89259ef235fb9ee7dc64b8d425",
+          "UNITS.xml": "5c75e8e6b6db23bcadfaaed1a535f725c70304427d05f130d7f5cf7b9df161f3",
+          "UNITS_PEDIA.xml": "6d0c4b948973448ac44b7e0ce5c518412972b662f617d284d262043489887be4",
+          "UNITS_STRATEGY.xml": "6287e0a4ab17366bcb4980fbc5b25a10b890632681f9defd4031f6930a3abb08"
+        },
+        "destination": "$PROJECTS/RoM-PL/var/build/english-v03-loader/game/Civ4/Beyond the Sword/Mods/Rise of Mankind - A New Dawn - Greywolf Forge",
+        "source_guard_files": {
+          "Assets/CvGameCoreDLL.dll": "a5a88ede5b0183cc5617c0f672fa74bfb62e7b8d76c7d5b856fed3647759e129"
+        },
+        "installer_result": "INSTALLED_COPY",
+        "root_owned_suites_passed": 70,
+        "source": "Civ4/Beyond the Sword/Mods/Rise of Mankind - A New Dawn"
+      },
+      "CoM-PL": {
+        "package_file_sha256": {
+          "install.py": "319abfc950fd7baaf60ba441340989cfc1309c03033be91d83d16ad8cf922e42",
+          "manifest.json": "64ff55b1ec418ea770b8ce21879fb58853b477911ce6ff6faca9578cb4404e8a",
+          "patches/english-corrections-v0.3.json": "e90c2af4fa1a87bab60512a656d1bdb7ad4639ecd8f1e24469e11b623c42016a",
+          "upstream/ZZZ_GreywolfForge_Polish.xml": "6c21df085d42a6f432b777a1961b5705c1aa9c8fb65023d520d1f7cbe58a05f6",
+          "upstream/ZZZ_GreywolfForge_English.xml": "504a1eca8f80005ad9def6b628c9749d870178906369f0e6e698927f5a253067"
+        },
+        "output_set_sha256": "867f0f681eb0221eb9520f5a30e53e486927785838eb951d234c57cf97d6ae25",
+        "output_files": {
+          "ACTIONS.xml": "1d86e10602ef1f3b85ab9f3654b3a400890223be1927e040d0e91b7c6d8d6cb4",
+          "BUILDINGS.xml": "d7f2782c790ae614b9a4dc069d3f86f8a8c2cddfd364cf2485e7f3d3db14428f",
+          "BUILDINGS_PEDIA.xml": "6643795bebf12ca14cc7961972154bf7c44031709fb21123d927b5aa553fa4e2",
+          "BUILDINGS_STRATEGY.xml": "a0040047a7da6e4324c4f7f28b960b39ba7d73c0ccda18c96958e0f83621a3ef",
+          "CITIES.xml": "b8ec6fdfd6bd5036e5b1e66440fd97fd4ffed7d3efa3d6466d84e129cb2a49a1",
+          "CIVICS.xml": "6d4f979bf6d68142d7b5d28b0be603d9b8f490ff1c956b7229be1eb46fc17281",
+          "CIVICS_PEDIA.xml": "9ac59f8448d0336ed6762e9639d4b966cf3a814eb14c6a4c33c47b6947a73441",
+          "CIVILIZATIONS.xml": "f1b7f24c555bd0c99162c277077051a274e5ff07d88818a1ad84b9450f5a4e83",
+          "CIVILIZATIONS_PEDIA.xml": "562df7532050aae3e5d69c6ed7e8cdeb74608a191e225f6d2710af20842ad777",
+          "COMBAT.xml": "bedb304cc3bc4e4b4e57bd85625730a7433c428862b072a699a8234d35a0c936",
+          "CONCEPTS.xml": "72ed41bfe4be24c89f7aadf83e10b9fa8fffc9e2323311983c90c6a22cb06597",
+          "CONCEPTS_PEDIA.xml": "1e79bc862745a897d4f669d81e95e92cbabb72435be01b36eb54381051ed471f",
+          "CORPORATIONS.xml": "d653040d3a017a0e600f0929f8093ee391660b238b5ff78006e3f920c5291eb6",
+          "CORPORATIONS_PEDIA.xml": "c3994702bb2341159ac5bff310ece7c4d7aa42d34e139e8270447a83a2578439",
+          "Chronicles_Bonus.xml": "5bfd5df29d4c303bd2f884e6b5139434f1e66b23c1ac9f06cc7de527c56740e6",
+          "Chronicles_Buildings.xml": "ce8fd8d2414f16a38e612b1dcdb35adc281db33a4e5250c045af79501fff4f35",
+          "Chronicles_CITIES.xml": "9404f6e34ab6cc6565fa3df93bdabd9f66d7d36a5a84382856475896989d6982",
+          "Chronicles_CIVILIZATIONS.xml": "b70d14ea429c5c3a97c245281b90ed13642ce6b1f2467434785beaf4f1293bfd",
+          "Chronicles_Civics.xml": "2dc3d9796a902a4489100049b61c8cd0b47d7d3712128861e01ad4b7df35c788",
+          "Chronicles_GreatPeople.xml": "9574bd0a5558fbb460ba05e0857634a113a0930ce6bdf5fc8eabee18fd72ecb7",
+          "Chronicles_Improvements.xml": "ef0cb4ae57ba5a3038279e0922fa78c19cc767d5bf135adaa89303b4d6237b5b",
+          "Chronicles_Other.xml": "38783cf6baeaac393b6b9f8a2a7e36c4226b92e69bd6b2e0c84966b4707c81bf",
+          "Chronicles_Promotions.xml": "426185bcd518dd253b4956200fdeeff139adb4be5d955924d091cfa520725601",
+          "Chronicles_Techs.xml": "7225bfe248f82db0906af2d364b99ef47f0ec2c5b849109554f000cb7ed612dc",
+          "Chronicles_Terrain.xml": "79ff4a641e8457c2e7279a7f907bcdd0ff956d224fd7d2e8fed9d616d8328a18",
+          "Chronicles_Units.xml": "fbf9966b217e06c063eaf98f7612887791e82940f69ad182d70dde455968dd9d",
+          "DIPLOMACY.xml": "1512dd4e0c8ba72950f2145dc45a10eeb0c2c3915f21077f24063f21afa64bb2",
+          "ESPIONAGE.xml": "c011fa7524d46781261710691cbdfce08b205087bd0b26bc6689002faeb514a8",
+          "EVENTS.xml": "00f5502fc9176cfde677798d216b334e57a349b5ee915bdb3b68a049b39a8880",
+          "GREAT_PERSONS.xml": "99102725f15a7375ca2275ecd3123e39d14fd3c88a5877d22d0318d748be46c0",
+          "IMPROVEMENTS.xml": "b4aea8194cffda4a5048457a228bb35de6fd2250bce665cf44c54634b2f2083d",
+          "IMPROVEMENTS_PEDIA.xml": "f821e57a1894b8999418ee493626c338a774198e0388a2e5a0800cd34bce252e",
+          "INTERFACE.xml": "07e75426deb4182242c6f95c7ed22ad0b51a1fef62f484ace10cfea251e6bb6a",
+          "Inthegrave_GameText.xml": "4e30c5953087c74f93645e33c5280f17cd0f14dc49a7413e7882cbad683716be",
+          "LEADERS.xml": "cb0330a7239b7de863a79b4e4bdadaf0ece67edb3a641e7b064ffdf3524da10f",
+          "LEADERS_PEDIA.xml": "f5f6767dd2e554a18c709536ae176b289e8080584f6d20a9b8015596521dfde1",
+          "MAP_SCRIPTS.xml": "49077a444644b4b921a2a94d6494a3804d55974c2d91f0968509732dc0243ce6",
+          "MISC.xml": "828f6ea9101a2142d3c0492e2020ef3402e86cf1f418a76f86970594ecee4be1",
+          "MISC_PEDIA.xml": "99bfbcd0808114f83a412927de447407f002588dea235b0f61d817f7ea994d24",
+          "MISSIONS.xml": "d1421afe231c8a9fd6904970c7af12c805cb6d260da8e8dbe486796d23b915d4",
+          "NaturalWonders.xml": "ab2f75151915b4faab660dcba07a4a7074bfb1c50f4dddc2ece3e317a8e65437",
+          "PROJECTS.xml": "cb70e8ccb30eccd6bffbfcd695a9f38d66e8f4431c1d9729f0825c36a517f770",
+          "PROJECTS_PEDIA.xml": "a93b244310c5ff2a3328bc94b3e286bdc97122a916c2b8559159550fd906a709",
+          "PROJECTS_STRATEGY.xml": "0f962b7656e2514b0ca7aedda0ff6b7a784d5c45a93b12c4dfb99b780207e9fc",
+          "PROMOTIONS.xml": "93a66d19f5832535fb2beff3396aabc13ddecca7af9e17631ed09b07d14fef2b",
+          "RELIGIONS.xml": "cd3c06e4a88c465c6d32a5af4534ebecd484a9667c8ccb0ba51710edb9876f3a",
+          "RELIGIONS_PEDIA.xml": "775c64055f34ad21b5b0d5dd443de8894a6e15f6ec7549703aac3150156378f5",
+          "RESSOURCES.xml": "3193c43ab6197ec60acbddf84ea96dbe2ea6b6c85c803bdbd34abe71e189ac6a",
+          "RESSOURCES_PEDIA.xml": "aa8cf00c0a9fa301ed2f5e5cddaf7423c1c0720bb560f396d3fe5362dc4dbd52",
+          "REVOLUTIONS.xml": "4f2827edaf694ec893dd419c8c551a04fc658fa663a130844fbb531f1056c362",
+          "STRATEGIES.xml": "23eeb9c1ce54d6f0576f82ba452aa893c86090478baed2359fb380641f85c26d",
+          "STRATEGIES_PEDIA.xml": "a1db29d0a371d11e533230f09bea2e45832f66bbda59ffe1781bc1e22712c9f8",
+          "TECHNOLOGIES.xml": "cad939c20936339f89b81ea46273282d442541702c1aefcb490be3aac4019c78",
+          "TECHNOLOGIES_PEDIA.xml": "28d67c4b15c3a4b78c13c96206f3bae7e656cce86bed82c2c7d88f7d6005b148",
+          "TECHNOLOGIES_STRATEGY.xml": "0f55ba0a145cb295ccf507e06520d190644ab058dfc51b92a14587bd14fdfed1",
+          "UNITS.xml": "d558bd499372c99ee76916737e9b891e3b46819de38cfd6dd74bc8dae0197b1d",
+          "UNITS_PEDIA.xml": "8e35da5a1cb2de0fe2744064dd3cca2845ef683fc839c19d56c4ec24a4c2970e",
+          "UNITS_STRATEGY.xml": "324e1d6bcfb9f4c7756e3cf9133dfd173f929110e0fb4252c26a08ce87260587"
+        },
+        "destination": "$PROJECTS/RoM-PL/var/build/english-v03-loader/game/Civ4/Beyond the Sword/Mods/Chronicles of Mankind - Greywolf Forge",
+        "source_guard_files": {
+          "Assets/CvGameCoreDLL.dll": "6a6d239dce3d07d6833777976e3a278075833a6d58bcf0d55cd878aba68e19f7"
+        },
+        "installer_result": "INSTALLED_COPY",
+        "root_owned_suites_passed": 70,
+        "source": "Civ4/Beyond the Sword/Mods/Chronicles of Mankind"
+      }
+    },
+    "runs": [
+      {
+        "project": "RoM-PL",
+        "language": "English",
+        "language_index": 0,
+        "run": "rom-final-english",
+        "exit_code": 0,
+        "mod": "Rise of Mankind - A New Dawn - Greywolf Forge",
+        "cache_moved_to": "$PROJECTS/RoM-PL/var/build/english-v03-loader/cache-before-rom-final-english",
+        "ini_sha256": "04bc6e0469e27149ca2c991a624c1d66606d9791edd31f6f83d0c7554b66432f",
+        "xml_matches_frozen_before_and_after": true,
+        "configuration": {
+          "LANG": "pl_PL.UTF-8",
+          "LC_ALL": "pl_PL.UTF-8",
+          "DisableCaching": 1,
+          "DisableFileCaching": 1
+        },
+        "status": "PASS",
+        "python_errors_bytes": 0,
+        "completed_dump": true,
+        "distinct_exported_keys": 13919,
+        "successful_exported_values": 13918,
+        "known_preexisting_exceptions": {
+          "CHANGED_TXT_KEY_UNIT_TRIREME_PEDIA": "ERROR 'unidentifiable C++ exception'"
+        },
+        "catalogue_lookup_passes": 18,
+        "catalogue_lookup_results": {
+          "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 66,
+            "raw_runtime_unicode_sha256": "903f984f643cc27cf5ed32805ebb8e7c76cca4c3f9c4ac870a090c503e68c5d1",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "'TRADE'",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 1757,
+            "raw_runtime_unicode_sha256": "cb4001469cde3bdeb5dedbd46eaa813b645dd90e5fec8801e20d9a9fe9bbb21b",
+            "literal_segments_checked": 32,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "tt2[f][x]",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE": {
+            "status": "PASS",
+            "raw_runtime_characters": 107,
+            "raw_runtime_unicode_sha256": "6ba1fc8845e17ef764fe20a49f208147385fb7e52be7f7a938b25f8733b38b94",
+            "literal_segments_checked": 3,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s",
+              "s",
+              "s",
+              "s",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "quest of Hostile Takeover",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 910,
+            "raw_runtime_unicode_sha256": "3d162af1ac63c213712849c1272e69ac437d99a9d4f2d6369aec2ec5085aaf1a",
+            "literal_segments_checked": 14,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "if your team acquires Controlled Plasma, Micromechanics, Metamaterials, Artificial Intelligence, Ecological Engineering, Brain Machine Interface or Mesh Networks",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 590,
+            "raw_runtime_unicode_sha256": "593dda9177f3342c38bf0840a8eac45654337766cb32b79ebba0029046fd0dbb",
+            "literal_segments_checked": 12,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Nobility",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP": {
+            "status": "PASS",
+            "raw_runtime_characters": 173,
+            "raw_runtime_unicode_sha256": "a12274b45507968df9211eeb49dd5a068c024a67bfd22e8f2ae3a0339be94b64",
+            "literal_segments_checked": 4,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Planned",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_FEAT_NATIONAL_WONDER": {
+            "status": "PASS",
+            "raw_runtime_characters": 340,
+            "raw_runtime_unicode_sha256": "d568ef4ccd6862737b6f63e6a0da8707b4267f7cfe003c9937599bfc3207f733",
+            "literal_segments_checked": 3,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s"
+            ],
+            "source_file": "MISC.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "as the normal National Wonder limit depends on the city's culture level. The Unlimited Wonders option removes this limit.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_HINT_28": {
+            "status": "PASS",
+            "raw_runtime_characters": 186,
+            "raw_runtime_unicode_sha256": "cdccc9c690dcd5a6144f96744c4eb0839a135ae39116392750e634415f04440c",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Remember that the normal National Wonder limit depends on city culture. Plan ahead: leave room for future buildings such as an Ironworks! The Unlimited Wonders option removes this limit.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4": {
+            "status": "PASS",
+            "raw_runtime_characters": 90,
+            "raw_runtime_unicode_sha256": "dfa24bacdd719e3cf39d78df22117368ca3146e8fe75469ccebb9d16d0b72747",
+            "literal_segments_checked": 2,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s"
+            ],
+            "source_file": "MISC.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "+1 Oil Products resource",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_RESEARCH_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 13189,
+            "raw_runtime_unicode_sha256": "286073d40205c0f1dba344e79c47bfc5eadc7b41f392002ea1da487f8315422c",
+            "literal_segments_checked": 156,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": ". Version note: this historical article describes the author's model of early vanilla Civilization IV. It is not a verified description of later versions. Vanilla 1.61 already adds the known-team and prerequisite bonuses to a common base, counts living teams, awards prerequisite bonuses for known OR prerequisites, calculates team research costs differently, and normalizes overflow. Keep the formulas and overflow advice below in their historical context; do not apply them directly to Warlords, Beyond the Sword or mods.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_SE_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 14129,
+            "raw_runtime_unicode_sha256": "da08fabe29e55e2d18dcdfc45872a344354ddb042578255f9c19ba6f1df18ac2",
+            "literal_segments_checked": 100,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Non-Citizen specialists normally require available slots, usually supplied by buildings (e.g. a Library enables two Scientists); ordinary Citizens do not require a building.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_UB_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 141380,
+            "raw_runtime_unicode_sha256": "5e0d44faa92ef8fd69b78d7969833e40a9faa121f62456f410b2ea7d674e387c",
+            "literal_segments_checked": 783,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "To a total of 50% hammer increase from buildings (forge and factory), you can add +50% from power (supplied by the either hydro, coal or nuclear plants, but the Three Gorges Dam can be more economical), +100% from the Ironworks (+50% each for iron and coal), +50% from Bureaucracy. With some good food sources you will max out your eight engineers",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_UU_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 82374,
+            "raw_runtime_unicode_sha256": "368ddc87192373d7fd6af36f7f753356143f6e1ff4c51f566af8867d7b00493d",
+            "literal_segments_checked": 178,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "On this note, there's another interesting use for Musketeers in vanilla/Warlords. Try postponing Chemistry and beelining to Military Tradition for early cavalry; in BtS, cavalry also require Rifling, so this early timing no longer applies.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_VASSALAGE_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 29079,
+            "raw_runtime_unicode_sha256": "88a1a8b9f40f5ea7e34e359611aa8bac4f5f185a7619c2604900c3457b1911b6",
+            "literal_segments_checked": 190,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Financial (+1 Commerce on plots already producing at least 2 Commerce)",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WAR_WEARINESS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 3002,
+            "raw_runtime_unicode_sha256": "0d86fd23a7792d9ccb74b630315b3f7643b875dff12fd4ad302f6f57289b8465",
+            "literal_segments_checked": 49,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "below is an approximation before the game truncates intermediate integer calculations and combines anger into unhappy citizens:",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_HEALTHY_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 6598,
+            "raw_runtime_unicode_sha256": "e215f530e446c86e646c6a7e163914db5c8d9bbf41ad88a63dcb6316bd892c15",
+            "literal_segments_checked": 138,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "You can have a total of +19 health from the listed buildings, 14 of those being already accounted for in chapter 1: the resources.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_PRODUCTION_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 20737,
+            "raw_runtime_unicode_sha256": "917300652a26bee1bb5f487cbaea9f0e572fa16279029eade6a749b8ab3e48fa",
+            "literal_segments_checked": 250,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "turn 9: the stored base overflow after turns 5, 6, 7 and 8 is 4, 8, 12 and 16 hammers respectively. You can build what you want with FLOOR((16 hammers overflow + 5 base hammers)*1.25 from the forge) = 26 hammers.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WK_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 88082,
+            "raw_runtime_unicode_sha256": "9fa7c99196c0ee08cfafd67b170d783736fcf1edcce087c9f5ed5860dfedf5dc",
+            "literal_segments_checked": 438,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "(for births that increase the threshold in original Civilization IV 1.61, on Normal speed with an Ancient start and a one-player team: 5 GPs = 1,500 points, 10 GPs = 5,500 points, 15 GPs = 13,500 points, 20 GPs = 26,500 points, 25 GPs = 46,000 points, 30 GPs = 73,000 points, 35 GPs = 109,000 points, 40 GPs = 155,000 points)",
+            "characteristic_corrected_fragment_present": true
+          }
+        },
+        "literal_segments_checked": 2354,
+        "all_frozen_text_files_loaded": 44,
+        "no_loader_fixture_present": true,
+        "menu_visual_inspection": "PASS: correct mod title and language, main menu fully rendered",
+        "evidence_sha256": {
+          "results.tsv": "0e53302c00104effde513bb08d055352c7d4eb303f893d86e2503159703a9552",
+          "init.log": "235a59d6be63631365ddba91eab9730a793fedf6b6b6dcf3f1c238c879746b0c",
+          "xml.log": "d378c5ca2ba52f0646a414519460d1a5fad3dd68bff7fad7a014465fe0876424",
+          "PythonErr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "PythonDbg.log": "d778445dfef8c3217163aa1343e744831e1d92b8d608a80f5966bd8fcebca450",
+          "screen.jpg": "ff5dc322e84b02ab6195a6c4283d7d1e5793e96a436390e46d21480acd804a46",
+          "qa.log": "333bcb3a1e468e628e1cea207fe88b40a3e0dd9b94dbd350467e35acf4821c48",
+          "cleanup.json": "a0963213e1a66a037f856d6e4ab4200aaf3b23ad1d88e052508817330c185506"
+        }
+      },
+      {
+        "project": "RoM-PL",
+        "language": "Polish",
+        "language_index": 7,
+        "run": "rom-final-polish",
+        "exit_code": 0,
+        "mod": "Rise of Mankind - A New Dawn - Greywolf Forge",
+        "cache_moved_to": "$PROJECTS/RoM-PL/var/build/english-v03-loader/cache-before-rom-final-polish",
+        "ini_sha256": "2388152bbe0516df90a94e4832c280cac2ade96a1a528672a85ff72c2b0851ca",
+        "xml_matches_frozen_before_and_after": true,
+        "configuration": {
+          "LANG": "pl_PL.UTF-8",
+          "LC_ALL": "pl_PL.UTF-8",
+          "DisableCaching": 1,
+          "DisableFileCaching": 1
+        },
+        "status": "PASS",
+        "python_errors_bytes": 0,
+        "completed_dump": true,
+        "distinct_exported_keys": 13919,
+        "successful_exported_values": 13918,
+        "known_preexisting_exceptions": {
+          "CHANGED_TXT_KEY_UNIT_TRIREME_PEDIA": "ERROR 'unidentifiable C++ exception'"
+        },
+        "catalogue_lookup_passes": 18,
+        "catalogue_lookup_results": {
+          "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 47,
+            "raw_runtime_unicode_sha256": "aafaf0cc91c401ebb33e76af54d0230b4867612e7db12b541e8ff124dcb2b0cf",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 2006,
+            "raw_runtime_unicode_sha256": "39a96bb73a2b8f3eb64a4eef05ed3258d7056c097a86d01ad4c75e9e5b352fac",
+            "literal_segments_checked": 32,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE": {
+            "status": "PASS",
+            "raw_runtime_characters": 124,
+            "raw_runtime_unicode_sha256": "fdb566626245408c5fd12fc4c51e0a5c9f1913ca417a7ca742731bac3b1832fb",
+            "literal_segments_checked": 2,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s",
+              "s",
+              "s",
+              "s",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 896,
+            "raw_runtime_unicode_sha256": "8b0b34e71248bed87db55b6d4355c64b2bb4d5bed1a456766b5802c9a82a98aa",
+            "literal_segments_checked": 14,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 529,
+            "raw_runtime_unicode_sha256": "5dec3f0bcd126b9c937a532660d678008cc1e84b56e799d20fc240dd8c9aac30",
+            "literal_segments_checked": 9,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP": {
+            "status": "PASS",
+            "raw_runtime_characters": 166,
+            "raw_runtime_unicode_sha256": "cbf1255fe84ec403ec47433559fabcfd5383bcdb5e46d9dd5ab6dbc7d91e665b",
+            "literal_segments_checked": 5,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_FEAT_NATIONAL_WONDER": {
+            "status": "PASS",
+            "raw_runtime_characters": 290,
+            "raw_runtime_unicode_sha256": "580876e438408696cc23f051ebea338ff1d2c3f42a0204121b057b6a099b7908",
+            "literal_segments_checked": 3,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s"
+            ],
+            "source_file": "MISC.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_HINT_28": {
+            "status": "PASS",
+            "raw_runtime_characters": 183,
+            "raw_runtime_unicode_sha256": "d1d90961db5a2de6f86e1222f326f17780c8c754c140d5cceeeb895d20875448",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4": {
+            "status": "PASS",
+            "raw_runtime_characters": 113,
+            "raw_runtime_unicode_sha256": "40b06862de14d7b305016b19347a70e36428aff3dba3e27286f26b8a4b85c702",
+            "literal_segments_checked": 2,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s"
+            ],
+            "source_file": "MISC.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_RESEARCH_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 15047,
+            "raw_runtime_unicode_sha256": "a4684d1b9ed354f269e41b1eec5c1fcfca2e92a707e07f945a15f927f98e7071",
+            "literal_segments_checked": 157,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_SE_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 15656,
+            "raw_runtime_unicode_sha256": "08a2e0051c602364658279e099faa203bb6eb9d431ec762a96294467a2d1841d",
+            "literal_segments_checked": 100,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_UB_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 128299,
+            "raw_runtime_unicode_sha256": "e8a680d8a43f38b6c23c5d5a906468d79d412faf07214404116c3a7e3e8a0275",
+            "literal_segments_checked": 673,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_UU_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 84497,
+            "raw_runtime_unicode_sha256": "f3164be8d5e648652e6ace345615179f5f3073a93bbaedd4561485fffb24c797",
+            "literal_segments_checked": 177,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_VASSALAGE_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 29050,
+            "raw_runtime_unicode_sha256": "686d82811fb09ee06682a0444ed03b726a1704875c525eb0592b4e2bc68c133c",
+            "literal_segments_checked": 188,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WAR_WEARINESS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 4130,
+            "raw_runtime_unicode_sha256": "4b4c9e67e3458a7f9d2ef1e5e7ffd1fcbeceaeeb44fad716a1a043612e514a9f",
+            "literal_segments_checked": 49,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_HEALTHY_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 6567,
+            "raw_runtime_unicode_sha256": "47d25dcbcf16a35da1c147a4586ae1538ac43ef43ec1f7ab74f1b476718f362b",
+            "literal_segments_checked": 136,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_PRODUCTION_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 22704,
+            "raw_runtime_unicode_sha256": "6dd52ab2397e718b5fa33fd20d430f0f71d2a25302b674f513813cd56a1a0f05",
+            "literal_segments_checked": 248,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WK_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 94187,
+            "raw_runtime_unicode_sha256": "e784fab51a9f7c43494ed1749e2eabfcb5f140c4a42c04194821e64e536666ab",
+            "literal_segments_checked": 439,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          }
+        },
+        "literal_segments_checked": 2236,
+        "all_frozen_text_files_loaded": 44,
+        "no_loader_fixture_present": true,
+        "menu_visual_inspection": "PASS: correct mod title and language, main menu fully rendered",
+        "evidence_sha256": {
+          "results.tsv": "18155476107c0dbe39897a1e82d4695fe07efc91f31f034453ccbd0ccf75367e",
+          "init.log": "90eef028f05b3b401b73f16d8997ad3021b654ca332c8982c1670f372963ad39",
+          "xml.log": "f1ee4e83d1d09816727884d2e86ac63b7bdae791325e80c4acb64897025c6378",
+          "PythonErr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "PythonDbg.log": "9db0eed6f728055e83e9e5f5abf00c99e0bdc7967055ff5cd1a341b5e5ef3625",
+          "screen.jpg": "f0f771830e23674a5152db119bb05aba9f543ca502d0f0d9a97343e7b26fed24",
+          "qa.log": "fc394c348fa97588bb7a6f4bada58fa572c1e564e8fc256d2c69a5fab36182e1",
+          "cleanup.json": "45cd7d056b643e5f326a85686acc0ba883627b4c0bdcaf5875ae240434c16017"
+        }
+      },
+      {
+        "project": "CoM-PL",
+        "language": "English",
+        "language_index": 0,
+        "run": "com-final-english",
+        "exit_code": 0,
+        "mod": "Chronicles of Mankind - Greywolf Forge",
+        "cache_moved_to": "$PROJECTS/RoM-PL/var/build/english-v03-loader/cache-before-com-final-english",
+        "ini_sha256": "4ba2aac5d2d71ea0e085a17e4601a21c562cc963fd4248c70ef9d5b33cd7335b",
+        "xml_matches_frozen_before_and_after": true,
+        "configuration": {
+          "LANG": "pl_PL.UTF-8",
+          "LC_ALL": "pl_PL.UTF-8",
+          "DisableCaching": 1,
+          "DisableFileCaching": 1
+        },
+        "status": "PASS",
+        "python_errors_bytes": 0,
+        "completed_dump": true,
+        "distinct_exported_keys": 18266,
+        "successful_exported_values": 18265,
+        "known_preexisting_exceptions": {
+          "CHANGED_TXT_KEY_UNIT_TRIREME_PEDIA": "ERROR 'unidentifiable C++ exception'"
+        },
+        "catalogue_lookup_passes": 18,
+        "catalogue_lookup_results": {
+          "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 66,
+            "raw_runtime_unicode_sha256": "903f984f643cc27cf5ed32805ebb8e7c76cca4c3f9c4ac870a090c503e68c5d1",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "'TRADE'",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 1757,
+            "raw_runtime_unicode_sha256": "cb4001469cde3bdeb5dedbd46eaa813b645dd90e5fec8801e20d9a9fe9bbb21b",
+            "literal_segments_checked": 32,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "tt2[f][x]",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_BUILD_FISHING_TOWN_NO_FERRY": {
+            "status": "PASS",
+            "raw_runtime_characters": 34,
+            "raw_runtime_unicode_sha256": "a361327a3edf612d0b1e527eb0627d5783c0585eb08d066ef943fdbf9a4a8776",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "Chronicles_Improvements.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "(without Ferry)",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE": {
+            "status": "PASS",
+            "raw_runtime_characters": 107,
+            "raw_runtime_unicode_sha256": "6ba1fc8845e17ef764fe20a49f208147385fb7e52be7f7a938b25f8733b38b94",
+            "literal_segments_checked": 3,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s",
+              "s",
+              "s",
+              "s",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "quest of Hostile Takeover",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 910,
+            "raw_runtime_unicode_sha256": "3d162af1ac63c213712849c1272e69ac437d99a9d4f2d6369aec2ec5085aaf1a",
+            "literal_segments_checked": 14,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "if your team acquires Controlled Plasma, Micromechanics, Metamaterials, Artificial Intelligence, Ecological Engineering, Brain Machine Interface or Mesh Networks",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 590,
+            "raw_runtime_unicode_sha256": "593dda9177f3342c38bf0840a8eac45654337766cb32b79ebba0029046fd0dbb",
+            "literal_segments_checked": 12,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Nobility",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP": {
+            "status": "PASS",
+            "raw_runtime_characters": 173,
+            "raw_runtime_unicode_sha256": "a12274b45507968df9211eeb49dd5a068c024a67bfd22e8f2ae3a0339be94b64",
+            "literal_segments_checked": 4,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Planned",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 517,
+            "raw_runtime_unicode_sha256": "698fec3fd13a1822db790967d6eb3ac3cd91da9b15f4e758faaf179e9047fa20",
+            "literal_segments_checked": 7,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "if your team acquires Aerodynamics, Electronics, Globalization or Antibiotics",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4": {
+            "status": "PASS",
+            "raw_runtime_characters": 90,
+            "raw_runtime_unicode_sha256": "dfa24bacdd719e3cf39d78df22117368ca3146e8fe75469ccebb9d16d0b72747",
+            "literal_segments_checked": 2,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s"
+            ],
+            "source_file": "MISC.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "+1 Oil Products resource",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_RESEARCH_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 13189,
+            "raw_runtime_unicode_sha256": "286073d40205c0f1dba344e79c47bfc5eadc7b41f392002ea1da487f8315422c",
+            "literal_segments_checked": 156,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": ". Version note: this historical article describes the author's model of early vanilla Civilization IV. It is not a verified description of later versions. Vanilla 1.61 already adds the known-team and prerequisite bonuses to a common base, counts living teams, awards prerequisite bonuses for known OR prerequisites, calculates team research costs differently, and normalizes overflow. Keep the formulas and overflow advice below in their historical context; do not apply them directly to Warlords, Beyond the Sword or mods.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_SE_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 14129,
+            "raw_runtime_unicode_sha256": "da08fabe29e55e2d18dcdfc45872a344354ddb042578255f9c19ba6f1df18ac2",
+            "literal_segments_checked": 100,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Non-Citizen specialists normally require available slots, usually supplied by buildings (e.g. a Library enables two Scientists); ordinary Citizens do not require a building.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_UB_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 141380,
+            "raw_runtime_unicode_sha256": "5e0d44faa92ef8fd69b78d7969833e40a9faa121f62456f410b2ea7d674e387c",
+            "literal_segments_checked": 783,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "To a total of 50% hammer increase from buildings (forge and factory), you can add +50% from power (supplied by the either hydro, coal or nuclear plants, but the Three Gorges Dam can be more economical), +100% from the Ironworks (+50% each for iron and coal), +50% from Bureaucracy. With some good food sources you will max out your eight engineers",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_UU_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 82374,
+            "raw_runtime_unicode_sha256": "368ddc87192373d7fd6af36f7f753356143f6e1ff4c51f566af8867d7b00493d",
+            "literal_segments_checked": 178,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "On this note, there's another interesting use for Musketeers in vanilla/Warlords. Try postponing Chemistry and beelining to Military Tradition for early cavalry; in BtS, cavalry also require Rifling, so this early timing no longer applies.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_VASSALAGE_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 29079,
+            "raw_runtime_unicode_sha256": "88a1a8b9f40f5ea7e34e359611aa8bac4f5f185a7619c2604900c3457b1911b6",
+            "literal_segments_checked": 190,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "Financial (+1 Commerce on plots already producing at least 2 Commerce)",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WAR_WEARINESS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 3002,
+            "raw_runtime_unicode_sha256": "0d86fd23a7792d9ccb74b630315b3f7643b875dff12fd4ad302f6f57289b8465",
+            "literal_segments_checked": 49,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "below is an approximation before the game truncates intermediate integer calculations and combines anger into unhappy citizens:",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_HEALTHY_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 6598,
+            "raw_runtime_unicode_sha256": "e215f530e446c86e646c6a7e163914db5c8d9bbf41ad88a63dcb6316bd892c15",
+            "literal_segments_checked": 138,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "You can have a total of +19 health from the listed buildings, 14 of those being already accounted for in chapter 1: the resources.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_PRODUCTION_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 20737,
+            "raw_runtime_unicode_sha256": "917300652a26bee1bb5f487cbaea9f0e572fa16279029eade6a749b8ab3e48fa",
+            "literal_segments_checked": 250,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "turn 9: the stored base overflow after turns 5, 6, 7 and 8 is 4, 8, 12 and 16 hammers respectively. You can build what you want with FLOOR((16 hammers overflow + 5 base hammers)*1.25 from the forge) = 26 hammers.",
+            "characteristic_corrected_fragment_present": true
+          },
+          "TXT_KEY_STRATEGY_WK_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 88082,
+            "raw_runtime_unicode_sha256": "9fa7c99196c0ee08cfafd67b170d783736fcf1edcce087c9f5ed5860dfedf5dc",
+            "literal_segments_checked": 438,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "English",
+            "characteristic_corrected_fragment": "(for births that increase the threshold in original Civilization IV 1.61, on Normal speed with an Ancient start and a one-player team: 5 GPs = 1,500 points, 10 GPs = 5,500 points, 15 GPs = 13,500 points, 20 GPs = 26,500 points, 25 GPs = 46,000 points, 30 GPs = 73,000 points, 35 GPs = 109,000 points, 40 GPs = 155,000 points)",
+            "characteristic_corrected_fragment_present": true
+          }
+        },
+        "literal_segments_checked": 2358,
+        "all_frozen_text_files_loaded": 58,
+        "no_loader_fixture_present": true,
+        "menu_visual_inspection": "PASS: correct mod title and language, main menu fully rendered",
+        "evidence_sha256": {
+          "results.tsv": "8cf647287da266303d416c3e7ebac554345e14a0a6f8a24481fde61f08154c70",
+          "init.log": "a9597ca97bfa7eeafbcd19e1247762dba86773ae61be3e364bfa5148644d96b2",
+          "xml.log": "4fe3238e27195184da3b0dcd6fd04a6466591ab8bbd49060fa26c9e94dbaf644",
+          "PythonErr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "PythonDbg.log": "d195f37676ab19624f841eee9467b1480ca53e5d406ebf67c3c31cc40a11dd18",
+          "screen.jpg": "0c06fd7f34df6e785515fb11b1f09c61625f73ab06969607e9105950f792df07",
+          "qa.log": "ebc4001592dd07225fe23185cce6fbba08c2f931a2d7370e2d619c974a59d977",
+          "cleanup.json": "05d94f35b1e327291cf2bd07f4bde9980e13f0d8e465bc8ae00868aa414153f5"
+        }
+      },
+      {
+        "project": "CoM-PL",
+        "language": "Polish",
+        "language_index": 7,
+        "run": "com-final-polish",
+        "exit_code": 0,
+        "mod": "Chronicles of Mankind - Greywolf Forge",
+        "cache_moved_to": "$PROJECTS/RoM-PL/var/build/english-v03-loader/cache-before-com-final-polish",
+        "ini_sha256": "da04b1017e29fcc355b7ae21b18168ce14e7ca778ebe5f9d4125da4052cc0e05",
+        "xml_matches_frozen_before_and_after": true,
+        "configuration": {
+          "LANG": "pl_PL.UTF-8",
+          "LC_ALL": "pl_PL.UTF-8",
+          "DisableCaching": 1,
+          "DisableFileCaching": 1
+        },
+        "status": "PASS",
+        "python_errors_bytes": 0,
+        "completed_dump": true,
+        "distinct_exported_keys": 18266,
+        "successful_exported_values": 18265,
+        "known_preexisting_exceptions": {
+          "CHANGED_TXT_KEY_UNIT_TRIREME_PEDIA": "ERROR 'unidentifiable C++ exception'"
+        },
+        "catalogue_lookup_passes": 18,
+        "catalogue_lookup_results": {
+          "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 47,
+            "raw_runtime_unicode_sha256": "aafaf0cc91c401ebb33e76af54d0230b4867612e7db12b541e8ff124dcb2b0cf",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER": {
+            "status": "PASS",
+            "raw_runtime_characters": 2006,
+            "raw_runtime_unicode_sha256": "39a96bb73a2b8f3eb64a4eef05ed3258d7056c097a86d01ad4c75e9e5b352fac",
+            "literal_segments_checked": 32,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "INTERFACE.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_BUILD_FISHING_TOWN_NO_FERRY": {
+            "status": "PASS",
+            "raw_runtime_characters": 38,
+            "raw_runtime_unicode_sha256": "a7875c4471acef1f6d000c03833e4df52463d3355f0c60b6b7a9af534ef36d7a",
+            "literal_segments_checked": 1,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "Chronicles_Improvements.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE": {
+            "status": "PASS",
+            "raw_runtime_characters": 124,
+            "raw_runtime_unicode_sha256": "fdb566626245408c5fd12fc4c51e0a5c9f1913ca417a7ca742731bac3b1832fb",
+            "literal_segments_checked": 2,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s",
+              "s",
+              "s",
+              "s",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 896,
+            "raw_runtime_unicode_sha256": "8b0b34e71248bed87db55b6d4355c64b2bb4d5bed1a456766b5802c9a82a98aa",
+            "literal_segments_checked": 14,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 529,
+            "raw_runtime_unicode_sha256": "5dec3f0bcd126b9c937a532660d678008cc1e84b56e799d20fc240dd8c9aac30",
+            "literal_segments_checked": 9,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP": {
+            "status": "PASS",
+            "raw_runtime_characters": 166,
+            "raw_runtime_unicode_sha256": "cbf1255fe84ec403ec47433559fabcfd5383bcdb5e46d9dd5ab6dbc7d91e665b",
+            "literal_segments_checked": 5,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1": {
+            "status": "PASS",
+            "raw_runtime_characters": 522,
+            "raw_runtime_unicode_sha256": "1350b6d9e353d4279814907aa782c34448c13a2ee6f8a54cf13af751f59a2224",
+            "literal_segments_checked": 7,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "d",
+              "s"
+            ],
+            "source_file": "EVENTS.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4": {
+            "status": "PASS",
+            "raw_runtime_characters": 113,
+            "raw_runtime_unicode_sha256": "40b06862de14d7b305016b19347a70e36428aff3dba3e27286f26b8a4b85c702",
+            "literal_segments_checked": 2,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [
+              "s",
+              "s"
+            ],
+            "source_file": "MISC.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_RESEARCH_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 15047,
+            "raw_runtime_unicode_sha256": "a4684d1b9ed354f269e41b1eec5c1fcfca2e92a707e07f945a15f927f98e7071",
+            "literal_segments_checked": 157,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_SE_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 15656,
+            "raw_runtime_unicode_sha256": "08a2e0051c602364658279e099faa203bb6eb9d431ec762a96294467a2d1841d",
+            "literal_segments_checked": 100,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_UB_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 128299,
+            "raw_runtime_unicode_sha256": "e8a680d8a43f38b6c23c5d5a906468d79d412faf07214404116c3a7e3e8a0275",
+            "literal_segments_checked": 673,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_UU_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 84497,
+            "raw_runtime_unicode_sha256": "f3164be8d5e648652e6ace345615179f5f3073a93bbaedd4561485fffb24c797",
+            "literal_segments_checked": 177,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_VASSALAGE_MECHS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 29050,
+            "raw_runtime_unicode_sha256": "686d82811fb09ee06682a0444ed03b726a1704875c525eb0592b4e2bc68c133c",
+            "literal_segments_checked": 188,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WAR_WEARINESS_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 4130,
+            "raw_runtime_unicode_sha256": "4b4c9e67e3458a7f9d2ef1e5e7ffd1fcbeceaeeb44fad716a1a043612e514a9f",
+            "literal_segments_checked": 49,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_HEALTHY_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 6567,
+            "raw_runtime_unicode_sha256": "47d25dcbcf16a35da1c147a4586ae1538ac43ef43ec1f7ab74f1b476718f362b",
+            "literal_segments_checked": 136,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WAYS_PRODUCTION_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 22704,
+            "raw_runtime_unicode_sha256": "6dd52ab2397e718b5fa33fd20d430f0f71d2a25302b674f513813cd56a1a0f05",
+            "literal_segments_checked": 248,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          },
+          "TXT_KEY_STRATEGY_WK_PEDIA": {
+            "status": "PASS",
+            "raw_runtime_characters": 94187,
+            "raw_runtime_unicode_sha256": "e784fab51a9f7c43494ed1749e2eabfcb5f140c4a42c04194821e64e536666ab",
+            "literal_segments_checked": 439,
+            "missing_literal_segments": 0,
+            "synthetic_argument_types": [],
+            "source_file": "STRATEGIES_PEDIA.xml",
+            "selected_field": "Polish",
+            "published_v02_polish_field_exact_match": true
+          }
+        },
+        "literal_segments_checked": 2240,
+        "all_frozen_text_files_loaded": 58,
+        "no_loader_fixture_present": true,
+        "menu_visual_inspection": "PASS: correct mod title and language, main menu fully rendered",
+        "evidence_sha256": {
+          "results.tsv": "8be7fd67ecd6b3dd25b3af12f188458551837621905e8eda886ca3736e09d130",
+          "init.log": "c51da6080992203d57633e98f4a1a90ee7536d48b241bf7b126d88fc45be046c",
+          "xml.log": "b4fa3fdd6e21f11dd326ee16c444af612d4118bb9d000ebf6583981a4563b991",
+          "PythonErr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "PythonDbg.log": "290d0fc6a92a4655400e05e85a1028b0f6e85f77e8bf9ea98645ff8c1aa7eb2a",
+          "screen.jpg": "6f831af3cd033cd8ba2ed5602f6cb2957d1ccfda5cbbcd63e0539594462ffbc9",
+          "qa.log": "5c775031f136e872f7647dc6c7038ba8574bede4a1693d0a3fda51277f9903f4",
+          "cleanup.json": "00cb6f9ab8ea72918e913bd874cdb9498ca1efce0d24a5fc74b441de5a596f6d"
+        }
+      }
+    ],
+    "runtime_comparisons": {
+      "rom-final-english": {
+        "baseline": "rom-copy-en-safe",
+        "compared_keys": 13904,
+        "changed_keys": 3,
+        "approved_catalogue_keys": [
+          "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER",
+          "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP",
+          "TXT_KEY_HINT_28"
+        ],
+        "known_encoding_normalization_keys": [],
+        "unexpected_changes": 0,
+        "full_diff_file": "rom-final-english-diff.json"
+      },
+      "rom-final-polish": {
+        "baseline": "rom-candidate-pl",
+        "compared_keys": 13904,
+        "changed_keys": 0,
+        "approved_catalogue_keys": [],
+        "known_encoding_normalization_keys": [],
+        "unexpected_changes": 0,
+        "full_diff_file": "rom-final-polish-diff.json"
+      },
+      "com-final-english": {
+        "baseline": "com-copy-en-safe",
+        "compared_keys": 18251,
+        "changed_keys": 14,
+        "approved_catalogue_keys": [
+          "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER",
+          "TXT_KEY_BUILD_FISHING_TOWN_NO_FERRY",
+          "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP"
+        ],
+        "known_encoding_normalization_keys": [
+          "TXT_KEY_BONUS_CAMEL_PEDIA",
+          "TXT_KEY_BONUS_VANILLA_PEDIA",
+          "TXT_KEY_FEATURE_AUYANTEPUI_PEDIA",
+          "TXT_KEY_FEATURE_GRAND_CANYON_PEDIA",
+          "TXT_KEY_GREAT_PERSON_ABBE_PIERRE",
+          "TXT_KEY_GREAT_PERSON_ALI_FARKA_TOURE",
+          "TXT_KEY_GREAT_PERSON_ANDRE_LE_NOTRE",
+          "TXT_KEY_GREAT_PERSON_ANDRE_MARIE_AMPERE",
+          "TXT_KEY_GREAT_PERSON_ANTONIO_JOSE_DE_SUCRE",
+          "TXT_KEY_GREAT_PERSON_INTI_CUSI_HUALLPA_HUASCAR",
+          "TXT_KEY_GREAT_PERSON_LOUIS_DE_LATOUCHE_TREVILLE"
+        ],
+        "unexpected_changes": 0,
+        "full_diff_file": "com-final-english-diff.json"
+      },
+      "com-final-polish": {
+        "baseline": "com-candidate-pl",
+        "compared_keys": 18251,
+        "changed_keys": 0,
+        "approved_catalogue_keys": [],
+        "known_encoding_normalization_keys": [],
+        "unexpected_changes": 0,
+        "full_diff_file": "com-final-polish-diff.json"
+      }
+    },
+    "original_source_integrity": {
+      "RoM-PL": {
+        "status": "PASS",
+        "checked_Text_DLL_theme_files": 46,
+        "sha256_after_final_gui": {
+          "Assets/XML/Text/ACTIONS.xml": "e07c8a3d33b3464586d8f93517a6e6a5d16de741313b6afd17ee12449add3307",
+          "Assets/XML/Text/BUILDINGS.xml": "0c8befcc4a4b9a35b4024991169f2170c6aa251de4c2c60410dbd667640d2dd4",
+          "Assets/XML/Text/BUILDINGS_PEDIA.xml": "625b59bdb6c6f4b76e1ad81550b3cb1c08d3e3473e8e7084de5838a90e09442a",
+          "Assets/XML/Text/BUILDINGS_STRATEGY.xml": "2c922e580a8181666e688585ab58faa51b729a9973188bb46cec5ba51bcf0680",
+          "Assets/XML/Text/CITIES.xml": "2b6ac5502fd04a701a91f584b072f733c8c945204574e4c5c35fa5bb6e205f98",
+          "Assets/XML/Text/CIVICS.xml": "1fb30b8b1d67b4cc4680840958e7a7740b1655bb8acc04b92b018ddfe6ef0b99",
+          "Assets/XML/Text/CIVICS_PEDIA.xml": "16f4c9f0548b0be8469e5adefc43227180e62ed6a03f7b411e0d3bf4f50d80f3",
+          "Assets/XML/Text/CIVILIZATIONS.xml": "91b3a5cb57a2c43495605e983ac62954e3f5b913711be4d5f9a08cbe18a905c4",
+          "Assets/XML/Text/CIVILIZATIONS_PEDIA.xml": "6da59167dba3f6ccd9a981bdad3b09e36c88ae6610f280d0f6197776e1ac39d8",
+          "Assets/XML/Text/COMBAT.xml": "5bb1230a6a46abfbbabd1e3f11a8af219ecc8b577a007af560371d478f0cea6a",
+          "Assets/XML/Text/CONCEPTS.xml": "c915079467a5526b224503edb9773509516a990c7c45fffbc7835d6c3c58bde3",
+          "Assets/XML/Text/CONCEPTS_PEDIA.xml": "8848875a591ab2a541fe76c56b6b8694b5f061dcb25c8d5b4b78980889d6bbca",
+          "Assets/XML/Text/CORPORATIONS.xml": "f64cffa3a91f8f49cafdb41696c1a91db5bf86cdcbdd1221d959a9706d0527ab",
+          "Assets/XML/Text/CORPORATIONS_PEDIA.xml": "0176c3733e7b5b4f8b5a89cd249838b14908ac8c6862b32b17adb3bd400ffa03",
+          "Assets/XML/Text/DIPLOMACY.xml": "d88a053561dcd36cd9078fc29e057e57f9d2557b3eb84b7fc3ca899a73443168",
+          "Assets/XML/Text/ESPIONAGE.xml": "6b689f4b6c59a4a8f6b0490e27c66aaa85056330ed585974ce3cfc009030b5e4",
+          "Assets/XML/Text/EVENTS.xml": "6fdac75f49a04eeb2ff7b369a4f9f676799bf128007548df84a90c39bd792a3f",
+          "Assets/XML/Text/GREAT_PERSONS.xml": "c679640a13ca35fc153420c83b2fbffdc4bb2889e5dd34fc6bf0d082bdbe7a4a",
+          "Assets/XML/Text/IMPROVEMENTS.xml": "6e243bc43d3bf462835a373602c4a4ab6588281cb6edc292f545a62ecfb4d1fc",
+          "Assets/XML/Text/IMPROVEMENTS_PEDIA.xml": "c6cd4d71f338390aaa048e6b5d531f22a3ac51f81ce1c12c90067e8e0942edf4",
+          "Assets/XML/Text/INTERFACE.xml": "37945ff10e4ac73f73ca084ed7b7f704daba84a5d31dea0979e940dd751692d2",
+          "Assets/XML/Text/LEADERS.xml": "6b14ef0a39cc77eb64266984d250e70dffd22c9de14913b706be8a7badb2e7b8",
+          "Assets/XML/Text/LEADERS_PEDIA.xml": "1633f30d50506d2dcf473de2b21d9b69d799307b5ec4e38bf09df2a2b69f2142",
+          "Assets/XML/Text/MAP_SCRIPTS.xml": "81c39c8162f273cc60a0e5aa3d448afc9f817dfc317a1f2eedbd3065e9d3078a",
+          "Assets/XML/Text/MISC.xml": "517e4283050199edd36dc332e6af1b2f9129436d65e134511916211bfca38170",
+          "Assets/XML/Text/MISC_PEDIA.xml": "a2c93590f5e5beee847ac33310e3f5af867f9f7939b65931f4dbfbb94616215e",
+          "Assets/XML/Text/MISSIONS.xml": "5b89422d74760621b5d01790e64ece2f46bde300b0476495ec848e2d530965bc",
+          "Assets/XML/Text/PROJECTS.xml": "00389cba4c613f489651c632dc8d606cb7085c4737d27b43240669103545cee9",
+          "Assets/XML/Text/PROJECTS_PEDIA.xml": "9da715fa83b1e92d8ec1b2c89bfc669719b7a103a4ba150d56d2acaf8d83e0ca",
+          "Assets/XML/Text/PROJECTS_STRATEGY.xml": "2fb7aa136b9b11076f985629ad2048fbb9ab985539980db252d4684eaeb23a34",
+          "Assets/XML/Text/PROMOTIONS.xml": "fcef9c84a7063fab5ee9e4a3c934ba7cb19a67fa2a22068d9cc4a950fbaba6a8",
+          "Assets/XML/Text/RELIGIONS.xml": "aaa231a90aca59d78b7ddd8194236aaf62442230fc98a3bdad75e240b6b2e2b3",
+          "Assets/XML/Text/RELIGIONS_PEDIA.xml": "382de1da05dbfca65c3b825fca77a64854e8673ba932ef69cb7b90ec86f96a50",
+          "Assets/XML/Text/RESSOURCES.xml": "4075b972d055cbc57212d8b092e904d5f29d1f21520a37868db8048f55bd4f99",
+          "Assets/XML/Text/RESSOURCES_PEDIA.xml": "c5065b21dcb9a74eb46eec9771d1cb74373e087c87efefa5096a18227070f7f3",
+          "Assets/XML/Text/REVOLUTIONS.xml": "5bb81f9840e0b2476066379357a60d10da8a74a199d22d2f7942d9353588cdae",
+          "Assets/XML/Text/STRATEGIES.xml": "9ae999b013e87fd8499286f6b8b50ebc43578f321f67b8b3ac68d0bcba6de7b9",
+          "Assets/XML/Text/STRATEGIES_PEDIA.xml": "106af7011c4c836654e3a352b3c9a271ba139f092fe4b1dd2c4cb1a2a6056867",
+          "Assets/XML/Text/TECHNOLOGIES.xml": "70840b0bd4e5e0502b42d92e4bff80c25899d0b83a71e35a5f12e17f5fad9b10",
+          "Assets/XML/Text/TECHNOLOGIES_PEDIA.xml": "88dd41e0b3ab4b21d2c2f0a3796be90ae5e4af39400d089e9587401c9a32c8e0",
+          "Assets/XML/Text/TECHNOLOGIES_STRATEGY.xml": "7dfbb35e02935e1fb7af3f4405a9ab0199984637b37ee740ff8d6565171a3170",
+          "Assets/XML/Text/UNITS.xml": "82cae416f0ae207f47b2f47e08cbba46c2e074aa4bfcf1bf1f5493fb838e21bb",
+          "Assets/XML/Text/UNITS_PEDIA.xml": "6b1f58b5f948fcc79024d44bde59bed0e02b4d8b41faa7ac6f381c1dd62015c6",
+          "Assets/XML/Text/UNITS_STRATEGY.xml": "3b5b86b6fc60fa5893c5be1906ad58138c95af1dd42630fa3331bc2c4a378f9b",
+          "Assets/CvGameCoreDLL.dll": "a5a88ede5b0183cc5617c0f672fa74bfb62e7b8d76c7d5b856fed3647759e129",
+          "Assets/Modules/Interface/Resource/Themes/Civ4/Civ4Theme_Common.thm": "776adb8cfbf716c852152cfa0a3bfb9df78cad8143cefe4243fc835ed0332177"
+        }
+      },
+      "CoM-PL": {
+        "status": "PASS",
+        "checked_Text_DLL_theme_files": 60,
+        "sha256_after_final_gui": {
+          "Assets/XML/Text/ACTIONS.xml": "fb419aa00ea74a4a7081a60d323a6bf7f3af52c9a403023953a202673fa70c5a",
+          "Assets/XML/Text/BUILDINGS.xml": "ecc35f55783ee0c3b382fc57a9b6a90b8ab3bae332dbcde3b1976cbc574de94f",
+          "Assets/XML/Text/BUILDINGS_PEDIA.xml": "940dddd2f34adc6fbad5d24cc381ef86e5bb94a293db68a45a3414bf48e07661",
+          "Assets/XML/Text/BUILDINGS_STRATEGY.xml": "2a27d43f67bf31bcea43d68a584910b1a1cd357a078e2c3d2d122335e8e150e0",
+          "Assets/XML/Text/CITIES.xml": "967f689537de227aa168df45292bdad2ceb6248cda987a7cc1346ae5209c7625",
+          "Assets/XML/Text/CIVICS.xml": "32d8080295f9544c721e966f6f4e3cf7c03600c7827d4a53fe0f26cf3e640496",
+          "Assets/XML/Text/CIVICS_PEDIA.xml": "f85573446ea85a2ffa4d8a029eb604423f53191101fc1628685393aa0ac537ff",
+          "Assets/XML/Text/CIVILIZATIONS.xml": "413e809ca387c411d379b72d527dd8cfd401d5671791e94e412c607dc94fbe94",
+          "Assets/XML/Text/CIVILIZATIONS_PEDIA.xml": "6da59167dba3f6ccd9a981bdad3b09e36c88ae6610f280d0f6197776e1ac39d8",
+          "Assets/XML/Text/COMBAT.xml": "72c6fac6bea7909a4a0e453200bf777c5d48462064422eb310b9bb7aad3e2778",
+          "Assets/XML/Text/CONCEPTS.xml": "bd18d32e47df65ec495573263753ca77f096540544eef0e21665f46922e52858",
+          "Assets/XML/Text/CONCEPTS_PEDIA.xml": "8848875a591ab2a541fe76c56b6b8694b5f061dcb25c8d5b4b78980889d6bbca",
+          "Assets/XML/Text/CORPORATIONS.xml": "218eba724f76c96520b869ad273ecf92ba6d70e495eb0e3c7ac1e7a7268a183a",
+          "Assets/XML/Text/CORPORATIONS_PEDIA.xml": "2446020cf868e0231e3978649aab41622435a56f550e048ce5c197d7a2704f0a",
+          "Assets/XML/Text/Chronicles_Bonus.xml": "a8974e973d6583984ea6185a11f8c9ad14a0910b751c58cae47aea4d572e44f0",
+          "Assets/XML/Text/Chronicles_Buildings.xml": "d79b8ec17e6f37ef0db8de994606fc2244c39b586b19043bd962b5479a14b30e",
+          "Assets/XML/Text/Chronicles_CITIES.xml": "00064402958625f8a7f1d19e2603e65c504ce36d8ab8f341933eb7eefe408f76",
+          "Assets/XML/Text/Chronicles_CIVILIZATIONS.xml": "e25dc23a6ac55c532412f95f3452571719539fe4326f436c8ce31d00afc6347b",
+          "Assets/XML/Text/Chronicles_Civics.xml": "32a6297c6da05a4cb762514f393128b0c3f9ede4346aa2e90b4a3e0c1094c9d4",
+          "Assets/XML/Text/Chronicles_GreatPeople.xml": "6d62a5f3717dc0936bee9e55c3a2ee7a262442bbf806a3c4c79ca45cb3464021",
+          "Assets/XML/Text/Chronicles_Improvements.xml": "0600abf099aefdb9efe1269a776da51f4d056941d902da8b5293393bf28e8fe3",
+          "Assets/XML/Text/Chronicles_Other.xml": "4633607f603477bdd44d6fb97a4adfc50e46323da60dfd72dcc3dc1194d3d6bc",
+          "Assets/XML/Text/Chronicles_Promotions.xml": "efbb26d346ca6569a0af11ad5da6be8d1a411ae7437f6fe043e1b4df32109caa",
+          "Assets/XML/Text/Chronicles_Techs.xml": "0afc4f9ad31d55575cfd268ea3c31d9f98d189a7556c97fe46e37d85e1c40672",
+          "Assets/XML/Text/Chronicles_Terrain.xml": "a2d5a61f7ac8ac5ae13d6999fd3713b0425780d7007c981e71bcb3ba34d21a35",
+          "Assets/XML/Text/Chronicles_Units.xml": "716204c4248b77cb2f3bee73e2f436e01178105affc619d92b21004ff34c4517",
+          "Assets/XML/Text/DIPLOMACY.xml": "44148c49c8e5a49a03457bbc1468df4aa868b1534c44b9bcfdc3b33d36f53d52",
+          "Assets/XML/Text/ESPIONAGE.xml": "933bad88c2f7d1523edd7eab6d5f50055e4c9bfc174a45fffad722beb1f3502c",
+          "Assets/XML/Text/EVENTS.xml": "eafa624c5c72162f0b5755c63cda953000ff5657586cb38823fab2627255e1f4",
+          "Assets/XML/Text/GREAT_PERSONS.xml": "c679640a13ca35fc153420c83b2fbffdc4bb2889e5dd34fc6bf0d082bdbe7a4a",
+          "Assets/XML/Text/IMPROVEMENTS.xml": "624ff59a342b78d8c9caaf7ee41a86b3113a92659d879f93b680d8dc756add2c",
+          "Assets/XML/Text/IMPROVEMENTS_PEDIA.xml": "c6cd4d71f338390aaa048e6b5d531f22a3ac51f81ce1c12c90067e8e0942edf4",
+          "Assets/XML/Text/INTERFACE.xml": "b69d1a960219b7945d6ee42239c922b999b8efbd778a3bbd28d9f85ecebd5919",
+          "Assets/XML/Text/Inthegrave_GameText.xml": "0234e5e9588945b8ed23b5e82e4a8a1c0e667f30913057e8a45b5b7ff610e0dc",
+          "Assets/XML/Text/LEADERS.xml": "7687819aa23d6369e60bfa21e1fa6ae1c8787dc264f0caf89dca5d80b069ea0e",
+          "Assets/XML/Text/LEADERS_PEDIA.xml": "1633f30d50506d2dcf473de2b21d9b69d799307b5ec4e38bf09df2a2b69f2142",
+          "Assets/XML/Text/MAP_SCRIPTS.xml": "81c39c8162f273cc60a0e5aa3d448afc9f817dfc317a1f2eedbd3065e9d3078a",
+          "Assets/XML/Text/MISC.xml": "be0336826a950a658ec7615888fe516e01c38952f92ea11dbc44879a7097251a",
+          "Assets/XML/Text/MISC_PEDIA.xml": "ccdb4fe1835c669ec5eeb4bac5f3949701a35370cc3a27e78794b9bb0042a255",
+          "Assets/XML/Text/MISSIONS.xml": "c6e53b7743c1a1d0ae503f32b570f53fea353263bf9f40766cdf52f178a3ea06",
+          "Assets/XML/Text/NaturalWonders.xml": "2e843388c3757a337440f7440e3861e7ea26f4b273e0eaf1905016e51eadee14",
+          "Assets/XML/Text/PROJECTS.xml": "c25f79ea833d5e9d1d879a6a18b544fda3dca7e80124f909986227a3b5ac6dad",
+          "Assets/XML/Text/PROJECTS_PEDIA.xml": "9da715fa83b1e92d8ec1b2c89bfc669719b7a103a4ba150d56d2acaf8d83e0ca",
+          "Assets/XML/Text/PROJECTS_STRATEGY.xml": "87cab22fc9d1e3bc11d782aaffe8e14ca47b93726a2bc5bb71c9217f8c615a51",
+          "Assets/XML/Text/PROMOTIONS.xml": "d28b70469236eb0aab0b5083ddab0a184aeaa0c1772e7b2b2137e0fc6b512597",
+          "Assets/XML/Text/RELIGIONS.xml": "76ef8ef6cd0c5dc31bc50e7aa6168920caadb4c6114d8f7825f22afc0e657d9f",
+          "Assets/XML/Text/RELIGIONS_PEDIA.xml": "74d35ba73ea156a7436fca597b82a97d5074d57906c945b01c780a6818c4ec7e",
+          "Assets/XML/Text/RESSOURCES.xml": "7156ee5a47b1538f14cd5ab9e845bafcfbbf8dfac79598f51c6aaff675a040d8",
+          "Assets/XML/Text/RESSOURCES_PEDIA.xml": "ccb1bae434885cf4bed751e175918f536aeb1d051a7e48ddb42e06183f69536c",
+          "Assets/XML/Text/REVOLUTIONS.xml": "30cd88bf22f8d55ba200eff2ffc9fc260117dd855704d881cc39635e53413837",
+          "Assets/XML/Text/STRATEGIES.xml": "8bdca3666bd26becc9ff639a160510cf8f1005c1395c93872288fd8c14777eb3",
+          "Assets/XML/Text/STRATEGIES_PEDIA.xml": "106af7011c4c836654e3a352b3c9a271ba139f092fe4b1dd2c4cb1a2a6056867",
+          "Assets/XML/Text/TECHNOLOGIES.xml": "70cfa184817df9c38ba83e79574fdce980285f1d36720f517b45e7d159ae0fb7",
+          "Assets/XML/Text/TECHNOLOGIES_PEDIA.xml": "88dd41e0b3ab4b21d2c2f0a3796be90ae5e4af39400d089e9587401c9a32c8e0",
+          "Assets/XML/Text/TECHNOLOGIES_STRATEGY.xml": "7dfbb35e02935e1fb7af3f4405a9ab0199984637b37ee740ff8d6565171a3170",
+          "Assets/XML/Text/UNITS.xml": "cfd72b488392319e47d6447bdd61fa338c52584470790206e597e8c582c100fd",
+          "Assets/XML/Text/UNITS_PEDIA.xml": "6389b999585f20e5eaccf894bc17fd374ed7193d237dfda3c7054eb02b9be34f",
+          "Assets/XML/Text/UNITS_STRATEGY.xml": "765ee6c6b56cbd249b39991ea40376beb3f4f1d78a131ebca0ceb86d6135a350",
+          "Assets/CvGameCoreDLL.dll": "6a6d239dce3d07d6833777976e3a278075833a6d58bcf0d55cd878aba68e19f7",
+          "Assets/Modules/Interface/Resource/Themes/Civ4/Civ4Theme_Common.thm": "776adb8cfbf716c852152cfa0a3bfb9df78cad8143cefe4243fc835ed0332177"
+        }
+      }
+    },
+    "limitations": [
+      "Xvfb/Proton on Linux only; no native Windows run.",
+      "Startup, menu and localization lookup coverage only; no map, turn progression, gameplay or save/load compatibility claim.",
+      "All 18 corrected record Tags queried for each project/language. The broad menu-safe export excludes remaining context-dependent and potentially formatted Tags.",
+      "CHANGED_TXT_KEY_UNIT_TRIREME_PEDIA raises the same pre-existing C++ exception in baseline and all candidate/final dumps; it is not one of the corrected catalogue Tags.",
+      "Literal segments of at least 3 characters are matched after decoding legacy CP1250 character values and HTML entities; this is not a pixel-level check of every long article or control token.",
+      "Final copied mods retain the source Sylfaen CIV4 theme. A separate original-theme alphabet probe passes through verified Arial fallback under pl-PL/ACP1250; no assertion of actual original Sylfaen rendering or arbitrary Wine locale support.",
+      "Read-only translator-query hooks were added only to the disposable copies after the real installer completed; all frozen XML and DLL bytes remained unchanged."
+    ],
+    "font_provenance": {
+      "file": "font-provenance.json",
+      "sha256": "288350d2a45ddf93bc1e0151768dd30ab3e49a9e93ad0ae68c30e8c57f3b1ca2"
+    },
+    "menu_contact_sheet": {
+      "file": "final-menu-contact-sheet.jpg",
+      "sha256": "e6de385dc694051a7213a7b8063bedf3a7a60445672ed3af3b9699ed2bb3ce9d",
+      "order": "top left RoM EN, top right RoM PL, bottom left CoM EN, bottom right CoM PL",
+      "visual_inspection": "PASS"
+    },
+    "instrumentation": {
+      "plan": "final-probe-plan.json",
+      "sha256": "939f0a6ac7f091b91821e4db31942f1f282f19206ecf7e86fb678ebba2d7cedb",
+      "query_template_sha256": "54dc05ddbdeb4d3dbfbf4ca3109226a9ef7e689eafa6a31f018d7ea84431e701"
+    },
+    "cleanup": "All own Wine game/server processes were stopped by a guard matching owned WINEPREFIX and GWF_RUN after each run.",
+    "full_catalogue_lookup_values": {
+      "file": "final-catalogue-lookups.json",
+      "sha256": "0da71a321119f5af9fa5e317eebe0e1a2289e66ecf7c9f9dd6f8a5b1301e6c26"
+    }
+  },
+  "font_provenance": {
+    "status": "PASS_NATIVE_UNICODE_WITH_ORIGINAL_THEME_USING_ARIAL_FALLBACK",
+    "initial_qa": {
+      "theme_family": "Sylfaen CIV4",
+      "theme_sha256": "776adb8cfbf716c852152cfa0a3bfb9df78cad8143cefe4243fc835ed0332177",
+      "custom_font_host_file": "$HOME/.local/share/fonts/Sylfaenciv4.ttf",
+      "custom_font_sha256": "0adc1f4235dd61d2d11181f4f08e8e40d027e02b1dd0d23bde649c0640c240e2",
+      "registered_in_prefix_as": "X:\\.local\\share\\fonts\\Sylfaenciv4.ttf",
+      "prefix_x_drive_target": "/home/zazpany",
+      "custom_font_is_shipped_by_pristine_mod": false
+    },
+    "pristine_theme_probe": {
+      "theme_file": "$PROJECTS/RoM-PL/var/source/font-theme-original.thm",
+      "theme_sha256": "045c154b2140778dcca865a23ccca7c6b266ebb92d7a5ebc1418f6c07ce16a9c",
+      "requested_family": "Sylfaen",
+      "actual_selected_faces": [
+        "Arial",
+        "Arial Bold"
+      ],
+      "font_files": [
+        {
+          "path": "$PROJECTS/RoM-PL/var/build/english-v03-loader/prefix/drive_c/windows/Fonts/arial.ttf",
+          "resolved": "$HOME/.config/heroic/tools/proton/Proton-CachyOS-latest/files/share/fonts/arial.ttf",
+          "sha256": "30328e88b08753dc63b14d84ce882ce504d53e27a56e637f5a068fdedc6ae385",
+          "bytes": 405252
+        },
+        {
+          "path": "$PROJECTS/RoM-PL/var/build/english-v03-loader/prefix/drive_c/windows/Fonts/arialbd.ttf",
+          "resolved": "$HOME/.config/heroic/tools/proton/Proton-CachyOS-latest/files/share/fonts/arialbd.ttf",
+          "sha256": "d0ad81706afb49050687f2d6fe58ec3c8147419e773375b1f9d6e2edd70d2a37",
+          "bytes": 408996
+        }
+      ],
+      "visible_run": "rom-original-font-glyphs-visible",
+      "font_selection_run": "rom-original-font-selection",
+      "selected_faces_excerpt": "$PROJECTS/RoM-PL/var/reports/english-v03-loader/rom-original-font-selection/selected-faces.log",
+      "selected_faces_excerpt_sha256": "4cbd3c9b530a70f54df92c1757b1b0d77ef1642a63f63682d46324303a1630e4",
+      "font_debug_log_sha256": "92d5a1fdabc247b20a0a00228f2fe6f4db1d8739d81098966a501085829c608e",
+      "native_marker": "ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ",
+      "glyph_visual_inspection": "PASS including ę/ń and capital variants; the menu uppercase operation does not uppercase every legacy byte-mapped character",
+      "XML_and_theme_restored_byte_identically": true,
+      "custom_Sylfaen_CIV4_not_selected_for_these_theme_requests": true
+    },
+    "pristine_mod_fonts": [
+      {
+        "mod": "Rise of Mankind - A New Dawn",
+        "file": "Civ4/Beyond the Sword/Mods/Rise of Mankind - A New Dawn/Assets/Modules/Interface/Resource/Fonts/sylfaen.ttf",
+        "sha256": "992a6f0d72549748478d38feb993c14cdf451e51e5d278fcceb0bdb115e72d38",
+        "bytes": 221676,
+        "family_from_fc_scan": [
+          "Sylfaen",
+          "SylfaenARM"
+        ],
+        "contains_polish_in_fc_scan": true
+      },
+      {
+        "mod": "Chronicles of Mankind",
+        "file": "Civ4/Beyond the Sword/Mods/Chronicles of Mankind/Assets/Modules/Interface/Resource/Fonts/sylfaen.ttf",
+        "sha256": "992a6f0d72549748478d38feb993c14cdf451e51e5d278fcceb0bdb115e72d38",
+        "bytes": 221676,
+        "family_from_fc_scan": [
+          "Sylfaen",
+          "SylfaenARM"
+        ],
+        "contains_polish_in_fc_scan": true
+      }
+    ],
+    "environment": {
+      "LANG": "pl_PL.UTF-8",
+      "LC_ALL": "pl_PL.UTF-8",
+      "wine_Locale": "00000415",
+      "wine_LocaleName": "pl-PL",
+      "wine_ACP": "1250",
+      "wine_OEMCP": "852",
+      "wine_MACCP": "10029",
+      "game_Polish_language_index": 7,
+      "wine_prefix": "$PROJECTS/RoM-PL/var/build/english-v03-loader/prefix",
+      "Proton": "Proton-CachyOS-latest (existing locally installed runner)",
+      "display": "isolated Xvfb 1280x800, llvmpipe",
+      "disable_caching": 1,
+      "disable_file_caching": 1
+    },
+    "trace_attempt": {
+      "run": "rom-original-font-glyphs",
+      "result": "STARTUP_AND_DUMP_ONLY_NOT_GLYPH_PASS",
+      "reason": "strace slowed rendering; screenshot remained at initialization; trace wrapper timed out after 75s; all own Wine processes cleaned, XML/theme restored"
+    },
+    "conclusion": "Native Polish XML does not require the earlier custom Sylfaen CIV4 patch in the tested pl-PL/ACP1250 prefix: the original theme rendered through Arial fallback. The package preserves the source theme/fonts. This is not proof of native Windows, arbitrary code pages, or actual original Sylfaen rendering.",
+    "native_windows_tested": false
+  },
+  "installer_review": {
+    "installer_sha256": "b19ec44bd4ee11400832c4a0558296a1f1a051b22b0b5480bc8eb747031f2e97",
+    "findings": [
+      {
+        "id": "EN03-INSTALL-001",
+        "priority": "BLOCKER",
+        "title": "Commented Polish fields can consume the live replacement",
+        "location": "install.py transform/PL.finditer(raw), tests test_all_published_polish_occurrences_and_grammar",
+        "recommendation": "Mask comments with equal-length spaces before matching active English/Polish spans; copy spans from original raw. Compare active XML child fields to released Polish, and compare all comments byte-for-byte independently of language masks.",
+        "reproducer": "<TEXT><Tag>K</Tag><!-- archived <Polish>draft</Polish> --><English>old</English><Polish>live</Polish></TEXT>",
+        "observed": "<TEXT><Tag>K</Tag><!-- archived <Polish>new</Polish> --><English>old</English></TEXT>",
+        "current_pinned_impact": "Active Polish fields remain semantically equal to published v0.2, but Polish XML inside 21 source comments is removed. A comment-before-live fixture additionally loses the active field.",
+        "status": "RESOLVED"
+      }
+    ],
+    "scope": {
+      "RoM-PL": {
+        "inline_language_comment_records": [],
+        "semantic_polish_regressions": [],
+        "actual_comment_mutations": []
+      },
+      "CoM-PL": {
+        "inline_language_comment_records": [
+          {
+            "source_file": "BUILDINGS_STRATEGY.xml",
+            "tag": "TXT_KEY_BUILDING_ELDER_COUNCIL_STRATEGY",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "CIVICS.xml",
+            "tag": "TXT_KEY_CIVIC_BANDITS",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "CIVICS.xml",
+            "tag": "TXT_KEY_CIVIC_DEMOCRACY_STRATEGY",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_FUTURE_HOVER",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_FUTURE_TEXT",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_MODERN_HOVER",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_MODERN_TEXT",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_TRANSHUMAN_HOVER",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_TRANSHUMAN_TEXT",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_GAMEOPTION_GUILDS",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_GAMEOPTION_GUILDS_HELP",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "tag": "TXT_KEY_GAMEOPTION_NO_FUTURE",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_BUILD_FOREST_PRESERVE",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_BUILD_SEA_AIR_DEFENSE",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_COMPLETED_AUTO_BUILD",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_ERA_FUTURE",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_ERA_MODERN",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_ERA_TRANSHUMAN",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_HEADING_CONNECTED_CITY_AMT",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "MISC.xml",
+            "tag": "TXT_KEY_HEADING_CONNECTED_FOREIGN_CITY_AMT",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          },
+          {
+            "source_file": "TECHNOLOGIES.xml",
+            "tag": "TXT_KEY_TECH_HYDROPONICS_QUOTE",
+            "occurrence": 0,
+            "published_tag": true,
+            "source_active_polish_count": 1,
+            "result_active_polish_count": 1,
+            "comment_count": 1
+          }
+        ],
+        "semantic_polish_regressions": [],
+        "actual_comment_mutations": [
+          {
+            "source_file": "BUILDINGS_STRATEGY.xml",
+            "changed_comments": 1
+          },
+          {
+            "source_file": "CIVICS.xml",
+            "changed_comments": 2
+          },
+          {
+            "source_file": "INTERFACE.xml",
+            "changed_comments": 9
+          },
+          {
+            "source_file": "MISC.xml",
+            "changed_comments": 8
+          },
+          {
+            "source_file": "TECHNOLOGIES.xml",
+            "changed_comments": 1
+          }
+        ]
+      }
+    },
+    "symlink_observation": {
+      "source_mods_symlink_count": 0,
+      "comment": "copytree(symlinks=False) creates independent files but follows links if an otherwise unpinned source tree contains them; no blocker for these observed source trees."
+    },
+    "independent_checks": {
+      "existing_destination": {
+        "status": "PASS",
+        "rejection": "Destination must be a NEW directory"
+      },
+      "nested_destination": {
+        "status": "PASS",
+        "rejection": "Source and destination must be separate sibling trees"
+      },
+      "nested_via_parent_symlink": {
+        "status": "PASS",
+        "rejection": "Source and destination must be separate sibling trees"
+      },
+      "dangling_destination_symlink": {
+        "status": "PASS",
+        "rejection": "Destination must be a NEW directory"
+      },
+      "source_marker_after_path_guards": {
+        "status": "PASS"
+      },
+      "cross_project_installers_identical": {
+        "status": "PASS"
+      }
+    },
+    "status": "APPROVED_FINAL_INSTALLER_CODE",
+    "fixed_installer_sha256": "a2dde2e9a9847395d6926843bceeaac726fb04aad1c82afe292a5854fc2bbb36",
+    "recheck": {
+      "synthetic_comment_fixtures": [
+        {
+          "comment_before_live": true,
+          "active_polish": "ęń",
+          "active_english": "new",
+          "comment_unchanged": true
+        },
+        {
+          "comment_before_live": false,
+          "active_polish": "ęń",
+          "active_english": "new",
+          "comment_unchanged": true
+        }
+      ],
+      "actual_com_records_checked": [
+        {
+          "source_file": "BUILDINGS_STRATEGY.xml",
+          "tag": "TXT_KEY_BUILDING_ELDER_COUNCIL_STRATEGY",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "CIVICS.xml",
+          "tag": "TXT_KEY_CIVIC_BANDITS",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "CIVICS.xml",
+          "tag": "TXT_KEY_CIVIC_DEMOCRACY_STRATEGY",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_FUTURE_HOVER",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_FUTURE_TEXT",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_MODERN_HOVER",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_MODERN_TEXT",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_TRANSHUMAN_HOVER",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_TRANSHUMAN_TEXT",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_GAMEOPTION_GUILDS",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_GAMEOPTION_GUILDS_HELP",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "INTERFACE.xml",
+          "tag": "TXT_KEY_GAMEOPTION_NO_FUTURE",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_BUILD_FOREST_PRESERVE",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_BUILD_SEA_AIR_DEFENSE",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_COMPLETED_AUTO_BUILD",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_ERA_FUTURE",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_ERA_MODERN",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_ERA_TRANSHUMAN",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_HEADING_CONNECTED_CITY_AMT",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "MISC.xml",
+          "tag": "TXT_KEY_HEADING_CONNECTED_FOREIGN_CITY_AMT",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        },
+        {
+          "source_file": "TECHNOLOGIES.xml",
+          "tag": "TXT_KEY_TECH_HYDROPONICS_QUOTE",
+          "occurrence": 0,
+          "comment_unchanged": true,
+          "active_polish_matches_v02": true
+        }
+      ],
+      "whole_suite": "Independent duplicate full-suite runs stopped at timeout; no PASS claimed. Final full-suite run remains root-owned."
+    },
+    "migration_review": {
+      "installer_sha256": "a2dde2e9a9847395d6926843bceeaac726fb04aad1c82afe292a5854fc2bbb36",
+      "checks": {
+        "known_v02_overlay_removed_only_from_copy": "PASS",
+        "latin1_namespace_comment_unicode_roundtrip": "PASS",
+        "full_source_hashes_unchanged_after_uninstall": "PASS",
+        "copied_gameplay_has_independent_inode": "PASS",
+        "unknown_legacy_overlay_rejected_before_copy": "PASS"
+      }
+    },
+    "formatting_guard_review": {
+      "installer_sha256": "05a1b8fa64974cf3d5f5da9c82e88d80019318680d210895bb3abb5dd6571b1b",
+      "status": "PASS",
+      "independent_checks": {
+        "exact_approved_formatting_repair": "PASS",
+        "no_unapproved_formatting": "PASS",
+        "wrong_approval_digest": "PASS",
+        "icon_change_cannot_be_approved": "PASS",
+        "parameter_change_cannot_be_approved": "PASS",
+        "colour_change_cannot_be_approved": "PASS",
+        "link_change_cannot_be_approved": "PASS",
+        "prose_brackets_remain_text": "PASS"
+      },
+      "actual_catalogues": {
+        "RoM-PL": {
+          "records_checked": 18,
+          "exceptions": [
+            {
+              "tag": "TXT_KEY_STRATEGY_RESEARCH_MECHS_PEDIA",
+              "added": [
+                "[NEWLINE]"
+              ],
+              "removed": []
+            },
+            {
+              "tag": "TXT_KEY_STRATEGY_WAYS_HEALTHY_PEDIA",
+              "added": [
+                "[\\BOLD]"
+              ],
+              "removed": [
+                "[BOLD]"
+              ]
+            },
+            {
+              "tag": "TXT_KEY_STRATEGY_WAYS_PRODUCTION_PEDIA",
+              "added": [
+                "[NEWLINE]"
+              ],
+              "removed": []
+            }
+          ],
+          "noncontrol_bracket_changes": [
+            {
+              "tag": "TXT_KEY_STRATEGY_WAR_WEARINESS_PEDIA",
+              "before": [
+                "[-1 for every Level above Noble]",
+                "[i.e. a city that was someone else's for a long time might NOT count as where you are culturally dominant, even if it is within your borders]"
+              ],
+              "after": [
+                "[AI players only; -1 for every Level above Noble]",
+                "[i.e. a city that was someone else's for a long time might NOT count as where you are culturally dominant, even if it is within your borders]"
+              ]
+            }
+          ]
+        },
+        "CoM-PL": {
+          "records_checked": 18,
+          "exceptions": [
+            {
+              "tag": "TXT_KEY_STRATEGY_RESEARCH_MECHS_PEDIA",
+              "added": [
+                "[NEWLINE]"
+              ],
+              "removed": []
+            },
+            {
+              "tag": "TXT_KEY_STRATEGY_WAYS_HEALTHY_PEDIA",
+              "added": [
+                "[\\BOLD]"
+              ],
+              "removed": [
+                "[BOLD]"
+              ]
+            },
+            {
+              "tag": "TXT_KEY_STRATEGY_WAYS_PRODUCTION_PEDIA",
+              "added": [
+                "[NEWLINE]"
+              ],
+              "removed": []
+            }
+          ],
+          "noncontrol_bracket_changes": [
+            {
+              "tag": "TXT_KEY_STRATEGY_WAR_WEARINESS_PEDIA",
+              "before": [
+                "[-1 for every Level above Noble]",
+                "[i.e. a city that was someone else's for a long time might NOT count as where you are culturally dominant, even if it is within your borders]"
+              ],
+              "after": [
+                "[AI players only; -1 for every Level above Noble]",
+                "[i.e. a city that was someone else's for a long time might NOT count as where you are culturally dominant, even if it is within your borders]"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "dll_guard_review": {
+      "status": "PASS",
+      "installer_sha256": "319abfc950fd7baaf60ba441340989cfc1309c03033be91d83d16ad8cf922e42",
+      "checks": {
+        "missing": "REFUSED_BEFORE_CATALOGUE_OR_DESTINATION",
+        "modified": "REFUSED_BEFORE_CATALOGUE_OR_DESTINATION",
+        "matching": "PASSED_GUARD_REACHED_CATALOGUE"
+      },
+      "code_review": "Pin checked before preparing transformed XML or creating destination; source DLL hash rechecked after copy."
+    }
+  },
+  "post_review_classification_note": {
+    "se-oxford-map-size": "Classified as MECHANICS_ERROR in the final catalogue: the qualification concerns map size and One City Challenge settings, not a change between game versions. The independently reviewed English is unchanged."
+  },
+  "unchanged_polish_v02_sha256": "6c21df085d42a6f432b777a1961b5705c1aa9c8fb65023d520d1f7cbe58a05f6",
+  "manifest_finalization": {
+    "runtime_tested_manifest_sha256": "64ff55b1ec418ea770b8ce21879fb58853b477911ce6ff6faca9578cb4404e8a",
+    "release_manifest_sha256": "1d51f408900ec57ad6615d021e5665c6a01e200a73ccd4840ec018a9c229fbb8",
+    "only_metadata_added_after_runtime": [
+      "version_status",
+      "windows_native_qa",
+      "validation",
+      "wine_requirements"
+    ],
+    "runtime_installation_contract_unchanged": true
+  }
+}

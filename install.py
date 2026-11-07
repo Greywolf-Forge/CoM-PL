@@ -15,11 +15,45 @@ TEXT = re.compile(r'<TEXT(?:\s[^>]*)?>.*?</TEXT>', re.S)
 COMMENT = re.compile(r'<!--.*?-->', re.S)
 PL = re.compile(r'<Polish\b[^>]*?(?:/>|>.*?</Polish>)', re.S)
 EN = re.compile(r'<English(?:\s[^>]*)?>(.*?)</English>', re.S)
-TOKEN = re.compile(r'\[[^\[\]\r\n]{1,150}\]|%%|%[A-Za-z]\d*(?::\d+)?(?:_[A-Za-z0-9_]+)?')
+# Civ control names are uppercase; prose notes such as [-1 above Noble]
+# are ordinary text. Preserve links, colour arguments and printf parameters.
+TOKEN = re.compile(r'\[[\\/]?[A-Z][A-Z0-9_]*(?:[=:][^\[\]\r\n]*)?\]|%%|%[A-Za-z]\d*(?::\d+)?(?:_[A-Za-z0-9_]+)?')
+FORMAT_TOKENS = {'[NEWLINE]','[BOLD]','[\\BOLD]'}
 LOCAL = lambda node: node.tag.rsplit('}',1)[-1]
 
 def sha(blob):
     return sha256(blob).hexdigest()
+
+def tokens_sha(tokens):
+    return sha(json.dumps(tokens,ensure_ascii=False,separators=(',',':')).encode())
+
+def check_tokens(old,new,approval=None):
+    before,after=TOKEN.findall(old),TOKEN.findall(new)
+    if before==after:return
+    if not approval or not approval.get('reason'):
+        raise ValueError('Runtime tokens differ')
+    if tokens_sha(before)!=approval.get('original_tokens_sha256') or tokens_sha(after)!=approval.get('corrected_tokens_sha256'):
+        raise ValueError('Unapproved formatting tokens')
+    if [t for t in before if t not in FORMAT_TOKENS]!=[t for t in after if t not in FORMAT_TOKENS]:
+        raise ValueError('Protected runtime tokens differ')
+
+def active_matches(pattern, text):
+    """Match active XML only; spaces preserve offsets into the original text."""
+    masked = COMMENT.sub(lambda m: ' ' * len(m.group()), text)
+    return list(pattern.finditer(masked))
+
+def replace_spans(text, spans):
+    pieces=[]; cursor=0
+    for a,b,replacement in sorted(spans):
+        if a<cursor:raise ValueError('Overlapping replacements')
+        pieces.extend((text[cursor:a],replacement));cursor=b
+    pieces.append(text[cursor:])
+    return ''.join(pieces)
+
+def protected_xml(text):
+    spans = [(m.start(), m.end(), '') for m in active_matches(PL, text)]
+    spans += [(m.start(), m.end(), '<English/>') for m in active_matches(EN, text)]
+    return replace_spans(text,spans)
 
 def normalize(raw, filename):
     header = re.search(rb'<\?xml[^>]*encoding=["\']([^"\']+)["\']',raw[:256],re.I)
@@ -48,7 +82,7 @@ def polish_fields(blob):
     result={}
     for (tag,occ),_,raw,_,_ in scan(blob.decode('utf-8')):
         if occ:raise ValueError('Duplicate published Polish Tag: '+tag)
-        result[tag]=[m.group() for m in PL.finditer(raw)]
+        result[tag]=[raw[m.start():m.end()] for m in active_matches(PL,raw)]
         if not result[tag]:raise ValueError('Missing Polish: '+tag)
     return result
 
@@ -58,7 +92,7 @@ def transform(text,polish,edits):
     for key,node,raw,offset,_ in scan(text):
         tag,occ=key
         if tag in polish:
-            fields=list(PL.finditer(raw))
+            fields=active_matches(PL,raw)
             replacement=''.join(polish[tag])
             if fields:
                 for i,f in enumerate(fields):
@@ -76,24 +110,25 @@ def transform(text,polish,edits):
             if not r['old'] or new.count(r['old'])!=r.get('expected_count',1):raise ValueError('Ambiguous correction: '+tag)
             new=new.replace(r['old'],r['new'])
         if sha(new.encode())!=record['corrected_english_sha256']:raise ValueError('English result differs: '+tag)
-        if TOKEN.findall(old)!=TOKEN.findall(new):raise ValueError('Runtime tokens differ: '+tag)
-        f=list(EN.finditer(raw))
+        check_tokens(old,new,record.get('formatting_token_exception'))
+        f=active_matches(EN,raw)
         if len(f)!=1:raise ValueError('Ambiguous English field: '+tag)
         spans.append((offset+f[0].start(1),offset+f[0].end(1),escape(new)))
         seen.add(key)
     if set(edits)!=seen:raise ValueError('Missing English correction targets')
-    ordered=sorted(spans)
-    if any(a[1]>b[0] for a,b in zip(ordered,ordered[1:])):raise ValueError('Overlapping replacements')
-    output=text
-    for a,b,new in reversed(ordered):output=output[:a]+new+output[b:]
-    mask=lambda s:EN.sub('<English/>',PL.sub('',s))
-    if mask(text)!=mask(output):raise ValueError('Unapproved XML bytes changed')
+    output=replace_spans(text,spans)
+    if protected_xml(text)!=protected_xml(output):raise ValueError('Unapproved XML bytes changed')
+    if COMMENT.findall(text)!=COMMENT.findall(output):raise ValueError('XML comments changed')
     E.fromstring(output.encode('utf-8'))
     return output.encode('utf-8')
 
 def prepare(package,source):
     manifest=json.loads((package/'manifest.json').read_text(encoding='utf-8'))
     install=manifest['installation']
+    for relative,want in install.get('source_guard_files',{}).items():
+        path=source/relative
+        if not path.is_file() or sha(path.read_bytes())!=want:
+            raise ValueError('Unsupported source binary/data checksum: '+relative)
     catalog_bytes=(package/'patches/english-corrections-v0.3.json').read_bytes()
     if sha(catalog_bytes)!=install['catalogue_sha256']:raise ValueError('Correction catalogue checksum differs')
     catalog=json.loads(catalog_bytes)
@@ -147,6 +182,8 @@ def install(package,source,destination,check=False):
     # Prove the source has remained unchanged while creating the copy.
     for filename,want in sources.items():
         if sha((source/'Assets/XML/Text'/filename).read_bytes())!=want:raise ValueError('Source changed concurrently: '+filename)
+    for relative,want in manifest['installation'].get('source_guard_files',{}).items():
+        if sha((source/relative).read_bytes())!=want:raise ValueError('Source changed concurrently: '+relative)
     marker={'project':manifest['project'],'release':manifest['release'],'source':str(source),'files':{name:sha(blob) for name,blob in output.items()},'uninstall':'Remove only this copied mod directory. The source mod was not modified.'}
     (destination/'GREYWOLF_LOCALIZATION.json').write_text(json.dumps(marker,indent=2)+'\n',encoding='utf-8')
     return {'status':'INSTALLED_COPY','files':len(output),'destination':str(destination),'source_unchanged':True}

@@ -1,6 +1,6 @@
 {
   "mod": "Chronicles of Mankind 1.3.3",
-  "release": "v0.3-candidate",
+  "release": "v0.3",
   "polish_tags": 17832,
   "duplicated_source_tags": 160,
   "conflicts_resolved": {
@@ -12,7 +12,7 @@
     "TXT_KEY_CITY_NAME_PAIUTE": "Chronicles_CITIES.xml"
   },
   "sha256": "6c21df085d42a6f432b777a1961b5705c1aa9c8fb65023d520d1f7cbe58a05f6",
-  "windows_native_qa": "not tested for this revision",
+  "windows_native_qa": "Not tested; no claim of native Windows certification",
   "source_release": "com-pl-v0.1.1-native-plPL",
   "editorial_review": {
     "base_version": "v0.1.1",
@@ -43,16 +43,16 @@
   "release_date": "2026-11-07",
   "source_release_role": "editorial_base",
   "project": "CoM-PL",
-  "version_status": "NOT_PUBLISHED",
-  "english_corrections": 7,
-  "english_records": 7,
+  "version_status": "VALIDATED_RELEASE",
+  "english_corrections": 123,
+  "english_records": 18,
   "polish_regression_base": "v0.2",
   "polish_unchanged": true,
   "installation": {
     "method": "copy-supported-mod-and-patch-text-files",
     "source_mod_directory": "Chronicles of Mankind",
     "destination_mod_directory": "Chronicles of Mankind - Greywolf Forge",
-    "catalogue_sha256": "69aa83f09014bfcff37f29c8bd1cf70aca6279c0a6b76338fec092b362f25628",
+    "catalogue_sha256": "e90c2af4fa1a87bab60512a656d1bdb7ad4639ecd8f1e24469e11b623c42016a",
     "source_files": {
       "ACTIONS.xml": {
         "accepted_sha256": [
@@ -520,6 +520,56 @@
       }
     },
     "runtime_overlay_files": false,
-    "python_minimum": "3.10"
+    "python_minimum": "3.10",
+    "source_guard_files": {
+      "Assets/CvGameCoreDLL.dll": "6a6d239dce3d07d6833777976e3a278075833a6d58bcf0d55cd878aba68e19f7"
+    }
+  },
+  "english_review": {
+    "unique_english_tags_reviewed": 25,
+    "fully_read_short_entries": 16,
+    "fully_read_articles": 7,
+    "targeted_article_entries": 2,
+    "corrected_source_records": 18,
+    "confirmed_correction_groups": 123,
+    "replacement_specifications": 187,
+    "literal_occurrences_changed": 201,
+    "categories": {
+      "MECHANICS_ERROR": 53,
+      "FACTUAL_ERROR": 7,
+      "MATH_ERROR": 25,
+      "VERSION_SPECIFIC": 18,
+      "LANGUAGE_ERROR": 20
+    },
+    "editorial_suggestions_deferred": 6,
+    "formatting_exceptions": 3,
+    "scope_note": "Counts refer to this targeted English audit. They do not count Polish review, supporting XML labels or repeat reads as additional English entries. Correction groups can contain several related literal edits."
+  },
+  "english_sha256": "504a1eca8f80005ad9def6b628c9749d870178906369f0e6e698927f5a253067",
+  "validation": {
+    "automated_tests_passed": 70,
+    "automated_tests_total": 70,
+    "english_tests": 24,
+    "immutable_v02_regression_tests": 46,
+    "runtime_english": "PASS",
+    "runtime_polish": "PASS",
+    "final_full_copy_installation": "PASS",
+    "original_mod_unchanged": true,
+    "runtime_output_set_sha256": "867f0f681eb0221eb9520f5a30e53e486927785838eb951d234c57cf97d6ae25",
+    "installer_sha256": "319abfc950fd7baaf60ba441340989cfc1309c03033be91d83d16ad8cf922e42",
+    "qa_report": "docs/QA-v0.3.json",
+    "font_profile": "Polish Wine locale/ACP1250; original theme rendered through Arial fallback; existing custom theme also tested",
+    "native_windows_tested": false,
+    "campaign_turns_save_load_tested": false
+  },
+  "wine_requirements": {
+    "LANG": "pl_PL.UTF-8",
+    "LC_ALL": "pl_PL.UTF-8",
+    "Locale": "00000415",
+    "LocaleName": "pl-PL",
+    "ACP": "1250",
+    "OEMCP": "852",
+    "MACCP": "10029",
+    "fonts": "A font covering Polish Latin glyphs; tested runner supplies Arial/Arial Bold fallback."
   }
 }
