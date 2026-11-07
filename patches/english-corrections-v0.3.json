@@ -1,0 +1,551 @@
+{
+  "schema": 1,
+  "project": "CoM-PL",
+  "mod_version": "1.3.3",
+  "bts_version": "3.19",
+  "status": "REVIEWED_CANDIDATE_NOT_PUBLISHED",
+  "base_public_commit": "ed032a31a061b95df3d851221a7083c20c4cecf6",
+  "base_polish_sha256": "6c21df085d42a6f432b777a1961b5705c1aa9c8fb65023d520d1f7cbe58a05f6",
+  "occurrence_base": 0,
+  "records": [
+    {
+      "source_file": "INTERFACE.xml",
+      "tag": "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER",
+      "occurrence": 0,
+      "source_sha256": "de9411d99179794f873798602cb766c7a34b143c3ddb6b0b1f74005d671b065e",
+      "original_english_sha256": "1b55f547b1943371c3d43953d3a5afc5dd1d1531045eeb1c35177f96db998c5e",
+      "replacements": [
+        {
+          "old": "tt1[f][x][COLOR_REVERT] - Count from x",
+          "new": "tt2[f][x][COLOR_REVERT] - Count from x",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "b71f5d3549d73196a6a9c09e08f317d1538f30fa924262864ceb9984be3dbcb8",
+      "correction_ids": [
+        "naming-counter-tt2"
+      ]
+    },
+    {
+      "source_file": "INTERFACE.xml",
+      "tag": "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER",
+      "occurrence": 0,
+      "source_sha256": "de9411d99179794f873798602cb766c7a34b143c3ddb6b0b1f74005d671b065e",
+      "original_english_sha256": "c43af0df591b3fe4339a6e050ec0fec79bdd1236ae155a2cf2795142db42c139",
+      "replacements": [
+        {
+          "old": "'EXECUTIVES'",
+          "new": "'TRADE'",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "903f984f643cc27cf5ed32805ebb8e7c76cca4c3f9c4ac870a090c503e68c5d1",
+      "correction_ids": [
+        "trade-naming-option"
+      ]
+    },
+    {
+      "source_file": "EVENTS.xml",
+      "tag": "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE",
+      "occurrence": 0,
+      "source_sha256": "12ddd4632954d13a2adb9fdc91c5c0d45ff8b030d445c6c8b16741bc053d16b4",
+      "original_english_sha256": "ad6c4d49f94083d2e8356910b9f516da95242092ddfacd8eea6b4307c1566617",
+      "replacements": [
+        {
+          "old": "quest of Corporate Expansion",
+          "new": "quest of Hostile Takeover",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "bd9d53330e4160ff6bc248ee82859c32b39eeb65a27937235bb914db32d544d4",
+      "correction_ids": [
+        "hostile-takeover-name"
+      ]
+    },
+    {
+      "source_file": "EVENTS.xml",
+      "tag": "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1",
+      "occurrence": 0,
+      "source_sha256": "12ddd4632954d13a2adb9fdc91c5c0d45ff8b030d445c6c8b16741bc053d16b4",
+      "original_english_sha256": "1be4e67ab5bfe137aab93bf53e3dd166e9fc99989f3d4e5a5726a927ac96b77e",
+      "replacements": [
+        {
+          "old": "[COLOR_HIGHLIGHT_TEXT]Vassalage[COLOR_REVERT]",
+          "new": "[COLOR_HIGHLIGHT_TEXT]Nobility[COLOR_REVERT]",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "4024b5e100dc37f189ae437722121188e43a593cb5c7d9eb75eab9c8500e86a7",
+      "correction_ids": [
+        "guns-butter-civic"
+      ]
+    },
+    {
+      "source_file": "EVENTS.xml",
+      "tag": "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP",
+      "occurrence": 0,
+      "source_sha256": "12ddd4632954d13a2adb9fdc91c5c0d45ff8b030d445c6c8b16741bc053d16b4",
+      "original_english_sha256": "9d09e04aecc0b0b517f7c72001ea3085159b53905a345aadb8999958e13da64d",
+      "replacements": [
+        {
+          "old": "[COLOR_NEGATIVE_TEXT]State Property[COLOR_REVERT]",
+          "new": "[COLOR_NEGATIVE_TEXT]Planned[COLOR_REVERT]",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "9f40523ce9fda79a16e515424fad37f00cfce59516a0c3794e2481f3c2e0b969",
+      "correction_ids": [
+        "industrial-action-civic"
+      ]
+    },
+    {
+      "source_file": "MISC.xml",
+      "tag": "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4",
+      "occurrence": 0,
+      "source_sha256": "714c2d660544ef4ffd429fa0b1e9f08c9ee06198a859ab3f800655ab2f34a3fc",
+      "original_english_sha256": "4b90078147c538dd5d42e2ada50fc5c688e2bf32bc2d83c7508c12f8140d92c2",
+      "replacements": [
+        {
+          "old": "+1 oil resource",
+          "new": "+1 Oil Products resource",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "e6f51336972414061f9e1572a215887530b45f58f1b62fa450c36af666a1a3f6",
+      "correction_ids": [
+        "synthetic-fuels-resource"
+      ]
+    },
+    {
+      "source_file": "Chronicles_Improvements.xml",
+      "tag": "TXT_KEY_BUILD_FISHING_TOWN_NO_FERRY",
+      "occurrence": 0,
+      "source_sha256": "b6f69f866e2826295f182df49c1f075bbf9fb6de73209a82e7055dd5e5ee0a43",
+      "original_english_sha256": "12ebbe7d760a39751401d74b14a0bb9fd812e24119f320bb27dcf4267b78dd87",
+      "replacements": [
+        {
+          "old": "(with Ferry)",
+          "new": "(without Ferry)",
+          "expected_count": 1
+        }
+      ],
+      "corrected_english_sha256": "a361327a3edf612d0b1e527eb0627d5783c0585eb08d066ef943fdbf9a4a8776",
+      "correction_ids": [
+        "fishing-town-no-ferry"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "id": "naming-counter-tt2",
+      "source_file": "INTERFACE.xml",
+      "tag": "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER",
+      "occurrence": 0,
+      "category": "MECHANICS_ERROR",
+      "rationale": "The secondary counter is tt2, while tt1 has a range argument [x:y]. The example must use the token accepted by getTotal2 and swapCountCode. This changes the documented code, not the parser.",
+      "evidence": [
+        {
+          "path": "Assets/Python/Contrib/UnitNameEventManager.py",
+          "sha256": "4b9921d6195b379168d0ac83fd851fb7ca3a426ba3c7db2a4060d91102474b13",
+          "selector": "getTotal2; swapCountCode",
+          "excerpt": "getTotal2 finds \"^tt2[\"; swapCountCode(zsName, \"^tt2\", ziTT2)."
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "tt1[f][x][COLOR_REVERT] - Count from x",
+      "new": "tt2[f][x][COLOR_REVERT] - Count from x",
+      "source_sha256": "de9411d99179794f873798602cb766c7a34b143c3ddb6b0b1f74005d671b065e",
+      "reviewer": "Astra /root; independent source and SHA review"
+    },
+    {
+      "id": "trade-naming-option",
+      "source_file": "INTERFACE.xml",
+      "tag": "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER",
+      "occurrence": 0,
+      "category": "FACTUAL_ERROR",
+      "rationale": "The option and UI binding are Combat_TRADE. Combat_EXECUTIVES is a separate setting; copying its name into this tooltip describes the wrong control.",
+      "evidence": [
+        {
+          "path": "Assets/Config/Unit Naming.xml",
+          "sha256": "837731e20c9098d220d7d5b39b73b9307399ee63c4f6fd0d69adaf56952c2939",
+          "selector": "option[@id=\"Combat_TRADE\"] and option[@id=\"Combat_EXECUTIVES\"]"
+        },
+        {
+          "path": "Assets/Python/BUG/Tabs/BugUnitNameOptionsTab.py",
+          "sha256": "e523082be6a9c8403c407b62a1cd36afcf116234a8da280af2399cb0388d1b22",
+          "selector": "create",
+          "excerpt": "self.addTextEdit(screen, columnL, columnR, \"UnitNaming__Combat_TRADE\")"
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "'EXECUTIVES'",
+      "new": "'TRADE'",
+      "source_sha256": "de9411d99179794f873798602cb766c7a34b143c3ddb6b0b1f74005d671b065e",
+      "reviewer": "Astra /root; independent source and SHA review"
+    },
+    {
+      "id": "hostile-takeover-name",
+      "source_file": "EVENTS.xml",
+      "tag": "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE",
+      "occurrence": 0,
+      "category": "FACTUAL_ERROR",
+      "rationale": "EVENTTRIGGER_HOSTILE_TAKEOVER_DONE uses this world-news text after the Hostile Takeover quest. Corporate Expansion is a different quest. Parameters and the rest of the completion message are preserved.",
+      "evidence": [
+        {
+          "path": "Assets/XML/Events/CIV4EventTriggerInfos.xml",
+          "sha256": "7d3a8efaa6115f418a0b15ac203c04c0e86843fd3a5101413b92299dc74f0f26",
+          "selector": "EVENTTRIGGER_HOSTILE_TAKEOVER_DONE/WorldNewsTexts",
+          "excerpt": "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE"
+        },
+        {
+          "path": "Assets/Python/EntryPoints/CvRandomEventInterface.py",
+          "sha256": "383299af2aaf83fdfdd18a14c2dc44a3a67b93e6d15a16b8bc52e41b9b75b8a3",
+          "selector": "canTriggerHostileTakeoverDone",
+          "excerpt": "def canTriggerHostileTakeoverDone(argsList):\n\tkTriggeredData = argsList[0]\n\tplayer = gc.getPlayer(kTriggeredData.ePlayer)\n\ttrigger = gc.getEventTriggerInfo(kTriggeredData.eTrigger)\n\tkOrigTriggeredData = player.getEventOccured(trigger.getPrereqEvent(0))\n\n\tlistResources = getHostileTakeoverListResources(gc.getCorporationInfo(kOrigTriggeredData.eCorporation), player)\n\n\tif len(listResources) > 0:\n\t\treturn False\n\n\tkActualTriggeredDataObject = player.getEventTriggered(kTriggeredData.iId)\n\tkActualTriggeredDataObject.eCorporation = kOrigTriggeredData.eCorporation\n\tkActualTriggeredDataObject.eBuilding = kOrigTriggeredData.eBuilding\n\tkActualTriggeredDataObject.iCityId = kOrigTriggeredData.iCityId\n\tkActualTriggeredDataObject.iPlotX = kOrigTriggeredData.iPlotX\n\tkActualTriggeredDataObject.iPlotY = kOrigTriggeredData.iPlotY\n\n\treturn True"
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "quest of Corporate Expansion",
+      "new": "quest of Hostile Takeover",
+      "source_sha256": "12ddd4632954d13a2adb9fdc91c5c0d45ff8b030d445c6c8b16741bc053d16b4",
+      "reviewer": "Astra /root; independent source and SHA review"
+    },
+    {
+      "id": "guns-butter-civic",
+      "source_file": "EVENTS.xml",
+      "tag": "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1",
+      "occurrence": 0,
+      "category": "MECHANICS_ERROR",
+      "rationale": "canApplyGunsButterDone2 tests CIVIC_ARISTOCRACY. Its Description is TXT_KEY_CIVIC_ARISTOCRACY, whose English label is Nobility in this mod. Vassalage is the old BtS label and names the wrong mod civic.",
+      "evidence": [
+        {
+          "path": "Assets/Python/EntryPoints/CvRandomEventInterface.py",
+          "sha256": "383299af2aaf83fdfdd18a14c2dc44a3a67b93e6d15a16b8bc52e41b9b75b8a3",
+          "selector": "canApplyGunsButterDone2",
+          "excerpt": "def canApplyGunsButterDone2(argsList):\n\tiEvent = argsList[0]\n\tkTriggeredData = argsList[1]\n\tplayer = gc.getPlayer(kTriggeredData.ePlayer)\n\n\tiCivic = gc.getInfoTypeForString(\"CIVIC_ARISTOCRACY\")\n\n\tif not player.isCivic(iCivic):\n\t\treturn False\n\n\treturn True"
+        },
+        {
+          "path": "Assets/XML/GameInfo/CIV4CivicInfos.xml",
+          "sha256": "cefdc5571cec8e1c0242e5923e188b36d384382a5272704a6dbd9dbaff6c9b16",
+          "selector": "CIVIC_ARISTOCRACY/Description",
+          "excerpt": "TXT_KEY_CIVIC_ARISTOCRACY"
+        },
+        {
+          "path": "Assets/XML/Text/CIVICS.xml",
+          "sha256": "32d8080295f9544c721e966f6f4e3cf7c03600c7827d4a53fe0f26cf3e640496",
+          "selector": "TXT_KEY_CIVIC_ARISTOCRACY/English",
+          "excerpt": "Nobility"
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "[COLOR_HIGHLIGHT_TEXT]Vassalage[COLOR_REVERT]",
+      "new": "[COLOR_HIGHLIGHT_TEXT]Nobility[COLOR_REVERT]",
+      "source_sha256": "12ddd4632954d13a2adb9fdc91c5c0d45ff8b030d445c6c8b16741bc053d16b4",
+      "reviewer": "Astra /root; independent source and SHA review"
+    },
+    {
+      "id": "industrial-action-civic",
+      "source_file": "EVENTS.xml",
+      "tag": "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP",
+      "occurrence": 0,
+      "category": "MECHANICS_ERROR",
+      "rationale": "canDoIndustrialAction2 excludes CIVIC_PLANNED. Its Description resolves to the English label Planned. State Property is an obsolete base-game reference. The event condition is unchanged.",
+      "evidence": [
+        {
+          "path": "Assets/Python/EntryPoints/CvRandomEventInterface.py",
+          "sha256": "383299af2aaf83fdfdd18a14c2dc44a3a67b93e6d15a16b8bc52e41b9b75b8a3",
+          "selector": "canDoIndustrialAction2",
+          "excerpt": "def canDoIndustrialAction2(argsList):\n\n\tiEvent = argsList[0]\n\tkTriggeredData = argsList[1]\n\tpPlayer = gc.getPlayer(kTriggeredData.ePlayer)\n\n\tif pPlayer.isCivic(gc.getInfoTypeForString(\"CIVIC_PLANNED\")):\n\t\treturn False\n\n\treturn True"
+        },
+        {
+          "path": "Assets/XML/GameInfo/CIV4CivicInfos.xml",
+          "sha256": "cefdc5571cec8e1c0242e5923e188b36d384382a5272704a6dbd9dbaff6c9b16",
+          "selector": "CIVIC_PLANNED/Description",
+          "excerpt": "TXT_KEY_CIVIC_PLANNED"
+        },
+        {
+          "path": "Assets/XML/Text/CIVICS.xml",
+          "sha256": "32d8080295f9544c721e966f6f4e3cf7c03600c7827d4a53fe0f26cf3e640496",
+          "selector": "TXT_KEY_CIVIC_PLANNED/English",
+          "excerpt": "Planned"
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "[COLOR_NEGATIVE_TEXT]State Property[COLOR_REVERT]",
+      "new": "[COLOR_NEGATIVE_TEXT]Planned[COLOR_REVERT]",
+      "source_sha256": "12ddd4632954d13a2adb9fdc91c5c0d45ff8b030d445c6c8b16741bc053d16b4",
+      "reviewer": "Astra /root; independent source and SHA review"
+    },
+    {
+      "id": "synthetic-fuels-resource",
+      "source_file": "MISC.xml",
+      "tag": "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4",
+      "occurrence": 0,
+      "category": "MECHANICS_ERROR",
+      "rationale": "EVENT_SYNTHETIC_FUELS_4 calls doSyntheticFuels4 and displays this LocalInfoText. The callback grants one BONUS_DIESEL, whose English Description is Oil Products, not Oil.",
+      "evidence": [
+        {
+          "path": "Assets/Python/EntryPoints/CvRandomEventInterface.py",
+          "sha256": "383299af2aaf83fdfdd18a14c2dc44a3a67b93e6d15a16b8bc52e41b9b75b8a3",
+          "selector": "doSyntheticFuels4",
+          "excerpt": "def doSyntheticFuels4(argsList):\n\tiEvent = argsList[0]\n\tkTriggeredData = argsList[1]\n\n\tpPlayer = gc.getPlayer(kTriggeredData.ePlayer)\n\tpCity = pPlayer.getCity(kTriggeredData.iCityId)\n\n\tiBonus = gc.getInfoTypeForString(\"BONUS_DIESEL\")\n\n\tpCity.changeFreeBonus(iBonus, 1)\n\n\treturn 1\n\n\n####### ALTERNATIVE_ENERGY ######"
+        },
+        {
+          "path": "Assets/XML/Events/CIV4EventInfos.xml",
+          "sha256": "6e672ce8f985eb666422a188ab16587b7e24dee7bcc46018c82f473a3342a8ab",
+          "selector": "EVENT_SYNTHETIC_FUELS_4",
+          "excerpt": "PythonCallback=doSyntheticFuels4; LocalInfoText=TXT_KEY_LOCAL_SYNTHETIC_FUELS_4"
+        },
+        {
+          "path": "Assets/XML/Terrain/CIV4BonusInfos.xml",
+          "sha256": "f73c4f5f48415ddf3c0e56dcce7ee3e0191f87b99200aebf8f68e5974ee18ae3",
+          "selector": "BONUS_DIESEL/Description",
+          "excerpt": "TXT_KEY_BONUS_DIESEL"
+        },
+        {
+          "path": "Assets/XML/Text/RESSOURCES.xml",
+          "sha256": "7156ee5a47b1538f14cd5ab9e845bafcfbbf8dfac79598f51c6aaff675a040d8",
+          "selector": "TXT_KEY_BONUS_DIESEL/English",
+          "excerpt": "Oil Products"
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "+1 oil resource",
+      "new": "+1 Oil Products resource",
+      "source_sha256": "714c2d660544ef4ffd429fa0b1e9f08c9ee06198a859ab3f800655ab2f34a3fc",
+      "reviewer": "Astra /root; independent source and SHA review"
+    },
+    {
+      "id": "fishing-town-no-ferry",
+      "source_file": "Chronicles_Improvements.xml",
+      "tag": "TXT_KEY_BUILD_FISHING_TOWN_NO_FERRY",
+      "occurrence": 0,
+      "category": "MECHANICS_ERROR",
+      "rationale": "BUILD_FISHING_TOWN_NO_FERRY creates IMPROVEMENT_FISHING_TOWN with RouteType NONE. The separate BUILD_FISHING_TOWN has RouteType ROUTE_FERRY. The two action labels should distinguish these operations.",
+      "evidence": [
+        {
+          "path": "Assets/XML/Units/CIV4BuildInfos.xml",
+          "sha256": "b7d748f96f5399b9b4c0f76e37655590e1ba7eb2b9cf853d0de9fad19d8b6b31",
+          "selector": "BUILD_FISHING_TOWN_NO_FERRY and BUILD_FISHING_TOWN",
+          "excerpt": "Both create IMPROVEMENT_FISHING_TOWN; NO_FERRY has RouteType NONE; ordinary action has RouteType ROUTE_FERRY."
+        }
+      ],
+      "compatibility": "Applies to this installed mod version; do not replace base BtS civic names globally. Text only; no game data changes.",
+      "old": "(with Ferry)",
+      "new": "(without Ferry)",
+      "source_sha256": "b6f69f866e2826295f182df49c1f075bbf9fb6de73209a82e7055dd5e5ee0a43",
+      "reviewer": "Astra /root; independent source and SHA review"
+    }
+  ],
+  "reviewed_entries": [
+    {
+      "tag": "TXT_KEY_BUG_OPT_UNITNAMING__COMBAT_TRADE_HOVER",
+      "sources": [
+        {
+          "file": "INTERFACE.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "c43af0df591b3fe4339a6e050ec0fec79bdd1236ae155a2cf2795142db42c139"
+    },
+    {
+      "tag": "TXT_KEY_BUG_OPT_UNITNAMING__DEFAULT_HOVER",
+      "sources": [
+        {
+          "file": "INTERFACE.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "1b55f547b1943371c3d43953d3a5afc5dd1d1531045eeb1c35177f96db998c5e"
+    },
+    {
+      "tag": "TXT_KEY_BUILDING_GRANGE",
+      "sources": [
+        {
+          "file": "Chronicles_Buildings.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "a98eb169eb9268e16a80869a67721a40fd9fd6b3379996ce639126fef0ed71ab"
+    },
+    {
+      "tag": "TXT_KEY_BUILDING_GRANGE_STRATEGY",
+      "sources": [
+        {
+          "file": "Chronicles_Buildings.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "6948cddce44db0ba62a5da826c6c6212cfe27b8ce196710e05bee87749987885"
+    },
+    {
+      "tag": "TXT_KEY_BUILD_FISHING_TOWN_NO_FERRY",
+      "sources": [
+        {
+          "file": "Chronicles_Improvements.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "12ebbe7d760a39751401d74b14a0bb9fd812e24119f320bb27dcf4267b78dd87"
+    },
+    {
+      "tag": "TXT_KEY_EVENTTRIGGER_HOSTILE_TAKEOVER_DONE",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "ad6c4d49f94083d2e8356910b9f516da95242092ddfacd8eea6b4307c1566617"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_4_HELP",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "184b3502f9749ee55f7fb7429a9be7443a906989ab34877c52f0f5b2a2c6522e"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_HELP_1",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "2c1971a29089b9b45f0e0cf897f810764b65027f72207aded9a293e61d9476d8"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_EARTHDAY_HELP_2",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "620b34bdc27ab6c052a62b94871e5f35042fe9573fe8e5765b7ad6eb21779ca6"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_ELITE_SWORDS_HELP_1",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "b5d851d85895f2a71a2794dc8e797a63a13364a4d19884d8415f161e5da5909d"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_GUNS_BUTTER_HELP_1",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "1be4e67ab5bfe137aab93bf53e3dd166e9fc99989f3d4e5a5726a927ac96b77e"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_INDUSTRIAL_ACTION_2_HELP",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "9d09e04aecc0b0b517f7c72001ea3085159b53905a345aadb8999958e13da64d"
+    },
+    {
+      "tag": "TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1",
+      "sources": [
+        {
+          "file": "EVENTS.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "59fa79b1b7c9940054b68db4680e61e58d149debd2500cad96c4821a1e868671"
+    },
+    {
+      "tag": "TXT_KEY_FEAT_NATIONAL_WONDER",
+      "sources": [
+        {
+          "file": "MISC.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "0cb9ac857ec4b8a3fafb5ba26e770fc3e00cece85c76d40488a5b6b90f0cfa39"
+    },
+    {
+      "tag": "TXT_KEY_HINT_28",
+      "sources": [
+        {
+          "file": "INTERFACE.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "e1dd92bc97a00dc8f3c7dd65d52de0f2dfd9ebe8d3a9c05442b0d2dcdb6b6494"
+    },
+    {
+      "tag": "TXT_KEY_LOCAL_SYNTHETIC_FUELS_4",
+      "sources": [
+        {
+          "file": "MISC.xml",
+          "occurrence": 0
+        }
+      ],
+      "english_sha256": "4b90078147c538dd5d42e2ada50fc5c688e2bf32bc2d83c7508c12f8140d92c2"
+    }
+  ],
+  "deferred": [
+    {
+      "tag": "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_4_HELP",
+      "status": "FALSE_POSITIVE_AS_DESIGNED",
+      "reason": "CIVIC_ENVIRONMENTALISM is the internal Type, but its Description is TXT_KEY_CIVIC_GREEN and the English label is Green. The English civic name is correct. No English correction proposed."
+    },
+    {
+      "tag": "TXT_KEY_EVENT_EARTHDAY_HELP_2",
+      "status": "FALSE_POSITIVE_AS_DESIGNED",
+      "reason": "CIVIC_ENVIRONMENTALISM is the internal Type, but its Description is TXT_KEY_CIVIC_GREEN and the English label is Green. The English civic name is correct. No English correction proposed."
+    },
+    {
+      "tag": "TXT_KEY_EVENT_ELITE_SWORDS_HELP_1",
+      "status": "FALSE_POSITIVE_AS_DESIGNED",
+      "reason": "CIVIC_HEREDITARY_RULE resolves through Description=TXT_KEY_CIVIC_MONARCHY to English Monarchy in this mod. The internal identifier is not the displayed civic name. No correction proposed for that label."
+    },
+    {
+      "tag": "TXT_KEY_EVENT_ALTERNATIVE_ENERGY_HELP_1",
+      "status": "REQUIRES_FURTHER_AUDIT",
+      "reason": "Green is correct; era-based expiry needs comparison to exact obsolete technologies. Not yet a confirmed correction in this proposal."
+    },
+    {
+      "tag": "TXT_KEY_EVENT_SPORTS_LEAGUE_HELP_1",
+      "status": "REQUIRES_FURTHER_AUDIT",
+      "reason": "Do not generalize from era labels; verify exact obsolete technology mapping before changing expiry wording."
+    },
+    {
+      "tag": "TXT_KEY_FEAT_NATIONAL_WONDER",
+      "status": "REQUIRES_FURTHER_AUDIT",
+      "reason": "Previous evidence superseded the fixed 6/8 approach. Requires active culture-level getter verification, especially CoM."
+    },
+    {
+      "tag": "TXT_KEY_HINT_28",
+      "status": "REQUIRES_FURTHER_AUDIT",
+      "reason": "Previous evidence superseded the fixed 6/8 approach. Requires active culture-level getter verification, especially CoM."
+    },
+    {
+      "tag": "TXT_KEY_BUILDING_GRANGE",
+      "status": "DEFERRED_CONTENT_INTENT",
+      "reason": "Store House label and grange definition disagree, but naming intent cannot be inferred solely from the old ID; do not rewrite the strategy without author intent or unambiguous XML context."
+    },
+    {
+      "tag": "TXT_KEY_BUILDING_GRANGE_STRATEGY",
+      "status": "DEFERRED_CONTENT_INTENT",
+      "reason": "Store House label and grange definition disagree, but naming intent cannot be inferred solely from the old ID; do not rewrite the strategy without author intent or unambiguous XML context."
+    }
+  ],
+  "editorial_suggestions": [],
+  "distribution_decision": "Runtime duplicate Tags are first-wins, file names do not ensure priority. Install only source-bound XML in a separate copy of the mod. Language-only exchange XML is not a runtime overlay."
+}

@@ -1,3 +1,10 @@
+# v0.3 candidate — English corrections
+
+- 7 source-bound English records in the first independently reviewed batch.
+- Exact v0.2 Polish preserved; safe installation into a separate mod copy.
+- English/Polish exchange files moved out of active Assets because duplicate Tags do not merge languages.
+- 19 new tests PASS; final runtime and release gates pending.
+
 # Changelog
 
 ## 0.2 (2026-11-07)
